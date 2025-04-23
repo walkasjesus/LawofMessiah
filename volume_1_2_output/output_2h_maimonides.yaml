@@ -1,0 +1,1500 @@
+- id: K005
+  maimonides:
+  - RN183
+  meir:
+  - MN1
+  chinuch: []
+- id: G005
+  maimonides:
+  - RN64
+  meir: []
+  chinuch: []
+- id: G016
+  maimonides:
+  - RN1
+  meir:
+  - MN8
+  chinuch: []
+- id: N003
+  maimonides:
+  - RP202
+  - RN297
+  - RP206
+  - RP203
+  meir:
+  - MP70
+  - MN82
+  - MP60
+  - MP71
+  chinuch: []
+- id: F001
+  maimonides:
+  - RP210
+  - RN319
+  - RN318
+  - RP211
+  - RP209
+  - RN318
+  meir:
+  - MP41
+  - MN44
+  - MN46
+  - MP42
+  - MP17
+  chinuch: []
+- id: D001
+  maimonides:
+  - RN320
+  - RP154
+  - RN322
+  - RP154
+  - RP41
+  meir:
+  - MN6
+  - MP20
+  chinuch: []
+- id: B004
+  maimonides:
+  - RP195
+  - RN232
+  - RP195
+  meir:
+  - MP38
+  - MN62
+  - MP38
+  - MP38
+  chinuch: []
+- id: D015
+  maimonides:
+  - RP168
+  meir:
+  - MP35
+  chinuch: []
+- id: S005
+  maimonides:
+  - RN337
+  meir:
+  - MN121
+  chinuch: []
+- id: D002
+  maimonides:
+  - RN321
+  meir:
+  - MN7
+  chinuch: []
+- id: I005
+  maimonides:
+  - RN59
+  - RN4
+  - RN51
+  - RN3
+  - RN50
+  - RP17
+  - RP18
+  - RP19
+  - RP20
+  - RP21
+  - RN23
+  - RN11
+  - MN56
+  - MN56
+  meir:
+  - MN144
+  - ML26
+  - MN10
+  - MN20
+  - MP24
+  - MP25
+  - MP26
+  - MN162
+  chinuch: []
+- id: D012
+  maimonides:
+  - RP59
+  - RP47
+  meir:
+  - MP30
+  chinuch: []
+- id: I008
+  maimonides:
+  - RN48
+  - RN52
+  - RN48
+  - RN49
+  meir:
+  - MN19
+  chinuch: []
+- id: H001
+  maimonides:
+  - RP21
+  - RP21
+  meir:
+  - MP18
+  - MP18
+  chinuch: []
+- id: G009
+  maimonides:
+  - RP6
+  - RP6
+  meir:
+  - MP16
+  chinuch: []
+- id: B002
+  maimonides:
+  - RP199
+  - RN240
+  - RP199
+  meir:
+  - MP63
+  - MN61
+  chinuch: []
+- id: I009
+  maimonides:
+  - RN30
+  - RP43
+  - RP44
+  - RN41
+  - RN30
+  - RN12
+  - RN30
+  - RN45
+  - RP39
+  - RP40
+  - RN42
+  - RN30
+  meir:
+  - MN21
+  - MN163
+  - MN161
+  - MN28
+  - MP178
+  - MP179
+  - MN181
+  chinuch: []
+- id: S006
+  maimonides:
+  - RN355
+  - RN100
+  - RN100
+  meir:
+  - MN133
+  chinuch: []
+- id: D011
+  maimonides:
+  - RP156
+  - RP126
+  - RP127
+  - RP128
+  - RP157
+  meir:
+  - MP22
+  - MP24
+  chinuch: []
+- id: D009
+  maimonides:
+  - RP126
+  - RP127
+  - RP128
+  - RP61
+  meir: []
+  chinuch: []
+- id: M006
+  maimonides:
+  - RN243
+  - RP239
+  - RP194
+  - RN244
+  - RP194
+  - RN243
+  - RN246
+  meir:
+  - MN33
+  - MP68
+  - MN30
+  - MN35
+  - MN85
+  chinuch: []
+- id: G015
+  maimonides:
+  - RN60
+  - RN60
+  meir: []
+  chinuch: []
+- id: A009
+  maimonides:
+  - RN62
+  - RN249
+  - RN61
+  meir:
+  - MN29
+  - MP30
+  - MP31
+  chinuch: []
+- id: S003
+  maimonides:
+  - RN347
+  - RN347
+  - RP223
+  meir:
+  - MN124
+  chinuch: []
+- id: I001
+  maimonides:
+  - RN1
+  - RN2
+  - RN5
+  - RN14
+  - RN5
+  - RN7
+  - RN10
+  - RN12
+  - RN10
+  - RN10
+  - RN10
+  - RN13
+  - RN7
+  - RN5
+  - RN6
+  meir:
+  - MN8
+  - MN9
+  - MN11
+  - MN13
+  - MN16
+  - MN161
+  - MN11
+  chinuch: []
+- id: G004
+  maimonides:
+  - RP3
+  meir:
+  - MP3
+  chinuch: []
+- id: A010
+  maimonides:
+  - RP96
+  - RP96
+  - RP97
+  - RP96
+  - RP100
+  - RP101
+  - RP102
+  - RP103
+  - RP110
+  - RP111
+  - RP104
+  - RP109
+  - RP105
+  - RP99
+  - RP106
+  - RN76
+  - RN75
+  - RP31
+  - RP107
+  - RP108
+  - RP31
+  - RP192
+  - RN308
+  meir:
+  - MN193
+  chinuch: []
+- id: A006
+  maimonides:
+  - RN63
+  - RN63
+  - RN28
+  - RN27
+  - RN29
+  meir:
+  - MN155
+  - MN22
+  chinuch: []
+- id: M010
+  maimonides:
+  - RN58
+  - RN58
+  - RP190
+  - RN57
+  - RP192
+  - RN311
+  meir:
+  - MN191
+  chinuch: []
+- id: J003
+  maimonides:
+  - RP236
+  - RP236
+  - RP237
+  - RP237
+  - RP238
+  - RP240
+  - RN245
+  - RN244
+  - RN245
+  - RN238
+  - RN238
+  - RN247
+  - RN248
+  - RN248
+  - RN249
+  - RN249
+  - RN251
+  - RP241
+  - RP242
+  - RP243
+  - RP246
+  - RP244
+  meir:
+  - MN34
+  - MN35
+  - MN38
+  - MN38
+  - MN37
+  - MN36
+  - MN30
+  - MN48
+  chinuch: []
+- id: M005
+  maimonides:
+  - RN289
+  - RP225
+  meir:
+  - MN32
+  chinuch: []
+- id: E007
+  maimonides:
+  - RP171
+  - RP78
+  - RP127
+  - RP128
+  - RP131
+  meir:
+  - ML12
+  - ML14
+  - ML17
+  chinuch: []
+- id: I007
+  maimonides:
+  - RN46
+  - RN28
+  - RN46
+  - RN46
+  meir:
+  - MN22
+  - MN192
+  chinuch: []
+- id: N006
+  maimonides:
+  - RN256
+  meir:
+  - MN51
+  chinuch: []
+- id: N008
+  maimonides:
+  - RP209
+  - RP209
+  meir:
+  - MP17
+  chinuch: []
+- id: M002
+  maimonides:
+  - RP94
+  - RP94
+  meir:
+  - MP39
+  - MP39
+  chinuch: []
+- id: A005
+  maimonides:
+  - RP7
+  - RN249
+  - RN249
+  - RP7
+  - RP7
+  meir:
+  - MN30
+  chinuch: []
+- id: F002
+  maimonides:
+  - RP213
+  - RP38
+  - RN364
+  - RP221
+  - RP218
+  - RN360
+  - RN354
+  - RP213
+  - RP214
+  - RP216
+  - RP217
+  - RP330
+  - RP331
+  - RP332
+  - RP333
+  - RP334
+  - RP335
+  - RP336
+  - RN336
+  - RP158
+  - RP159
+  - RP160
+  meir:
+  - MN136
+  - MN137
+  - MP44
+  - MP45
+  - MP46
+  - MN110
+  - MP138
+  - MP139
+  - MP140
+  chinuch: []
+- id: M009
+  maimonides:
+  - RP265
+  - RP266
+  - RN66
+  - RN265
+  meir:
+  - MP40
+  - MP41
+  - MN41
+  chinuch: []
+- id: D019
+  maimonides:
+  - RP140
+  - RP140
+  - RP140
+  - RP137
+  - RP136
+  - RP137
+  - RP224
+  - RP225
+  - RP226
+  - RP136
+  - RN227
+  - RP138
+  - RP139
+  meir: []
+  chinuch: []
+- id: F003
+  maimonides:
+  - RP213
+  - RP213
+  - RP213
+  - RP213
+  - RP222
+  - RP219
+  - RP218
+  - RN356
+  meir:
+  - MN134
+  chinuch: []
+- id: D010
+  maimonides:
+  - RP126
+  - RP127
+  - RP128
+  meir: []
+  chinuch: []
+- id: I004
+  maimonides:
+  - RN15
+  - RN15
+  meir:
+  - MN14
+  - MN23
+  chinuch: []
+- id: F004
+  maimonides:
+  - RN262
+  meir:
+  - MN42
+  chinuch: []
+- id: B003
+  maimonides:
+  - RP201
+  meir:
+  - MP65
+  chinuch: []
+- id: N016
+  maimonides:
+  - RP206
+  meir:
+  - MP60
+  chinuch: []
+- id: D007
+  maimonides:
+  - RN198
+  - RP126
+  - RP127
+  - RP128
+  - RN197
+  - RN199
+  meir:
+  - MN5
+  - MN4
+  - MN104
+  chinuch: []
+- id: C004
+  maimonides:
+  - RN234
+  - RP199
+  - RP142
+  - RN231
+  - RP198
+  - RN242
+  - RP199
+  - RN241
+  meir:
+  - MN52
+  - MN61
+  - MN56
+  - MN58
+  - MN59
+  - MN60
+  chinuch: []
+- id: G002
+  maimonides:
+  - RP14
+  - RP12
+  - RP13
+  - RP6
+  - RP13
+  - RP6
+  meir:
+  - MP10
+  - MP8
+  - MP9
+  - MP16
+  - MP12
+  chinuch: []
+- id: N002
+  maimonides:
+  - RN285
+  - RN318
+  - RN252
+  - RN315
+  - RN249
+  - RN249
+  - RN299
+  - RN301
+  - RN303
+  - RN252
+  - RN318
+  - RN251
+  - RN285
+  - RN285
+  - RP219
+  meir:
+  - MN39
+  - MN46
+  - MN49
+  - MN63
+  - MN30
+  - MN45
+  - MN77
+  - MN79
+  - MN48
+  chinuch: []
+- id: D008
+  maimonides:
+  - RP56
+  - RP158
+  - RP126
+  - RP127
+  - RP128
+  - RP61
+  - RP43
+  - RP61
+  meir:
+  - MP23
+  chinuch: []
+- id: G011
+  maimonides:
+  - RP19
+  meir:
+  - MP13
+  chinuch: []
+- id: G008
+  maimonides:
+  - RP5
+  - RP5
+  - RP5
+  meir:
+  - MP7
+  - MP7
+  chinuch: []
+- id: A001
+  maimonides:
+  - RN215
+  - RN158
+  - RN52
+  - RN216
+  - RN218
+  - RN42
+  meir:
+  - MN107
+  - MN138
+  - MN19
+  - MN180
+  - MN181
+  chinuch: []
+- id: H003
+  maimonides:
+  - RN65
+  - RN57
+  meir:
+  - MN157
+  - MN191
+  chinuch: []
+- id: G001
+  maimonides:
+  - RP1
+  meir:
+  - MP1
+  chinuch: []
+- id: D020
+  maimonides:
+  - RP153
+  - RP153
+  - RP153
+  - RP15
+  - RP42
+  - RP153
+  meir: []
+  chinuch: []
+- id: G006
+  maimonides:
+  - RP4
+  - RP4
+  - RP4
+  - RP4
+  meir:
+  - MP4
+  - MP4
+  chinuch: []
+- id: I002
+  maimonides:
+  - RN8
+  - RN9
+  - RP31
+  - RP32
+  - RP33
+  - RP34
+  - RP35
+  - RP36
+  - RP37
+  - RP38
+  meir:
+  - MN165
+  - MN170
+  chinuch: []
+- id: E003
+  maimonides:
+  - RP79
+  - RP81
+  - RP80
+  - RP79
+  meir:
+  - MP53
+  - MP55
+  - MP54
+  chinuch: []
+- id: B006
+  maimonides:
+  - RP120
+  - RP121
+  - RP122
+  meir:
+  - ML1
+  - ML6
+  - ML5
+  chinuch: []
+- id: K004
+  maimonides:
+  - RN184
+  meir:
+  - MN89
+  chinuch: []
+- id: S007
+  maimonides:
+  - RN348
+  meir:
+  - MN117
+  chinuch: []
+- id: R001
+  maimonides:
+  - RP172
+  meir: []
+  chinuch: []
+- id: D014
+  maimonides:
+  - RP50
+  - RP51
+  - RP45
+  - RP50
+  - RP51
+  - RP54
+  meir:
+  - MP21
+  chinuch: []
+- id: C001
+  maimonides:
+  - RN253
+  - RN248
+  - RN248
+  - RN247
+  - RN271
+  - RP208
+  - RP245
+  - RN272
+  - RN272
+  meir:
+  - MN50
+  - MN30
+  - MN37
+  - MN83
+  - MN47
+  - MN84
+  chinuch: []
+- id: G007
+  maimonides:
+  - RN60
+  - RN63
+  - RN63
+  - RP9
+  - RN60
+  meir:
+  - MP5
+  chinuch: []
+- id: E004
+  maimonides:
+  - RP215
+  - RP54
+  - RP55
+  meir:
+  - MP47
+  - MP47
+  chinuch: []
+- id: I003
+  maimonides:
+  - RN194
+  - RN194
+  - RN22
+  - RN25
+  - RN24
+  - RN194
+  meir:
+  - MN15
+  - MN15
+  - MN17
+  - MN18
+  - MN18
+  chinuch: []
+- id: A002
+  maimonides:
+  - RP8
+  - RP8
+  - RP8
+  meir:
+  - MP6
+  chinuch: []
+- id: N009
+  maimonides:
+  - RP247
+  meir: []
+  chinuch: []
+- id: B001
+  maimonides:
+  - RP197
+  - RN299
+  - RP195
+  - RN235
+  - RN232
+  - RP197
+  - RN231
+  - RN236
+  - RP198
+  - RP142
+  meir:
+  - MN53
+  - MN76
+  - MP38
+  - MN54
+  - MN62
+  - MP38
+  - MN56
+  - MN55
+  - MN55
+  chinuch: []
+- id: C003
+  maimonides:
+  - RP141
+  - RP142
+  - RN231
+  meir:
+  - MN57
+  - MN56
+  chinuch: []
+- id: G012
+  maimonides:
+  - RP134
+  - RP135
+  - RP135
+  - RP220
+  - RP221
+  - RP134
+  - RN230
+  - RP141
+  - RP142
+  - RN231
+  - RP140
+  - RP140
+  - RP140
+  - RP137
+  - RP136
+  - RP137
+  - RP224
+  - RP225
+  - RP226
+  - RP136
+  - RN227
+  - RP138
+  - RP139
+  - RP159
+  - RP155
+  - RP154
+  - RP165
+  - RP154
+  - RP159
+  - RP160
+  - RP162
+  - RP163
+  - RP166
+  - RP167
+  meir:
+  - ML20
+  - ML21
+  - MP22
+  - MP23
+  - MP24
+  - MP25
+  - MN57
+  - MN56
+  - MP25
+  - MP19
+  - MP20
+  - MP25
+  - MP27
+  - MP28
+  - MP29
+  - MP31
+  - MP34
+  - MP37
+  chinuch: []
+- id: J002
+  maimonides:
+  - RP174
+  - RP175
+  - RN315
+  - RP313
+  - RP314
+  - RN274
+  - RN274
+  - RN277
+  - RN278
+  - RP177
+  - RN281
+  - RN276
+  - RN279
+  - RN279
+  - RN280
+  - RP176
+  - RN276
+  - RP176
+  - RN292
+  - RN288
+  - RP179
+  - RN285
+  - RN282
+  - RN285
+  - RP180
+  - RP178
+  - RN300
+  - RN294
+  - RN290
+  - RN287
+  - RP295
+  - RP296
+  meir:
+  - MN158
+  - MN63
+  - MP159
+  - MP160
+  - MN71
+  - MN66
+  - MN67
+  - MP68
+  - MP69
+  - MP70
+  - MN65
+  - MN72
+  - MN68
+  - MN72
+  - MN73
+  - MN39
+  - MN75
+  - MN39
+  - MN39
+  - MN43
+  - MN74
+  chinuch: []
+- id: H007
+  maimonides:
+  - RN361
+  meir:
+  - MN143
+  chinuch: []
+- id: J004
+  maimonides:
+  - RP248
+  - RP248
+  - RP244
+  meir:
+  - MP73
+  chinuch: []
+- id: A008
+  maimonides:
+  - RN276
+  - RN58
+  - RN58
+  meir:
+  - MN72
+  chinuch: []
+- id: N007
+  maimonides:
+  - RP184
+  meir:
+  - MP75
+  chinuch: []
+- id: W001
+  maimonides:
+  - RP10
+  - RP11
+  - RP10
+  - RP11
+  - RP11
+  meir:
+  - MP14
+  - MP11
+  - MP11
+  chinuch: []
+- id: M003
+  maimonides:
+  - RN285
+  - RP178
+  - RN249
+  - RN249
+  - RN299
+  - RN271
+  - RN285
+  - RN27
+  - RN246
+  - RP180
+  - RN272
+  meir:
+  - MN39
+  - MN30
+  - MN76
+  - MN83
+  - MN175
+  - MN85
+  - MN84
+  chinuch: []
+- id: K001
+  maimonides:
+  - RP149
+  - RN172
+  - RP152
+  - RP152
+  - RN174
+  - RP150
+  - RP151
+  - RN176
+  - RN178
+  - RN179
+  - RN177
+  - RN175
+  meir:
+  - MN93
+  - MN95
+  - MN94
+  - MN97
+  - MN98
+  - MN99
+  - MN100
+  - MN96
+  chinuch: []
+- id: D017
+  maimonides:
+  - RP16
+  meir: []
+  chinuch: []
+- id: P002
+  maimonides:
+  - RP26
+  meir:
+  - MP58
+  chinuch: []
+- id: A007
+  maimonides:
+  - RP69
+  - RP164
+  - RP73
+  - RP73
+  meir:
+  - MP32
+  - MP33
+  chinuch: []
+- id: K006
+  maimonides:
+  - RN182
+  - RN181
+  - RP147
+  - RN101
+  - RP146
+  - RN182
+  - RN180
+  meir:
+  - MN87
+  - MP49
+  - MN108
+  - MP48
+  - MN90
+  - MN86
+  chinuch: []
+- id: A011
+  maimonides:
+  - RN73
+  meir: []
+  chinuch: []
+- id: M004
+  maimonides:
+  - RP204
+  - RP204
+  - RN269
+  meir:
+  - MP69
+  - MN182
+  chinuch: []
+- id: S001
+  maimonides:
+  - RN351
+  - RN352
+  - RN350
+  - RN350
+  meir:
+  - MN111
+  - MN114
+  - MN116
+  chinuch: []
+- id: A004
+  maimonides:
+  - RP202
+  - RP203
+  - RP204
+  - RP205
+  - RP206
+  - RP207
+  - RP208
+  - RP209
+  - RP94
+  - RP94
+  meir:
+  - MP39
+  - MP39
+  chinuch: []
+- id: S008
+  maimonides:
+  - RN346
+  meir:
+  - MN132
+  chinuch: []
+- id: H005
+  maimonides:
+  - RN90
+  - RP89
+  - RP90
+  meir: []
+  chinuch: []
+- id: S004
+  maimonides:
+  - RN355
+  - RN355
+  - RN355
+  - RN355
+  meir:
+  - MN133
+  chinuch: []
+- id: M007
+  maimonides:
+  - RP135
+  meir:
+  - ML21
+  - MP56
+  - MP57
+  chinuch: []
+- id: E001
+  maimonides:
+  - RP11
+  - RP11
+  - RP17
+  meir:
+  - MP14
+  - MP8
+  - MP12
+  chinuch: []
+- id: P007
+  maimonides:
+  - RP37
+  - RN166
+  meir:
+  - MP59
+  - MN141
+  chinuch: []
+- id: D018
+  maimonides:
+  - RP134
+  - RP135
+  - RP135
+  - RP220
+  - RP221
+  - RP134
+  - RN230
+  - RP141
+  - RP142
+  - RN231
+  meir:
+  - ML20
+  - ML21
+  - MP22
+  - MP23
+  - MP24
+  - MP25
+  - MN57
+  - MN56
+  chinuch: []
+- id: D005
+  maimonides:
+  - RP46
+  - RP161
+  meir:
+  - MP26
+  chinuch: []
+- id: K002
+  maimonides:
+  - RN186
+  - RN187
+  meir:
+  - MN91
+  - MN92
+  chinuch: []
+- id: E002
+  maimonides:
+  - RP215
+  - RN126
+  meir:
+  - MP47
+  - MP47
+  chinuch: []
+- id: P004
+  maimonides:
+  - RN68
+  meir: []
+  chinuch: []
+- id: P006
+  maimonides:
+  - RN76
+  - RN75
+  - RN75
+  meir: []
+  chinuch: []
+- id: N010
+  maimonides:
+  - RN243
+  - RN243
+  - RN243
+  meir:
+  - MN33
+  chinuch: []
+- id: S002
+  maimonides:
+  - RN353
+  - RN330
+  - RN336
+  meir:
+  - MN110
+  chinuch: []
+- id: H002
+  maimonides:
+  - RN163
+  - RN215
+  - RP43
+  - RP44
+  - RN41
+  - RN171
+  - RN361
+  - RN45
+  - RN39
+  - RN42
+  meir:
+  - MN107
+  - MP176
+  - MP177
+  - MN163
+  - MN143
+  - MN28
+  - MN178
+  - MN181
+  chinuch: []
+- id: D006
+  maimonides:
+  - RP156
+  - RN201
+  - RP126
+  - RP127
+  - RP128
+  - RN200
+  meir:
+  - MP22
+  - MN3
+  - MN2
+  chinuch: []
+- id: B005
+  maimonides:
+  - RP120
+  - RP121
+  - RN212
+  meir:
+  - MP1
+  - MP2
+  - MP3
+  - MP4
+  - ML6
+  chinuch: []
+- id: E006
+  maimonides:
+  - RP12
+  - RP13
+  - RP14
+  - RP11
+  - RP11
+  meir:
+  - MP9
+  - MP10
+  - MP14
+  - MP8
+  - MP12
+  chinuch: []
+- id: E005
+  maimonides:
+  - RN54
+  meir: []
+  chinuch: []
+- id: N005
+  maimonides:
+  - RP205
+  - RP205
+  meir:
+  - MP72
+  chinuch: []
+- id: C002
+  maimonides:
+  - RN238
+  - RP200
+  meir:
+  - MN38
+  - MP66
+  chinuch: []
+- id: D016
+  maimonides:
+  - RP169
+  meir:
+  - MP36
+  chinuch: []
+- id: P005
+  maimonides:
+  - RP158
+  - RP159
+  - RP160
+  - RP32
+  meir:
+  - MP138
+  - MP139
+  - MP140
+  - MP50
+  chinuch: []
+- id: D004
+  maimonides:
+  - RP159
+  - RP52
+  - RP159
+  - RP53
+  - RN324
+  - RP52
+  - RP160
+  - RP53
+  - RP52
+  - RP162
+  - RP53
+  - RP163
+  - RP49
+  - RN329
+  - RP52
+  - RP166
+  - RP53
+  - RP52
+  - RP167
+  - RP53
+  meir:
+  - MP25
+  - MP25
+  - MP27
+  - MP28
+  - MP29
+  - MP31
+  - MP34
+  - MP37
+  chinuch: []
+- id: D003
+  maimonides:
+  - RP155
+  meir:
+  - MP19
+  chinuch: []
+- id: M008
+  maimonides:
+  - RN320
+  - RP202
+  - RP134
+  - RN186
+  - RN187
+  - RN101
+  - RN270
+  - RN306
+  - RP148
+  - RN218
+  - RN219
+  meir:
+  - MN6
+  - MP70
+  - ML20
+  - MP20
+  - MN91
+  - MN92
+  - MN108
+  - MN183
+  - MN189
+  - MP74
+  - MN180
+  - MN188
+  chinuch: []
+- id: K003
+  maimonides:
+  - RN185
+  meir:
+  - MN88
+  chinuch: []
+- id: D013
+  maimonides:
+  - RP64
+  - RP49
+  - RP61
+  - RN196
+  - RP61
+  - RP48
+  meir:
+  - MP32
+  chinuch: []
+- id: H006
+  maimonides:
+  - RN365
+  meir: []
+  chinuch: []
+- id: I006
+  maimonides:
+  - RP185
+  - RP185
+  - RP186
+  - RN58
+  - RN58
+  - RP187
+  - RP188
+  - RP189
+  meir:
+  - MP76
+  - MP77
+  chinuch: []
+- id: G003
+  maimonides:
+  - RP2
+  meir:
+  - MP2
+  chinuch: []
+- id: G013
+  maimonides:
+  - RP202
+  - RP203
+  - RP204
+  - RP205
+  - RP206
+  - RP92
+  - RP93
+  - RP93
+  - RP93
+  meir: []
+  chinuch: []
+- id: W002
+  maimonides:
+  - RP13
+  - RP13
+  - RP14
+  - RP12
+  - RP13
+  - RP13
+  meir:
+  - MP8
+  - MP8
+  - MP10
+  - MP8
+  - MP9
+  - MP12
+  chinuch: []
+- id: E008
+  maimonides:
+  - RP212
+  - RN262
+  meir:
+  - MP43
+  - MN42
+  chinuch: []
+- id: N001
+  maimonides:
+  - RP202
+  - RP206
+  - RP207
+  - RP203
+  meir:
+  - MP69
+  - MP61
+  - MP60
+  - MP61
+  - MP69
+  chinuch: []
+- id: P003
+  maimonides:
+  - RP32
+  meir:
+  - MP50
+  chinuch: []

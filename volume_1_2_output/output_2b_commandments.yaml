@@ -1,0 +1,546 @@
+- id: K005
+  commandment: It is halachically prescribed that we do not eat the sinew of an animal's thigh.
+  commandment_type: Negative
+- id: G005
+  commandment: We are not to test God's promises and warnings.
+  commandment_type: Negative
+- id: G019
+  commandment: We are to pray in faith, and have faith for the things for which we pray.
+  commandment_type: Positive
+- id: G016
+  commandment: We are to put God first in our priorities.
+  commandment_type: Positive
+- id: A019
+  commandment: We are not to forsake congregational assembly & fellowship with brother believers.
+  commandment_type: Negative
+- id: M001
+  commandment: We are to pursue righteousness, i.e. determining what is right and doing it.
+  commandment_type: Positive
+- id: N003
+  commandment: We are to help our neighbor who is in need.
+  commandment_type: Positive
+- id: F001
+  commandment: We are to honor and revere our father and mother.
+  commandment_type: Positive
+- id: D001
+  commandment: We are to rest, refrain from work, and conduct a holy convocation on the weekly Sabbath.
+  commandment_type: Positive
+- id: O002
+  commandment: We are to acknowledge & appropriately utilize our spiritual authority to "bind" & "loose".
+  commandment_type: Positive
+- id: B004
+  commandment: We are to give tz'dakah to the poor among us.
+  commandment_type: Positive
+- id: D015
+  commandment: We are to live in a sukkah during the seven days of Sukkot.
+  commandment_type: Positive
+- id: A024
+  commandment: We are to give as much attention to being clean of spirit as to being clean of body.
+  commandment_type: Positive
+- id: G014
+  commandment: We are to know that God exists and Who God is by observing His creation.
+  commandment_type: Positive
+- id: S005
+  commandment: We are not to engage in sexual intimacy with a person and also with a close member of that person's family.
+  commandment_type: Negative
+- id: D002
+  commandment: We are not to leave our homes with the intention of doing work on the Sabbath.
+  commandment_type: Negative
+- id: P001
+  commandment: The Jewish people (Israel) are to embrace being a kingdom of priests in order to bring blessing to the Gentile nations of the world. Jews & Gentiles both are called to join in a New Covenant "Priesthood of Believers" that consists of all disciples of Yeshua, and that is connected to the first priesthood - the priesthood of Israel.
+  commandment_type: Positive
+- id: A018
+  commandment: We are to be good stewards of our spiritual gifts, using them according to the grace given us.
+  commandment_type: Positive
+- id: F005
+  commandment: We are to care for and not mistreat children.
+  commandment_type: Negative
+- id: O004
+  commandment: We are to go to the whole world with the "Great Commission" proclaimed by Yeshua, in the power of the Holy Spirit - first to the Jew and then to the Gentile.
+  commandment_type: Positive
+- id: A017
+  commandment: We are to walk in humility and eschew pride.
+  commandment_type: Positive
+- id: O001
+  commandment: We are to be salt for the earth and a light for the world.
+  commandment_type: Positive
+- id: I005
+  commandment: We are not to enable others to idolatry.
+  commandment_type: Negative
+- id: D012
+  commandment: We are to blow the shofar on the first day of the seventh month, on the other appointed days, on Rosh Chodesh, in the Jubilee, on days of rejoicing, & as an alarm in war.
+  commandment_type: Positive
+- id: I008
+  commandment: We are not to enter into covenants with idolaters and unbelievers.
+  commandment_type: Negative
+- id: H001
+  commandment: We are to have reverence for God's sanctuary.
+  commandment_type: Positive
+- id: G009
+  commandment: We are to cling to God.
+  commandment_type: Positive
+- id: B002
+  commandment: We are to return an item we are holding in pledge when the owner is in need of it.
+  commandment_type: Positive
+- id: J005
+  commandment: We are to appoint elders in our communities to lead, pray, judge, teach, & make halachah.
+  commandment_type: Positive
+- id: I009
+  commandment: We are not to adopt the customs and practices of heathens.
+  commandment_type: Negative
+- id: S006
+  commandment: We are not to participate in prostitution of any kind.
+  commandment_type: Negative
+- id: D011
+  commandment: On the evening of Passover, we are to ceremonially tell our children that we eat matzah and remove leaven and chametz from our domain as a reminder of what God did for us when we left Egypt.
+  commandment_type: Positive
+- id: D009
+  commandment: Anyone who cannot observe Passover on the 14 day of Nisan must make every attempt to do so by eating matzah and maror the following month on the 14 th day of Iyar.
+  commandment_type: Negative
+- id: M006
+  commandment: We are not to steal or commit robbery.
+  commandment_type: Negative
+- id: R003
+  commandment: We are not to oppose or come against the Holy Spirit.
+  commandment_type: Negative
+- id: G015
+  commandment: We are not to blaspheme God; instead we are to receive Him via Messiah & the Holy Spirit.
+  commandment_type: Negative
+- id: A009
+  commandment: We are not to swear to that which we know is not true.
+  commandment_type: Negative
+- id: S003
+  commandment: We are not to commit adultery.
+  commandment_type: Negative
+- id: I001
+  commandment: We are not to practice idolatry.
+  commandment_type: Negative
+- id: G004
+  commandment: We are to love God with all of our heart, soul, strength, and mind.
+  commandment_type: Positive
+- id: A010
+  commandment: We are to guard our physical & spiritual health, and be separate from the heathen nations through ritual purifications & cleanness.
+  commandment_type: Positive
+- id: A006
+  commandment: We are not to use God's Name lightly or falsely.
+  commandment_type: Negative
+- id: M010
+  commandment: We are to consider the biblical principles of war and apply them where possible.
+  commandment_type: Positive
+- id: J003
+  commandment: We are not to injure or cause damages but, should we do so, we must make restitution and pay penalties prescribed by law.
+  commandment_type: Negative
+- id: M005
+  commandment: We are not to commit murder or other unjustifiable homicide.
+  commandment_type: Negative
+- id: E007
+  commandment: We are to support the Lord's work among men through our tithes, offerings, & charitable giving.
+  commandment_type: Positive
+- id: I007
+  commandment: We are not to listen to those who would lead us toward idolatry.
+  commandment_type: Negative
+- id: N006
+  commandment: We are not to exploit a neighbor's weakness to gain advantage, but are rather to help him to overcome.
+  commandment_type: Negative
+- id: N008
+  commandment: We are to give respect and honor to persons of advanced age.
+  commandment_type: Positive
+- id: A020
+  commandment: We are to live by God's Words & Not by Bread Alone.
+  commandment_type: Negative
+- id: M002
+  commandment: We are to keep our promises.
+  commandment_type: Positive
+- id: A005
+  commandment: We are to swear oaths only in God's name.
+  commandment_type: Positive
+- id: F002
+  commandment: We are to obey the biblical laws concerning marriage.
+  commandment_type: Positive
+- id: M009
+  commandment: We are not to covet or plan to acquire another's property.
+  commandment_type: Negative
+- id: D019
+  commandment: We are to rest our land, and return it to its prior owner in the Jubilee Year.
+  commandment_type: Positive
+- id: F003
+  commandment: We are to obey the biblical law concerning divorce and remarriage.
+  commandment_type: Positive
+- id: A014
+  commandment: We are to aspire to God's perfection & holiness.
+  commandment_type: Positive
+- id: A016
+  commandment: We are not to seek men's approval over God's.
+  commandment_type: Negative
+- id: D010
+  commandment: We are to observe the Feast of Unleavened Bread by eating matzah on each of its seven days.
+  commandment_type: Positive
+- id: I004
+  commandment: We are not to entice others to idolatry.
+  commandment_type: Negative
+- id: F004
+  commandment: We are forbidden to afflict our wife by withholding food, clothing, or marital rights.
+  commandment_type: Positive
+- id: B003
+  commandment: We may eat of crops with which we work, but not take any of it away, nor take to excess. If we lack a basic human need and our work involves providing it to others, we may partake of the product or service of our labor within the limits of survival but not of luxury.
+  commandment_type: Negative
+- id: G020
+  commandment: We are to know God & who He Is.
+  commandment_type: Positive
+- id: J001
+  commandment: We are to apply the Mosaic Law in a manner that is consistent with New Covenant realities.
+  commandment_type: Positive
+- id: N016
+  commandment: We are not to hold onto anger toward our neighbor.
+  commandment_type: Negative
+- id: D007
+  commandment: We are not to eat chametz from Passover through the seventh day of the Feast of Unleavened Bread.
+  commandment_type: Negative
+- id: L003
+  commandment: We are not to exclude Gentiles from being part of the Jewish Community.
+  commandment_type: Negative
+- id: C004
+  commandment: We are not to deal harshly when lending or while collecting debts.
+  commandment_type: Negative
+- id: G002
+  commandment: We are to acknowledge and never deny our belief in God and in Yeshua the Messiah.
+  commandment_type: Positive
+- id: Y002
+  commandment: We are to abide in (stay united with) Yeshua in order to bear fruit.
+  commandment_type: Positive
+- id: N002
+  commandment: We are not to wrong one another through our speech.
+  commandment_type: Negative
+- id: D008
+  commandment: We are to eat matzah, bitter herbs, and lamb on Passover.
+  commandment_type: Positive
+- id: G011
+  commandment: We are to be thankful to God and bless Him in all things.
+  commandment_type: Positive
+- id: G008
+  commandment: We are to serve, worship, praise, & pray to God.
+  commandment_type: Positive
+- id: A001
+  commandment: We are not to be unequally yoked in matters of godly importance.
+  commandment_type: Negative
+- id: H003
+  commandment: We are to preserve and not destroy things that belong to God and that are holy.
+  commandment_type: Negative
+- id: Y006
+  commandment: We are to follow Yeshua and put him before all else.
+  commandment_type: Positive
+- id: L001
+  commandment: We are to receive, hold, and occupy the Land of Israel.
+  commandment_type: Positive
+- id: G001
+  commandment: We are to believe in the God of Abraham, Isaac, and Jacob.
+  commandment_type: Positive
+- id: D020
+  commandment: We are to determine the occurrence of every new moon.
+  commandment_type: Positive
+- id: G006
+  commandment: We are to reverently and lovingly fear God.
+  commandment_type: Positive
+- id: N018
+  commandment: We are to be compassionate and merciful toward our neighbor.
+  commandment_type: Positive
+- id: A012
+  commandment: We are to be born again from above.
+  commandment_type: Positive
+- id: I002
+  commandment: We are not to pursue, engage in, or utilize anything that is occult.
+  commandment_type: Negative
+- id: E003
+  commandment: We are to first sanctify and then ceremonially redeem our firstborn son from priestly service.
+  commandment_type: Positive
+- id: B006
+  commandment: (a) The gleanings and part of every harvest & vintage must be left for the poor & disadvantaged.
+  commandment_type: Positive
+- id: K004
+  commandment: We are not to eat blood or anything with the blood still in it.
+  commandment_type: Negative
+- id: S007
+  commandment: We are not to have sexual contact of any kind with an animal.
+  commandment_type: Negative
+- id: R001
+  commandment: We are to listen to & heed God's voice.
+  commandment_type: Positive
+- id: D014
+  commandment: We are to rejoice at the festivals of Shavuot, Sukkot & Sh'mini Atzeret.
+  commandment_type: Positive
+- id: C001
+  commandment: We are to deal fairly and honestly in business.
+  commandment_type: Positive
+- id: G007
+  commandment: We are to treat God as holy by proclaiming Him holy, by being holy and by not profaning His Name.
+  commandment_type: Negative
+- id: E004
+  commandment: We are to be a kingdom of priests, a holy nation, proclaimers of the Good News, and a light to the Gentiles.
+  commandment_type: Positive
+- id: S009
+  commandment: We are not to have give ourselves to unlawful sexual desires.
+  commandment_type: Negative
+- id: I003
+  commandment: We are not to derive any benefit from idolatry.
+  commandment_type: Negative
+- id: A002
+  commandment: We are to walk in God's ways and adopt them as our own.
+  commandment_type: Positive
+- id: A021
+  commandment: We are to flee from love of money and are to pursue Godly Virtues.
+  commandment_type: Positive
+- id: H004
+  commandment: We are to use our speech, minds, hearts and actions for that which is good and holy.
+  commandment_type: Positive
+- id: N009
+  commandment: We are duty-bound to help a person who needs rescue provided it is reasonably within our ability to do so.
+  commandment_type: Positive
+- id: B001
+  commandment: We are to lend money to our brother, sufficient for his need and without regard for the Sabbatical Year. In such a loan, interest must not be charged nor given, and brothers are to take no part whatsoever in interest-bearing loans involving other brothers.
+  commandment_type: Negative
+- id: C003
+  commandment: We are to cancel all loans (that were made to brothers) in the Sabbatical Year, and we are not to refuse giving a loan to a poor brother due] to the Sabbatical Year being near.
+  commandment_type: Negative
+- id: A003
+  commandment: We are to be good stewards of the things and matters that are entrusted to us.
+  commandment_type: Positive
+- id: A022
+  commandment: We are not to allow worldly attractions to ensnare us.
+  commandment_type: Negative
+- id: Z001
+  commandment: We are not to be beguiled by end-time false prophets & Messiahs.
+  commandment_type: Negative
+- id: G012
+  commandment: We are to have faith in God & trust Him for all things - for our protection, for those we love, for our worldly needs, and for our very lives.
+  commandment_type: Positive
+- id: J002
+  commandment: We are to administer justice both in and out of our courts.
+  commandment_type: Positive
+- id: H007
+  commandment: We are not to castrate a male human being other than for medical necessity.
+  commandment_type: Negative
+- id: J004
+  commandment: We are to receive inheritance according to established law and to that which is approved by God.
+  commandment_type: Positive
+- id: A008
+  commandment: We are not to fear, worry or be anxious, but rather put our trust in God.
+  commandment_type: Negative
+- id: N007
+  commandment: We are to take reasonable steps to keep ourselves and others safe in areas that are under our control.
+  commandment_type: Positive
+- id: W001
+  commandment: We are to study, listen to and teach Torah and Torah-obedience.
+  commandment_type: Positive
+- id: Y003
+  commandment: We are to trust in Yeshua and believe that He is our Messiah sent by God.
+  commandment_type: Positive
+- id: M003
+  commandment: We are to tell the truth and not lie.
+  commandment_type: Negative
+- id: G018
+  commandment: We are to be patient and wait for God to act.
+  commandment_type: Positive
+- id: A013
+  commandment: We are to pursue being pure in heart.
+  commandment_type: Positive
+- id: A015
+  commandment: We are not to do religious things in order to be seen.
+  commandment_type: Negative
+- id: K001
+  commandment: We are to examine creatures for signs of their eatability, and are not to eat those that are forbidden to us.
+  commandment_type: Negative
+- id: O005
+  commandment: We are not to cast demons out of persons who, through their lack of faith or repentance, are unable to maintain the deliverance.
+  commandment_type: Negative
+- id: D017
+  commandment: We are to assemble to read and to hear the Torah read during the Festival of Sukkot in the Sabbatical Year.
+  commandment_type: Positive
+- id: Y005
+  commandment: We are not to deny believing in Yeshua for fear of man.
+  commandment_type: Negative
+- id: P002
+  commandment: Cohanim (priests) are to pray blessing over God's people.
+  commandment_type: Positive
+- id: N012
+  commandment: We are not to judge our neighbor wrongfully, nor fail to judge him rightfully.
+  commandment_type: Negative
+- id: A007
+  commandment: We are to confess and repent of our sins, and make restitution where possible and appropriate.
+  commandment_type: Positive
+- id: K006
+  commandment: We may eat from either a hunted or a slaughtered bird or animal, but are forbidden to eat from an animal that was killed by beasts in the field or that died of its own accord. Whether slaughtered or hunted, the creature's blood must be poured out and, if it is an animal, its young must not be slaughtered with it on the same day. If it is a mother bird sitting on chicks or eggs, the chicks may be taken, but the mother bird must be released. 1
+  commandment_type: Negative
+- id: A011
+  commandment: We may partake of wine but must not become intoxicated.
+  commandment_type: Negative
+- id: M004
+  commandment: We are to return anything we find which was lost by another. If he is not near us or we do not know who he is, we are to keep it safe for him until he claims it.
+  commandment_type: Negative
+- id: S001
+  commandment: We are not to have sexual contact with persons of our own gender.
+  commandment_type: Negative
+- id: A004
+  commandment: We are to keep & not delay our vows that we make to God.
+  commandment_type: Negative
+- id: S008
+  commandment: We are not to have sexual intercourse with a woman during her menstruation.
+  commandment_type: Negative
+- id: H005
+  commandment: We are not to conduct sacrifices of any kind apart from the Holy Temple.
+  commandment_type: Negative
+- id: S004
+  commandment: We are not to engage in sexual intimacy outside of marriage.
+  commandment_type: Negative
+- id: M007
+  commandment: Our institutions are to promote economic equity.
+  commandment_type: Positive
+- id: E001
+  commandment: We are to preserve God's Word, & disseminate His Word to the Gentile nations.
+  commandment_type: Positive
+- id: O003
+  commandment: We are not to preach the Word of God to those who are closed to it.
+  commandment_type: Negative
+- id: P007
+  commandment: Levitical Priests are not to be in the vicinity of a dead body unless the deceased is a close relative.
+  commandment_type: Negative
+- id: D018
+  commandment: We are to cancel loans and allow our land to lie fallow in the Sabbatical Year.
+  commandment_type: Positive
+- id: N014
+  commandment: We are to serve our neighbor, seeking not to be served.
+  commandment_type: Negative
+- id: H008
+  commandment: We are to forgo self interest when appropriate.
+  commandment_type: Positive
+- id: D005
+  commandment: We are to count seven weeks and fifty days from the Day of Firstfruits (following Passover) to Shavuot, at which time we are to waive two loaves of bread to the Lord.
+  commandment_type: Positive
+- id: K002
+  commandment: We are not to boil a young animal in its mother's milk, nor do anything of similar cruelty to any of God's creatures.
+  commandment_type: Negative
+- id: E002
+  commandment: No commandment
+  commandment_type: Positive
+- id: M011
+  commandment: We are to resist, & not yield to, temptation to sin.
+  commandment_type: Negative
+- id: N015
+  commandment: We are to pursue peace with our neighbor.
+  commandment_type: Positive
+- id: N011
+  commandment: We are to be hospitable to our neighbor.
+  commandment_type: Positive
+- id: N017
+  commandment: We are not to despise our neighbor.
+  commandment_type: Negative
+- id: P004
+  commandment: We are to embrace our New Covenant priesthood and ability to enter God's Most Holy Place through our High Priest Yeshua.
+  commandment_type: Positive
+- id: P006
+  commandment: Priests are not to minister to others while they are spiritually unclean and in need of repentance.
+  commandment_type: Negative
+- id: Y007
+  commandment: We are to acknowledge God as our Supreme father, and Yeshua as our supreme rabbi, teacher, and leader.
+  commandment_type: Positive
+- id: N010
+  commandment: We are prohibited from kidnapping anyone for any reason.
+  commandment_type: Positive
+- id: S002
+  commandment: We are not to have close physical contact & sexual intimacy with family members.
+  commandment_type: Negative
+- id: H002
+  commandment: We are to model God's Holiness by our appearance & by what we wear.
+  commandment_type: Positive
+- id: D006
+  commandment: We are to maintain our home and all territory that is under our control completely free of leaven and chametz, from Passover through all seven days of the Feast of Unleavened Bread.
+  commandment_type: Positive
+- id: N004
+  commandment: We are to unconditionally forgive all who sin against us, and conditionally forgive those who repent.
+  commandment_type: Positive
+- id: R002
+  commandment: We are to be born of, immersed in, filled and led by the Holy Spirit.
+  commandment_type: Positive
+- id: B005
+  commandment: We are to set aside and give a part of our increase to the poor.
+  commandment_type: Positive
+- id: E006
+  commandment: We are to be reminded of and teach God's Word through tzitzit, tefillin, & mezuzot.
+  commandment_type: Positive
+- id: E005
+  commandment: We are nto to encourage Jewish conversion, but are to receive as Jewish Proselytes or Converts, those who have received conversion under reputable Jewish auspices.
+  commandment_type: Positive
+- id: N005
+  commandment: We are to bring correction to one another, to resolve disputes and to seek reconciliation with brothers who have sinned against us, and to repent and to seek reconciliation if we have sinned against our brother. Likewise, our elder leaders are to rebuke, correct and bring discipline to those within our congregational communities that require it.
+  commandment_type: Negative
+- id: C002
+  commandment: We are to pay an employee his wages on the same day that he labors or when contractually due.
+  commandment_type: Positive
+- id: D016
+  commandment: We are to take up the four species during the Feast of Sukkot.
+  commandment_type: Positive
+- id: P005
+  commandment: Priests are not to marry persons who are likely to compromise their holiness.
+  commandment_type: Negative
+- id: D004
+  commandment: We are to rest, refrain from work, and assemble on God's annual Sabbaths; these are (1) the first and (2) seventh day of Unleavened Bread, (3) Shavuot, (4) Yom T'ruah (Rosh HaShanah), (5) Yom Kippur, (6) the first day of Sukkot and (7) Sh'mini Atzeret.
+  commandment_type: Positive
+- id: D003
+  commandment: We are to keep the Sabbath Day holy - set apart for God.
+  commandment_type: Positive
+- id: M008
+  commandment: We are to be humane in exercising our dominion over God's creatures.
+  commandment_type: Positive
+- id: K003
+  commandment: We are not to eat fat, meat from strangled animals, or food polluted by idols.
+  commandment_type: Negative
+- id: Y001
+  commandment: We are to remember & proclaim Yeshua's sacrificial death by our partaking of bread and wine.
+  commandment_type: Positive
+- id: G017
+  commandment: We are to be continuous, persistent, & fervent in our prayers of petition.
+  commandment_type: Positive
+- id: D013
+  commandment: We are to afflict our souls, repent of our sins, and adopt Yeshua's death as our atoning sacrifice on Yom Kippur.
+  commandment_type: Positive
+- id: Y004
+  commandment: We are to expect and accept that we will be persecuted on account of our faith in Yeshua.
+  commandment_type: Positive
+- id: R004
+  commandment: We are test every spirit to see if it is from God.
+  commandment_type: Positive
+- id: G010
+  commandment: We are not to approach God in prayer or worship while we are unrepentant of our sins.
+  commandment_type: Negative
+- id: H006
+  commandment: If we appoint a ruler over us, he is to be one whom God chooses - one who rules according to the Word of God, and does not prefer himself over his people.
+  commandment_type: Negative
+- id: I006
+  commandment: We are to cease all idolatrous practices, and destroy associated objects and places that are within our domain and control.
+  commandment_type: Positive
+- id: G003
+  commandment: We are to know that God is echad.
+  commandment_type: Positive
+- id: G013
+  commandment: We are to dedicate ourselves to God through Messiah.
+  commandment_type: Positive
+- id: W002
+  commandment: We are to remember and be continually aware of God's Word.
+  commandment_type: Positive
+- id: E008
+  commandment: We are to be fruitful and multiply in number and in fruitfulness.
+  commandment_type: Positive
+- id: L002
+  commandment: We are to bless and not curse the Jewish People.
+  commandment_type: Negative
+- id: N001
+  commandment: We are to love our neighbor, the stranger among us, and even our enemy.
+  commandment_type: Positive
+- id: P003
+  commandment: We are to regard all of God's priests to be set apart as holy.
+  commandment_type: Positive
+- id: N013
+  commandment: We are to repent of our own sin before seeking to correct our neighbor.
+  commandment_type: Positive
+- id: A023
+  commandment: We are to be subject to the governing authorities that are established by God.
+  commandment_type: Positive

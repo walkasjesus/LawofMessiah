@@ -1,0 +1,415 @@
+- id: AA1
+  commandment: We are to aspire to godliness and holiness.
+  double_ids:
+  - id: AA51
+    commandment: We are to aspire to be blameless.
+  - id: A14
+    commandment: We are to aspire to God's perfection & holiness.
+- id: AA2
+  commandment: We are to behave properly.
+- id: AA3
+  commandment: We are to pursue righteousness and live righteously.
+- id: AA4
+  commandment: We are to seek to be both inwardly and outwardly clean.
+- id: AA5
+  commandment: We are to model ourselves on the perfection of God.
+- id: AA6
+  commandment: We are to keep our minds from causing our bodies to sin.
+- id: AA7
+  commandment: We are to seek the Kingdom of God.
+  double_ids:
+  - id: G9
+    commandment: We are to cling to God.
+- id: AA8
+  commandment: We are to guard ourselves against greed.
+  double_ids:
+  - id: DA55
+    commandment: We are to guard against scoffers.
+- id: AA9
+  commandment: We are to let God’s light that is in us shine for all to see.
+- id: AA10
+  commandment: We are to have godly compassion.
+  double_ids:
+  - id: AA61
+    commandment: We are to hate ungodly vices.
+- id: AA11
+  commandment: We are to renounce worldly pleasures that compete with our godly responsibilities.
+- id: AA13
+  commandment: We are to flee from sin and evil.
+- id: AA14
+  commandment: We are to cultivate & exhibit patience.
+- id: AA15
+  commandment: Keeping Free from, and Purifying Ourselves from Things that Defile.
+- id: AA18
+  commandment: We are to replace our old nature with a new nature given us by the Holy Spirit.
+- id: AA19
+  commandment: We are to persevere, stand firm, & grow in our faith.
+- id: AA20
+  commandment: We are to be gentle to all whom we encounter.
+- id: AA22
+  commandment: We are to speak only that which is holy and beneficial
+- id: AA23
+  commandment: We are to rid ourselves of unholy characteristics.
+- id: AA24
+  commandment: We are to be tenderhearted toward our brother and neighbor.
+  double_ids:
+  - id: DA24
+    commandment: We are to love our brother and our neighbor.
+  - id: DA68
+    commandment: We are to be welcoming and hospitable to our brother and neighbor.
+- id: AA25
+  commandment: We are to focus our thoughts on things that are godly.
+- id: AA27
+  commandment: We are to be thankful and grateful to God.
+- id: AA29
+  commandment: We are to be joyful in all circumstances.
+- id: AA30
+  commandment: We are to be honest and tellers of truth.
+- id: AA31
+  commandment: We are to be steadfast in our faith and our thinking.
+- id: AA32
+  commandment: We are to be faithful, trustworthy, and loyal.
+- id: AA34
+  commandment: We are to keep our promises.
+  double_ids:
+  - id: M2
+    commandment: We are to keep our promises.
+- id: AA39
+  commandment: We are to flee lustful passions.
+- id: AA41
+  commandment: We are to compare that which is taught us to what we read in Scripture.
+- id: AA44
+  commandment: We are to know & do what is right & good.
+- id: AA45
+  commandment: We are to be circumcised in our heart.
+- id: AA47
+  commandment: We are to seek and grow in godly knowledge.
+  double_ids:
+  - id: BA47
+    commandment: We are to acquire and grow in knowledge of God.
+- id: AA53
+  commandment: We are to have a sound and godly doctrine.
+- id: AA54
+  commandment: We are to distinguish between good and evil.
+- id: AA56
+  commandment: We are to be quick to listen and slow to speak.
+- id: AA57
+  commandment: We are to be open to reason.
+- id: AA58
+  commandment: We are to let our “yes” be “yes” and our “no” be “no.”
+- id: AA59
+  commandment: We are to keep a clear conscience.
+- id: AA64
+  commandment: We are to be slow in becoming angry.
+- id: BA2
+  commandment: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit.
+- id: BA3
+  commandment: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua.'
+- id: BA4
+  commandment: We are to trust (have faith /believe) in God and Yeshua.
+- id: BA6
+  commandment: We are to offer our entire selves to God.
+  double_ids:
+  - id: BA55
+    commandment: We are to humble ourselves before God.
+- id: BA7
+  commandment: We are to praise God & Yeshua.
+  double_ids:
+  - id: BA8
+    commandment: We are to seek to please God and Yeshua.
+  - id: BA11
+    commandment: We are to honor God and Yeshua.
+  - id: BA14
+    commandment: We are to know God through Yeshua.
+  - id: BA15
+    commandment: We are to serve both God and Yeshua.
+  - id: BA17
+    commandment: We are to imitate God and Yeshua.
+  - id: BA33
+    commandment: We are to glorify God and Yeshua.
+  - id: BA46
+    commandment: We are to remain rooted in Yeshua.
+  - id: BA48
+    commandment: We are to rejoice in and with Yeshua.
+  - id: BA49
+    commandment: We are to live along with Yeshua.
+- id: BA9
+  commandment: We are to believe in God’s evenhanded justice.
+- id: BA10
+  commandment: We are to obey the commandments of God and Yeshua.
+  double_ids:
+  - id: BA13
+    commandment: We are to hear the words and voice of God and Yeshua.
+  - id: BA16
+    commandment: We are to devote our lives to God and Yeshua.
+  - id: BA18
+    commandment: We are to be reconciled to God in Yeshua.
+  - id: BA26
+    commandment: We are to be witnesses of and for Yeshua.
+  - id: BA38
+    commandment: We are to know the compassion of God and Yeshua.
+  - id: BA40
+    commandment: We are to receive and follow God and Yeshua.
+- id: BA12
+  commandment: We are to lift up Yeshua at every opportunity.
+- id: BA19
+  commandment: We are to seek our reward from God in Heaven.
+- id: BA20
+  commandment: We are to listen to, believe, and obey the Good News of Yeshua.
+- id: BA21
+  commandment: We are to love the Lord Our God & Messiah Yeshua.
+- id: BA22
+  commandment: We are to know that God is one – both singular and composite.
+- id: BA23
+  commandment: We are to fear and Revere God and Messiah.
+  double_ids:
+  - id: BA45
+    commandment: We are to know Yeshua as Lord and Messiah.
+- id: BA24
+  commandment: We are to present ourselves to God as worthy of approval.
+- id: BA25
+  commandment: We are to put God and Yeshua before All Things and All Persons.
+- id: BA27
+  commandment: We are to receive Yeshua’s love and kindness.
+- id: BA28
+  commandment: We are to believe that Yeshua died for our sins.
+  double_ids:
+  - id: BA50
+    commandment: We are to believe that Yeshua was sent for all of humanity.
+- id: BA29
+  commandment: We are to have a close personal relationship with God and Yeshua .
+- id: BA32
+  commandment: We are to believe that Yeshua is the Messiah, the Son of God, and deity.
+- id: BA36
+  commandment: Embracing Yeshua’s Sacrifice for Forgiveness, Righteousness, and Redemption.
+- id: BA39
+  commandment: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings.
+- id: BA41
+  commandment: We are to welcome Yeshua by welcoming children.
+- id: BA42
+  commandment: in Remembrance of Yeshua.
+- id: BA43
+  commandment: We are to know that God is triune.
+  double_ids:
+  - id: G3
+    commandment: We are to know that God is echad.
+- id: BA44
+  commandment: We are to rely on God.
+  double_ids:
+  - id: BA52
+    commandment: We are to set our hope on God.
+  - id: BA54
+    commandment: We are to submit to God.
+- id: BA51
+  commandment: We are to know Yeshua as the One Mediator between God and Man.
+- id: BA56
+  commandment: We are to acknowledge the Holiness of Yeshua.
+- id: BA57
+  commandment: We are to come to Yeshua for spiritual rest.
+- id: BA58
+  commandment: We are to stand firm in union with the Lord.
+- id: BA59
+  commandment: We are to remember that Yeshua was raised from the dead.
+- id: BA61
+  commandment: We are to continue to make our being called and being chosen a certainty.
+- id: BA62
+  commandment: We are to seek rest and refreshment in God.
+- id: CA2
+  commandment: We are to put Yeshua ahead of worldly wealth.
+- id: CA3
+  commandment: We are store up wealth in Heaven while still on earth.
+- id: CA4
+  commandment: We are to be content with having the essentials for living.
+- id: DA1
+  commandment: We are to speedily seek reconciliation when summoned to court.
+- id: DA2
+  commandment: We are to seek reconciliation with our brother.
+- id: DA7
+  commandment: We are to be sensitive to each other’s needs.
+- id: DA8
+  commandment: We are to befriend people who are humble.
+- id: DA9
+  commandment: We are to give to our neighbor that which is owed him.
+  double_ids:
+  - id: N3
+    commandment: We are to help our neighbor who is in need.
+- id: DA10
+  commandment: We are to do what we can to live in peace with our neighbors.
+  double_ids:
+  - id: N15
+    commandment: We are to pursue peace with our neighbor.
+- id: DA15
+  commandment: We are to be likeminded and in unity with the brethren.
+- id: DA32
+  commandment: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows.
+- id: DA36
+  commandment: We are to personally forgive all who sin against us, and judicially forgive brothers who sin against us and repent.
+  double_ids:
+  - id: N4
+    commandment: We are to unconditionally forgive all who sin against us, and conditionally forgive those who repent.
+- id: DA37
+  commandment: We are to empathize with those who are imprisoned and mistreated.
+- id: DA41
+  commandment: We are to continue in brotherly friendships but be friendly to neighbors and outsiders as well.
+- id: DA46
+  commandment: We are to comfort our neighbor.
+  double_ids:
+  - id: N11
+    commandment: We are to be hospitable to our neighbor.
+- id: DA52
+  commandment: We are to behave wisely toward outsiders.
+- id: DA53
+  commandment: We are to rescue our neighbor when rescue is needed.
+- id: DA56
+  commandment: We are to mind our own business.
+- id: DA57
+  commandment: We are to live quietly so as to gain our neighbor’s respect.
+- id: DA60
+  commandment: Treating Persons with Respect in Ways Appropriate to Their Age & Gender.
+- id: A10
+  commandment: We are to guard our physical & spiritual health, and be separate from the heathen nations through ritual purifications & cleanness.
+- id: A12
+  commandment: We are to be born again from above.
+- id: A13
+  commandment: We are to pursue being pure in heart.
+- id: A17
+  commandment: We are to walk in humility and eschew pride.
+- id: A18
+  commandment: We are to be good stewards of our spiritual gifts, using them according to the grace given us.
+- id: A2
+  commandment: We are to walk in God's ways and adopt them as our own.
+- id: A21
+  commandment: We are to flee from love of money and are to pursue Godly Virtues.
+- id: A23
+  commandment: We are to be subject to the governing authorities that are established by God.
+- id: A24
+  commandment: We are to give as much attention to being clean of spirit as to being clean of body.
+- id: A3
+  commandment: We are to be good stewards of the things and matters that are entrusted to us.
+- id: A5
+  commandment: We are to swear oaths only in God's name.
+- id: A7
+  commandment: We are to confess and repent of our sins, and make restitution where possible and appropriate.
+- id: B2
+  commandment: We are to return an item we are holding in pledge when the owner is in need of it.
+- id: B4
+  commandment: We are to give tz'dakah to the poor among us.
+- id: B5
+  commandment: We are to set aside and give a part of our increase to the poor.
+- id: C1
+  commandment: We are to deal fairly and honestly in business.
+- id: C2
+  commandment: We are to pay an employee his wages on the same day that he labors or when contractually due.
+- id: E1
+  commandment: We are to preserve God's Word, & disseminate His Word to the Gentile nations.
+- id: E5
+  commandment: We are nto to encourage Jewish conversion, but are to receive as Jewish Proselytes or Converts, those who have received conversion under reputable Jewish auspices.
+- id: E7
+  commandment: We are to support the Lord's work among men through our tithes, offerings, & charitable giving.
+- id: E8
+  commandment: We are to be fruitful and multiply in number and in fruitfulness.
+- id: F1
+  commandment: We are to honor and revere our father and mother.
+- id: F2
+  commandment: We are to obey the biblical laws concerning marriage.
+  double_ids:
+  - id: F3
+    commandment: We are to obey the biblical law concerning divorce and remarriage.
+- id: F4
+  commandment: We are forbidden to afflict our wife by withholding food, clothing, or marital rights.
+- id: G1
+  commandment: We are to believe in the God of Abraham, Isaac, and Jacob.
+- id: G11
+  commandment: We are to be thankful to God and bless Him in all things.
+- id: G12
+  commandment: We are to have faith in God & trust Him for all things - for our protection, for those we love, for our worldly needs, and for our very lives.
+- id: G13
+  commandment: We are to dedicate ourselves to God through Messiah.
+- id: G14
+  commandment: We are to know that God exists and Who God is by observing His creation.
+- id: G16
+  commandment: We are to put God first in our priorities.
+- id: G17
+  commandment: We are to be continuous, persistent, & fervent in our prayers of petition.
+- id: G18
+  commandment: We are to be patient and wait for God to act.
+- id: G19
+  commandment: We are to pray in faith, and have faith for the things for which we pray.
+- id: G2
+  commandment: We are to acknowledge and never deny our belief in God and in Yeshua the Messiah.
+- id: G20
+  commandment: We are to know God & who He Is.
+- id: G4
+  commandment: We are to love God with all of our heart, soul, strength, and mind.
+- id: G6
+  commandment: We are to reverently and lovingly fear God.
+- id: G8
+  commandment: We are to serve, worship, praise, & pray to God.
+- id: H1
+  commandment: We are to have reverence for God's sanctuary.
+- id: H2
+  commandment: We are to model God's Holiness by our appearance & by what we wear.
+- id: H4
+  commandment: We are to use our speech, minds, hearts and actions for that which is good and holy.
+- id: H8
+  commandment: We are to forgo self interest when appropriate.
+- id: I6
+  commandment: We are to cease all idolatrous practices, and destroy associated objects and places that are within our domain and control.
+- id: J1
+  commandment: We are to apply the Mosaic Law in a manner that is consistent with New Covenant realities.
+- id: J2
+  commandment: We are to administer justice both in and out of our courts.
+- id: J4
+  commandment: We are to receive inheritance according to established law and to that which is approved by God.
+- id: J5
+  commandment: We are to appoint elders in our communities to lead, pray, judge, teach, & make halachah.
+- id: M1
+  commandment: We are to pursue righteousness, i.e. determining what is right and doing it.
+- id: M10
+  commandment: We are to consider the biblical principles of war and apply them where possible.
+- id: M8
+  commandment: We are to be humane in exercising our dominion over God's creatures.
+- id: N1
+  commandment: We are to love our neighbor, the stranger among us, and even our enemy.
+- id: N10
+  commandment: We are prohibited from kidnapping anyone for any reason.
+- id: N13
+  commandment: We are to repent of our own sin before seeking to correct our neighbor.
+- id: N18
+  commandment: We are to be compassionate and merciful toward our neighbor.
+- id: N7
+  commandment: We are to take reasonable steps to keep ourselves and others safe in areas that are under our control.
+- id: N8
+  commandment: We are to give respect and honor to persons of advanced age.
+- id: N9
+  commandment: We are duty-bound to help a person who needs rescue provided it is reasonably within our ability to do so.
+- id: O1
+  commandment: We are to be salt for the earth and a light for the world.
+- id: O2
+  commandment: We are to acknowledge & appropriately utilize our spiritual authority to "bind" & "loose".
+- id: O4
+  commandment: We are to go to the whole world with the "Great Commission" proclaimed by Yeshua, in the power of the Holy Spirit - first to the Jew and then to the Gentile.
+- id: P1
+  commandment: The Jewish people (Israel) are to embrace being a kingdom of priests in order to bring blessing to the Gentile nations of the world. Jews & Gentiles both are called to join in a New Covenant "Priesthood of Believers" that consists of all disciples of Yeshua, and that is connected to the first priesthood - the priesthood of Israel.
+- id: P3
+  commandment: We are to regard all of God's priests to be set apart as holy.
+- id: R1
+  commandment: We are to listen to & heed God's voice.
+- id: R2
+  commandment: We are to be born of, immersed in, filled and led by the Holy Spirit.
+- id: R4
+  commandment: We are test every spirit to see if it is from God.
+- id: W1
+  commandment: We are to study, listen to and teach Torah and Torah-obedience.
+- id: Y1
+  commandment: We are to remember & proclaim Yeshua's sacrificial death by our partaking of bread and wine.
+- id: Y2
+  commandment: We are to abide in (stay united with) Yeshua in order to bear fruit.
+- id: Y3
+  commandment: We are to trust in Yeshua and believe that He is our Messiah sent by God.
+- id: Y4
+  commandment: We are to expect and accept that we will be persecuted on account of our faith in Yeshua.
+- id: Y6
+  commandment: We are to follow Yeshua and put him before all else.
+- id: Y7
+  commandment: We are to acknowledge God as our Supreme father, and Yeshua as our supreme rabbi, teacher, and leader.
