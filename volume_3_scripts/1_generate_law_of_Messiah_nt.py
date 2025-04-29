@@ -72,6 +72,8 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
         # Initialize variables
         commandments = []
         current_category = None
+        multi_line_category = ""
+        category_page_number = None
         current_commandment = None
         saved_commandment = None
         current_scripture_section = None
@@ -89,6 +91,13 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
             else:
                 current_commandment = None  # Reset if no continuation is detected
                 logging.warning(f"No active commandment found on page: {page_number}")
+    
+            # Finalize the multi-line category if the page number changes
+            if multi_line_category and category_page_number != page_number:
+                current_category = multi_line_category.strip()
+                logging.info(f"Finalized multi-line category at the start of page {page_number}: {current_category}")
+                multi_line_category = ""  # Reset the multi-line category tracker
+                category_page_number = None  # Reset the category page number
     
             # Skip pages in the ignore list
             if page_number in pages_to_ignore:
@@ -118,12 +127,26 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
 
                 logging.debug(f"Processing text: '{text}' with size: {size}")
 
-                # Detect category (e.g., "AA. Godliness, Holiness & Righteousness")
-                if size > 25 and re.match(r"^[A-Z]{2}\.\s*", text):
-                    current_category = re.sub(r"^[A-Z]{2}\.\s*", "", text).strip()
-                    logging.info(f"Detected category: {current_category}")
+                # Detect category (e.g., "CA: Prioritization & Acquisition")
+                if size > 25 and re.match(r"^[A-Z]{2}[.:]\s*", text):
+                    # If a multi-line category is already being tracked, finalize it
+                    if multi_line_category:
+                        current_category = multi_line_category.strip()
+                        logging.info(f"Finalized multi-line category: {current_category}")
+                        multi_line_category = ""  # Reset the multi-line category tracker
+
+                    # Start a new category and set the page number
+                    multi_line_category += re.sub(r"^[A-Z]{2}[.:]\s*", "", text).strip()
+                    category_page_number = page_number  # Track the page number for the category
+                    logging.info(f"Detected start of category on page {page_number}: {multi_line_category}")
                     continue
 
+                # Handle continuation of a multi-line category
+                if size > 25 and multi_line_category:
+                    multi_line_category += f" {text.strip()}"
+                    logging.debug(f"Continuing multi-line category: {multi_line_category}")
+                    continue
+                
                 # Detect commandment ID (e.g., "AA1.")
                 if size > 25 and re.match(r"^[A-Z]{2,}[0-9]+\.?$", text):
                     if current_commandment:  # Save the previous commandment
