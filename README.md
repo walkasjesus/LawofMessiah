@@ -92,7 +92,7 @@ git clone <repository-url>
 cd <repository-directory>
 
 # 2. Create a Virtual Environment
-python3 -m venv venv
+python3.11 -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 # 3. Install Dependencies
@@ -175,6 +175,9 @@ deactivate
 
 4. **3_merge_law_of_messiah_yaml.py**  
    Adds the type of commandment (positive or negative) to each item in the merged data. Then merges the two YAML files in `volume_3_output` and generates a combined YAML file. Output: `Law_of_Messiah_nt.yaml`.
+
+5. **4_add_commandment_form.py**  
+   Uses OpenAI and Bible API to automatically generate the `commandment_form` field for each commandment in the `Law_of_Messiah_ot.yaml`. Reason is that it is missing in the OT volumes (while it is present in the NT volumes). It supports dry-run modes for both Bible lookups and OpenAI calls, logs all actions, and can help align AI-generated labels with the author's original intent. Output: updates the relevant YAML file and writes debug information to `logs/debug_commandment_form.log`.
 
 #### Scripts in `filter_scripts`
 

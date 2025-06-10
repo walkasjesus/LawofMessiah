@@ -1,0 +1,14 @@
+README.md
+setup.py
+bible_lib/__init__.py
+bible_lib/bible.py
+bible_lib/bible_books.py
+bible_lib/bible_factory.py
+bible_lib/exceptions.py
+bible_lib/simple_cache.py
+bible_lib/verse.py
+bible_lib.egg-info/PKG-INFO
+bible_lib.egg-info/SOURCES.txt
+bible_lib.egg-info/dependency_links.txt
+bible_lib.egg-info/requires.txt
+bible_lib.egg-info/top_level.txt

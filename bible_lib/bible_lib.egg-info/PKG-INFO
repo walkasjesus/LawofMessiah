@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: bible_lib
+Version: 0.3.0
+Summary: Library to look up bible texts from scripture.api.bible
+Requires-Dist: requests
+Requires-Dist: pycountry
+Dynamic: requires-dist
+Dynamic: summary
