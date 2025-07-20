@@ -41,7 +41,7 @@ def extract_sections(data):
             text = entry.get("text", "").strip()
             font = entry.get("font", "")
             size = entry.get("size", 0)
-            if font == "TimesNewRomanPS-BoldMT" and size > 25 and text and not entry.get("title", ""):
+            if (font in ["TimesNewRomanPS-BoldMT", "TimesNewRomanPSMT"]) and size > 25 and text and not entry.get("title", ""):
                 logging.info(f"Skipping page with only category: {text}")
                 continue
 
@@ -52,7 +52,7 @@ def extract_sections(data):
             size = entry.get("size", 0)
 
             # Detect ID at the start of a new page
-            if i == 0 and font == "TimesNewRomanPS-BoldMT" and size > 25 and text:
+            if i == 0 and font in ["TimesNewRomanPS-BoldMT", "TimesNewRomanPSMT"] and size > 25 and text:
                 if current_commandment:
                     sections.append(current_commandment)
                     logging.info(f"Finalized commandment: {current_commandment}")

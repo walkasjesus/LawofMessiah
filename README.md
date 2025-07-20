@@ -91,7 +91,7 @@ To set up the environment and use all the scripts in this repository, follow the
 git clone <repository-url>
 cd <repository-directory>
 
-# 2. Create a Virtual Environment
+# 2. (Recommended) Use Python 3.11
 python3 -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
