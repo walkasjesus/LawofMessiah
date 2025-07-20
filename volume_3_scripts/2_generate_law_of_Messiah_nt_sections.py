@@ -41,10 +41,24 @@ def extract_sections(data):
             text = entry.get("text", "").strip()
             font = entry.get("font", "")
             size = entry.get("size", 0)
-            if font == "TimesNewRomanPS-BoldMT" and size > 25 and text and not entry.get("title", ""):
+            if (font in ["TimesNewRomanPS-BoldMT", "TimesNewRomanPSMT"]) and size > 25 and text and not entry.get("title", ""):
                 logging.info(f"Skipping page with only category: {text}")
                 continue
 
+        # Skip pages that contain a category and a Caveat section (and nothing else meaningful)
+        if (
+            len(content) >= 2 and
+            content[0].get("text", "") and
+            content[0].get("font", "") in ["TimesNewRomanPS-BoldMT", "TimesNewRomanPSMT"] and
+            content[0].get("size", 0) > 25 and
+            not content[0].get("title", "") and
+            "Caveat" in content[1].get("title", "") and
+            content[1].get("font", "") in ["TimesNewRomanPS-BoldMT", "TimesNewRomanPSMT"] and
+            content[1].get("size", 0) < 20 
+        ):
+            logging.info(f"Skipping page with category and Caveat: {content[0].get('text', '')}, {content[1].get('title', '')}")
+            continue
+        
         for i, entry in enumerate(content):
             text = entry.get("text", "").strip()
             title = entry.get("title", "").strip()
@@ -52,7 +66,7 @@ def extract_sections(data):
             size = entry.get("size", 0)
 
             # Detect ID at the start of a new page
-            if i == 0 and font == "TimesNewRomanPS-BoldMT" and size > 25 and text:
+            if i == 0 and font in ["TimesNewRomanPS-BoldMT", "TimesNewRomanPSMT"] and size > 25 and text:
                 if current_commandment:
                     sections.append(current_commandment)
                     logging.info(f"Finalized commandment: {current_commandment}")

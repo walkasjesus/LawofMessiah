@@ -2681,12 +2681,6 @@
       title: Accompanying Our Faith with Actions
     - id: HB17
       title: Believing the Holy Scriptures and Knowing Their Usefulness
-    - id: AA21
-      title: Not Being Lukewarm in Our Faith
-    - id: GA08
-      title: Not Backsliding in Faith After Knowing God’s Righteousness
-    - id: SA07
-      title: Not Denying the Power of Faith
     commandments_related_ot:
     - id: G12
       title: Having Faith in God & Trusting Him in All Things
@@ -2696,8 +2690,6 @@
       title: Trusting in Yeshua & Believing that He is Our Messiah Sent by God
     - id: Y04
       title: Expecting & Accepting Persecution on Account of Our Faith in Yeshua
-    - id: G02
-      title: Acknowledging and Not Denying Belief in God and in Yeshua
     commentary_rudolph:
     - title: Bible translations speak of “faith,” “trust,” and “believing” interchangeably.
     - title: Hebrews 11:1
@@ -2707,6 +2699,20 @@
     - title: convinced about things we do not see.”
     - title: We are urged and commanded to trust (have faith) in
     - title: God the Father and his son Yeshua in all things.
+- commandment_form: Explicit
+  id: BA5
+  sections:
+    commandments_related_nt:
+    - id: AA21
+      title: Not Being Lukewarm in Our Faith
+    - id: GA08
+      title: Not Backsliding in Faith After Knowing God’s Righteousness
+    - id: SA07
+      title: Not Denying the Power of Faith
+    commandments_related_ot:
+    - id: G02
+      title: Acknowledging and Not Denying Belief in God and in Yeshua
+    commentary_rudolph:
     - title: There are three ways that we can deny belief and faith in God and Yeshua.  The
         most obvious
     - title: and direct is through words stating our unbelief.  It is of course understandable
@@ -6920,21 +6926,7 @@
       title: Not Having Fellowship with Ungodly People
     - id: RA13
       title: Expelling Evil Doers from the Community of Believers
-    - id: DA38
-      title: Not Engaging in Rivalry
-    - id: DA39
-      title: Not Being Vengeful
-    - id: DA45
-      title: Not Sinning Against Our Brother or Neighbor
-    - id: DA48
-      title: Not Harboring Bitterness Against Our Neighbor
-    - id: DA49
-      title: Not Harboring Malice or Being Spiteful to Our Neighbor
-    - id: DA79
-      title: Not Hating Our Brother
-    commandments_related_ot:
-    - id: M09
-      title: Coveting or Planning to Acquire Another’s Property
+    commandments_related_ot: []
     commentary_rudolph:
     - title: This
     - title: Mitzvah
@@ -6969,6 +6961,26 @@
     - title: disassociating is not repentant and is continuing to sin; we must be
         prepared and willing to
     - title: receive the person back in fellowship if and when he or she repents.
+- commandment_form: Explicit
+  id: DA20
+  sections:
+    commandments_related_nt:
+    - id: DA38
+      title: Not Engaging in Rivalry
+    - id: DA39
+      title: Not Being Vengeful
+    - id: DA45
+      title: Not Sinning Against Our Brother or Neighbor
+    - id: DA48
+      title: Not Harboring Bitterness Against Our Neighbor
+    - id: DA49
+      title: Not Harboring Malice or Being Spiteful to Our Neighbor
+    - id: DA79
+      title: Not Hating Our Brother
+    commandments_related_ot:
+    - id: M09
+      title: Coveting or Planning to Acquire Another’s Property
+    commentary_rudolph:
     - title: Envy, jealousy, and covetousness are in some ways the same and in some
         ways different.  All
     - title: three are the result of dissatisfaction, are triggered by comparing ourselves

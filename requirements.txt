@@ -1,7 +1,7 @@
-PyMuPDF==1.25.5
-PyYAML==6.0
-fuzzywuzzy==0.18.0
-python-Levenshtein==0.12.2
+PyMuPDF
+PyYAML
+fuzzywuzzy
+python-Levenshtein
 scikit-learn
 gensim
 transformers
