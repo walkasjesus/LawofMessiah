@@ -8,3 +8,5 @@ transformers
 torch
 beautifulsoup4
 fitz
+openai
+-e bible_lib

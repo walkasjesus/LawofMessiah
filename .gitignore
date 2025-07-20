@@ -2,3 +2,6 @@ venv
 archive
 logs
 walkasjesus_biblereferences
+.openai_api_key
+bible_lib/settings.py
+hsv_bible_lib
