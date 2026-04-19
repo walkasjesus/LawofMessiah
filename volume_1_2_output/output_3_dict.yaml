@@ -496,7 +496,7 @@ D015:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Days & Seasons
-  title: Living in aSukkahduring the Feast ofSukkot
+  title: Living in a Sukkah during the Feast of Sukkot
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D015.php
@@ -778,8 +778,8 @@ O004:
   commentary_juster: ''
   bible_references:
     key_nt_scriptures:
-    - '*Matthew 28:16-20'
-    - '*Mark 16:14-18'
+    - Matthew 28:16-20
+    - Mark 16:14-18
     - Mark 16:20
     - Acts 1:8
     key_ot_scriptures: []
@@ -1023,7 +1023,7 @@ D012:
     - Psalm 81:3-5(2-4)
     - Psalm 150:3
   category: Days & Seasons
-  title: Blowing theShofaron Special Days & As an Alarm in War
+  title: Blowing the Shofar on Special Days & As an Alarm in War
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D012.php
@@ -1209,7 +1209,7 @@ J005:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Justice
-  title: Appointing Elders to Lead, Pray, Teach, Judge & MakeHalachah
+  title: Appointing Elders to Lead, Pray, Teach, Judge & Make Halachah
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/J005.php
@@ -1412,7 +1412,7 @@ D009:
     - Exodus 12:33-34
     - Leviticus 23:5-8
   category: Days & Seasons
-  title: Observing a Late Passover withMatzah& Bitter Herbs
+  title: Observing a Late Passover with Matzah & Bitter Herbs
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D009.php
@@ -2007,9 +2007,6 @@ A006:
   commentary_juster: I would say in addition, that the most foundational meaning of the third of the "Ten Commandments" is to not swear an oath in God's Name and then fail to perform it (hence "in vain"). However, all Jewish and Christian commentators also see the broader meanings as brought out in their commentaries and in this Mitzvah .
   bible_references:
     key_nt_scriptures:
-    - 'Thou shalt not take the name of the LORD thy God in vain ...(King
-
-      James Version)'
     - Matthew 6:9
     - Ephesians 4:29
     key_ot_scriptures:
@@ -2278,7 +2275,7 @@ E007:
     - Proverbs 31:9
     - Proverbs 31:20
   category: Covenant Responsibilities
-  title: Tithes, Offerings, &Tz'dakah
+  title: Tithes, Offerings, & Tz'dakah
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/E007.php
@@ -2675,9 +2672,9 @@ D019:
     key_nt_scriptures:
     - Matthew 6:25-31
     key_ot_scriptures:
-    - Exodus 13:12*
-    - Exodus 34:19*
-    - Leviticus 25:4-5**
+    - Exodus 13:12
+    - Exodus 34:19
+    - Leviticus 25:4-5
     - Leviticus 25:8
     - Leviticus 25:9
     - Leviticus 25:10
@@ -2900,7 +2897,7 @@ D010:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Days & Seasons
-  title: Observing the Feast of Unleavened Bread by EatingMatzahon Each of Its Seven Days
+  title: Observing the Feast of Unleavened Bread by Eating Matzah on Each of Its Seven Days
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D010.php
@@ -3568,7 +3565,7 @@ D007:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Days & Seasons
-  title: Abstaining from EatingChametz, from Passover through the Feast of Unleavened Bread
+  title: Abstaining from Eating Chametz , from Passover through the Feast of Unleavened Bread
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D007.php
@@ -3903,7 +3900,7 @@ D008:
     - Numbers 9:10-11
     - Deuteronomy 16:1-2
   category: Days & Seasons
-  title: Observing Passover withMatzah& Bitter Herbs
+  title: Observing Passover with Matzah & Bitter Herbs
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D008.php
@@ -4503,7 +4500,7 @@ I002:
     - Leviticus 20:27
     - Deuteronomy 4:19
     - Deuteronomy 18:9-12
-    - '*Job 5:23'
+    - Job 5:23
     supportive_nt_scriptures:
     - Acts 8:9-23
     - Acts 16:16-18
@@ -4576,7 +4573,7 @@ E003:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Covenant Responsibilities
-  title: CommemoratingPidyon HaBen
+  title: Commemorating Pidyon HaBen
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/E003.php
@@ -4777,7 +4774,7 @@ D014:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Days & Seasons
-  title: Rejoicing at the Festivals ofShavuot,Sukkot, & Sh'mini Atzeret
+  title: Rejoicing at the Festivals of Shavuot , Sukkot , & Sh'mini Atzeret
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D014.php
@@ -5992,7 +5989,7 @@ W001:
     - Psalm 119:97-99
     - Proverbs 22:6
   category: Word of God -Torah
-  title: Studying, Hearing & TeachingTorah&Torah-Obedience
+  title: Studying, Hearing & Teaching Torah & Torah -Obedience
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/W001.php
@@ -6350,7 +6347,7 @@ D017:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Days & Seasons
-  title: Public Reading of the Torah duringSukkotin the Sabbatical Year
+  title: Public Reading of the Torah during Sukkot in the Sabbatical Year
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D017.php
@@ -6369,7 +6366,7 @@ Y005:
   commentary_juster: ''
   bible_references:
     key_nt_scriptures:
-    - '*Matthew 10:28-33'
+    - Matthew 10:28-33
     - 2 Timothy 1:7-8
     key_ot_scriptures: []
     supportive_nt_scriptures:
@@ -6402,7 +6399,7 @@ P002:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Priesthood
-  title: Cohanimto Bless God's People
+  title: Cohanim to Bless God's People
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/P002.php
@@ -7232,7 +7229,7 @@ D005:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Days & Seasons
-  title: Counting toShavuot& Waving Two Loaves
+  title: Counting to Shavuot & Waving Two Loaves
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D005.php
@@ -7318,7 +7315,7 @@ E002:
     - Numbers 15:14-16
     - Numbers 15:28-29
   category: Covenant Responsibilities
-  title: Performing & ReceivingB'rit Milah
+  title: Performing & Receiving B'rit Milah
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/E002.php
@@ -7756,7 +7753,7 @@ D006:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Days & Seasons
-  title: Keeping Our Home & Domain Free of Leaven &Chametzfrom Passover through the Feast of Unleavened Bread
+  title: Keeping Our Home & Domain Free of Leaven & Chametz from Passover through the Feast of Unleavened Bread
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D006.php
@@ -7909,9 +7906,6 @@ R002:
     - Isaiah 11:1-2
     - Ezekiel 36:26-27
     - Ezekiel 37:14
-    - 'Peter explains that the tongues spoken onShavu''otwere what
-
-      the prophet Joel wrote about.'
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Ru'ach HaKodesh
@@ -7986,7 +7980,7 @@ E006:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Covenant Responsibilities
-  title: Tzitzit,Tefillin, &Mezuzot
+  title: Tzitzit , Tefillin , & Mezuzot
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/E006.php
@@ -8047,7 +8041,7 @@ E005:
   - RN54
   meir: []
   chinuch: []
-  ncla: 'Persons Converting: JMi JFi KMn KFn GMp GFp Persons Receiving Converts: JMm JFm KMm KFm GMm GFm'
+  ncla: JMm JFm KMm KFm GMm GFm
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   id: E5
 N005:
@@ -8115,9 +8109,7 @@ N005:
     - Proverbs 19:11
     - Ecclesiastes 7:21-22
   category: Neighbours & Brothers
-  title: 'Resolving Disputes, Correcting, Reconciling With & Bringing
-
-    Discipline to Brother Believers'
+  title: Resolving Disputes, Correcting, Reconciling With & Bringing Discipline to Brother Believers
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/N005.php
@@ -8176,7 +8168,7 @@ D016:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Days & Seasons
-  title: Taking Up the Four Species onSukkot
+  title: Taking Up the Four Species on Sukkot
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D016.php
@@ -8469,8 +8461,8 @@ Y001:
   commentary_juster: ''
   bible_references:
     key_nt_scriptures:
-    - '*Matthew 26:26-28'
-    - '*1 Corinthians 11:23-29'
+    - Matthew 26:26-28
+    - 1 Corinthians 11:23-29
     key_ot_scriptures: []
     supportive_nt_scriptures:
     - Mark 14:22-24
@@ -8556,7 +8548,7 @@ D013:
     supportive_ot_scriptures:
     - Isaiah 53:4-12
   category: Days & Seasons
-  title: Afflicting Our Souls & Repenting onYom Kippur
+  title: Afflicting Our Souls & Repenting on Yom Kippur
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D013.php
@@ -8605,7 +8597,7 @@ R004:
   commentary_juster: ''
   bible_references:
     key_nt_scriptures:
-    - '*1 John 4:1-3, 6'
+    - 1 John 4:1-3, 6
     key_ot_scriptures: []
     supportive_nt_scriptures:
     - Matthew 15:7
@@ -8770,7 +8762,7 @@ G003:
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   category: Relating to God
-  title: Knowing that God isEchad& Triune
+  title: Knowing that God is Echad & Triune
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/G003.php
@@ -9176,7 +9168,7 @@ W007:
   id: W7
 W008:
   category: Word of God -Torah
-  title: Obeying theMitzvotofAdonai& Yeshua
+  title: Obeying the Mitzvot of Adonai & Yeshua
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/W008.php
@@ -9190,7 +9182,7 @@ W009:
   id: W9
 W010:
   category: Word of God -Torah
-  title: Attending to Both the Lesser & the Weightier Matters ofTorah
+  title: Attending to Both the Lesser & the Weightier Matters of Torah
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/W010.php
