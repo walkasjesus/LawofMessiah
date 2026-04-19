@@ -185,6 +185,42 @@ deactivate
 5. **4_add_commandment_form.py**  
    Uses OpenAI and Bible API to automatically generate the `commandment_form` field for each commandment in the `Law_of_Messiah_ot.yaml`. Reason is that it is missing in the OT volumes (while it is present in the NT volumes). It supports dry-run modes for both Bible lookups and OpenAI calls, logs all actions, and can help align AI-generated labels with the author's original intent. Output: updates the relevant YAML file and writes debug information to `logs/debug_commandment_form.log`.
 
+6. **5_parse_appendix_to_json.py**  
+   Extracts appendix sections directly from the Volume 3 PDF and writes JSON files to `volume_3_output/appendix_output`.
+
+7. **6_parse_appendix_scriptures.py**  
+   Parses the appendix Scripture index JSON files and generates `volume_3_output/appendix_output/Scripture_Index.yaml`.
+
+8. **7_parse_appendix_titles.py**  
+   Parses the appendix mitzvah title list JSON and generates `volume_3_output/appendix_output/Mitzvah_Title_List.yaml`.
+
+9. **8_add_commandment_type.py**  
+   Adds `commandment_type` to entries in `volume_3_output/appendix_output/Mitzvah_Title_List.yaml`.
+
+10. **9_merge_appendix_yaml.py**  
+   Merges appendix title/category/type data with appendix scripture references into one full file: `volume_3_output/appendix_output/Appendix_Full.yaml`.
+
+##### Appendix Workflow (Volume 3)
+
+Run these scripts in order to generate appendix artifacts for downstream analysis:
+
+```bash
+python volume_3_scripts/5_parse_appendix_to_json.py
+python volume_3_scripts/7_parse_appendix_titles.py
+python volume_3_scripts/8_add_commandment_type.py
+python volume_3_scripts/6_parse_appendix_scriptures.py
+python volume_3_scripts/9_merge_appendix_yaml.py
+```
+
+Expected outputs:
+
+- `volume_3_output/appendix_output/Mitzvah_Title_List.json`
+- `volume_3_output/appendix_output/Mitzvah_Title_List.yaml`
+- `volume_3_output/appendix_output/NT_Scripture_Index.json`
+- `volume_3_output/appendix_output/OT_Scripture_Index.json`
+- `volume_3_output/appendix_output/Scripture_Index.yaml`
+- `volume_3_output/appendix_output/Appendix_Full.yaml`
+
 #### Scripts in `filter_scripts`
 
 1. **filter_commandments.py**  
