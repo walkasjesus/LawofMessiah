@@ -267,6 +267,7 @@ def add_commandment_type_and_source(commandments_data):
         # Ensure related commandments and commandment_form are populated
         commandment["commandments_related_ot"] = commandment.get("commandments_related_ot", [])
         commandment["commandments_related_nt"] = commandment.get("commandments_related_nt", [])
+        commandment["commandment_subtitles"] = commandment.get("commandment_subtitles", [])
         commandment["commandment_form"] = commandment.get("commandment_form", "")
 
         logging.debug(f"Processed commandment ID {commandment.get('id')}: type={commandment['commandment_type']}")
@@ -281,6 +282,7 @@ def restructure_commandments(commandments_data):
         restructured_commandment["id"] = commandment.get("id", "")
         restructured_commandment["title"] = commandment.get("title", "")
         restructured_commandment["commandment"] = commandment.get("commandment", "")
+        restructured_commandment["commandment_subtitles"] = commandment.get("commandment_subtitles", [])
         restructured_commandment["commentary_rudolph"] = commandment.get("commentary_rudolph", "")
         restructured_commandment["commentary_juster"] = commandment.get("commentary_juster", "")
         restructured_commandment["commandments_related_ot"] = commandment.get("commandments_related_ot", [])
