@@ -160,8 +160,14 @@ deactivate
 9. **2h_maimonides.py**  
    Extracts related IDs referencing Maimonides, Meir, and Chinuch and generates a structured YAML file. Output: `volume_1_2_output/output_2h_maimonides.yaml`.
 
-10. **3_merge_and_generate_Law_of_Messiah.py**  
-    Merges all YAML files in `volume_1_2_output` starting with `output_` and generates a combined YAML file. Output: `Law_of_Messiah_ot.yaml`.
+10. **2i_parse_app_j_maimonides.py**  
+   Parses `volume_1_2_scraped_files/App-J.php` and extracts the full Maimonides list (248 positive + 365 negative) into a structured YAML file. Output: `volume_1_2_output/output_maimonides.yaml`.
+
+11. **3_merge_and_generate_large_dict.py**  
+   Merges YAML files in `volume_1_2_output` starting with `output_` into an intermediate dictionary YAML. Output: `volume_1_2_output/output_3_dict.yaml`.
+
+12. **4_convert_dict_to_list.py**  
+   Converts `volume_1_2_output/output_3_dict.yaml` into the final ordered OT list file. Output: `Law_of_Messiah_ot.yaml`.
 
 #### Scripts in `volume_3_scripts`
 
@@ -231,6 +237,6 @@ The comparison report uses loose title normalization when checking equality so p
 #### Scripts in `filter_scripts`
 
 1. **filter_commandments.py**  
-   Allows filtering commandments based on custom criteria defined by the user. Output: `filter_output/filtererd_commandments.yaml`.
+   Allows filtering commandments based on custom criteria defined by the user. Output: `filter_output/filtered_commandments.yaml`.
 
    > NOTE: When checking `filter_unique` is True, it can take a while. Please be aware that this filter will never be perfect. It can be used as a starting point for further manual review.

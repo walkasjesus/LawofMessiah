@@ -1,0 +1,1845 @@
+source_file: volume_1_2_scraped_files/App-J.php
+totals:
+  positive: 248
+  negative: 365
+  all: 613
+commandments:
+- id: RP1
+  commandment_type: Positive
+  commandment: Believing in God
+- id: RP2
+  commandment_type: Positive
+  commandment: Unity of God
+- id: RP3
+  commandment_type: Positive
+  commandment: Loving God
+- id: RP4
+  commandment_type: Positive
+  commandment: Fearing God
+- id: RP5
+  commandment_type: Positive
+  commandment: Worshiping God
+- id: RP6
+  commandment_type: Positive
+  commandment: Cleaving to God
+- id: RP7
+  commandment_type: Positive
+  commandment: Taking an oath by God's Name
+- id: RP8
+  commandment_type: Positive
+  commandment: Walking in God's ways
+- id: RP9
+  commandment_type: Positive
+  commandment: Sanctifying God's Name
+- id: RP10
+  commandment_type: Positive
+  commandment: Reading the Shema twice daily
+- id: RP11
+  commandment_type: Positive
+  commandment: Studying and teaching Torah
+- id: RP12
+  commandment_type: Positive
+  commandment: Wearing Tefillin of the head
+- id: RP13
+  commandment_type: Positive
+  commandment: Wearing Tefillin of the hand
+- id: RP14
+  commandment_type: Positive
+  commandment: To make Tzitzis
+- id: RP15
+  commandment_type: Positive
+  commandment: To affix a Mezuzah
+- id: RP16
+  commandment_type: Positive
+  commandment: Hakhel (assembly) during Sukkot
+- id: RP17
+  commandment_type: Positive
+  commandment: A king should write a Torah
+- id: RP18
+  commandment_type: Positive
+  commandment: Everyone should write a Torah
+- id: RP19
+  commandment_type: Positive
+  commandment: Grace after meals
+- id: RP20
+  commandment_type: Positive
+  commandment: Building a Sanctuary for God
+- id: RP21
+  commandment_type: Positive
+  commandment: Revering the Beit Hamikdash (sanctuary)
+- id: RP22
+  commandment_type: Positive
+  commandment: Guarding the Mikdash (sanctuary)
+- id: RP23
+  commandment_type: Positive
+  commandment: Levitical services in the Mikdash (sanctuary)
+- id: RP24
+  commandment_type: Positive
+  commandment: Ablutions of the Kohanim
+- id: RP25
+  commandment_type: Positive
+  commandment: Kindling the lamps by the Kohanim
+- id: RP26
+  commandment_type: Positive
+  commandment: Kohanim blessing Israel
+- id: RP27
+  commandment_type: Positive
+  commandment: The Showbread
+- id: RP28
+  commandment_type: Positive
+  commandment: Burning the Incense
+- id: RP29
+  commandment_type: Positive
+  commandment: The perpetual fire on the Altar
+- id: RP30
+  commandment_type: Positive
+  commandment: Removing the ashes from the Altar
+- id: RP31
+  commandment_type: Positive
+  commandment: Removing tameh (unclean) persons from the camp
+- id: RP32
+  commandment_type: Positive
+  commandment: Honoring the Kohanim
+- id: RP33
+  commandment_type: Positive
+  commandment: The Priestly garments
+- id: RP34
+  commandment_type: Positive
+  commandment: Kohanim bearing the Ark on their shoulders
+- id: RP35
+  commandment_type: Positive
+  commandment: The oil of the Anointment
+- id: RP36
+  commandment_type: Positive
+  commandment: Kohanim ministering in watches
+- id: RP37
+  commandment_type: Positive
+  commandment: Kohanim defiling themselves for deceased relatives
+- id: RP38
+  commandment_type: Positive
+  commandment: Kohein Gadol should only marry a virgin
+- id: RP39
+  commandment_type: Positive
+  commandment: Daily Burnt Offerings
+- id: RP40
+  commandment_type: Positive
+  commandment: Kohein Gadol 's daily Meal Offering
+- id: RP41
+  commandment_type: Positive
+  commandment: The Shabbat Additional Offering
+- id: RP42
+  commandment_type: Positive
+  commandment: The New Moon Additional Offering
+- id: RP43
+  commandment_type: Positive
+  commandment: The Passover Additional Offering
+- id: RP44
+  commandment_type: Positive
+  commandment: The Meal Offering of the Omer
+- id: RP45
+  commandment_type: Positive
+  commandment: The Shavuot Additional Offering
+- id: RP46
+  commandment_type: Positive
+  commandment: Bring Two Loaves on Shavuot
+- id: RP47
+  commandment_type: Positive
+  commandment: The Rosh Hashana Additional Offering
+- id: RP48
+  commandment_type: Positive
+  commandment: The Yom Kippur Additional Offering
+- id: RP49
+  commandment_type: Positive
+  commandment: The Service of Yom Kippur
+- id: RP50
+  commandment_type: Positive
+  commandment: The Sukkot Offering
+- id: RP51
+  commandment_type: Positive
+  commandment: The Shemini Atzeret Additional Offering
+- id: RP52
+  commandment_type: Positive
+  commandment: The three annual pilgrimages
+- id: RP53
+  commandment_type: Positive
+  commandment: Appearing before the Lord during the Festivals
+- id: RP54
+  commandment_type: Positive
+  commandment: Rejoicing on the Festivals
+- id: RP55
+  commandment_type: Positive
+  commandment: Slaughtering the Passover Offering
+- id: RP56
+  commandment_type: Positive
+  commandment: Eating the Passover Offering
+- id: RP57
+  commandment_type: Positive
+  commandment: Slaughtering the Passover Sheini (second day) Offering
+- id: RP58
+  commandment_type: Positive
+  commandment: Eating the Passover Sheini (second day) Offering
+- id: RP59
+  commandment_type: Positive
+  commandment: Blowing the trumpets in the Sanctuary
+- id: RP60
+  commandment_type: Positive
+  commandment: Minimum age of cattle to be offered
+- id: RP61
+  commandment_type: Positive
+  commandment: Offering only unblemished sacrifices
+- id: RP62
+  commandment_type: Positive
+  commandment: Bringing salt with every offering
+- id: RP63
+  commandment_type: Positive
+  commandment: The Burnt-Offering
+- id: RP64
+  commandment_type: Positive
+  commandment: The Sin-Offering
+- id: RP65
+  commandment_type: Positive
+  commandment: The Guilt-Offering
+- id: RP66
+  commandment_type: Positive
+  commandment: The Peace-Offering
+- id: RP67
+  commandment_type: Positive
+  commandment: The Meal-Offering
+- id: RP68
+  commandment_type: Positive
+  commandment: Offerings of a Court that has erred
+- id: RP69
+  commandment_type: Positive
+  commandment: The Fixed Sin-Offering
+- id: RP70
+  commandment_type: Positive
+  commandment: The Suspensive Guilt-Offering
+- id: RP71
+  commandment_type: Positive
+  commandment: The Unconditional Guilt-Offering
+- id: RP72
+  commandment_type: Positive
+  commandment: The Offering of a Higher or Lower Value
+- id: RP73
+  commandment_type: Positive
+  commandment: Making confession
+- id: RP74
+  commandment_type: Positive
+  commandment: Offering brought by a zav (man with a discharge)
+- id: RP75
+  commandment_type: Positive
+  commandment: Offering brought by a zavah (woman with a discharge)
+- id: RP76
+  commandment_type: Positive
+  commandment: Offering of a woman after childbirth
+- id: RP77
+  commandment_type: Positive
+  commandment: Offering brought by a leper
+- id: RP78
+  commandment_type: Positive
+  commandment: Tithe of Cattle
+- id: RP79
+  commandment_type: Positive
+  commandment: Sanctifying the First-born
+- id: RP80
+  commandment_type: Positive
+  commandment: Redeeming the First-born
+- id: RP81
+  commandment_type: Positive
+  commandment: Redeeming the firstling of a donkey
+- id: RP82
+  commandment_type: Positive
+  commandment: Breaking the neck of the firstling of a donkey
+- id: RP83
+  commandment_type: Positive
+  commandment: Bringing due offerings on the first festival
+- id: RP84
+  commandment_type: Positive
+  commandment: All offerings to be brought to the Sanctuary
+- id: RP85
+  commandment_type: Positive
+  commandment: Bring all offerings due from outside Eretz Yisrael to Sanctuary
+- id: RP86
+  commandment_type: Positive
+  commandment: Redeeming blemished offerings
+- id: RP87
+  commandment_type: Positive
+  commandment: Holiness of substituted offerings
+- id: RP88
+  commandment_type: Positive
+  commandment: Kohanim eat the residue of the Meal Offerings
+- id: RP89
+  commandment_type: Positive
+  commandment: Kohanim eat the meat of the Consecrated Offerings
+- id: RP90
+  commandment_type: Positive
+  commandment: To burn Consecrated Offerings that have become tameh (unclean)
+- id: RP91
+  commandment_type: Positive
+  commandment: To burn the remnant of the Consecrated Offerings
+- id: RP92
+  commandment_type: Positive
+  commandment: The Nazir letting his hair grow
+- id: RP93
+  commandment_type: Positive
+  commandment: Nazirite obligations on completion of vow
+- id: RP94
+  commandment_type: Positive
+  commandment: All oral submissions to be fulfilled
+- id: RP95
+  commandment_type: Positive
+  commandment: Revocation of vows
+- id: RP96
+  commandment_type: Positive
+  commandment: Defilement through carcasses of animals
+- id: RP97
+  commandment_type: Positive
+  commandment: Defilement through carcasses of eight creeping creatures
+- id: RP98
+  commandment_type: Positive
+  commandment: Defilement of food and drink
+- id: RP99
+  commandment_type: Positive
+  commandment: Tumah (ritual impurity) of a menstruant
+- id: RP100
+  commandment_type: Positive
+  commandment: Tumah (ritual impurity) of a woman after childbirth
+- id: RP101
+  commandment_type: Positive
+  commandment: Tumah (ritual impurity) of a leper
+- id: RP102
+  commandment_type: Positive
+  commandment: Garments contaminated by leprosy
+- id: RP103
+  commandment_type: Positive
+  commandment: A leprous house
+- id: RP104
+  commandment_type: Positive
+  commandment: Tumah (ritual impurity) of a zav (man with a discharge)
+- id: RP105
+  commandment_type: Positive
+  commandment: Tumah (ritual impurity) of semen
+- id: RP106
+  commandment_type: Positive
+  commandment: Tumah (ritual impurity) of a zavah (woman with a discharge)
+- id: RP107
+  commandment_type: Positive
+  commandment: Tumah (ritual impurity) of a corpse
+- id: RP108
+  commandment_type: Positive
+  commandment: The law of the water of sprinkling
+- id: RP109
+  commandment_type: Positive
+  commandment: Immersing in a mikveh
+- id: RP110
+  commandment_type: Positive
+  commandment: Cleansing from Leprosy
+- id: RP111
+  commandment_type: Positive
+  commandment: A leper must shave his head
+- id: RP112
+  commandment_type: Positive
+  commandment: The leper must be made distinguishable
+- id: RP113
+  commandment_type: Positive
+  commandment: Ashes of the Red Heifer
+- id: RP114
+  commandment_type: Positive
+  commandment: Valuation of a person
+- id: RP115
+  commandment_type: Positive
+  commandment: Valuation of beasts
+- id: RP116
+  commandment_type: Positive
+  commandment: Valuation of houses
+- id: RP117
+  commandment_type: Positive
+  commandment: Valuation of fields
+- id: RP118
+  commandment_type: Positive
+  commandment: Restitution for Sacrilege
+- id: RP119
+  commandment_type: Positive
+  commandment: The fruits of the fourth-year planting
+- id: RP120
+  commandment_type: Positive
+  commandment: To leave the corners ( Peah ) for the poor
+- id: RP121
+  commandment_type: Positive
+  commandment: To leave gleanings for the poor
+- id: RP122
+  commandment_type: Positive
+  commandment: To leave the forgotten sheaf for the poor
+- id: RP123
+  commandment_type: Positive
+  commandment: To leave defective grape clusters for the poor
+- id: RP124
+  commandment_type: Positive
+  commandment: To leave grape gleanings for the poor
+- id: RP125
+  commandment_type: Positive
+  commandment: To bring First-fruits to the Sanctuary
+- id: RP126
+  commandment_type: Positive
+  commandment: To set aside the great Heave-offering
+- id: RP127
+  commandment_type: Positive
+  commandment: To set aside the first tithe
+- id: RP128
+  commandment_type: Positive
+  commandment: To set aside the second tithe
+- id: RP129
+  commandment_type: Positive
+  commandment: The Levites' tithe for the Kohanim
+- id: RP130
+  commandment_type: Positive
+  commandment: To set aside the poor-man's tithe in the third and sixth year
+- id: RP131
+  commandment_type: Positive
+  commandment: The avowal of the tithe
+- id: RP132
+  commandment_type: Positive
+  commandment: Recital on bringing the First-fruits
+- id: RP133
+  commandment_type: Positive
+  commandment: To set aside the Challah for the Kohein
+- id: RP134
+  commandment_type: Positive
+  commandment: Renouncing as ownerless produce of the Sabbatical year
+- id: RP135
+  commandment_type: Positive
+  commandment: Resting the land on the Sabbatical year
+- id: RP136
+  commandment_type: Positive
+  commandment: Sanctifying the Jubilee year
+- id: RP137
+  commandment_type: Positive
+  commandment: Blowing the Shofar in the Jubilee year
+- id: RP138
+  commandment_type: Positive
+  commandment: Reversion of the land in the Jubilee year
+- id: RP139
+  commandment_type: Positive
+  commandment: Redemption of property in a walled city
+- id: RP140
+  commandment_type: Positive
+  commandment: Counting the years till the Jubilee year
+- id: RP141
+  commandment_type: Positive
+  commandment: Canceling monetary claims in the Sabbatical year
+- id: RP142
+  commandment_type: Positive
+  commandment: Exacting debts from idolaters
+- id: RP143
+  commandment_type: Positive
+  commandment: The Kohein 's due in the slaughter of every clean animal
+- id: RP144
+  commandment_type: Positive
+  commandment: The first of the fleece to be given to the Kohein
+- id: RP145
+  commandment_type: Positive
+  commandment: Devoted thing to God and the Kohein
+- id: RP146
+  commandment_type: Positive
+  commandment: Slaughtering animals before eating them
+- id: RP147
+  commandment_type: Positive
+  commandment: Covering the blood of slain birds and animals
+- id: RP148
+  commandment_type: Positive
+  commandment: Releasing the mother before taking the nest
+- id: RP149
+  commandment_type: Positive
+  commandment: Searching for the prescribed signs in cattle and animals
+- id: RP150
+  commandment_type: Positive
+  commandment: Searching for the prescribed signs in birds
+- id: RP151
+  commandment_type: Positive
+  commandment: Searching for the prescribed signs in grasshoppers
+- id: RP152
+  commandment_type: Positive
+  commandment: Searching for the prescribed signs in fishes
+- id: RP153
+  commandment_type: Positive
+  commandment: Determining the New Moon
+- id: RP154
+  commandment_type: Positive
+  commandment: Resting on Shabbat
+- id: RP155
+  commandment_type: Positive
+  commandment: Proclaiming the sanctity of Shabbat
+- id: RP156
+  commandment_type: Positive
+  commandment: Removal of chametz on Passover
+- id: RP157
+  commandment_type: Positive
+  commandment: Recounting Exodus from Egypt on first night of Passover
+- id: RP158
+  commandment_type: Positive
+  commandment: Eating Matzah on the first night of Passover
+- id: RP159
+  commandment_type: Positive
+  commandment: Resting on the first day of Passover
+- id: RP160
+  commandment_type: Positive
+  commandment: Resting on the seventh day of Passover
+- id: RP161
+  commandment_type: Positive
+  commandment: Counting the Omer
+- id: RP162
+  commandment_type: Positive
+  commandment: Resting on Shavuot
+- id: RP163
+  commandment_type: Positive
+  commandment: Resting on Rosh Hashana
+- id: RP164
+  commandment_type: Positive
+  commandment: Fasting on Yom Kippur
+- id: RP165
+  commandment_type: Positive
+  commandment: Resting on Yom Kippur
+- id: RP166
+  commandment_type: Positive
+  commandment: Resting on the first day of Sukkot
+- id: RP167
+  commandment_type: Positive
+  commandment: Resting on Shemini Atzeret
+- id: RP168
+  commandment_type: Positive
+  commandment: Dwelling in a Sukkah for seven days
+- id: RP169
+  commandment_type: Positive
+  commandment: Taking a Lulav on Sukkot
+- id: RP170
+  commandment_type: Positive
+  commandment: Hearing a Shofar on Rosh Hashana
+- id: RP171
+  commandment_type: Positive
+  commandment: Giving half a shekel annually
+- id: RP172
+  commandment_type: Positive
+  commandment: Heeding the Prophets
+- id: RP173
+  commandment_type: Positive
+  commandment: Appointing a King
+- id: RP174
+  commandment_type: Positive
+  commandment: Obeying the Great Court
+- id: RP175
+  commandment_type: Positive
+  commandment: Abiding by a majority decision
+- id: RP176
+  commandment_type: Positive
+  commandment: Appointing Judges and Officers of the Court
+- id: RP177
+  commandment_type: Positive
+  commandment: Treating litigants equally before the law
+- id: RP178
+  commandment_type: Positive
+  commandment: Testifying in Court
+- id: RP179
+  commandment_type: Positive
+  commandment: Inquiring into the testimony of witnesses
+- id: RP180
+  commandment_type: Positive
+  commandment: Condemning witnesses who testify falsely
+- id: RP181
+  commandment_type: Positive
+  commandment: Eglah Arufah (beheading of a heifer)
+- id: RP182
+  commandment_type: Positive
+  commandment: Establishing Six Cities of Refuge
+- id: RP183
+  commandment_type: Positive
+  commandment: Assigning cities to the Levi'im
+- id: RP184
+  commandment_type: Positive
+  commandment: Building fences on roofs; removing sources of danger from our dwellings
+- id: RP185
+  commandment_type: Positive
+  commandment: Destroying all idol-worship
+- id: RP186
+  commandment_type: Positive
+  commandment: The law of the apostate city
+- id: RP187
+  commandment_type: Positive
+  commandment: The law of the Seven Nations
+- id: RP188
+  commandment_type: Positive
+  commandment: The extinction of the seed of Amalek
+- id: RP189
+  commandment_type: Positive
+  commandment: Remembering the nefarious deeds of Amalek
+- id: RP190
+  commandment_type: Positive
+  commandment: The law of the non-obligatory war
+- id: RP191
+  commandment_type: Positive
+  commandment: Appoint a Kohein to speak to the people going to war and send back any man unfit for battle
+- id: RP192
+  commandment_type: Positive
+  commandment: Preparing a place beyond the camp
+- id: RP193
+  commandment_type: Positive
+  commandment: Including a digging tool among war implements
+- id: RP194
+  commandment_type: Positive
+  commandment: A robber to restore the stolen article
+- id: RP195
+  commandment_type: Positive
+  commandment: To give charity
+- id: RP196
+  commandment_type: Positive
+  commandment: Lavishing gifts on a Hebrew bondman on his freedom
+- id: RP197
+  commandment_type: Positive
+  commandment: Lending money to the poor
+- id: RP198
+  commandment_type: Positive
+  commandment: Lending money to the heathen with interest
+- id: RP199
+  commandment_type: Positive
+  commandment: Restoring a pledge to a needy owner
+- id: RP200
+  commandment_type: Positive
+  commandment: Paying wages on time
+- id: RP201
+  commandment_type: Positive
+  commandment: An employee is allowed to eat the produce he's working in
+- id: RP202
+  commandment_type: Positive
+  commandment: Unloading a tired animal
+- id: RP203
+  commandment_type: Positive
+  commandment: Assisting the owner in loading his burden
+- id: RP204
+  commandment_type: Positive
+  commandment: Returning lost property to its owner
+- id: RP205
+  commandment_type: Positive
+  commandment: Rebuking the sinner
+- id: RP206
+  commandment_type: Positive
+  commandment: Loving our Fellow Jew
+- id: RP207
+  commandment_type: Positive
+  commandment: Loving the convert
+- id: RP208
+  commandment_type: Positive
+  commandment: The law of weights and measures
+- id: RP209
+  commandment_type: Positive
+  commandment: Honoring scholars
+- id: RP210
+  commandment_type: Positive
+  commandment: Honoring parents
+- id: RP211
+  commandment_type: Positive
+  commandment: Fearing parents
+- id: RP212
+  commandment_type: Positive
+  commandment: Be fruitful and multiply
+- id: RP213
+  commandment_type: Positive
+  commandment: The law of marriage
+- id: RP214
+  commandment_type: Positive
+  commandment: Bridegroom devotes himself to his wife for one year
+- id: RP215
+  commandment_type: Positive
+  commandment: Circumcising one's son
+- id: RP216
+  commandment_type: Positive
+  commandment: Law of the Levirite Marriage
+- id: RP217
+  commandment_type: Positive
+  commandment: Law of Chalitzah (taking off the shoe)
+- id: RP218
+  commandment_type: Positive
+  commandment: A violator must marry the maiden he has violated
+- id: RP219
+  commandment_type: Positive
+  commandment: The law of the defamer of his bride
+- id: RP220
+  commandment_type: Positive
+  commandment: The law of the seducer
+- id: RP221
+  commandment_type: Positive
+  commandment: The law of the captive woman
+- id: RP222
+  commandment_type: Positive
+  commandment: The law of divorce
+- id: RP223
+  commandment_type: Positive
+  commandment: The law of a suspected adulteress
+- id: RP224
+  commandment_type: Positive
+  commandment: Whipping transgressors of certain commandments
+- id: RP225
+  commandment_type: Positive
+  commandment: The law of unintentional manslaughter
+- id: RP226
+  commandment_type: Positive
+  commandment: Beheading transgressors of certain commandments
+- id: RP227
+  commandment_type: Positive
+  commandment: Strangling transgressors of certain commandments
+- id: RP228
+  commandment_type: Positive
+  commandment: Burning transgressors of certain commandments
+- id: RP229
+  commandment_type: Positive
+  commandment: Stoning transgressors of certain commandments
+- id: RP230
+  commandment_type: Positive
+  commandment: Hanging after execution, transgressors of certain commandments
+- id: RP231
+  commandment_type: Positive
+  commandment: Burial on the day of execution
+- id: RP232
+  commandment_type: Positive
+  commandment: The law of the Hebrew bondman
+- id: RP233
+  commandment_type: Positive
+  commandment: Hebrew bondmaid to be married by her master or his son
+- id: RP234
+  commandment_type: Positive
+  commandment: Redemption of a Hebrew bondmaid
+- id: RP235
+  commandment_type: Positive
+  commandment: The law of a Canaanite bondman
+- id: RP236
+  commandment_type: Positive
+  commandment: Penalty of inflicting injury
+- id: RP237
+  commandment_type: Positive
+  commandment: The law of injuries caused by an ox
+- id: RP238
+  commandment_type: Positive
+  commandment: The law of injuries caused by a pit
+- id: RP239
+  commandment_type: Positive
+  commandment: The law of theft
+- id: RP240
+  commandment_type: Positive
+  commandment: The law of damage caused by a beast
+- id: RP241
+  commandment_type: Positive
+  commandment: The law of damage caused by a fire
+- id: RP242
+  commandment_type: Positive
+  commandment: The law of an unpaid bailee
+- id: RP243
+  commandment_type: Positive
+  commandment: The law of a paid bailee
+- id: RP244
+  commandment_type: Positive
+  commandment: The law of a borrower
+- id: RP245
+  commandment_type: Positive
+  commandment: The law of buying and selling
+- id: RP246
+  commandment_type: Positive
+  commandment: The law of litigants
+- id: RP247
+  commandment_type: Positive
+  commandment: Saving the life of the pursued
+- id: RP248
+  commandment_type: Positive
+  commandment: The law of inheritance
+- id: RN1
+  commandment_type: Negative
+  commandment: Not believing in any other God
+- id: RN2
+  commandment_type: Negative
+  commandment: Not to make images for the purpose of worship
+- id: RN3
+  commandment_type: Negative
+  commandment: Not to make an idol (even for others) to worship
+- id: RN4
+  commandment_type: Negative
+  commandment: Not to make figures of human beings
+- id: RN5
+  commandment_type: Negative
+  commandment: Not to bow down to an idol
+- id: RN6
+  commandment_type: Negative
+  commandment: Not to worship idols
+- id: RN7
+  commandment_type: Negative
+  commandment: Not to hand over any children to Molech
+- id: RN8
+  commandment_type: Negative
+  commandment: Not to practice sorcery of the ov
+- id: RN9
+  commandment_type: Negative
+  commandment: Not to practice sorcery of the yidde'oni
+- id: RN10
+  commandment_type: Negative
+  commandment: Not to study idolatrous practices
+- id: RN11
+  commandment_type: Negative
+  commandment: Not to erect a pillar which people will assemble to honor
+- id: RN12
+  commandment_type: Negative
+  commandment: Not to make figured stones on which to prostrate ourselves
+- id: RN13
+  commandment_type: Negative
+  commandment: Not to plant trees in the Sanctuary
+- id: RN14
+  commandment_type: Negative
+  commandment: Not to swear by an idol
+- id: RN15
+  commandment_type: Negative
+  commandment: Not to people to idolatry
+- id: RN16
+  commandment_type: Negative
+  commandment: Not to try to persuade an Israelite to worship idols
+- id: RN17
+  commandment_type: Negative
+  commandment: Not to love someone who seeks to mislead you to idols
+- id: RN18
+  commandment_type: Negative
+  commandment: Not to relax one's aversion to the misleader
+- id: RN19
+  commandment_type: Negative
+  commandment: Not to save the life of a misleader
+- id: RN20
+  commandment_type: Negative
+  commandment: Not to plead for the misleader
+- id: RN21
+  commandment_type: Negative
+  commandment: Not to oppress evidence unfavorable to the misleader
+- id: RN22
+  commandment_type: Negative
+  commandment: No benefit from ornaments which have adorned an idol
+- id: RN23
+  commandment_type: Negative
+  commandment: Not rebuilding an apostate city
+- id: RN24
+  commandment_type: Negative
+  commandment: Not deriving benefit from property of an apostate city
+- id: RN25
+  commandment_type: Negative
+  commandment: Not increasing wealth from anything connected with idolatry
+- id: RN26
+  commandment_type: Negative
+  commandment: Not prophesying in the name of an idol
+- id: RN27
+  commandment_type: Negative
+  commandment: Not prophesying falsely
+- id: RN28
+  commandment_type: Negative
+  commandment: Not to listen to the prophesy made in the name of an idol
+- id: RN29
+  commandment_type: Negative
+  commandment: Not fearing or refraining from killing a false prophet
+- id: RN30
+  commandment_type: Negative
+  commandment: Not adopting the habits and customs of unbelievers
+- id: RN31
+  commandment_type: Negative
+  commandment: Not practicing divination
+- id: RN32
+  commandment_type: Negative
+  commandment: Not regulating one's conduct by the stars
+- id: RN33
+  commandment_type: Negative
+  commandment: Not practicing the art of the soothsayer
+- id: RN34
+  commandment_type: Negative
+  commandment: Not practicing sorcery
+- id: RN35
+  commandment_type: Negative
+  commandment: Not practicing the art of the charmer
+- id: RN36
+  commandment_type: Negative
+  commandment: Not consulting a necromancer who uses the ov
+- id: RN37
+  commandment_type: Negative
+  commandment: Not consulting a sorcerer who uses the ydo'a
+- id: RN38
+  commandment_type: Negative
+  commandment: Not to seek information from the dead
+- id: RN39
+  commandment_type: Negative
+  commandment: Women not to wear men's clothes or adornments
+- id: RN40
+  commandment_type: Negative
+  commandment: Men not wearing women's clothes or adornments
+- id: RN41
+  commandment_type: Negative
+  commandment: Not imprinting any marks on our bodies
+- id: RN42
+  commandment_type: Negative
+  commandment: Not wearing Shatnes (mixture of wool and linen)
+- id: RN43
+  commandment_type: Negative
+  commandment: Not shaving the temples of the head
+- id: RN44
+  commandment_type: Negative
+  commandment: Not shaving the beard
+- id: RN45
+  commandment_type: Negative
+  commandment: Not making cuttings in our flesh
+- id: RN46
+  commandment_type: Negative
+  commandment: Not settling in the land of Egypt
+- id: RN47
+  commandment_type: Negative
+  commandment: Not to follow one's heart or eyes
+- id: RN48
+  commandment_type: Negative
+  commandment: Not to make a covenant with the Seven Nations of Canaan
+- id: RN49
+  commandment_type: Negative
+  commandment: Not to spare the life of the Seven Nations
+- id: RN50
+  commandment_type: Negative
+  commandment: Not to show mercy to idolaters
+- id: RN51
+  commandment_type: Negative
+  commandment: Not to allow idolaters to settle in our land
+- id: RN52
+  commandment_type: Negative
+  commandment: Not to intermarry with an heretic
+- id: RN53
+  commandment_type: Negative
+  commandment: Not to intermarry with a male from Ammon or Moav
+- id: RN54
+  commandment_type: Negative
+  commandment: Not to exclude the descendants of Esau
+- id: RN55
+  commandment_type: Negative
+  commandment: Not to exclude the descendants of Egyptians
+- id: RN56
+  commandment_type: Negative
+  commandment: Not offering peace to Ammon and Moav
+- id: RN57
+  commandment_type: Negative
+  commandment: Not destroying fruit trees in time of siege
+- id: RN58
+  commandment_type: Negative
+  commandment: Not fearing heretics in time of war
+- id: RN59
+  commandment_type: Negative
+  commandment: Not forgetting what Amalek did to us
+- id: RN60
+  commandment_type: Negative
+  commandment: Not blaspheming the Great Name
+- id: RN61
+  commandment_type: Negative
+  commandment: Not violating a shevuat bittui (oath of utterance)
+- id: RN62
+  commandment_type: Negative
+  commandment: Not swearing a shevuat shav (vain oath)
+- id: RN63
+  commandment_type: Negative
+  commandment: Not profaning the Name of God
+- id: RN64
+  commandment_type: Negative
+  commandment: Not testing His promises and warnings
+- id: RN65
+  commandment_type: Negative
+  commandment: Not to break down houses of worship or to destroy holy books
+- id: RN66
+  commandment_type: Negative
+  commandment: Not leaving the body of an executed criminal hanging overnight
+- id: RN67
+  commandment_type: Negative
+  commandment: Not to interrupt the watch over the Sanctuary
+- id: RN68
+  commandment_type: Negative
+  commandment: Kohein Gadol may not enter Sanctuary at any but prescribed times
+- id: RN69
+  commandment_type: Negative
+  commandment: Kohein with blemish not to enter Sanctuary from Altar inwards
+- id: RN70
+  commandment_type: Negative
+  commandment: Kohein with a blemish not to minister in the Sanctuary
+- id: RN71
+  commandment_type: Negative
+  commandment: Kohein with a temporary blemish not to minister in Sanctuary
+- id: RN72
+  commandment_type: Negative
+  commandment: Levites and Kohanim not perform each other's allotted services
+- id: RN73
+  commandment_type: Negative
+  commandment: Not to be intoxicated when entering Sanctuary; and not to be intoxicated when giving a decision on Torah law
+- id: RN74
+  commandment_type: Negative
+  commandment: Zar (non- kohein ) not to minister in Sanctuary
+- id: RN75
+  commandment_type: Negative
+  commandment: Tameh Kohein (unclean priest) not to minister in Sanctuary
+- id: RN76
+  commandment_type: Negative
+  commandment: Kohein who is tevul yom (unclean until evening) not to minister in Sanctuary
+- id: RN77
+  commandment_type: Negative
+  commandment: Tameh (unclean) person not to enter any part of Sanctuary
+- id: RN78
+  commandment_type: Negative
+  commandment: Tameh (unclean) person not to enter camp of Levites
+- id: RN79
+  commandment_type: Negative
+  commandment: Not to build an Altar of stones which were touched by iron
+- id: RN80
+  commandment_type: Negative
+  commandment: Not to ascend the Altar by steps
+- id: RN81
+  commandment_type: Negative
+  commandment: Not to extinguish the Altar fire
+- id: RN82
+  commandment_type: Negative
+  commandment: Not to offer any sacrifice whatever on the Golden Altar
+- id: RN83
+  commandment_type: Negative
+  commandment: Not to make oil like the Oil of Anointment
+- id: RN84
+  commandment_type: Negative
+  commandment: Not anoint anyone with special oil except Kohein Gadol and King
+- id: RN85
+  commandment_type: Negative
+  commandment: Not to make incense like used in Sanctuary
+- id: RN86
+  commandment_type: Negative
+  commandment: Not to remove the staves from their rings in the Ark
+- id: RN87
+  commandment_type: Negative
+  commandment: Not to remove the Breastplate from the Ephod
+- id: RN88
+  commandment_type: Negative
+  commandment: Not to tear the edge of the Kohein Gadol 's robe
+- id: RN89
+  commandment_type: Negative
+  commandment: Not to offer sacrifices outside the Sanctuary Court
+- id: RN90
+  commandment_type: Negative
+  commandment: Not to slaughter holy offerings outside the Sanctuary Court
+- id: RN91
+  commandment_type: Negative
+  commandment: Not to dedicate a blemished animal to be offered on the Altar
+- id: RN92
+  commandment_type: Negative
+  commandment: Not to slaughter a blemished animal as a korban (sacrifice)
+- id: RN93
+  commandment_type: Negative
+  commandment: Not to dash the blood of a blemished beast on the Altar
+- id: RN94
+  commandment_type: Negative
+  commandment: Not to burn the sacrificial portions of blemished beast on Altar
+- id: RN95
+  commandment_type: Negative
+  commandment: Not to sacrifice a beast with a temporary blemish
+- id: RN96
+  commandment_type: Negative
+  commandment: Not to offer a blemished sacrifice of a gentile
+- id: RN97
+  commandment_type: Negative
+  commandment: Not to cause an offering to become blemished
+- id: RN98
+  commandment_type: Negative
+  commandment: Not to offer leaven or honey upon the Altar
+- id: RN99
+  commandment_type: Negative
+  commandment: Not to offer a sacrifice without salt
+- id: RN100
+  commandment_type: Negative
+  commandment: Not to offer on Altar the "hire of a harlot" or "price of a dog"
+- id: RN101
+  commandment_type: Negative
+  commandment: Not to slaughter the mother and her young on the same day
+- id: RN102
+  commandment_type: Negative
+  commandment: Not to put olive oil on the meal-offering of a sinner
+- id: RN103
+  commandment_type: Negative
+  commandment: Not to put frankincense on the meal-offering of a sinner
+- id: RN104
+  commandment_type: Negative
+  commandment: Not to mingle olive oil with meal-offering of suspected adulteress
+- id: RN105
+  commandment_type: Negative
+  commandment: Not to put frankincense on meal-offering of suspected adulteress
+- id: RN106
+  commandment_type: Negative
+  commandment: Not to change a beast that has been consecrated as an offering
+- id: RN107
+  commandment_type: Negative
+  commandment: Not to change one's holy offering for another
+- id: RN108
+  commandment_type: Negative
+  commandment: Not to redeem the firstling (of a clean beast)
+- id: RN109
+  commandment_type: Negative
+  commandment: Not to sell the tithe of cattle
+- id: RN110
+  commandment_type: Negative
+  commandment: Not to sell devoted property
+- id: RN111
+  commandment_type: Negative
+  commandment: Not to redeem devoted land without specific statement of purpose
+- id: RN112
+  commandment_type: Negative
+  commandment: Not to sever the head of the bird of Sin-offering during melikah (pinching the head)
+- id: RN113
+  commandment_type: Negative
+  commandment: Not to do any work with a dedicated beast
+- id: RN114
+  commandment_type: Negative
+  commandment: Not to shear a dedicated beast
+- id: RN115
+  commandment_type: Negative
+  commandment: Not slaughter the Korban of Passover while chametz in our possession
+- id: RN116
+  commandment_type: Negative
+  commandment: Not leave any sacrificial portions of the Korban of Passover overnight
+- id: RN117
+  commandment_type: Negative
+  commandment: Not allow meat of the Korban of Passover to remain till morning
+- id: RN118
+  commandment_type: Negative
+  commandment: 'Not allow meat of 14 Nissan Festival Offering remain till day 3:'
+- id: RN119
+  commandment_type: Negative
+  commandment: Not allow meat of Passover Sheini (second day) offering to remain till morning
+- id: RN120
+  commandment_type: Negative
+  commandment: Not allow meat of thanksgiving offering to remain till morning
+- id: RN121
+  commandment_type: Negative
+  commandment: Not to break any bones of Passover offering
+- id: RN122
+  commandment_type: Negative
+  commandment: Not to break any bones of Passover Sheini (second day) offering
+- id: RN123
+  commandment_type: Negative
+  commandment: Not to remove Passover offering from where it is eaten
+- id: RN124
+  commandment_type: Negative
+  commandment: Not to bake the residue of a meal offering with leaven
+- id: RN125
+  commandment_type: Negative
+  commandment: Not to eat the Passover offering boiled or raw
+- id: RN126
+  commandment_type: Negative
+  commandment: Not to allow a ger toshav (resident alien) to eat the Passover offering
+- id: RN127
+  commandment_type: Negative
+  commandment: An uncircumcised person may not eat the Passover offering
+- id: RN128
+  commandment_type: Negative
+  commandment: Not to allow an apostate Israelite to eat the Passover offering
+- id: RN129
+  commandment_type: Negative
+  commandment: Tameh (unclean) person may not eat hallowed food
+- id: RN130
+  commandment_type: Negative
+  commandment: Not to eat meat of consecrated offerings which have become tameh (unclean)
+- id: RN131
+  commandment_type: Negative
+  commandment: Not eating nothar (meat kept beyond allotted time)
+- id: RN132
+  commandment_type: Negative
+  commandment: Not eating piggul (meat slaughtered with improper intentions)
+- id: RN133
+  commandment_type: Negative
+  commandment: A zar (person not descended from Aaron) may not eat terumah (offering)
+- id: RN134
+  commandment_type: Negative
+  commandment: A Kohein 's tenant or hired servant may not eat terumah (offering)
+- id: RN135
+  commandment_type: Negative
+  commandment: An uncircumcised Kohein may not eat terumah (offering)
+- id: RN136
+  commandment_type: Negative
+  commandment: Tameh Kohein (unclean priest) may not eat terumah (offering)
+- id: RN137
+  commandment_type: Negative
+  commandment: A chalalah (woman of disqualified priestly affiliation) may not eat holy food
+- id: RN138
+  commandment_type: Negative
+  commandment: Not to eat the meal-offering of a Kohein
+- id: RN139
+  commandment_type: Negative
+  commandment: Not eat Sin-offering meat whose blood was brought into Sanctuary
+- id: RN140
+  commandment_type: Negative
+  commandment: Not to eat the invalidated consecrated offerings
+- id: RN141
+  commandment_type: Negative
+  commandment: Not to eat unredeemed 2nd tithe of corn outside Yerushalayim
+- id: RN142
+  commandment_type: Negative
+  commandment: Not consuming unredeemed 2nd tithe of wine outside Yerushalayim
+- id: RN143
+  commandment_type: Negative
+  commandment: Not consuming unredeemed 2nd tithe of oil outside Yerushalayim
+- id: RN144
+  commandment_type: Negative
+  commandment: Not eating an unblemished firstling outside Yerushalayim
+- id: RN145
+  commandment_type: Negative
+  commandment: Not eat sin-offering and guilt-offering outside Sanctuary court
+- id: RN146
+  commandment_type: Negative
+  commandment: Not to eat the meat of a burnt offering
+- id: RN147
+  commandment_type: Negative
+  commandment: Not eat lesser holy offerings before blood dashed on Altar
+- id: RN148
+  commandment_type: Negative
+  commandment: A zar (person not descended from Aaron) not to eat the most holy offerings
+- id: RN149
+  commandment_type: Negative
+  commandment: Kohein not to eat first fruits outside Yerushalayim
+- id: RN150
+  commandment_type: Negative
+  commandment: Not eating an unredeemed tameh (unclean) 2nd tithe, even in Yerushalayim
+- id: RN151
+  commandment_type: Negative
+  commandment: Not eating the 2nd tithe during mourning
+- id: RN152
+  commandment_type: Negative
+  commandment: Not spend 2nd tithe redemption money, except on food and drink
+- id: RN153
+  commandment_type: Negative
+  commandment: Not eating tevel (produce heave-offering and tithes not taken)
+- id: RN154
+  commandment_type: Negative
+  commandment: Not altering the prescribed order of harvest tithing
+- id: RN155
+  commandment_type: Negative
+  commandment: Not to delay payment of vows
+- id: RN156
+  commandment_type: Negative
+  commandment: Not to appear in Sanctuary on festival without sacrifice
+- id: RN157
+  commandment_type: Negative
+  commandment: Not to infringe on any oral obligation, even if without an oath
+- id: RN158
+  commandment_type: Negative
+  commandment: Kohein may not marry a zonah (woman of loose morals)
+- id: RN159
+  commandment_type: Negative
+  commandment: Kohein may not marry a chalalah (woman of disqualified priestly affiliation)
+- id: RN160
+  commandment_type: Negative
+  commandment: Kohein may not marry a divorcee
+- id: RN161
+  commandment_type: Negative
+  commandment: Kohein Gadol may not marry a widow
+- id: RN162
+  commandment_type: Negative
+  commandment: Kohein Gadol may not have relations with a widow
+- id: RN163
+  commandment_type: Negative
+  commandment: Kohein with disheveled hair may not enter the Sanctuary
+- id: RN164
+  commandment_type: Negative
+  commandment: Kohein wearing rent garments may not enter Sanctuary
+- id: RN165
+  commandment_type: Negative
+  commandment: Ministering Kohanim may not leave the Sanctuary
+- id: RN166
+  commandment_type: Negative
+  commandment: Common Kohein may not defile himself for dead (exceptions stated)
+- id: RN167
+  commandment_type: Negative
+  commandment: Kohein Gadol may not be under one roof with dead body
+- id: RN168
+  commandment_type: Negative
+  commandment: Kohein Gadol may not defile himself for any dead person
+- id: RN169
+  commandment_type: Negative
+  commandment: Levites may not take a share of the land
+- id: RN170
+  commandment_type: Negative
+  commandment: Levites may not share in the spoil on conquest of the Land
+- id: RN171
+  commandment_type: Negative
+  commandment: Not to tear out hair for the dead
+- id: RN172
+  commandment_type: Negative
+  commandment: Not to eat any unclean animal
+- id: RN173
+  commandment_type: Negative
+  commandment: Not to eat any unclean fish
+- id: RN174
+  commandment_type: Negative
+  commandment: Not to eat any unclean fowl
+- id: RN175
+  commandment_type: Negative
+  commandment: Not to eat any swarming winged insect
+- id: RN176
+  commandment_type: Negative
+  commandment: Not to eat anything which swarms on the earth
+- id: RN177
+  commandment_type: Negative
+  commandment: Not to eat any creeping thing that breeds in decayed matter
+- id: RN178
+  commandment_type: Negative
+  commandment: Not to eat living creatures that breed in seeds or fruit
+- id: RN179
+  commandment_type: Negative
+  commandment: Not to eat any swarming thing
+- id: RN180
+  commandment_type: Negative
+  commandment: Not to eat any animal which is a nevelah (died of self)
+- id: RN181
+  commandment_type: Negative
+  commandment: Not to eat an animal which is a treifah (animal torn by wild beast)
+- id: RN182
+  commandment_type: Negative
+  commandment: Not to eat a limb of a living animal
+- id: RN183
+  commandment_type: Negative
+  commandment: Not to eat the gid hanasheh (sinew of the thigh-vein)
+- id: RN184
+  commandment_type: Negative
+  commandment: Not to eat blood
+- id: RN185
+  commandment_type: Negative
+  commandment: Not to eat the fat of a clean animal
+- id: RN186
+  commandment_type: Negative
+  commandment: Not to cook meat in milk
+- id: RN187
+  commandment_type: Negative
+  commandment: Not to eat meat cooked in milk
+- id: RN188
+  commandment_type: Negative
+  commandment: Not to eat the flesh of a stoned ox
+- id: RN189
+  commandment_type: Negative
+  commandment: Not to eat bread made from grain of new crop
+- id: RN190
+  commandment_type: Negative
+  commandment: Not to eat roasted grain of the new crop
+- id: RN191
+  commandment_type: Negative
+  commandment: Not to eat fresh ears of grain
+- id: RN192
+  commandment_type: Negative
+  commandment: Not to eat orlah (fruit of trees less than three years old)
+- id: RN193
+  commandment_type: Negative
+  commandment: Not to eat kilai hakerem (vineyard sown with different kinds of seed)
+- id: RN194
+  commandment_type: Negative
+  commandment: Not to drink yayin nesach (libation wine for idol worship)
+- id: RN195
+  commandment_type: Negative
+  commandment: No eating or drinking to excess
+- id: RN196
+  commandment_type: Negative
+  commandment: Not to eat on Yom Kippur
+- id: RN197
+  commandment_type: Negative
+  commandment: Not to eat chametz (leavened bread or prohibited grains) on Passover
+- id: RN198
+  commandment_type: Negative
+  commandment: Not to eat an admixture of chametz (leavened bread or prohibited grains) on Passover
+- id: RN199
+  commandment_type: Negative
+  commandment: Not to eat chametz after noon of 14 Nissan
+- id: RN200
+  commandment_type: Negative
+  commandment: No chametz may be seen in our homes during Passover
+- id: RN201
+  commandment_type: Negative
+  commandment: Not to possess chametz during Passover
+- id: RN202
+  commandment_type: Negative
+  commandment: A Nazir (Nazirite) may not drink wine
+- id: RN203
+  commandment_type: Negative
+  commandment: A Nazir (Nazirite) may not eat fresh grapes
+- id: RN204
+  commandment_type: Negative
+  commandment: A Nazir (Nazirite) may not eat dried grapes
+- id: RN205
+  commandment_type: Negative
+  commandment: A Nazir (Nazirite) may not eat grape kernels
+- id: RN206
+  commandment_type: Negative
+  commandment: A Nazir (Nazirite) may not eat grape husks
+- id: RN207
+  commandment_type: Negative
+  commandment: A Nazir (Nazirite) may not rend himself tameh (unclean) for the dead
+- id: RN208
+  commandment_type: Negative
+  commandment: A Nazir (Nazirite) may not rend himself tameh (unclean) by entering house with corpse
+- id: RN209
+  commandment_type: Negative
+  commandment: A Nazir (Nazirite) may not shave
+- id: RN210
+  commandment_type: Negative
+  commandment: Not to reap all harvest without leaving a corner for the poor
+- id: RN211
+  commandment_type: Negative
+  commandment: Not to gather ears of corn that fell during harvesting
+- id: RN212
+  commandment_type: Negative
+  commandment: Not to gather the whole produce of vineyard at vintage time
+- id: RN213
+  commandment_type: Negative
+  commandment: Not to gather single fallen grapes during the vintage
+- id: RN214
+  commandment_type: Negative
+  commandment: Not to return for a forgotten sheaf
+- id: RN215
+  commandment_type: Negative
+  commandment: Not to sow kilayim (diverse kinds of seed in one field)
+- id: RN216
+  commandment_type: Negative
+  commandment: Not to sow grain or vegetables in a vineyard
+- id: RN217
+  commandment_type: Negative
+  commandment: Not to mate animals of different species
+- id: RN218
+  commandment_type: Negative
+  commandment: Not to work with two different kinds of animals together
+- id: RN219
+  commandment_type: Negative
+  commandment: Not preventing a beast from eating the produce where working
+- id: RN220
+  commandment_type: Negative
+  commandment: Not to cultivate the soil in the seventh year
+- id: RN221
+  commandment_type: Negative
+  commandment: Not to prune the trees in the seventh year
+- id: RN222
+  commandment_type: Negative
+  commandment: Not reap a self-grown plant in the 7th year as in ordinary year
+- id: RN223
+  commandment_type: Negative
+  commandment: Not gather self-grown fruit in the 7th year as in ordinary year
+- id: RN224
+  commandment_type: Negative
+  commandment: Not to cultivate the soil in the Jubilee year
+- id: RN225
+  commandment_type: Negative
+  commandment: Not to reap the aftergrowths of Jubilee year as in ordinary year
+- id: RN226
+  commandment_type: Negative
+  commandment: Not to gather fruit in Jubilee year as in ordinary year
+- id: RN227
+  commandment_type: Negative
+  commandment: Not to sell holdings in Eretz Yisrael (land of Israel) in perpetuity
+- id: RN228
+  commandment_type: Negative
+  commandment: No to sell the open lands of the Levites
+- id: RN229
+  commandment_type: Negative
+  commandment: Not to forsake the Levites
+- id: RN230
+  commandment_type: Negative
+  commandment: Not to demand payment of debts after Shmitah (Sabbatical) year
+- id: RN231
+  commandment_type: Negative
+  commandment: Not to withhold a loan to be canceled by the Shmitah (Sabbatical) year
+- id: RN232
+  commandment_type: Negative
+  commandment: Failing to give charity to our needy brethren
+- id: RN233
+  commandment_type: Negative
+  commandment: Not sending a Hebrew bondman away empty-handed
+- id: RN234
+  commandment_type: Negative
+  commandment: Not demanding payment from a debtor known unable to pay
+- id: RN235
+  commandment_type: Negative
+  commandment: Not lending at interest
+- id: RN236
+  commandment_type: Negative
+  commandment: Not borrowing at interest
+- id: RN237
+  commandment_type: Negative
+  commandment: Not participating in a loan at interest
+- id: RN238
+  commandment_type: Negative
+  commandment: Not oppressing an employee by delaying payment of his wages
+- id: RN239
+  commandment_type: Negative
+  commandment: Not taking a pledge from a debtor by force
+- id: RN240
+  commandment_type: Negative
+  commandment: Not keeping a needed pledge from its owner
+- id: RN241
+  commandment_type: Negative
+  commandment: Not taking a pledge from a widow
+- id: RN242
+  commandment_type: Negative
+  commandment: Not taking food utensils in pledge
+- id: RN243
+  commandment_type: Negative
+  commandment: Not abducting an Israelite
+- id: RN244
+  commandment_type: Negative
+  commandment: Not stealing money
+- id: RN245
+  commandment_type: Negative
+  commandment: Not committing robbery
+- id: RN246
+  commandment_type: Negative
+  commandment: Not fraudulently altering land boundaries
+- id: RN247
+  commandment_type: Negative
+  commandment: Not usurping our debts
+- id: RN248
+  commandment_type: Negative
+  commandment: Not repudiating our debts
+- id: RN249
+  commandment_type: Negative
+  commandment: Not to swear falsely in repudiating our debts
+- id: RN250
+  commandment_type: Negative
+  commandment: Not wronging one another in business
+- id: RN251
+  commandment_type: Negative
+  commandment: Not wronging one another by speech
+- id: RN252
+  commandment_type: Negative
+  commandment: Not wronging a proselyte by speech
+- id: RN253
+  commandment_type: Negative
+  commandment: Not wronging a proselyte in business
+- id: RN254
+  commandment_type: Negative
+  commandment: Not handing over a fugitive bondman
+- id: RN255
+  commandment_type: Negative
+  commandment: Not wronging a fugitive bondman
+- id: RN256
+  commandment_type: Negative
+  commandment: Not dealing harshly with orphans and widows
+- id: RN257
+  commandment_type: Negative
+  commandment: Not employing a Hebrew bondman in degrading tasks
+- id: RN258
+  commandment_type: Negative
+  commandment: Not selling a Hebrew bondman by public auction
+- id: RN259
+  commandment_type: Negative
+  commandment: Not having a Hebrew bondman do unnecessary work
+- id: RN260
+  commandment_type: Negative
+  commandment: Not allowing a heathen to mistreat a Hebrew bondman
+- id: RN261
+  commandment_type: Negative
+  commandment: Not selling a Hebrew bondmaid
+- id: RN262
+  commandment_type: Negative
+  commandment: Not to afflict one's wife or espoused Hebrew bondmaid by diminishing food, raiment or conjugal rights
+- id: RN263
+  commandment_type: Negative
+  commandment: Not selling a captive woman
+- id: RN264
+  commandment_type: Negative
+  commandment: Not enslaving a captive woman
+- id: RN265
+  commandment_type: Negative
+  commandment: Not planning to acquire someone else's property
+- id: RN266
+  commandment_type: Negative
+  commandment: Not coveting another's belongings
+- id: RN267
+  commandment_type: Negative
+  commandment: A hired laborer not eating growing crops
+- id: RN268
+  commandment_type: Negative
+  commandment: A hired laborer not putting of the harvest in his own vessel
+- id: RN269
+  commandment_type: Negative
+  commandment: Not ignoring lost property
+- id: RN270
+  commandment_type: Negative
+  commandment: Not leaving a person who is trapped under his burden
+- id: RN271
+  commandment_type: Negative
+  commandment: Not cheating in measurements and weights
+- id: RN272
+  commandment_type: Negative
+  commandment: Not keeping false weights and measures
+- id: RN273
+  commandment_type: Negative
+  commandment: A Judge not to commit unrighteousness
+- id: RN274
+  commandment_type: Negative
+  commandment: A Judge not accept gifts from litigants
+- id: RN275
+  commandment_type: Negative
+  commandment: A Judge not to favor a litigant
+- id: RN276
+  commandment_type: Negative
+  commandment: A Judge not avoid just judgement through fear of a wicked person
+- id: RN277
+  commandment_type: Negative
+  commandment: A Judge not to decide in favor of poor man, out of pity
+- id: RN278
+  commandment_type: Negative
+  commandment: A Judge not to pervert justice against person of evil repute
+- id: RN279
+  commandment_type: Negative
+  commandment: A Judge not to pity one who has killed or caused loss of limb
+- id: RN280
+  commandment_type: Negative
+  commandment: A Judge not to pervert justice due to proselytes or orphans
+- id: RN281
+  commandment_type: Negative
+  commandment: A Judge not to listen to one litigant in absence of the other
+- id: RN282
+  commandment_type: Negative
+  commandment: A court may not convict by a majority of one in a capital case
+- id: RN283
+  commandment_type: Negative
+  commandment: A judge may not rely on the opinion of a fellow judge, or may not argue for conviction after favoring acquittal
+- id: RN284
+  commandment_type: Negative
+  commandment: Not appointing an unlearned judge
+- id: RN285
+  commandment_type: Negative
+  commandment: Not bearing false witness
+- id: RN286
+  commandment_type: Negative
+  commandment: A Judge not to receive a wicked man's testimony
+- id: RN287
+  commandment_type: Negative
+  commandment: A Judge not to receive testimony from litigant's relatives
+- id: RN288
+  commandment_type: Negative
+  commandment: Not convicting on the testimony of a single witness
+- id: RN289
+  commandment_type: Negative
+  commandment: Not killing a human being
+- id: RN290
+  commandment_type: Negative
+  commandment: No capital punishment based on circumstantial evidence
+- id: RN291
+  commandment_type: Negative
+  commandment: A witness not acting as an advocate
+- id: RN292
+  commandment_type: Negative
+  commandment: Not killing a murderer without trial
+- id: RN293
+  commandment_type: Negative
+  commandment: Not sparing the life of a pursuer
+- id: RN294
+  commandment_type: Negative
+  commandment: Not punishing a person for a sin committed under duress
+- id: RN295
+  commandment_type: Negative
+  commandment: Not accepting ransom from an unwitting murderer
+- id: RN296
+  commandment_type: Negative
+  commandment: Not accepting ransom from a willful murderer
+- id: RN297
+  commandment_type: Negative
+  commandment: Not neglecting to save the life of an Israelite in danger
+- id: RN298
+  commandment_type: Negative
+  commandment: Not leaving obstacles on public or private domain
+- id: RN299
+  commandment_type: Negative
+  commandment: Not giving misleading advice
+- id: RN300
+  commandment_type: Negative
+  commandment: Not inflicting excessive corporal punishment
+- id: RN301
+  commandment_type: Negative
+  commandment: Not to bear tales
+- id: RN302
+  commandment_type: Negative
+  commandment: Not to hate another Jew
+- id: RN303
+  commandment_type: Negative
+  commandment: Not to put another to shame
+- id: RN304
+  commandment_type: Negative
+  commandment: Not to take vengeance on another
+- id: RN305
+  commandment_type: Negative
+  commandment: Not to bear a grudge
+- id: RN306
+  commandment_type: Negative
+  commandment: Not to take the entire bird's nest (mother and young)
+- id: RN307
+  commandment_type: Negative
+  commandment: Not to shave the scall (skin lesion)
+- id: RN308
+  commandment_type: Negative
+  commandment: Not to cut or cauterize signs of leprosy
+- id: RN309
+  commandment_type: Negative
+  commandment: Not ploughing a valley where Eglah Arufah (heifer's neck broken) was done
+- id: RN310
+  commandment_type: Negative
+  commandment: Not permitting a sorcerer to live
+- id: RN311
+  commandment_type: Negative
+  commandment: Not taking bridegroom from home during first year
+- id: RN312
+  commandment_type: Negative
+  commandment: Not to differ from traditional authorities
+- id: RN313
+  commandment_type: Negative
+  commandment: Not to add to the Written or Oral Law
+- id: RN314
+  commandment_type: Negative
+  commandment: Not to detract from the Written or Oral Law
+- id: RN315
+  commandment_type: Negative
+  commandment: Not detracting from the Written or Oral law
+- id: RN316
+  commandment_type: Negative
+  commandment: Not to curse a ruler
+- id: RN317
+  commandment_type: Negative
+  commandment: Not to curse any Israelite
+- id: RN318
+  commandment_type: Negative
+  commandment: Not cursing parents
+- id: RN319
+  commandment_type: Negative
+  commandment: Not smiting parents
+- id: RN320
+  commandment_type: Negative
+  commandment: Not to work on Shabbat
+- id: RN321
+  commandment_type: Negative
+  commandment: Not to go beyond city limits on Shabbat
+- id: RN322
+  commandment_type: Negative
+  commandment: Not to punish on Shabbat
+- id: RN323
+  commandment_type: Negative
+  commandment: Not to work on the first day of Passover
+- id: RN324
+  commandment_type: Negative
+  commandment: Not to work on the seventh day of Passover
+- id: RN325
+  commandment_type: Negative
+  commandment: Not to work on Atzeret ( Shavuot )
+- id: RN326
+  commandment_type: Negative
+  commandment: Not to work on Rosh Hashanah
+- id: RN327
+  commandment_type: Negative
+  commandment: Not to work on the first day of Sukkot
+- id: RN328
+  commandment_type: Negative
+  commandment: Not to work on Shemini Atzeret (eighth day)
+- id: RN329
+  commandment_type: Negative
+  commandment: Not to work on Yom Kippur
+- id: RN330
+  commandment_type: Negative
+  commandment: Not have relations with one's mother
+- id: RN331
+  commandment_type: Negative
+  commandment: Not have relations with one's father's wife
+- id: RN332
+  commandment_type: Negative
+  commandment: Not have relations with one's sister
+- id: RN333
+  commandment_type: Negative
+  commandment: Not have relations with daughter of father's wife if sister
+- id: RN334
+  commandment_type: Negative
+  commandment: Not have relations with one's son's daughter
+- id: RN335
+  commandment_type: Negative
+  commandment: Not have relations with one's daughter's daughter
+- id: RN336
+  commandment_type: Negative
+  commandment: Not have relations with one's daughter
+- id: RN337
+  commandment_type: Negative
+  commandment: Not have relations with a woman and her daughter
+- id: RN338
+  commandment_type: Negative
+  commandment: Not have relations with a woman and her son's daughter
+- id: RN339
+  commandment_type: Negative
+  commandment: Not have relations with a woman and her daughter's daughter
+- id: RN340
+  commandment_type: Negative
+  commandment: Not have relations with one's father's sister
+- id: RN341
+  commandment_type: Negative
+  commandment: Not have relations with one's mother's sister
+- id: RN342
+  commandment_type: Negative
+  commandment: Not have relations with wife of father's brother
+- id: RN343
+  commandment_type: Negative
+  commandment: Not have relations with one's son's wife
+- id: RN344
+  commandment_type: Negative
+  commandment: Not have relations with brother's wife
+- id: RN345
+  commandment_type: Negative
+  commandment: Not have relations with sister of wife (during her lifetime)
+- id: RN346
+  commandment_type: Negative
+  commandment: Not to have relations with a menstruant
+- id: RN347
+  commandment_type: Negative
+  commandment: Not to have relations with another man's wife
+- id: RN348
+  commandment_type: Negative
+  commandment: Men may not lie with beasts
+- id: RN349
+  commandment_type: Negative
+  commandment: Women may not lie with beasts
+- id: RN350
+  commandment_type: Negative
+  commandment: A man may not lie carnally with another man
+- id: RN351
+  commandment_type: Negative
+  commandment: A man may not lie carnally with his father
+- id: RN352
+  commandment_type: Negative
+  commandment: A man may not lie carnally with his father's brother
+- id: RN353
+  commandment_type: Negative
+  commandment: Not to be intimate with a kinswoman
+- id: RN354
+  commandment_type: Negative
+  commandment: A mamzer (bastard) may not have relations with a Jewess
+- id: RN355
+  commandment_type: Negative
+  commandment: Not having relations with a woman without marriage
+- id: RN356
+  commandment_type: Negative
+  commandment: Not remarrying one's divorced wife after she has remarried
+- id: RN357
+  commandment_type: Negative
+  commandment: Not having relations with woman subject to Levirate marriage
+- id: RN358
+  commandment_type: Negative
+  commandment: Not divorcing woman he has raped and been compelled to marry
+- id: RN359
+  commandment_type: Negative
+  commandment: Not divorcing a woman after falsely bringing evil name on her
+- id: RN360
+  commandment_type: Negative
+  commandment: A man incapable of procreation not to marry a Jewess
+- id: RN361
+  commandment_type: Negative
+  commandment: Not to castrate a man or beast
+- id: RN362
+  commandment_type: Negative
+  commandment: Not appointing a non-Israelite born King
+- id: RN363
+  commandment_type: Negative
+  commandment: A king not owning many horses
+- id: RN364
+  commandment_type: Negative
+  commandment: A king not taking many wives
+- id: RN365
+  commandment_type: Negative
+  commandment: A king not amassing great personal wealth
