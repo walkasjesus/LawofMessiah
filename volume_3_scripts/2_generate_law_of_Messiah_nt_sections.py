@@ -32,6 +32,8 @@ def extract_sections(data):
 
     # Regex for splitting title into ID and title
     title_split_regex = re.compile(r"^([A-Z0-9\-]+)\s{2,}(.*)")
+    commandment_id_regex = re.compile(r"^[A-Z]{2,}[0-9]+\.?$")
+    category_header_regex = re.compile(r"^[A-Z]{2}[.:]\s+")
 
     for page in data:
         content = page.get("content", [])
@@ -67,6 +69,15 @@ def extract_sections(data):
 
             # Detect ID at the start of a new page
             if i == 0 and font in ["TimesNewRomanPS-BoldMT", "TimesNewRomanPSMT"] and size > 25 and text:
+                # Category headers can appear on their own page and must not become commandment IDs.
+                if category_header_regex.match(text):
+                    logging.info(f"Skipping category header at top of page: {text}")
+                    continue
+
+                if not commandment_id_regex.match(text):
+                    logging.debug(f"Ignoring non-commandment heading at top of page: {text}")
+                    continue
+
                 if current_commandment:
                     sections.append(current_commandment)
                     logging.info(f"Finalized commandment: {current_commandment}")

@@ -1,5 +1,7 @@
 import yaml
 import logging
+import re
+from pathlib import Path
 from collections import OrderedDict
 
 # Configure logging
@@ -17,6 +19,92 @@ def ordered_dict_representer(dumper, data):
 
 # Register the OrderedDict representer with SafeDumper
 yaml.add_representer(OrderedDict, ordered_dict_representer, Dumper=yaml.SafeDumper)
+
+
+def normalize_reference_id(reference_id):
+    """Normalize commandment IDs to reduce formatting variants (e.g., AA02 -> AA2, I-5 -> I5)."""
+    if not isinstance(reference_id, str):
+        return reference_id
+
+    cleaned = reference_id.strip()
+    cleaned = re.sub(r"[‐‑–—]", "-", cleaned)
+    cleaned = cleaned.replace(" ", "")
+
+    match = re.match(r"^([A-Za-z]+)-?0*([0-9]+)([A-Za-z]?)$", cleaned)
+    if not match:
+        return cleaned
+
+    prefix, number, suffix = match.groups()
+    return f"{prefix.upper()}{int(number)}{suffix.upper()}"
+
+
+def load_valid_ot_ids(path):
+    """Load normalized OT IDs for cross-reference auditing."""
+    ot_path = Path(path)
+    if not ot_path.exists():
+        logging.warning(f"OT file not found for audit: {path}")
+        return set()
+
+    try:
+        with open(ot_path, "r", encoding="utf-8") as file:
+            ot_data = yaml.safe_load(file) or []
+        return {
+            normalize_reference_id(item.get("id"))
+            for item in ot_data
+            if isinstance(item, dict) and item.get("id")
+        }
+    except Exception as exc:
+        logging.warning(f"Could not load OT IDs for audit: {exc}")
+        return set()
+
+
+def normalize_and_audit_related_ids(commandments_data, ot_file_path="Law_of_Messiah_ot.yaml"):
+    """Normalize related IDs and capture unresolved references in an audit report."""
+    valid_nt_ids = {
+        normalize_reference_id(commandment.get("id"))
+        for commandment in commandments_data
+        if isinstance(commandment, dict) and commandment.get("id")
+    }
+    valid_ot_ids = load_valid_ot_ids(ot_file_path)
+
+    unresolved_nt = []
+    unresolved_ot = []
+
+    for commandment in commandments_data:
+        parent_id = commandment.get("id", "")
+
+        for key, valid_set, unresolved_bucket in [
+            ("commandments_related_nt", valid_nt_ids, unresolved_nt),
+            ("commandments_related_ot", valid_ot_ids, unresolved_ot),
+        ]:
+            related_items = commandment.get(key, []) or []
+            for rel in related_items:
+                if not isinstance(rel, dict):
+                    continue
+                raw_id = rel.get("id")
+                norm_id = normalize_reference_id(raw_id)
+                if norm_id:
+                    rel["id"] = norm_id
+                if norm_id and valid_set and norm_id not in valid_set:
+                    unresolved_bucket.append((parent_id, key, raw_id, norm_id, rel.get("title", "")))
+
+    audit_lines = []
+    audit_lines.append(f"Unresolved OT references: {len(unresolved_ot)}")
+    for row in unresolved_ot[:200]:
+        audit_lines.append(f"{row[0]} -> {row[3]} ({row[4]}) [raw={row[2]}]")
+
+    audit_lines.append("")
+    audit_lines.append(f"Unresolved NT references: {len(unresolved_nt)}")
+    for row in unresolved_nt[:400]:
+        audit_lines.append(f"{row[0]} -> {row[3]} ({row[4]}) [raw={row[2]}]")
+
+    audit_path = Path("logs/3_reference_audit.log")
+    audit_path.parent.mkdir(parents=True, exist_ok=True)
+    audit_path.write_text("\n".join(audit_lines), encoding="utf-8")
+
+    logging.info(f"Reference audit written to {audit_path}")
+    logging.info(f"Unresolved OT references: {len(unresolved_ot)}")
+    logging.info(f"Unresolved NT references: {len(unresolved_nt)}")
 
 def merge_commentary(commentary_section):
     """
@@ -147,6 +235,9 @@ def merge_yaml_files(commandments_file, extras_file, output_file):
                 
         # Add commandment type, ncla, and other attributes
         add_commandment_type_and_source(commandments_data)
+
+        # Normalize related IDs and log unresolved cross-references for review.
+        normalize_and_audit_related_ids(commandments_data)
 
         # Restructure commandments to ensure the correct order of keys
         restructured_data = restructure_commandments(commandments_data)
