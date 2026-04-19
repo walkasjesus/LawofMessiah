@@ -78,6 +78,12 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
         saved_commandment = None
         current_scripture_section = None
         partial_reference = None  # To track split Bible references
+        new_commandment_detected = False
+
+        # NEW: Track multi-line title and commandment
+        accumulating_title = False
+        accumulating_commandment = False
+        pending_subtitle_id = None
 
         # Iterate through the pages in the JSON
         for page in data:
@@ -157,6 +163,7 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
                         "id": commandment_id,
                         "title": "",
                         "commandment": "",
+                        "commandment_subtitles": [],
                         "commentary_rudolph": "",
                         "commentary_juster": "",
                         "bible_references": {
@@ -166,21 +173,107 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
                         },
                         "category": current_category
                     }
+                    accumulating_title = True
+                    accumulating_commandment = False
+                    pending_subtitle_id = None
+                    new_commandment_detected = True
                     logging.info(f"Detected new commandment ID: {commandment_id}")
                     continue
                 else:
                     new_commandment_detected = False
-                
-                if size > 13 and current_commandment and not current_commandment["title"]:
-                    current_commandment["title"] = text
-                    logging.info(f"Detected title: {text}")
+
+                # Accumulate multi-line title (size > 13, not commandment text)
+                if size > 13 and current_commandment and accumulating_title:
+                    if current_commandment["title"]:
+                        current_commandment["title"] += f" {text}"
+                        logging.info(f"Continuing multi-line title: {current_commandment['title']}")
+                    else:
+                        current_commandment["title"] = text
+                        logging.info(f"Detected title: {text}")
                     continue
 
-                # Detect commandment text (e.g., "We are to aspire to godliness and holiness.")
-                if size == 12 and current_commandment and not current_commandment["commandment"]:
-                    current_commandment["commandment"] = text
-                    logging.info(f"Detected commandment text: {text}")
-                    continue
+                # Start accumulating commandment text and subtitle lines.
+                if size == 12 and current_commandment:
+                    stop_phrases = [
+                        "This precept is derived from His Word",
+                        "Key New Testament Scriptures",
+                        "Additional New Testament Scriptures",
+                        "Supportive New Testament Scriptures",
+                        "Related New Testament Mitzvot",
+                        "Related Mitzvot in Volumes 1 & 2",
+                        "Supportive Tanakh Scriptures",
+                        "Comment",
+                        "Command Form"
+                    ]
+
+                    # Stop collecting commandment/subtitles when the next section begins.
+                    if any(phrase in text for phrase in stop_phrases):
+                        accumulating_title = False
+                        accumulating_commandment = False
+                        pending_subtitle_id = None
+                        logging.info(f"Stopped accumulating commandment at section header: '{text}'")
+                        # Keep processing the line in later handlers.
+
+                    # Subtitle markers can vary due to OCR: AA1a:, AA1a., AA1a, or "AA1a: text".
+                    subtitle_inline_match = re.match(
+                        r"^([A-Z]{2,}\s*[0-9]+\s*[a-zA-Z])\s*[:\.]?\s*(.+)$",
+                        text
+                    )
+                    subtitle_marker_match = re.match(
+                        r"^([A-Z]{2,}\s*[0-9]+\s*[a-zA-Z])\s*[:\.]?\s*$",
+                        text
+                    )
+
+                    if accumulating_title:
+                        accumulating_title = False
+                        accumulating_commandment = True
+                        current_commandment["commandment"] = text
+                        logging.info(f"Detected start of commandment text: {text}")
+                        continue
+                    elif accumulating_commandment:
+                        if any(phrase in text for phrase in stop_phrases):
+                            accumulating_commandment = False
+                            pending_subtitle_id = None
+                            continue
+
+                        if subtitle_marker_match:
+                            pending_subtitle_id = re.sub(r"\s+", "", subtitle_marker_match.group(1))
+                            logging.info(f"Detected subtitle marker: {pending_subtitle_id}")
+                            continue
+
+                        if subtitle_inline_match:
+                            subtitle_id = re.sub(r"\s+", "", subtitle_inline_match.group(1))
+                            subtitle_body = subtitle_inline_match.group(2).strip()
+                            if subtitle_body:
+                                subtitle_text = f"{subtitle_id}: {subtitle_body}"
+                                current_commandment["commandment_subtitles"].append(subtitle_text)
+                                logging.info(f"Detected inline subtitle text: {subtitle_text}")
+                                pending_subtitle_id = None
+                                continue
+
+                        if pending_subtitle_id:
+                            subtitle_body = re.sub(r"^[\s:\.\-]+", "", text).strip()
+                            if not subtitle_body:
+                                continue
+                            subtitle_text = f"{pending_subtitle_id}: {subtitle_body}"
+                            current_commandment["commandment_subtitles"].append(subtitle_text)
+                            logging.info(f"Detected subtitle text: {subtitle_text}")
+                            pending_subtitle_id = None
+                            continue
+
+                        # Ignore stand-alone punctuation that can appear between subtitle lines.
+                        if re.match(r"^[\.:;]+$", text):
+                            continue
+
+                        # Otherwise, treat as wrapped continuation of the main commandment text.
+                        current_commandment["commandment"] += f" {text}"
+                        logging.info(f"Continuing multi-line commandment: {current_commandment['commandment']}")
+                        continue
+
+                # Stop accumulating when a new section starts
+                if size == 12 and text in ['Comment', 'Comment by Dr. Daniel C. Juster'] and font == 'TimesNewRomanPS-BoldMT':
+                    accumulating_title = False
+                    accumulating_commandment = False
 
                 # Detect section "Comment"
                 if size == 12 and text == 'Comment' and font == 'TimesNewRomanPS-BoldMT' and current_commandment and not current_commandment["commentary_rudolph"]:
@@ -193,7 +286,7 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
                     current_commandment["commentary_juster"] = text
                     logging.info(f"Detected Section Commentary from Rabbi Juster: {text}")
                     continue
-                
+
                 # Detect scripture sections
                 if current_commandment:
                     # Skip scripture sections if commentary_rudolph is already populated
