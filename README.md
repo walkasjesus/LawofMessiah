@@ -76,6 +76,7 @@ The files `Law_of_Messiah_ot.yaml` (Old Testament commandments) and `Law_of_Mess
 - Key scriptures (e.g., all commandments referencing a specific Bible verse).
 - Categories (e.g., commandments related to "Godliness, Holiness & Righteousness").
 - Commandment types (e.g., Positive or Negative commandments).
+- Commandment subtitles (e.g., `commandment_subtitles` entries in NT output, when present).
 
 #### Example Use Case
 A website could use these files to dynamically display commandments that reference specific scriptures or belong to a particular category. This allows for easy integration into study tools, teaching resources, or searchable databases.
@@ -170,11 +171,16 @@ deactivate
 2. **1_generate_law_of_Messiah_nt.py**  
    Extracts commandments, titles, and related fields from the [json export](volume_3_output/law_of_Messiah_volume_3_structured.json) and generates a YAML file. Output: `volume_3_output/law_of_Messiah_commandments.yaml`.
 
-3. **1_generate_law_of_Messiah_nt.py**  
-   Extracts extra sections like commandment_form, supportive_ot_commandments and more fields from the [json export](volume_3_output/law_of_Messiah_volume_3_structured.json) and generates a YAML file. Output: `volume_3_output/law_of_Messiah_sections.yaml`.
+3. **2_generate_law_of_Messiah_nt_sections.py**  
+   Extracts extra sections such as commentaries, related commandments, and commandment_form from the [json export](volume_3_output/law_of_Messiah_volume_3_structured.json) and generates a YAML file. Output: `volume_3_output/law_of_Messiah_sections.yaml`.
 
 4. **3_merge_law_of_messiah_yaml.py**  
-   Adds the type of commandment (positive or negative) to each item in the merged data. Then merges the two YAML files in `volume_3_output` and generates a combined YAML file. Output: `Law_of_Messiah_nt.yaml`.
+   Adds commandment type (positive/negative), normalizes related IDs, audits unresolved references (strict/lenient mode), and merges the two YAML files in `volume_3_output` into `Law_of_Messiah_nt.yaml`.
+
+   Strict audit mode example:
+   ```bash
+   LAW_MESSIAH_REF_AUDIT_MODE=strict python volume_3_scripts/3_merge_law_of_messiah_yaml.py
+   ```
 
 5. **4_add_commandment_form.py**  
    Uses OpenAI and Bible API to automatically generate the `commandment_form` field for each commandment in the `Law_of_Messiah_ot.yaml`. Reason is that it is missing in the OT volumes (while it is present in the NT volumes). It supports dry-run modes for both Bible lookups and OpenAI calls, logs all actions, and can help align AI-generated labels with the author's original intent. Output: updates the relevant YAML file and writes debug information to `logs/debug_commandment_form.log`.
