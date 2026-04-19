@@ -200,6 +200,9 @@ deactivate
 10. **9_merge_appendix_yaml.py**  
    Merges appendix title/category/type data with appendix scripture references into one full file: `volume_3_output/appendix_output/Appendix_Full.yaml`.
 
+11. **10_analyze_appendix_vs_law.py**  
+   Compares `volume_3_output/appendix_output/Appendix_Full.yaml` against `Law_of_Messiah_nt.yaml` and `Law_of_Messiah_ot.yaml` on shared fields only, then writes a YAML summary report to `volume_3_output/appendix_output/Appendix_vs_Law_diff_summary.yaml`. The report stores repo-relative input paths, summarizes coverage, lists per-field equality counts, and includes explicit appendix-versus-law values for each difference. Bible-reference differences are currently ignored in the diff count so the report can focus on title, category, and commandment type alignment.
+
 ##### Appendix Workflow (Volume 3)
 
 Run these scripts in order to generate appendix artifacts for downstream analysis:
@@ -210,6 +213,7 @@ python volume_3_scripts/7_parse_appendix_titles.py
 python volume_3_scripts/8_add_commandment_type.py
 python volume_3_scripts/6_parse_appendix_scriptures.py
 python volume_3_scripts/9_merge_appendix_yaml.py
+python volume_3_scripts/10_analyze_appendix_vs_law.py
 ```
 
 Expected outputs:
@@ -220,6 +224,9 @@ Expected outputs:
 - `volume_3_output/appendix_output/OT_Scripture_Index.json`
 - `volume_3_output/appendix_output/Scripture_Index.yaml`
 - `volume_3_output/appendix_output/Appendix_Full.yaml`
+- `volume_3_output/appendix_output/Appendix_vs_Law_diff_summary.yaml`
+
+The comparison report uses loose title normalization when checking equality so punctuation-only differences and a small set of wording variations such as `&` versus `and` do not create noisy mismatches.
 
 #### Scripts in `filter_scripts`
 

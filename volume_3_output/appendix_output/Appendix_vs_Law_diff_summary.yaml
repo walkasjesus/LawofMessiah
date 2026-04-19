@@ -1,0 +1,161 @@
+inputs:
+  appendix_full: volume_3_output/appendix_output/Appendix_Full.yaml
+  law_nt: Law_of_Messiah_nt.yaml
+  law_ot: Law_of_Messiah_ot.yaml
+coverage:
+  appendix_total: 621
+  law_nt_total: 204
+  law_ot_total: 192
+  compared_ids: 204
+  matched_in_nt: 204
+  matched_in_ot: 0
+  only_in_appendix: 417
+  only_in_law_nt: 0
+  only_in_law_ot: 192
+shared_fields_analyzed:
+- id
+- title
+- category
+- commandment_type
+- bible_references
+field_summary:
+  title:
+    equal: 204
+    different: 0
+  category:
+    equal: 204
+    different: 0
+  commandment_type:
+    equal: 204
+    different: 0
+  bible_references:
+    equal: 204
+    different: 0
+    ignored: true
+difference_summary:
+  ids_with_any_difference: 0
+  all_differences: []
+id_samples:
+  only_in_appendix:
+  - AB1
+  - AB10
+  - AB11
+  - AB12
+  - AB13
+  - AB14
+  - AB15
+  - AB16
+  - AB2
+  - AB3
+  - AB4
+  - AB5
+  - AB6
+  - AB7
+  - AB8
+  - AB9
+  - BA68
+  - BB1
+  - BB2
+  - BB3
+  - BB4
+  - BB5
+  - BB6
+  - BB7
+  - BB8
+  - BB9
+  - CB1
+  - CB10
+  - CB11
+  - CB12
+  - CB13
+  - CB14
+  - CB15
+  - CB16
+  - CB17
+  - CB18
+  - CB19
+  - CB2
+  - CB20
+  - CB21
+  - CB22
+  - CB23
+  - CB24
+  - CB25
+  - CB26
+  - CB27
+  - CB28
+  - CB29
+  - CB3
+  - CB4
+  - CB5
+  - CB6
+  - CB7
+  - CB8
+  - CB9
+  - DA0
+  - DA69
+  - DB1
+  - DB2
+  - DB3
+  only_in_law_nt: []
+  only_in_law_ot:
+  - A1
+  - A10
+  - A11
+  - A12
+  - A13
+  - A14
+  - A15
+  - A16
+  - A17
+  - A18
+  - A19
+  - A2
+  - A20
+  - A21
+  - A22
+  - A23
+  - A24
+  - A3
+  - A4
+  - A5
+  - A6
+  - A7
+  - A8
+  - A9
+  - B1
+  - B2
+  - B3
+  - B4
+  - B5
+  - B6
+  - C1
+  - C2
+  - C3
+  - C4
+  - D1
+  - D10
+  - D11
+  - D12
+  - D13
+  - D14
+  - D15
+  - D16
+  - D17
+  - D18
+  - D19
+  - D2
+  - D20
+  - D3
+  - D4
+  - D5
+  - D6
+  - D7
+  - D8
+  - D9
+  - E1
+  - E2
+  - E3
+  - E4
+  - E5
+  - E6
