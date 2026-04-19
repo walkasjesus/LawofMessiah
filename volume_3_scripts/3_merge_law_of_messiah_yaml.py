@@ -1,5 +1,9 @@
 import yaml
 import logging
+import re
+import os
+from collections import Counter, defaultdict
+from pathlib import Path
 from collections import OrderedDict
 
 # Configure logging
@@ -17,6 +21,205 @@ def ordered_dict_representer(dumper, data):
 
 # Register the OrderedDict representer with SafeDumper
 yaml.add_representer(OrderedDict, ordered_dict_representer, Dumper=yaml.SafeDumper)
+
+
+def normalize_reference_id(reference_id):
+    """Normalize commandment IDs to reduce formatting variants (e.g., AA02 -> AA2, I-5 -> I5)."""
+    if not isinstance(reference_id, str):
+        return reference_id
+
+    cleaned = reference_id.strip()
+    cleaned = re.sub(r"[‐‑–—]", "-", cleaned)
+    cleaned = cleaned.replace(" ", "")
+
+    match = re.match(r"^([A-Za-z]+)-?0*([0-9]+)([A-Za-z]?)$", cleaned)
+    if not match:
+        return cleaned
+
+    prefix, number, suffix = match.groups()
+    return f"{prefix.upper()}{int(number)}{suffix.upper()}"
+
+
+def normalize_title_key(title):
+    """Normalize a title so equivalent text can be matched safely."""
+    if not isinstance(title, str):
+        return ""
+
+    cleaned = title.strip().lower()
+    cleaned = cleaned.replace("’", "'")
+    cleaned = re.sub(r"[^a-z0-9]+", " ", cleaned)
+    return re.sub(r"\s+", " ", cleaned).strip()
+
+
+def build_title_index(rows):
+    """Build title -> IDs index for unique title-based ID fallback remapping."""
+    index = defaultdict(set)
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        norm_id = normalize_reference_id(row.get("id"))
+        title_key = normalize_title_key(row.get("title", ""))
+        if norm_id and title_key:
+            index[title_key].add(norm_id)
+    return index
+
+
+def load_ot_reference_metadata(path):
+    """Load normalized OT IDs and title index for cross-reference auditing."""
+    ot_path = Path(path)
+    if not ot_path.exists():
+        logging.warning(f"OT file not found for audit: {path}")
+        return set(), defaultdict(set)
+
+    try:
+        with open(ot_path, "r", encoding="utf-8") as file:
+            ot_data = yaml.safe_load(file) or []
+        valid_ids = {
+            normalize_reference_id(item.get("id"))
+            for item in ot_data
+            if isinstance(item, dict) and item.get("id")
+        }
+        title_index = build_title_index(ot_data)
+        return valid_ids, title_index
+    except Exception as exc:
+        logging.warning(f"Could not load OT IDs for audit: {exc}")
+        return set(), defaultdict(set)
+
+
+def grouped_reference_summary(unresolved_rows):
+    """Create condensed summaries by unresolved prefix and by parent commandment ID."""
+    prefix_counter = Counter()
+    parent_counter = Counter()
+    sample_by_prefix = defaultdict(list)
+
+    for parent_id, _, raw_id, norm_id, title in unresolved_rows:
+        prefix = ""
+        match = re.match(r"^([A-Z]+)", norm_id or "")
+        if match:
+            prefix = match.group(1)
+        else:
+            prefix = "<UNKNOWN>"
+
+        prefix_counter[prefix] += 1
+        parent_counter[parent_id] += 1
+        if len(sample_by_prefix[prefix]) < 5:
+            sample_by_prefix[prefix].append((raw_id, norm_id, title))
+
+    return prefix_counter, parent_counter, sample_by_prefix
+
+
+def normalize_and_audit_related_ids(commandments_data, mode="lenient", ot_file_path="Law_of_Messiah_ot.yaml"):
+    """Normalize related IDs and capture unresolved references in an audit report.
+
+    mode='lenient': always writes output and logs unresolved references.
+    mode='strict': raises an exception when unresolved references remain.
+    """
+    valid_nt_ids = {
+        normalize_reference_id(commandment.get("id"))
+        for commandment in commandments_data
+        if isinstance(commandment, dict) and commandment.get("id")
+    }
+    nt_title_index = build_title_index(commandments_data)
+    valid_ot_ids, ot_title_index = load_ot_reference_metadata(ot_file_path)
+
+    unresolved_nt = []
+    unresolved_ot = []
+    remapped_nt = []
+    remapped_ot = []
+
+    for commandment in commandments_data:
+        parent_id = commandment.get("id", "")
+
+        for key, valid_set, title_index, unresolved_bucket, remap_bucket in [
+            ("commandments_related_nt", valid_nt_ids, nt_title_index, unresolved_nt, remapped_nt),
+            ("commandments_related_ot", valid_ot_ids, ot_title_index, unresolved_ot, remapped_ot),
+        ]:
+            related_items = commandment.get(key, []) or []
+            for rel in related_items:
+                if not isinstance(rel, dict):
+                    continue
+                raw_id = rel.get("id")
+                norm_id = normalize_reference_id(raw_id)
+                if norm_id:
+                    rel["id"] = norm_id
+                if norm_id and valid_set and norm_id not in valid_set:
+                    title_key = normalize_title_key(rel.get("title", ""))
+                    title_candidates = title_index.get(title_key, set()) if title_key else set()
+                    if len(title_candidates) == 1:
+                        remapped_id = next(iter(title_candidates))
+                        if remapped_id != norm_id:
+                            rel["id"] = remapped_id
+                            remap_bucket.append((parent_id, key, raw_id, norm_id, remapped_id, rel.get("title", "")))
+                            norm_id = remapped_id
+                if norm_id and valid_set and norm_id not in valid_set:
+                    unresolved_bucket.append((parent_id, key, raw_id, norm_id, rel.get("title", "")))
+
+    ot_prefix_counts, ot_parent_counts, ot_samples = grouped_reference_summary(unresolved_ot)
+    nt_prefix_counts, nt_parent_counts, nt_samples = grouped_reference_summary(unresolved_nt)
+
+    audit_lines = []
+    audit_lines.append(f"Mode: {mode}")
+    audit_lines.append("")
+
+    audit_lines.append(f"Title-based OT remaps: {len(remapped_ot)}")
+    for row in remapped_ot[:100]:
+        audit_lines.append(
+            f"{row[0]} remap {row[3]} -> {row[4]} ({row[5]}) [raw={row[2]}]"
+        )
+    audit_lines.append(f"Title-based NT remaps: {len(remapped_nt)}")
+    for row in remapped_nt[:100]:
+        audit_lines.append(
+            f"{row[0]} remap {row[3]} -> {row[4]} ({row[5]}) [raw={row[2]}]"
+        )
+    audit_lines.append("")
+
+    audit_lines.append(f"Unresolved OT references: {len(unresolved_ot)}")
+    audit_lines.append("OT unresolved by prefix: " + ", ".join(
+        f"{prefix}:{count}" for prefix, count in ot_prefix_counts.most_common(20)
+    ))
+    audit_lines.append("OT top parent IDs: " + ", ".join(
+        f"{parent}:{count}" for parent, count in ot_parent_counts.most_common(20)
+    ))
+    for prefix, samples in ot_samples.items():
+        audit_lines.append(f"OT sample [{prefix}]: " + "; ".join(
+            f"raw={raw} norm={norm} title={title}" for raw, norm, title in samples
+        ))
+    audit_lines.append("")
+
+    for row in unresolved_ot[:200]:
+        audit_lines.append(f"{row[0]} -> {row[3]} ({row[4]}) [raw={row[2]}]")
+
+    audit_lines.append("")
+    audit_lines.append(f"Unresolved NT references: {len(unresolved_nt)}")
+    audit_lines.append("NT unresolved by prefix: " + ", ".join(
+        f"{prefix}:{count}" for prefix, count in nt_prefix_counts.most_common(20)
+    ))
+    audit_lines.append("NT top parent IDs: " + ", ".join(
+        f"{parent}:{count}" for parent, count in nt_parent_counts.most_common(20)
+    ))
+    for prefix, samples in nt_samples.items():
+        audit_lines.append(f"NT sample [{prefix}]: " + "; ".join(
+            f"raw={raw} norm={norm} title={title}" for raw, norm, title in samples
+        ))
+    audit_lines.append("")
+
+    for row in unresolved_nt[:400]:
+        audit_lines.append(f"{row[0]} -> {row[3]} ({row[4]}) [raw={row[2]}]")
+
+    audit_path = Path("logs/3_reference_audit.log")
+    audit_path.parent.mkdir(parents=True, exist_ok=True)
+    audit_path.write_text("\n".join(audit_lines), encoding="utf-8")
+
+    logging.info(f"Reference audit written to {audit_path}")
+    logging.info(f"Title-based OT remaps: {len(remapped_ot)}")
+    logging.info(f"Title-based NT remaps: {len(remapped_nt)}")
+    logging.info(f"Unresolved OT references: {len(unresolved_ot)}")
+    logging.info(f"Unresolved NT references: {len(unresolved_nt)}")
+
+    if mode == "strict" and (unresolved_ot or unresolved_nt):
+        raise ValueError(
+            f"Strict reference audit failed: unresolved_ot={len(unresolved_ot)}, unresolved_nt={len(unresolved_nt)}"
+        )
 
 def merge_commentary(commentary_section):
     """
@@ -64,6 +267,7 @@ def add_commandment_type_and_source(commandments_data):
         # Ensure related commandments and commandment_form are populated
         commandment["commandments_related_ot"] = commandment.get("commandments_related_ot", [])
         commandment["commandments_related_nt"] = commandment.get("commandments_related_nt", [])
+        commandment["commandment_subtitles"] = commandment.get("commandment_subtitles", [])
         commandment["commandment_form"] = commandment.get("commandment_form", "")
 
         logging.debug(f"Processed commandment ID {commandment.get('id')}: type={commandment['commandment_type']}")
@@ -78,6 +282,7 @@ def restructure_commandments(commandments_data):
         restructured_commandment["id"] = commandment.get("id", "")
         restructured_commandment["title"] = commandment.get("title", "")
         restructured_commandment["commandment"] = commandment.get("commandment", "")
+        restructured_commandment["commandment_subtitles"] = commandment.get("commandment_subtitles", [])
         restructured_commandment["commentary_rudolph"] = commandment.get("commentary_rudolph", "")
         restructured_commandment["commentary_juster"] = commandment.get("commentary_juster", "")
         restructured_commandment["commandments_related_ot"] = commandment.get("commandments_related_ot", [])
@@ -148,6 +353,13 @@ def merge_yaml_files(commandments_file, extras_file, output_file):
         # Add commandment type, ncla, and other attributes
         add_commandment_type_and_source(commandments_data)
 
+        # Normalize related IDs and audit unresolved cross-references.
+        audit_mode = os.getenv("LAW_MESSIAH_REF_AUDIT_MODE", "lenient").strip().lower() or "lenient"
+        if audit_mode not in {"lenient", "strict"}:
+            logging.warning(f"Unknown LAW_MESSIAH_REF_AUDIT_MODE='{audit_mode}', defaulting to lenient")
+            audit_mode = "lenient"
+        normalize_and_audit_related_ids(commandments_data, mode=audit_mode)
+
         # Restructure commandments to ensure the correct order of keys
         restructured_data = restructure_commandments(commandments_data)
 
@@ -159,6 +371,7 @@ def merge_yaml_files(commandments_file, extras_file, output_file):
     except Exception as e:
         logging.error(f"An error occurred: {e}")
         print(f"An error occurred: {e}")
+        raise
 
 if __name__ == "__main__":
     # Input and output file paths

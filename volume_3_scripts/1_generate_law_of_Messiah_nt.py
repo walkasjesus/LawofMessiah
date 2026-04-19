@@ -47,6 +47,112 @@ bible_books = [
     "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude", "Revelation"
 ]
 
+COMMANDMENT_LEADIN_REGEX = re.compile(r"^We are(?: not)?(?: to)?\b", re.IGNORECASE)
+SUBTITLE_TOKEN_REGEX = re.compile(r"^([A-Z]{2,}\s*[0-9]+\s*[a-zA-Z])(?:\s*[:\.])?\s*(.*)$")
+SECTION_HEADER_PATTERNS = [
+    re.compile(r"^(?:This\s+)?precept\s+is\s+derived\s+from\s+His\s+Word", re.IGNORECASE),
+    re.compile(r"^Key\s+New\s+Testament\s+Scriptures$", re.IGNORECASE),
+    re.compile(r"^(?:Additional|Supportive)\s+New\s+Testament\s+Scriptures$", re.IGNORECASE),
+    re.compile(r"^Related\s+New\s+Testament\s+Mitzvot$", re.IGNORECASE),
+    re.compile(r"^Related\s+Mitzvot\s+in\s+Volumes\s+1\s*&\s*2$", re.IGNORECASE),
+    re.compile(r"^Supportive\s+Tanakh\s+Scriptures$", re.IGNORECASE),
+    re.compile(r"^Comment(?:\s+by\s+Dr\.\s+Daniel\s+C\.\s+Juster)?$", re.IGNORECASE),
+    re.compile(r"^Command\s+Form$", re.IGNORECASE),
+]
+OCR_COMMANDMENT_NORMALIZATIONS = [
+    (re.compile(r"^We are store up\b", re.IGNORECASE), "We are to store up"),
+    (re.compile(r"^We are be\b", re.IGNORECASE), "We are to be"),
+]
+
+
+def normalize_whitespace(text):
+    """Collapse internal whitespace without altering punctuation semantics."""
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def is_commandment_leadin(text):
+    """Identify the imperative lead-in used by commandment statements."""
+    return bool(COMMANDMENT_LEADIN_REGEX.match(text))
+
+
+def is_section_header(text):
+    """Detect section headers, allowing for OCR variations."""
+    return any(pattern.search(text) for pattern in SECTION_HEADER_PATTERNS)
+
+
+def parse_subtitle_token(text, parent_id):
+    """Parse a subtitle token and normalize its ID to the current parent commandment."""
+    match = SUBTITLE_TOKEN_REGEX.match(text)
+    if not match:
+        return None
+
+    suffix = re.sub(r"\s+", "", match.group(1))[-1]
+    subtitle_id = f"{parent_id}{suffix}"
+    subtitle_body = match.group(2).strip()
+    return subtitle_id, subtitle_body
+
+
+def strip_section_header_from_commandment(text):
+    """Remove any leaked section header text from a commandment string."""
+    cleaned_text = text
+    for pattern in SECTION_HEADER_PATTERNS:
+        match = pattern.search(cleaned_text)
+        if match:
+            cleaned_text = cleaned_text[:match.start()].rstrip(" :-;")
+            break
+    return normalize_whitespace(cleaned_text)
+
+
+def normalize_ocr_commandment_text(text):
+    """Apply a conservative set of OCR-specific commandment text repairs."""
+    normalized_text = normalize_whitespace(text)
+    for pattern, replacement in OCR_COMMANDMENT_NORMALIZATIONS:
+        updated_text = pattern.sub(replacement, normalized_text)
+        if updated_text != normalized_text:
+            logging.info(
+                "Applied OCR commandment normalization: '%s' -> '%s'",
+                normalized_text,
+                updated_text,
+            )
+            normalized_text = updated_text
+    return normalized_text
+
+
+def finalize_commandment_record(commandment):
+    """Apply last-mile cleanup to parser output before the record is persisted."""
+    if not commandment:
+        return None
+
+    commandment["title"] = normalize_whitespace(commandment.get("title", ""))
+    commandment["commandment"] = strip_section_header_from_commandment(commandment.get("commandment", ""))
+
+    title = commandment["title"]
+    text = commandment["commandment"]
+
+    if title:
+        leadin_match = re.search(r"\bWe are(?: not)?(?: to)?\b", title, re.IGNORECASE)
+        if leadin_match:
+            moved_text = title[leadin_match.start():].strip()
+            commandment["title"] = title[:leadin_match.start()].rstrip()
+            commandment["commandment"] = normalize_whitespace(f"{moved_text} {text}".strip())
+
+    if not commandment["title"] and commandment["commandment"]:
+        split_match = re.match(r"^(.+?[.!?])\s+(We are(?: not)?(?: to)?\b.*)$", commandment["commandment"], re.IGNORECASE)
+        if split_match:
+            commandment["title"] = normalize_whitespace(split_match.group(1))
+            commandment["commandment"] = normalize_whitespace(split_match.group(2))
+
+    commandment["commandment"] = normalize_ocr_commandment_text(commandment["commandment"])
+
+    if not commandment["title"]:
+        logging.warning(f"Commandment {commandment['id']} has an empty title after finalization.")
+    if commandment["commandment"] and not is_commandment_leadin(commandment["commandment"]):
+        logging.warning(
+            f"Commandment {commandment['id']} has a non-standard commandment text: {commandment['commandment']}"
+        )
+
+    return commandment
+
 def extract_bible_references(references_text):
     """
     Extract Bible references from a given text by capturing everything after the first valid reference.
@@ -78,6 +184,13 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
         saved_commandment = None
         current_scripture_section = None
         partial_reference = None  # To track split Bible references
+        new_commandment_detected = False
+
+        # NEW: Track multi-line title and commandment
+        accumulating_title = False
+        accumulating_commandment = False
+        pending_subtitle_id = None
+        pending_subtitle_prefix = None
 
         # Iterate through the pages in the JSON
         for page in data:
@@ -150,6 +263,7 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
                 # Detect commandment ID (e.g., "AA1.")
                 if size > 25 and re.match(r"^[A-Z]{2,}[0-9]+\.?$", text):
                     if current_commandment:  # Save the previous commandment
+                        current_commandment = finalize_commandment_record(current_commandment)
                         logging.debug(f"Saving commandment: {current_commandment}")
                         commandments.append(current_commandment)
                     commandment_id = re.sub(r"\.$", "", text).strip()
@@ -157,6 +271,7 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
                         "id": commandment_id,
                         "title": "",
                         "commandment": "",
+                        "commandment_subtitles": [],
                         "commentary_rudolph": "",
                         "commentary_juster": "",
                         "bible_references": {
@@ -166,21 +281,108 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
                         },
                         "category": current_category
                     }
+                    accumulating_title = True
+                    accumulating_commandment = False
+                    pending_subtitle_id = None
+                    pending_subtitle_prefix = None
+                    new_commandment_detected = True
                     logging.info(f"Detected new commandment ID: {commandment_id}")
                     continue
                 else:
                     new_commandment_detected = False
-                
-                if size > 13 and current_commandment and not current_commandment["title"]:
-                    current_commandment["title"] = text
-                    logging.info(f"Detected title: {text}")
+
+                if current_commandment and is_section_header(text):
+                    if accumulating_title or accumulating_commandment or pending_subtitle_id:
+                        accumulating_title = False
+                        accumulating_commandment = False
+                        pending_subtitle_id = None
+                        pending_subtitle_prefix = None
+                        logging.info(f"Stopped accumulating commandment at section header: '{text}'")
+                    # Keep processing section lines in later handlers.
+
+                # Accumulate title fragments until an imperative commandment lead-in appears.
+                if current_commandment and accumulating_title:
+                    if is_commandment_leadin(text):
+                        accumulating_title = False
+                        accumulating_commandment = True
+                        current_commandment["commandment"] = text
+                        logging.info(f"Detected start of commandment text: {text}")
+                        continue
+
+                    if not is_section_header(text):
+                        if current_commandment["title"]:
+                            current_commandment["title"] += f" {text}"
+                            logging.info(f"Continuing multi-line title: {current_commandment['title']}")
+                        else:
+                            current_commandment["title"] = text
+                            logging.info(f"Detected title: {text}")
+                        continue
+
+                # Accumulate commandment text and subtitle lines.
+                if current_commandment and accumulating_commandment:
+                    if is_section_header(text):
+                        accumulating_commandment = False
+                        pending_subtitle_id = None
+                        pending_subtitle_prefix = None
+                        continue
+
+                    subtitle_parts = parse_subtitle_token(text, current_commandment["id"])
+                    subtitle_prefix_match = re.match(r"^([A-Z]{2,}\s*[0-9]+)\s*$", text)
+                    subtitle_suffix_match = re.match(r"^([a-zA-Z])\s+(.+)$", text)
+
+                    if subtitle_prefix_match:
+                        pending_subtitle_prefix = current_commandment["id"]
+                        logging.info(f"Detected split subtitle prefix: {text}")
+                        continue
+
+                    if pending_subtitle_prefix and subtitle_suffix_match:
+                        subtitle_id = f"{pending_subtitle_prefix}{subtitle_suffix_match.group(1)}"
+                        subtitle_body = subtitle_suffix_match.group(2).strip()
+                        subtitle_text = f"{subtitle_id}: {subtitle_body}"
+                        current_commandment["commandment_subtitles"].append(subtitle_text)
+                        logging.info(f"Detected split subtitle text: {subtitle_text}")
+                        pending_subtitle_prefix = None
+                        pending_subtitle_id = None
+                        continue
+
+                    if subtitle_parts:
+                        subtitle_id, subtitle_body = subtitle_parts
+                        if subtitle_body:
+                            subtitle_text = f"{subtitle_id}: {subtitle_body}"
+                            current_commandment["commandment_subtitles"].append(subtitle_text)
+                            logging.info(f"Detected inline subtitle text: {subtitle_text}")
+                            pending_subtitle_id = None
+                            pending_subtitle_prefix = None
+                        else:
+                            pending_subtitle_id = subtitle_id
+                            pending_subtitle_prefix = None
+                            logging.info(f"Detected subtitle marker: {pending_subtitle_id}")
+                        continue
+
+                    if pending_subtitle_id:
+                        subtitle_body = re.sub(r"^[\s:\.\-]+", "", text).strip()
+                        if not subtitle_body:
+                            continue
+                        subtitle_text = f"{pending_subtitle_id}: {subtitle_body}"
+                        current_commandment["commandment_subtitles"].append(subtitle_text)
+                        logging.info(f"Detected subtitle text: {subtitle_text}")
+                        pending_subtitle_id = None
+                        pending_subtitle_prefix = None
+                        continue
+
+                    # Ignore stand-alone punctuation that can appear between subtitle lines.
+                    if re.match(r"^[\.:;]+$", text):
+                        continue
+
+                    # Otherwise, treat as wrapped continuation of the main commandment text.
+                    current_commandment["commandment"] += f" {text}"
+                    logging.info(f"Continuing multi-line commandment: {current_commandment['commandment']}")
                     continue
 
-                # Detect commandment text (e.g., "We are to aspire to godliness and holiness.")
-                if size == 12 and current_commandment and not current_commandment["commandment"]:
-                    current_commandment["commandment"] = text
-                    logging.info(f"Detected commandment text: {text}")
-                    continue
+                # Stop accumulating when a new section starts
+                if size == 12 and text in ['Comment', 'Comment by Dr. Daniel C. Juster'] and font == 'TimesNewRomanPS-BoldMT':
+                    accumulating_title = False
+                    accumulating_commandment = False
 
                 # Detect section "Comment"
                 if size == 12 and text == 'Comment' and font == 'TimesNewRomanPS-BoldMT' and current_commandment and not current_commandment["commentary_rudolph"]:
@@ -193,7 +395,7 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
                     current_commandment["commentary_juster"] = text
                     logging.info(f"Detected Section Commentary from Rabbi Juster: {text}")
                     continue
-                
+
                 # Detect scripture sections
                 if current_commandment:
                     # Skip scripture sections if commentary_rudolph is already populated
@@ -255,6 +457,7 @@ def extract_commandments_from_json(input_json_path, output_yaml_path):
 
         # Finalize the last commandment
         if current_commandment:
+            current_commandment = finalize_commandment_record(current_commandment)
             logging.info(f"Finalizing last commandment: {current_commandment}")
             commandments.append(current_commandment)
 

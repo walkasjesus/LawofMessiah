@@ -21,6 +21,9 @@
     - Deuteronomy 6:25
   category: Godliness, Holiness & Righteousness
   commandment: We are to aspire to godliness and holiness.
+  commandment_subtitles:
+  - 'AA1a: We are to aspire to godliness.'
+  - 'AA1b: We are to aspire to holiness.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA1
@@ -38,6 +41,7 @@
     - Psalms 39:2(1)
   category: Godliness, Holiness & Righteousness
   commandment: We are to behave properly.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA2
@@ -72,6 +76,9 @@
     - Proverbs 10:31
   category: Godliness, Holiness & Righteousness
   commandment: We are to pursue righteousness and live righteously.
+  commandment_subtitles:
+  - 'AA3a: We are to pursue righteousness.'
+  - 'AA3b: We are to live righteously.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA3
@@ -98,6 +105,9 @@
     - Ezekiel 36:25
   category: Godliness, Holiness & Righteousness
   commandment: We are to seek to be both inwardly and outwardly clean.
+  commandment_subtitles:
+  - 'AA4a: We are to seek to be inwardly clean.'
+  - 'AA4b: We are to seek to be outwardly clean.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA4
@@ -115,6 +125,7 @@
     - Ecclesiastes 7:20
   category: Godliness, Holiness & Righteousness
   commandment: We are to model ourselves on the perfection of God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA5
@@ -138,6 +149,7 @@
     - Isaiah 55:7-8
   category: Godliness, Holiness & Righteousness
   commandment: We are to keep our minds from causing our bodies to sin.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA6
@@ -160,6 +172,7 @@
     - Daniel 4:31(34)
   category: Godliness, Holiness & Righteousness
   commandment: We are to seek the Kingdom of God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA7
@@ -181,6 +194,7 @@
     - Proverbs 28:16
   category: Godliness, Holiness & Righteousness
   commandment: We are to guard ourselves against greed.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA8
@@ -198,6 +212,7 @@
     - Isaiah 60:1-3
   category: Godliness, Holiness & Righteousness
   commandment: We are to let God’s light that is in us shine for all to see.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA9
@@ -220,6 +235,7 @@
     - Zechariah 7:9
   category: Godliness, Holiness & Righteousness
   commandment: We are to have godly compassion.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA10
@@ -239,6 +255,7 @@
     - Amos 6:13
   category: Godliness, Holiness & Righteousness
   commandment: We are to renounce worldly pleasures that compete with our godly responsibilities.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA11
@@ -260,6 +277,9 @@
     - Haggai 1:6
   category: Godliness, Holiness & Righteousness
   commandment: We are not to be contaminated by the world and worldly standards.
+  commandment_subtitles:
+  - 'AA12a: We are not to be contaminated by the world.'
+  - 'AA12b: We are not to be contaminated by worldly standards.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA12
@@ -291,6 +311,9 @@
     - Genesis 39:11-12
   category: Godliness, Holiness & Righteousness
   commandment: We are to flee from sin and evil.
+  commandment_subtitles:
+  - 'AA13a: We are to flee from sin.'
+  - 'AA13b: We are to flee from evil.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA13
@@ -316,6 +339,9 @@
     - Micah 7:7
   category: Godliness, Holiness & Righteousness
   commandment: We are to cultivate & exhibit patience.
+  commandment_subtitles:
+  - 'AA14a: We are to cultivate patience.'
+  - 'AA14b: We are to exhibit patience.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA14
@@ -337,10 +363,13 @@
     supportive_ot_scriptures: []
   category: Godliness, Holiness & Righteousness
   commandment: We are to keep free from, and purify ourselves from, things that defile.
+  commandment_subtitles:
+  - 'AA15a: We are to keep free from things that defile.'
+  - 'AA15b: We are to purify ourselves from things that defile.'
   commentary_juster: ''
   commentary_rudolph: ''
   id: AA15
-  title: Keeping Free from, and Purifying Ourselves from Things
+  title: Keeping Free from, and Purifying Ourselves from Things that Defile.
 - bible_references:
     key_nt_scriptures:
     - Romans 13:14
@@ -352,6 +381,7 @@
     - Isaiah 30:1
   category: Godliness, Holiness & Righteousness
   commandment: We are not to contemplate how to satisfy sinful desires.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA16
@@ -371,6 +401,9 @@
     - Malachi 2:17
   category: Godliness, Holiness & Righteousness
   commandment: We are not to call wrong and bad that which is right and good.
+  commandment_subtitles:
+  - 'AA17a: We are not to call wrong that which is right.'
+  - 'AA17b: We are not to call bad that which is good.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA17
@@ -395,6 +428,7 @@
   category: Godliness, Holiness & Righteousness
   commandment: We are to replace our old nature with a new nature given us by the
     Holy Spirit.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA18
@@ -428,6 +462,10 @@
     - Jeremiah 17:7-8
   category: Godliness, Holiness & Righteousness
   commandment: We are to persevere, stand firm, & grow in our faith.
+  commandment_subtitles:
+  - 'AA19a: We are to persevere in our faith.'
+  - 'AA19b: We are to stand firm in our faith.'
+  - 'AA19c: We are to grow in our faith.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA19
@@ -449,6 +487,7 @@
     - Proverbs 25:15
   category: Godliness, Holiness & Righteousness
   commandment: We are to be gentle to all whom we encounter.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA20
@@ -465,6 +504,7 @@
     - Proverbs 3:5
   category: Godliness, Holiness & Righteousness
   commandment: We are not to be lukewarm in our faith.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA21
@@ -496,6 +536,9 @@
     - Proverbs 21:23
   category: Godliness, Holiness & Righteousness
   commandment: We are to speak only that which is holy and beneficial.
+  commandment_subtitles:
+  - 'AA22a: We are to speak only that which is holy.'
+  - 'AA22b: We are to speak only that which is beneficial.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA22
@@ -513,11 +556,12 @@
     - 1 Kings 15:12
     - Ezekiel 45:9
   category: Godliness, Holiness & Righteousness
-  commandment: Ridding Ourselves of Unholy Characteristics.
+  commandment: We are to rid ourselves of unholy characteristics.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA23
-  title: ''
+  title: Ridding Ourselves of Unholy Characteristics.
 - bible_references:
     key_nt_scriptures:
     - Ephesians 4:32
@@ -530,6 +574,7 @@
     - 2 Chronicles 34:27
   category: Godliness, Holiness & Righteousness
   commandment: We are to be tenderhearted toward our brother and neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA24
@@ -558,6 +603,18 @@
     - Ecclesiastes 10:20
   category: Godliness, Holiness & Righteousness
   commandment: We are to focus our thoughts on things that are godly.
+  commandment_subtitles:
+  - 'AA25a: We are to focus our thoughts on things that are true.'
+  - 'AA25b: We are to focus our thoughts on things that are noble.'
+  - 'AA25c: We are to focus our thoughts on things that are righteous.'
+  - 'AA25d: We are to focus our thoughts on things that are pure.'
+  - 'AA25e: We are to focus our thoughts on things that are wholesome.'
+  - 'AA25f: We are to focus our thoughts on things that are loveable.'
+  - 'AA25g: We are to focus our thoughts on things that are praiseworthy.'
+  - 'AA25h: We are to focus our thoughts on things that are from God’s perspective.'
+  - 'AA25i: We are to focus our thoughts on things that are of the Spirit.'
+  - 'AA25j: We are to focus our thoughts on things that are eternal.'
+  - 'AA25k: We are to focus our thoughts on things that obey Messiah.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA25
@@ -582,6 +639,7 @@
     - Ezekiel 18:6
   category: Godliness, Holiness & Righteousness
   commandment: We are not to touch that which is unclean.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA26
@@ -615,6 +673,9 @@
     - Psalms 136:26
   category: Godliness, Holiness & Righteousness
   commandment: We are to be thankful and grateful to God.
+  commandment_subtitles:
+  - 'AA27a: We are to be thankful to God.'
+  - 'AA27b: We are to be grateful to God.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA27
@@ -625,6 +686,7 @@
     supportive_ot_scriptures: []
   category: Godliness, Holiness & Righteousness
   commandment: We are not to be unappeasable.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA28
@@ -650,6 +712,7 @@
     - Habakkuk 3:18
   category: Godliness, Holiness & Righteousness
   commandment: We are to be joyful in all circumstances.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA29
@@ -685,6 +748,9 @@
     - Proverbs 20:10
   category: Godliness, Holiness & Righteousness
   commandment: We are to be honest and tellers of truth.
+  commandment_subtitles:
+  - 'AA30a: We are to be honest.'
+  - 'AA30b: We are to be tellers of truth.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA30
@@ -705,6 +771,9 @@
     - Isaiah 26:3-4
   category: Godliness, Holiness & Righteousness
   commandment: We are to be steadfast in our faith and our thinking.
+  commandment_subtitles:
+  - 'AA31a: We are to be steadfast in our faith.'
+  - 'AA31b: We are to be steadfast in our thinking.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA31
@@ -744,6 +813,10 @@
     - Daniel 6:5(4)
   category: Godliness, Holiness & Righteousness
   commandment: We are to be faithful, trustworthy, and loyal.
+  commandment_subtitles:
+  - 'AA32a: We are to be faithful.'
+  - 'AA32b: We are to be trustworthy'
+  - 'AA32c: We are to be loyal.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA32
@@ -763,6 +836,7 @@
     - Proverbs 11:9
   category: Godliness, Holiness & Righteousness
   commandment: We are to guard against hypocrites & not be a hypocrite.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA33
@@ -785,6 +859,7 @@
     - Ecclesiastes 5:5(6)
   category: Godliness, Holiness & Righteousness
   commandment: We are to keep our promises.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA34
@@ -800,6 +875,7 @@
     - Numbers 16:28-29
   category: Godliness, Holiness & Righteousness
   commandment: We are not to harbor selfish ambition.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA35
@@ -818,6 +894,7 @@
     - Leviticus 24:14-16
   category: Godliness, Holiness & Righteousness
   commandment: We are not to blaspheme.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA36
@@ -837,6 +914,7 @@
     - Micah 2:1
   category: Godliness, Holiness & Righteousness
   commandment: We are not to make plans to do things that are wrong.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA37
@@ -853,6 +931,7 @@
     - Deuteronomy 10:20
   category: Godliness, Holiness & Righteousness
   commandment: We are not to swear oaths.
+  commandment_subtitles: []
   commentary_juster: Comment by Dr. Daniel C. Juster
   commentary_rudolph: Comment
   id: AA38
@@ -873,6 +952,7 @@
     - Proverbs 6:23-29
   category: Godliness, Holiness & Righteousness
   commandment: We are to flee lustful passions.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA39
@@ -891,6 +971,7 @@
     - Psalms 51:12(10)
   category: Godliness, Holiness & Righteousness
   commandment: We are not to treat as unclean that which God has made clean.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA40
@@ -908,10 +989,11 @@
     - Deuteronomy 27:10
   category: Godliness, Holiness & Righteousness
   commandment: We are to compare that which is taught us to what we read in Scripture.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA41
-  title: Comparing That Which is Taught Us to What We Read in
+  title: Comparing That Which is Taught Us to What We Read in Scripture.
 - bible_references:
     key_nt_scriptures:
     - Romans 1:18
@@ -936,6 +1018,9 @@
     - Proverbs 13:5
   category: Godliness, Holiness & Righteousness
   commandment: We are to embrace and not suppress godly truth.
+  commandment_subtitles:
+  - 'AA42a: We are to embrace godly truth.'
+  - 'AA42b: We are not to suppress godly truth.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA42
@@ -959,6 +1044,7 @@
     - Psalms 44:23(22)
   category: Godliness, Holiness & Righteousness
   commandment: We are not to be self-seeking.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA43
@@ -1002,6 +1088,9 @@
     - Jeremiah 13:23
   category: Godliness, Holiness & Righteousness
   commandment: We are to know & do what is right & good.
+  commandment_subtitles:
+  - 'AA44a: We are to know what is right & good'
+  - 'AA44b: We are to do what is right & good..'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA44
@@ -1018,6 +1107,7 @@
     - Jeremiah 4:4
   category: Godliness, Holiness & Righteousness
   commandment: We are to be circumcised in our heart.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA45
@@ -1034,6 +1124,7 @@
     - Deuteronomy 12:28
   category: Godliness, Holiness & Righteousness
   commandment: We are not to do something wrong in order to accomplish something good.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA46
@@ -1057,6 +1148,7 @@
     - Proverbs 20:15
   category: Godliness, Holiness & Righteousness
   commandment: We are to seek and grow in godly knowledge.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA47
@@ -1076,6 +1168,7 @@
     - Job 40:12-14
   category: Godliness, Holiness & Righteousness
   commandment: We are not to pursue righteousness through our own power.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA48
@@ -1103,6 +1196,7 @@
     - Ecclesiastes 2:8
   category: Godliness, Holiness & Righteousness
   commandment: We are not to give ourselves to sensuality.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA49
@@ -1126,6 +1220,7 @@
     - Isaiah 29:24
   category: Godliness, Holiness & Righteousness
   commandment: We are not to be a grumbler or complainer.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA50
@@ -1151,6 +1246,7 @@
     - Proverbs 2:7
   category: Godliness, Holiness & Righteousness
   commandment: We are to aspire to be blameless.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA51
@@ -1171,6 +1267,7 @@
     - Ezekiel 2:8
   category: Godliness, Holiness & Righteousness
   commandment: We are not to rebel against God’s authority.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA52
@@ -1195,6 +1292,7 @@
     - Proverbs 7:2
   category: Godliness, Holiness & Righteousness
   commandment: We are to have a sound and godly doctrine.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA53
@@ -1211,6 +1309,7 @@
     - Amos 5:14-15
   category: Godliness, Holiness & Righteousness
   commandment: We are to distinguish between good and evil.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA54
@@ -1229,6 +1328,7 @@
     - Psalms 119:113
   category: Godliness, Holiness & Righteousness
   commandment: We are not to be double-minded.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA55
@@ -1247,6 +1347,9 @@
     - Proverbs 29:11
   category: Godliness, Holiness & Righteousness
   commandment: We are to be quick to listen and slow to speak.
+  commandment_subtitles:
+  - 'AA56a: We are to be quick to listen.'
+  - 'AA56b: We are to be slow to speak.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA56
@@ -1262,6 +1365,7 @@
     - Isaiah 1:18
   category: Godliness, Holiness & Righteousness
   commandment: We are to be open to reason.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA57
@@ -1279,6 +1383,9 @@
     - Psalms 119:113
   category: Godliness, Holiness & Righteousness
   commandment: We are to let our “yes” be “yes” and our “no” be “no.”
+  commandment_subtitles:
+  - 'AA58a: We are to let our “yes” be “yes.”'
+  - 'AA58b: We are to let our “no” be “no.”'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA58
@@ -1297,6 +1404,7 @@
     - 1 Kings 8:37-39
   category: Godliness, Holiness & Righteousness
   commandment: We are to keep a clear conscience.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA59
@@ -1312,6 +1420,7 @@
     - Proverbs 19:11(10)
   category: Godliness, Holiness & Righteousness
   commandment: We are not to allow the emotion of anger to cause us to sin..
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA60
@@ -1332,6 +1441,7 @@
     - Ezekiel 16:25-26
   category: Godliness, Holiness & Righteousness
   commandment: We are to hate ungodly vices.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA61
@@ -1352,6 +1462,7 @@
     - Psalms 31:24(23)
   category: Godliness, Holiness & Righteousness
   commandment: We are not to be cowardly.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA62
@@ -1369,6 +1480,7 @@
     - Ezekiel 13:3
   category: Godliness, Holiness & Righteousness
   commandment: We are not to be vile.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA63
@@ -1384,6 +1496,7 @@
     - Proverbs 19:11(10)
   category: Godliness, Holiness & Righteousness
   commandment: We are to be slow in becoming angry.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA64
@@ -1400,6 +1513,9 @@
     - Proverbs 19:11(10)
   category: Godliness, Holiness & Righteousness
   commandment: We are not to hold onto or prolong emotions of anger.
+  commandment_subtitles:
+  - 'AA65a: We are not to hold onto emotions of anger.'
+  - 'AA65b: We are not to prolong emotions of anger.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: AA65
@@ -1419,6 +1535,10 @@
     - Malachi 3:15
   category: Relating to God & Yeshua
   commandment: We are not to test or tempt God, the Holy Spirit, or Yeshua.
+  commandment_subtitles:
+  - 'BA1a: We are not to test or tempt God.'
+  - 'BA1b: We are not to test or tempt the Holy Spirit.'
+  - 'BA1c: We are not to test or tempt Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA1
@@ -1441,10 +1561,17 @@
   category: Relating to God & Yeshua
   commandment: We are to seek rest, refreshment, and renewal in Yeshua and the Holy
     Spirit.
+  commandment_subtitles:
+  - 'BA2a: We are to seek rest in Yeshua.'
+  - 'BA2b: We are to seek rest in the Holy Spirit.'
+  - 'BA2c: We are to seek refreshment in Yeshua.'
+  - 'BA2d: We are to seek refreshment in the Holy Spirit.'
+  - 'BA2e: We are to seek renewal in Yeshua.'
+  - 'BA2f: We are to seek renewal in the Holy Spirit.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA2
-  title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy
+  title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit.
 - bible_references:
     key_nt_scriptures:
     - John 15:1-10
@@ -1480,10 +1607,14 @@
     - Ezekiel 11:19
   category: Relating to God & Yeshua
   commandment: We are to be united (in unity /union) with God and Yeshua.
+  commandment_subtitles:
+  - 'BA3a: We are to abide in God and Yeshua'
+  - 'BA3b: We are to be united (in unity /union) with God'
+  - 'BA3c: We are to be united (in unity /union) with Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA3
-  title: 'Abiding in the Vine: Being United (in Unity /Union) with God'
+  title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua.'
 - bible_references:
     key_nt_scriptures:
     - John 3:14-16
@@ -1532,6 +1663,9 @@
     - Proverbs 3:5
   category: Relating to God & Yeshua
   commandment: We are to trust (have faith /believe) in God and Yeshua.
+  commandment_subtitles:
+  - 'BA4a: We are to trust (have faith /believe) in God.'
+  - 'BA4b: We are to trust (have faith /believe) in Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA4
@@ -1555,6 +1689,9 @@
     - Isaiah 59:12-13
   category: Relating to God & Yeshua
   commandment: We are not to deny our belief and faith in God & Yeshua.
+  commandment_subtitles:
+  - 'BA5a: We are not to deny our belief and faith in God..'
+  - 'BA5b: We are not to deny our belief and faith in Yeshua.'
   commentary_juster: ''
   commentary_rudolph: ''
   id: BA5
@@ -1579,6 +1716,7 @@
     - Psalms 117:1
   category: Relating to God & Yeshua
   commandment: We are to offer our entire selves to God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA6
@@ -1605,6 +1743,9 @@
     - Psalms 135:2-3
   category: Relating to God & Yeshua
   commandment: We are to praise God & Yeshua.
+  commandment_subtitles:
+  - 'BA7a: We are to praise God.'
+  - 'BA7b: We are to praise Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA7
@@ -1632,6 +1773,9 @@
     - Malachi 3:4
   category: Relating to God & Yeshua
   commandment: We are to seek to please God and Yeshua.
+  commandment_subtitles:
+  - 'BA8a: We are to seek to please God.'
+  - 'BA8b: We are to seek to please Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA8
@@ -1656,6 +1800,7 @@
     - Isaiah 61:8
   category: Relating to God & Yeshua
   commandment: We are to believe in God’s evenhanded justice.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA9
@@ -1700,6 +1845,9 @@
     - Deuteronomy 30:8-16
   category: Relating to God & Yeshua
   commandment: We are to obey the commandments of God and Yeshua.
+  commandment_subtitles:
+  - 'BA10a: We are to obey the commandments (Mitzvot /Torah) of God.'
+  - 'BA10b: We are to obey the commandments (Mitzvot /Torah) of Yeshua'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA10
@@ -1723,6 +1871,9 @@
     - Isaiah 24:14-15
   category: Relating to God & Yeshua
   commandment: We are to honor God and Yeshua..
+  commandment_subtitles:
+  - 'BA11a: We are to honor God.'
+  - 'BA11b: We are to honor Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA11
@@ -1735,6 +1886,7 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to lift up Yeshua at every opportunity.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA12
@@ -1764,6 +1916,9 @@
     - Deuteronomy 28:15
   category: Relating to God & Yeshua
   commandment: We are to hear the words and voice of God and Yeshua.
+  commandment_subtitles:
+  - 'BA13a: We are to hear the words and voice of God.'
+  - 'BA13b: We are to hear the words and voice of Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA13
@@ -1785,6 +1940,7 @@
     - Jeremiah 31:32(33):33(34)
   category: Relating to God & Yeshua
   commandment: We are to know God through Yeshua.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA14
@@ -1815,6 +1971,9 @@
     - Malachi 3:18
   category: Relating to God & Yeshua
   commandment: We are to serve both God and Yeshua.
+  commandment_subtitles:
+  - 'BA15a: We are to serve God.'
+  - 'BA15b: We are to serve Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA15
@@ -1837,6 +1996,9 @@
     - 2 Chronicles 16:9
   category: Relating to God & Yeshua
   commandment: We are to devote our lives to God and Yeshua.
+  commandment_subtitles:
+  - 'BA16a: We are to devote our lives to God.'
+  - 'BA16b: We are to devote our lives to Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA16
@@ -1862,6 +2024,7 @@
     - Exodus 7:1
   category: Relating to God & Yeshua
   commandment: We are to imitate God and Yeshua.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA17
@@ -1876,6 +2039,7 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to be reconciled to God in Yeshua.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA18
@@ -1897,6 +2061,7 @@
     - Daniel 12:13
   category: Relating to God & Yeshua
   commandment: We are to seek our reward from God in Heaven.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA19
@@ -1915,6 +2080,10 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to listen to, believe, and obey the Good News of Yeshua.
+  commandment_subtitles:
+  - 'BA20a: We are to listen to the Good News of Yeshua.'
+  - 'BA20b: We are to believe the Good News of Yeshua.'
+  - 'BA20c: We are to obey the Good News of Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA20
@@ -1950,6 +2119,9 @@
     - Deuteronomy 30:16
   category: Relating to God & Yeshua
   commandment: We are to love the Lord Our God & Messiah Yeshua.
+  commandment_subtitles:
+  - 'BA21a: We are to love the Lord our God.'
+  - 'BA21b: We are to love Messiah Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA21
@@ -1990,6 +2162,7 @@
     - Zechariah 14:9
   category: Relating to God & Yeshua
   commandment: We are to know that God is one – both singular and composite.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA22
@@ -2028,6 +2201,9 @@
     - Psalms 5:8(7)
   category: Relating to God & Yeshua
   commandment: We are to fear and Revere God and Messiah.
+  commandment_subtitles:
+  - 'BA23a: We are to fear God and Messiah.'
+  - 'BA23b: We are to revere God and Messiah.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA23
@@ -2040,6 +2216,7 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to present ourselves to God as worthy of approval.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA24
@@ -2063,6 +2240,11 @@
     - Proverbs 3:9
   category: Relating to God & Yeshua
   commandment: We are to put God and Yeshua before All Things and All Persons.
+  commandment_subtitles:
+  - 'BA25a: We are to put God before All things.'
+  - 'BA25b: We are to put God before All Persons.'
+  - 'BA25c: We are to put Yeshua before All Things.'
+  - 'BA25d: We are to put Yeshua before All Persons.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA25
@@ -2079,6 +2261,7 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to be witnesses of and for Yeshua.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA26
@@ -2097,6 +2280,9 @@
     - Deuteronomy 6:5
   category: Relating to God & Yeshua
   commandment: We are to receive Yeshua’s love and kindness.
+  commandment_subtitles:
+  - 'BA27a: We are to receive Yeshua’s love.'
+  - 'BA27v: We are to receive Yeshua’s kindness.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA27
@@ -2129,6 +2315,7 @@
     - Isaiah 53:11-12
   category: Relating to God & Yeshua
   commandment: We are to believe that Yeshua died for our sins.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA28
@@ -2157,6 +2344,9 @@
     - Hosea 8:2
   category: Relating to God & Yeshua
   commandment: We are to have a close personal relationship with God and Yeshua
+  commandment_subtitles:
+  - 'BA29a: We are to have a close personal relationship with God.'
+  - 'BA29b: We are to have a close personal relationship with Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA29
@@ -2169,6 +2359,7 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are not to lie to God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA30
@@ -2189,6 +2380,9 @@
     - Proverbs 8:36
   category: Relating to God & Yeshua
   commandment: We are not to despise God or Yeshua.
+  commandment_subtitles:
+  - 'BA31a: We are not to despise God.'
+  - 'BA31b: We are not to despise Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA31
@@ -2215,6 +2409,10 @@
     - Isaiah 9:5(6)
   category: Relating to God & Yeshua
   commandment: We are to believe that Yeshua is the Messiah, the Son of God, and deity.
+  commandment_subtitles:
+  - 'BA32a: We are to believe that Yeshua is the Messiah.'
+  - 'BA32b: We are to believe that Yeshua is the Son of God.'
+  - 'BA32c: We are to believe that Yeshua is deity.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA32
@@ -2250,6 +2448,9 @@
     - Psalms 150:1-6
   category: Relating to God & Yeshua
   commandment: We are to glorify God and Yeshua.
+  commandment_subtitles:
+  - 'BA33a: We are to glorify God.'
+  - 'BA33b: We are to glorify Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA33
@@ -2267,6 +2468,7 @@
     - Malachi 2:2
   category: Relating to God & Yeshua
   commandment: We are not to dishonor God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA34
@@ -2290,6 +2492,9 @@
     - Hosea 7:13
   category: Relating to God & Yeshua
   commandment: We are not to reject or turn away from God or Yeshua.
+  commandment_subtitles:
+  - 'BA35a: We are not to reject or turn away from God.'
+  - 'BA35a: We are not to reject or turn away from Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA35
@@ -2317,10 +2522,14 @@
   category: Relating to God & Yeshua
   commandment: We are to embrace Yeshua’s sacrifice for forgiveness, righteousness,
     and redemption.
+  commandment_subtitles:
+  - 'BA36a: We are to embrace Yeshua’s sacrifice for forgiveness.'
+  - 'BA36b: We are to embrace Yeshua’s sacrifice for righteousness.'
+  - 'BA36c: We are to embrace Yeshua’s sacrifice for redemption.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA36
-  title: Embracing Yeshua’s Sacrifice for Forgiveness, Righteousness,
+  title: Embracing Yeshua’s Sacrifice for Forgiveness, Righteousness, and Redemption.
 - bible_references:
     key_nt_scriptures:
     - Romans 9:20
@@ -2334,6 +2543,9 @@
     - 1 Samuel 15:23
   category: Relating to God & Yeshua
   commandment: We are not to contradict or rebuke God.
+  commandment_subtitles:
+  - 'BA37a: We are not to contradict God.'
+  - 'BA37b: We are not to rebuke God.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA37
@@ -2359,6 +2571,9 @@
     - Hosea 11:8
   category: Relating to God & Yeshua
   commandment: We are to know the compassion of God and Yeshua.
+  commandment_subtitles:
+  - 'BA38a: We are to know the compassion of God.'
+  - 'BA38b: We are to know the compassion of Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA38
@@ -2382,10 +2597,15 @@
     - Psalms 145:9
   category: Relating to God & Yeshua
   commandment: We are to acknowledge and receive God’s and Yeshua’s kindness and blessings.
+  commandment_subtitles:
+  - 'BA39a: We are to acknowledge God’s kindness and blessings.'
+  - 'BA39b: We are to acknowledge Yeshua’s kindness and blessings.'
+  - 'BA39c: We are to receive God’s kindness and blessings.'
+  - 'BA39d: We are to receive Yeshua’s kindness and blessings.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA39
-  title: Acknowledging & Receiving God’s and Yeshua’s Kindness
+  title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings.
 - bible_references:
     key_nt_scriptures:
     - Matthew 8:22
@@ -2412,6 +2632,11 @@
     - Jeremiah 2:2
   category: Relating to God & Yeshua
   commandment: We are to receive and follow God and Yeshua.
+  commandment_subtitles:
+  - 'BA40a: We are to receive God.'
+  - 'BA40b: We are to receive Yeshua.'
+  - 'BA40c: We are to follow God.'
+  - 'BA40d: We are to follow Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA40
@@ -2425,6 +2650,7 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to welcome Yeshua by welcoming children.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA41
@@ -2443,11 +2669,13 @@
     - Genesis 14:18-20
   category: Relating to God & Yeshua
   commandment: We are to partake of bread and wine with others and with a pure heart
-    in remembrance of
+    in remembrance of Yeshua.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA42
-  title: Partaking of Bread and Wine with Others & with a Pure Heart
+  title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance
+    of Yeshua.
 - bible_references:
     key_nt_scriptures:
     - Matthew 28:18-19
@@ -2489,6 +2717,7 @@
     - Isaiah 48:16
   category: Relating to God & Yeshua
   commandment: We are to know that God is triune.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA43
@@ -2511,6 +2740,7 @@
     - Proverbs 3:26
   category: Relating to God & Yeshua
   commandment: We are to rely on God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA44
@@ -2530,6 +2760,9 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to know Yeshua as Lord and Messiah.
+  commandment_subtitles:
+  - 'BA45a: We are to know Yeshua as Lord.'
+  - 'BA45b: We are to know Yeshua as Messiah.'
   commentary_juster: ''
   commentary_rudolph: ''
   id: BA45
@@ -2551,6 +2784,7 @@
     - Jeremiah 17:7-8
   category: Relating to God & Yeshua
   commandment: We are to remain rooted in Yeshua.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA46
@@ -2575,6 +2809,9 @@
     - Daniel 11:32
   category: Relating to God & Yeshua
   commandment: We are to acquire and grow in knowledge of God.
+  commandment_subtitles:
+  - 'BA47a: We are to acquire knowledge of God.'
+  - 'BA47b: We are to grow in knowledge of God.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA47
@@ -2594,6 +2831,9 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to rejoice in and with Yeshua.
+  commandment_subtitles:
+  - 'BA48a: We are to rejoice in Yeshua.'
+  - 'BA48b: We are to rejoice with Yeshua.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA48
@@ -2613,6 +2853,7 @@
     - Isaiah 41:8
   category: Relating to God & Yeshua
   commandment: We are to live along with Yeshua.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA49
@@ -2632,6 +2873,7 @@
     - Jeremiah 31:33(34)
   category: Relating to God & Yeshua
   commandment: We are to believe that Yeshua was sent for all of humanity.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA50
@@ -2647,6 +2889,7 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to know Yeshua as the One Mediator between God and Man.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA51
@@ -2674,6 +2917,7 @@
     - Lamentations 3:21-26
   category: Relating to God & Yeshua
   commandment: We are to set our hope on God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA52
@@ -2691,6 +2935,7 @@
     - Job 1:13-22
   category: Relating to God & Yeshua
   commandment: We are not to attribute our temptations to God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA53
@@ -2725,6 +2970,7 @@
     - 2 Chronicles 31:4
   category: Relating to God & Yeshua
   commandment: We are to submit to God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA54
@@ -2745,6 +2991,7 @@
     - Daniel 10:12
   category: Relating to God & Yeshua
   commandment: We are to humble ourselves before God.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA55
@@ -2760,6 +3007,7 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are to acknowledge the Holiness of Yeshua.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA56
@@ -2783,6 +3031,7 @@
     - Jeremiah 2:31
   category: Relating to God & Yeshua
   commandment: We are to come to Yeshua for spiritual rest.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA57
@@ -2806,6 +3055,7 @@
     - Daniel 11:32
   category: Relating to God & Yeshua
   commandment: We are to stand firm in union with the Lord.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA58
@@ -2831,6 +3081,7 @@
     - 2 Kings 13:20-21
   category: Relating to God & Yeshua
   commandment: We are to remember that Yeshua was raised from the dead.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA59
@@ -2846,6 +3097,9 @@
     supportive_ot_scriptures: []
   category: Relating to God & Yeshua
   commandment: We are not to be ashamed of Yeshua and his teachings.
+  commandment_subtitles:
+  - 'BA60a: We are not to be ashamed of Yeshua.'
+  - 'BA60b: We are not to be ashamed of Yeshua’s teachings.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA60
@@ -2868,6 +3122,7 @@
     - Isaiah 41:8-9
   category: Relating to God & Yeshua
   commandment: We are to continue to make our being called and being chosen a certainty.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA61
@@ -2886,6 +3141,9 @@
     - Isaiah 40:31
   category: Relating to God & Yeshua
   commandment: We are to seek rest and refreshment in God.
+  commandment_subtitles:
+  - 'BA62a: We are to seek rest in God.'
+  - 'BA62b: We are to seek refreshment in God.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: BA62
@@ -2921,6 +3179,11 @@
     - Jeremiah 9:22(23)
   category: Prioritization & Acquisition of Wealth & Possessions
   commandment: We are not to pursue and accumulate worldly wealth and possessions.
+  commandment_subtitles:
+  - 'CA1a: We are not to pursue worldly wealth.'
+  - 'CA1b: We are not to pursue worldly possessions.'
+  - 'CA1c: We are not to accumulate worldly wealth.'
+  - 'CA1d: We are not to accumulate worldly wealth.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: CA1
@@ -2939,6 +3202,7 @@
     - Proverbs 3:9
   category: Prioritization & Acquisition of Wealth & Possessions
   commandment: We are to put Yeshua ahead of worldly wealth.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: CA2
@@ -2966,7 +3230,8 @@
     - Proverbs 22:1
     - Jeremiah 17:10
   category: Prioritization & Acquisition of Wealth & Possessions
-  commandment: We are store up wealth in Heaven while still on earth.
+  commandment: We are to store up wealth in Heaven while still on earth.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: CA3
@@ -2992,6 +3257,7 @@
     - Ecclesiastes 6:9
   category: Prioritization & Acquisition of Wealth & Possessions
   commandment: We are to be content with having the essentials for living.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: CA4
@@ -3008,6 +3274,7 @@
     - Proverbs 23:4-5
   category: Prioritization & Acquisition of Wealth & Possessions
   commandment: We are not to use religion to acquire riches.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: CA5
@@ -3038,6 +3305,7 @@
     - Ecclesiastes 5:9(10)
   category: Prioritization & Acquisition of Wealth & Possessions
   commandment: We are not to set a goal of being rich.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: CA6
@@ -3060,6 +3328,7 @@
     - Ecclesiastes 5:9(10)
   category: Prioritization & Acquisition of Wealth & Possessions
   commandment: We are not to be lovers of money.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: CA7
@@ -3074,6 +3343,7 @@
     supportive_ot_scriptures: []
   category: Prioritization & Acquisition of Wealth & Possessions
   commandment: We are not to take pride in being rich.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: CA8
@@ -3095,6 +3365,7 @@
     - 2 Timothy 1:7
   category: Prioritization & Acquisition of Wealth & Possessions
   commandment: We are not to rely on riches.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: ''
   id: CA9
@@ -3109,6 +3380,7 @@
     supportive_ot_scriptures: []
   category: Relating to Brothers & Neighbors
   commandment: We are to speedily seek reconciliation when summoned to court.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA1
@@ -3136,6 +3408,7 @@
     - Micah 6:8
   category: Relating to Brothers & Neighbors
   commandment: We are to seek reconciliation with our brother.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA2
@@ -3164,6 +3437,7 @@
     - Proverbs 25:18
   category: Relating to Brothers & Neighbors
   commandment: We are not to harm our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA3
@@ -3179,7 +3453,8 @@
     - Proverbs 19:11
   category: Relating to Brothers & Neighbors
   commandment: We are not to go to law against our brother in a secular court as an
-    alternative to a Beit Din of
+    alternative to a Beit Din of believers.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA4
@@ -3210,6 +3485,7 @@
     - Isaiah 1:17
   category: Relating to Brothers & Neighbors
   commandment: We are to serve one another.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA5
@@ -3231,6 +3507,7 @@
     - Leviticus 19:32
   category: Relating to Brothers & Neighbors
   commandment: We are to show respect for one another.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA6
@@ -3246,6 +3523,7 @@
     - Zechariah 7:9
   category: Relating to Brothers & Neighbors
   commandment: We are to be sensitive to each other’s needs.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA7
@@ -3259,6 +3537,7 @@
     - Proverbs 22:24
   category: Relating to Brothers & Neighbors
   commandment: We are to befriend people who are humble.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA8
@@ -3288,6 +3567,7 @@
     - Proverbs 3:27-28
   category: Relating to Brothers & Neighbors
   commandment: We are to give to our neighbor that which is owed him.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA9
@@ -3314,6 +3594,7 @@
     - Isaiah 26:3
   category: Relating to Brothers & Neighbors
   commandment: We are to do what we can to live in peace with our neighbors.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA10
@@ -3333,6 +3614,7 @@
     - Leviticus 19:18
   category: Relating to Brothers & Neighbors
   commandment: We are to bear the weaknesses of those who are not strong.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA11
@@ -3376,6 +3658,7 @@
     - Zechariah 7:10
   category: Relating to Brothers & Neighbors
   commandment: We are to be good, kind, and generous to one another.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA12
@@ -3404,10 +3687,13 @@
   category: Relating to Brothers & Neighbors
   commandment: We are not to associate with people who would deceive us or lead us
     astray.
+  commandment_subtitles:
+  - 'DA13a: We are not to associate with people who would deceive us.'
+  - 'DA13b: We are not to associate with people who would lead us astray.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA13
-  title: Not Associating with Persons Who Would Deceive Us or Lead Us
+  title: Not Associating with Persons Who Would Deceive Us or Lead Us Astray.
 - bible_references:
     key_nt_scriptures:
     - Ephesians 5:21
@@ -3423,6 +3709,7 @@
     - Genesis 16:9
   category: Relating to Brothers & Neighbors
   commandment: We are to submit to one another as we are led by the Holy Spirit.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA14
@@ -3453,6 +3740,7 @@
     - Amos 3:3
   category: Relating to Brothers & Neighbors
   commandment: We are to be likeminded and in unity with the brethren.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA15
@@ -3475,6 +3763,7 @@
     - 2 Chronicles 32:6
   category: Relating to Brothers & Neighbors
   commandment: We are to encourage one another.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA16
@@ -3493,11 +3782,13 @@
     - Proverbs 24:1
   category: Relating to Brothers & Neighbors
   commandment: We are to stay away from a brother whose life is not in accord with
-    the teachings and
+    the teachings and traditions of the Shl’chim.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA17
-  title: Staying Away from a Brother Whose Life is Not in Accord with
+  title: Staying Away from a Brother Whose Life is Not in Accord with the Teachings
+    and Traditions of the Shl’chim .
 - bible_references:
     key_nt_scriptures:
     - Luke 17:1-2
@@ -3527,6 +3818,9 @@
     - Micah 3:5
   category: Relating to Brothers & Neighbors
   commandment: We are not to cause our neighbor or brother to stumble.
+  commandment_subtitles:
+  - 'DA18a: We are not to cause our neighbor to stumble.'
+  - 'DA18b: We are not to cause our brother to stumble.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA18
@@ -3541,6 +3835,7 @@
     supportive_ot_scriptures: []
   category: Relating to Brothers & Neighbors
   commandment: We are not to associate with a sexually immoral brother.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA19
@@ -3570,6 +3865,7 @@
     - Micah 2:1-2
   category: Relating to Brothers & Neighbors
   commandment: We are not to be envious, jealous, or covetous of our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA20
@@ -3589,6 +3885,7 @@
     - Deuteronomy 5:17(17)
   category: Relating to Brothers & Neighbors
   commandment: We are not to murder.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA21
@@ -3616,6 +3913,9 @@
     - Malachi 3:5
   category: Relating to Brothers & Neighbors
   commandment: We are not to rob or steal from our neighbors.
+  commandment_subtitles:
+  - 'DA22a: We are not to rob our neighbors.'
+  - 'DA22b: We are not to steal from our neighbors..'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA22
@@ -3643,10 +3943,11 @@
     - Jeremiah 18:18
   category: Relating to Brothers & Neighbors
   commandment: We are not to slander or give false testimony against our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA23
-  title: Not Slandering or Giving False Testimony Against Our
+  title: Not Slandering or Giving False Testimony Against Our Neighbor.
 - bible_references:
     key_nt_scriptures:
     - Matthew 19:19
@@ -3687,6 +3988,9 @@
     - Deuteronomy 10:19
   category: Relating to Brothers & Neighbors
   commandment: We are to love our brother and our neighbor.
+  commandment_subtitles:
+  - 'DA24a: We are to love our brother.'
+  - 'DA24b: We are to love our neighbor'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA24
@@ -3709,6 +4013,7 @@
     - Micah 6:11
   category: Relating to Brothers & Neighbors
   commandment: We are not to defraud our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA25
@@ -3736,6 +4041,9 @@
     - Isaiah 58:4
   category: Relating to Brothers & Neighbors
   commandment: We are not to quarrel or fight with our neighbor.
+  commandment_subtitles:
+  - 'DA26a: We are not to quarrel with our neighbor.'
+  - 'DA26b: We are not to fight with our neighbor.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA26
@@ -3755,6 +4063,7 @@
     - Proverbs 28:1
   category: Relating to Brothers & Neighbors
   commandment: We are not to intimidate our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA27
@@ -3779,6 +4088,7 @@
     - Jeremiah 9:3(4)
   category: Relating to Brothers & Neighbors
   commandment: We are not to be a gossip or talebearer.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: ''
   id: DA28
@@ -3804,6 +4114,10 @@
     - Zechariah 7:9
   category: Relating to Brothers & Neighbors
   commandment: We are to be merciful and not heartless, or ruthless.
+  commandment_subtitles:
+  - 'DA29a: We are to be merciful.'
+  - 'DA29d: We are not to be heartless.'
+  - 'DA29e: We are not to be ruthless.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA29
@@ -3821,6 +4135,7 @@
     - Proverbs 23:9
   category: Relating to Brothers & Neighbors
   commandment: We are not to give support to wrongdoers.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA30
@@ -3838,6 +4153,7 @@
     - Proverbs 10:12
   category: Relating to Brothers & Neighbors
   commandment: We are not to hate our brother.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA31
@@ -3862,10 +4178,11 @@
     - Zechariah 7:9
   category: Relating to Brothers & Neighbors
   commandment: We are to empathize and sympathize with our neighbor’s joys and sorrows.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA32
-  title: Empathizing & Sympathizing with Our Neighbor’s Joys
+  title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows.
 - bible_references:
     key_nt_scriptures:
     - Matthew 5:22
@@ -3881,6 +4198,7 @@
     - Proverbs 23:22
   category: Relating to Brothers & Neighbors
   commandment: We are not to look down on a brother.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA33
@@ -3900,6 +4218,7 @@
     - Ezekiel 11:19
   category: Relating to Brothers & Neighbors
   commandment: We are not to associate with a divisive brother.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA34
@@ -3922,6 +4241,7 @@
     - Amos 5:11-12
   category: Relating to Brothers & Neighbors
   commandment: We are not to extort our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA35
@@ -3949,7 +4269,8 @@
     - Ecclesiastes 7:21-22
   category: Relating to Brothers & Neighbors
   commandment: We are to personally forgive all who sin against us, and judicially
-    forgive brothers who sin
+    forgive brothers who sin against us and repent.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA36
@@ -3973,6 +4294,7 @@
     - Zechariah 7:9
   category: Relating to Brothers & Neighbors
   commandment: We are to empathize with those who are imprisoned and mistreated.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA37
@@ -3991,6 +4313,7 @@
     - 1 Samuel 1:6
   category: Relating to Brothers & Neighbors
   commandment: We are not to engage in rivalry.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA38
@@ -4013,6 +4336,7 @@
     - Ezekiel 25:17
   category: Relating to Brothers & Neighbors
   commandment: We are not to be vengeful.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA39
@@ -4029,10 +4353,13 @@
     - Proverbs 26:4
   category: Relating to Brothers & Neighbors
   commandment: We are to welcome & not argue with people who are weak in faith.
+  commandment_subtitles:
+  - 'DA40a: We are to welcome people who are weak in faith.'
+  - 'DA40b: We are not to argue with people who are weak in faith.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA40
-  title: Welcoming & Not Arguing with Persons Who Are Weak
+  title: Welcoming & Not Arguing with Persons Who Are Weak in Faith.
 - bible_references:
     key_nt_scriptures:
     - Matthew 5:47
@@ -4054,6 +4381,9 @@
   category: Relating to Brothers & Neighbors
   commandment: We are to continue in brotherly friendships but be friendly to neighbors
     and outsiders as well.
+  commandment_subtitles:
+  - 'DA41a: We are be friends with brothers.'
+  - 'DA41b: We are to be friendly to our outsiders.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA41
@@ -4074,10 +4404,13 @@
     - Proverbs 21:23
   category: Relating to Brothers & Neighbors
   commandment: We are not to engage in fruitless or stupid controversies or discussions.
+  commandment_subtitles:
+  - 'DA42a: We are not to engage in fruitless controversies.'
+  - 'DA42b: We are not to engage in stupid discussions.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA42
-  title: Not Engaging in Fruitless or Stupid Controversies or
+  title: Not Engaging in Fruitless or Stupid Controversies or Discussions.
 - bible_references:
     key_nt_scriptures:
     - Acts 10:28
@@ -4090,6 +4423,7 @@
     - Psalms 50:6
   category: Relating to Brothers & Neighbors
   commandment: We are not to call any person common or unclean.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA43
@@ -4120,6 +4454,7 @@
     - Proverbs 28:8
   category: Relating to Brothers & Neighbors
   commandment: We are not to be indebted to our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA44
@@ -4140,6 +4475,9 @@
     - 1 Samuel 2:25
   category: Relating to Brothers & Neighbors
   commandment: We are not to sin against our brother or neighbor.
+  commandment_subtitles:
+  - 'DA45a: We are not to sin against our brother.'
+  - 'DA45b: We are not to sin against our neighbor..'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA45
@@ -4162,6 +4500,7 @@
     - Isaiah 1:3-4
   category: Relating to Brothers & Neighbors
   commandment: We are to comfort our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA46
@@ -4184,7 +4523,8 @@
     - Proverbs 24:28
     - Jeremiah 17:9
   category: Relating to Brothers & Neighbors
-  commandment: deceive our neighbor.
+  commandment: We are not to deceive our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA47
@@ -4210,10 +4550,15 @@
   category: Relating to Brothers & Neighbors
   commandment: We are not to harbor bitterness, malice, meanness or spitefulness against
     our neighbor.
+  commandment_subtitles:
+  - 'DA48a: We are not to harbor bitterness against our neighbor.'
+  - 'DA48b: We are not to harbor malice against our neighbor.'
+  - 'DA48c: We are not to harbor meanness against our neighbor.'
+  - 'DA48d: We are not to harbor spitefulness against our neighbor.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA48
-  title: Not Harboring Bitterness, Malice, Meanness or Spitefulness
+  title: Not Harboring Bitterness, Malice, Meanness or Spitefulness Against Our Neighbor.
 - bible_references:
     key_nt_scriptures:
     - Galatians 6:2
@@ -4236,6 +4581,7 @@
     - Psalms 68:20(19)
   category: Relating to Brothers & Neighbors
   commandment: We are to bear one another’s burdens.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA49
@@ -4259,6 +4605,9 @@
     - Proverbs 19:11
   category: Relating to Brothers & Neighbors
   commandment: We are to bear with one another in love and with forgiveness.
+  commandment_subtitles:
+  - 'DA50a: We are to bear with one another in love.'
+  - 'DA50b: We are to bear with one another with forgiveness.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA50
@@ -4274,6 +4623,7 @@
     - Proverbs 27:3
   category: Relating to Brothers & Neighbors
   commandment: We are not to provoke our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA51
@@ -4289,6 +4639,7 @@
     - Deuteronomy 23:21(20)
   category: Relating to Brothers & Neighbors
   commandment: We are to behave wisely toward outsiders.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA52
@@ -4307,6 +4658,7 @@
     - Jeremiah 22:3
   category: Relating to Brothers & Neighbors
   commandment: We are to rescue our neighbor when rescue is needed.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA53
@@ -4327,6 +4679,7 @@
     - Ezekiel 33:31
   category: Relating to Brothers & Neighbors
   commandment: We are not to flatter one another.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA54
@@ -4353,6 +4706,7 @@
     - Isaiah 29:20
   category: Relating to Brothers & Neighbors
   commandment: We are to guard against scoffers.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA55
@@ -4368,6 +4722,7 @@
     - Proverbs 26:17
   category: Relating to Brothers & Neighbors
   commandment: We are to mind our own business.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA56
@@ -4388,6 +4743,7 @@
     - Proverbs 29:11
   category: Relating to Brothers & Neighbors
   commandment: We are to live quietly so as to gain our neighbor’s respect.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA57
@@ -4403,6 +4759,7 @@
     - Proverbs 18:9
   category: Relating to Brothers & Neighbors
   commandment: We are to live so as not to be financially dependent on others.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA58
@@ -4428,6 +4785,9 @@
     - Proverbs 29:15
   category: Relating to Brothers & Neighbors
   commandment: We are not to mislead or harm a child.
+  commandment_subtitles:
+  - 'DA59a: We are not to mislead a child.'
+  - 'DA59b: We are not to harm a child.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA59
@@ -4449,10 +4809,13 @@
   category: Relating to Brothers & Neighbors
   commandment: We are to treat people with respect in ways appropriate to their age
     and gender
+  commandment_subtitles:
+  - 'DA60a: We are to treat people with respect in ways appropriate to their age.'
+  - 'DA60b: We are to treat people with respect in ways appropriate to their gender.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA60
-  title: Treating Persons with Respect in Ways Appropriate to Their
+  title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender.
 - bible_references:
     key_nt_scriptures:
     - Hebrews 10:24
@@ -4474,6 +4837,9 @@
     - 2 Chronicles 35:2
   category: Relating to Brothers & Neighbors
   commandment: We are to exhort another to love & good deeds.
+  commandment_subtitles:
+  - 'DA61a: We are to exhort one another to love.'
+  - 'DA61b: We are to exhort one another to good deeds.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA61
@@ -4494,6 +4860,7 @@
     - Numbers 28:18, 25-26, 29:1, 7, 12
   category: Relating to Brothers & Neighbors
   commandment: We are not to neglect to assemble with the brethren.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA62
@@ -4518,6 +4885,7 @@
     - Proverbs 22:2
   category: Relating to Brothers & Neighbors
   commandment: We are not to show favoritism.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA63
@@ -4538,6 +4906,9 @@
     - Proverbs 11:13
   category: Relating to Brothers & Neighbors
   commandment: We are not to speak badly or critically of our brother or neighbor.
+  commandment_subtitles:
+  - 'DA64a: We are not to speak badly or critically of our brother.'
+  - 'DA64b: We are not to speak badly or critically of our neighbor..'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA64
@@ -4563,6 +4934,7 @@
     - Micah 7:5-6
   category: Relating to Brothers & Neighbors
   commandment: We are not to insult our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA65
@@ -4575,6 +4947,7 @@
     - 1 Samuel 18:9
   category: Relating to Brothers & Neighbors
   commandment: We are not to harbor evil suspicions about our neighbor.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA66
@@ -4591,6 +4964,7 @@
     - Proverbs 24:1
   category: Relating to Brothers & Neighbors
   commandment: We are not to partner with unbelievers and ungodly people.
+  commandment_subtitles: []
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA67
@@ -4633,6 +5007,11 @@
     - Job 31:32
   category: Relating to Brothers & Neighbors
   commandment: We are to be welcoming and hospitable to our brother and neighbor.
+  commandment_subtitles:
+  - 'DA68a: We are to be welcoming to our brother.'
+  - 'DA68b: We are to be welcoming to our neighbor.'
+  - 'DA68c: We are to be hospitable to our brother.'
+  - 'DA68d: We are to be hospitable to our neighbor.'
   commentary_juster: ''
   commentary_rudolph: Comment
   id: DA68
