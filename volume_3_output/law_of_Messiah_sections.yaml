@@ -1337,9 +1337,9 @@
       title: Not Being Self-Seeking
     - id: RA19
       title: Instructing Widows to Not Be Self-Indulgent
-    - id: '36'
+    - id: GB36
       title: Not Engaging in Excesses and Self Indulgence
-    - id: '44'
+    - id: GB44
       title: Self Control (Discipline)
     commandments_related_ot:
     - id: H08
@@ -2364,13 +2364,13 @@
   id: AA61
   sections:
     commandments_related_nt:
-    - id: '01'
+    - id: WA01
       title: Abstaining from Fornication and Other Acts of Sexual Immorality
-    - id: '10'
+    - id: GB10
       title: Not Drinking Excessively, Being Intoxicated, or Being a User of Drugs
-    - id: '36'
+    - id: GB36
       title: Not Engaging in Excesses and Self Indulgence
-    - id: '41'
+    - id: GB41
       title: Not Participating in Wild Parties and Orgies
     commandments_related_ot:
     - id: A11
@@ -3663,7 +3663,7 @@
       title: Seudat Ha-Adon
     - id: Y02
       title: Abiding in Yeshua in Order to Bear Fruit
-    - id: YO3
+    - id: Y3
       title: Trusting in Yeshua & Believing that He is Our Messiah Sent by God
     - id: Y04
       title: Expecting & Accepting Persecution on Account of Our Faith in Yeshua
@@ -8188,11 +8188,11 @@
   id: DA45
   sections:
     commandments_related_nt:
-    - id: '13'
+    - id: AA13
       title: Fleeing from Sin and Evil
-    - id: '16'
+    - id: AA16
       title: Not Contemplating How to Gratify Sinful Desires
-    - id: '60'
+    - id: AA60
       title: Not Allowing Anger to Cause Us to Sin
     - id: DA03
       title: Not Harming Our Neighbor

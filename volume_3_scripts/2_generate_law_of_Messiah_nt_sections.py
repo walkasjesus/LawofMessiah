@@ -34,6 +34,11 @@ def extract_sections(data):
     title_split_regex = re.compile(r"^([A-Z0-9\-]+)\s{2,}(.*)")
     commandment_id_regex = re.compile(r"^[A-Z]{2,}[0-9]+\.?$")
     category_header_regex = re.compile(r"^[A-Z]{2}[.:]\s+")
+    related_prefix_token_regex = re.compile(r"^[A-Z]{1,3}$")
+    last_related_prefix_by_section = {
+        "commandments_related_ot": None,
+        "commandments_related_nt": None,
+    }
 
     for page in data:
         content = page.get("content", [])
@@ -88,6 +93,10 @@ def extract_sections(data):
                     # "commandment": "",
                     "sections": {}
                 }
+                last_related_prefix_by_section = {
+                    "commandments_related_ot": None,
+                    "commandments_related_nt": None,
+                }
                 logging.info(f"Detected ID: {commandment_id}")
                 current_section = None  # Reset current_section for the new commandment
                 continue
@@ -105,18 +114,44 @@ def extract_sections(data):
                 else:
                     if current_commandment:
                         current_commandment["sections"].setdefault(current_section, [])
+                        if current_section in last_related_prefix_by_section:
+                            last_related_prefix_by_section[current_section] = None
                     logging.info(f"Detected section: {current_section}")
                 continue
 
             # Add content to the current section
             if current_section and current_commandment:
                 if current_section in ["commandments_related_ot", "commandments_related_nt"]:
+                    if related_prefix_token_regex.match(title):
+                        last_related_prefix_by_section[current_section] = title
+                        logging.debug(
+                            f"Captured standalone related prefix for {current_section}: {title}"
+                        )
+                        continue
+
                     # Split title into ID and title
                     match = title_split_regex.match(title)
                     if match:
+                        raw_id = match.group(1).strip()
+                        entry_title = match.group(2).strip()
+                        section_prefix = last_related_prefix_by_section.get(current_section)
+
+                        # OCR can drop the alpha prefix and leave only digits (e.g., "36").
+                        if raw_id.isdigit() and section_prefix:
+                            raw_id = f"{section_prefix}{raw_id}"
+
+                        # OCR can produce YO3 where Y03 is expected.
+                        ocr_o_match = re.match(r"^([A-Z])O([0-9]+)$", raw_id)
+                        if ocr_o_match:
+                            raw_id = f"{ocr_o_match.group(1)}{ocr_o_match.group(2)}"
+
+                        prefix_match = re.match(r"^([A-Z]+)-?[0-9]", raw_id)
+                        if prefix_match:
+                            last_related_prefix_by_section[current_section] = prefix_match.group(1)
+
                         entry_data = {
-                            "id": match.group(1),
-                            "title": match.group(2)
+                            "id": raw_id,
+                            "title": entry_title
                         }
                         current_commandment["sections"][current_section].append(entry_data)
                         logging.debug(f"Added entry to section {current_section}: {entry_data}")

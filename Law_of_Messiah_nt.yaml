@@ -800,7 +800,7 @@
     title: Believing in Resurrection of the Dead
   - id: TA10
     title: Believing that Yeshua was Raised from the Dead
-  - id: TA11
+  - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: UA6
     title: Overcoming Adversity through Faith and Perseverance
@@ -938,7 +938,7 @@
     title: Believing in Resurrection of the Dead
   - id: TA10
     title: Believing that Yeshua was Raised from the Dead
-  - id: TA11
+  - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: UA6
     title: Overcoming Adversity through Faith and Perseverance
@@ -1448,7 +1448,7 @@
     title: Believing in Resurrection of the Dead
   - id: TA10
     title: Believing that Yeshua was Raised from the Dead
-  - id: TA11
+  - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: UA6
     title: Overcoming Adversity through Faith and Perseverance
@@ -1636,9 +1636,9 @@
     title: Not Being Self-Seeking
   - id: RA19
     title: Instructing Widows to Not Be Self-Indulgent
-  - id: '36'
+  - id: GB36
     title: Not Engaging in Excesses and Self Indulgence
-  - id: '44'
+  - id: GB44
     title: Self Control (Discipline)
   commandment_form: Implied
   bible_references:
@@ -1762,7 +1762,7 @@
     title: Fleeing Lustful Passions
   - id: AA65
     title: Not Holding Onto or Prolonging Anger
-  - id: AA66
+  - id: AA60
     title: Not Allowing Anger to Cause Us to Sin
   - id: WA1
     title: Abstaining from Fornication and Other Acts of Sexual Immorality
@@ -2174,7 +2174,7 @@
     title: Fleeing Lustful Passions
   - id: AA65
     title: Not Holding Onto or Prolonging Anger
-  - id: AA66
+  - id: AA60
     title: Not Allowing Anger to Cause Us to Sin
   - id: BA4
     title: Trusting (Having Faith) in God and Yeshua
@@ -2706,13 +2706,13 @@
   - id: S4
     title: 'Fornicating: Engaging in Sexual Intimacy Outside of Marriage'
   commandments_related_nt:
-  - id: '01'
+  - id: WA1
     title: Abstaining from Fornication and Other Acts of Sexual Immorality
-  - id: '10'
+  - id: GB10
     title: Not Drinking Excessively, Being Intoxicated, or Being a User of Drugs
-  - id: '36'
+  - id: GB36
     title: Not Engaging in Excesses and Self Indulgence
-  - id: '41'
+  - id: GB41
     title: Not Participating in Wild Parties and Orgies
   commandment_form: Explicit
   bible_references:
@@ -3001,7 +3001,7 @@
     title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: BA50
     title: Believing that Yeshua’s Sacrifice was for All of Humanity
-  - id: BA63
+  - id: BA60
     title: Not Being Ashamed of Yeshua & His Teachings
   - id: FA11
     title: Petitioning God in Faith and with Thanksgiving
@@ -3019,7 +3019,7 @@
     title: Believing in (Trusting) Yeshua for Salvation
   - id: TA10
     title: Believing that Yeshua was Raised from the Dead
-  - id: TA11
+  - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: UA6
     title: Overcoming Adversity through Faith and Perseverance
@@ -4072,7 +4072,7 @@
     title: Seudat Ha-Adon
   - id: Y2
     title: Abiding in Yeshua in Order to Bear Fruit
-  - id: YO3
+  - id: Y3
     title: Trusting in Yeshua & Believing that He is Our Messiah Sent by God
   - id: Y4
     title: Expecting & Accepting Persecution on Account of Our Faith in Yeshua
@@ -4492,7 +4492,7 @@
     title: Praying for God’s Forgiveness
   - id: GA2
     title: Seeking Forgiveness of Sins in Yeshua
-  - id: TA11
+  - id: BA28
     title: Believing that Yeshua Died for Our Sins
   commandment_form: Implied
   bible_references:
@@ -5042,53 +5042,53 @@
   - id: G20
     title: Knowing God & Who He Is
   commandments_related_nt:
-  - id: '02'
+  - id: BA2
     title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   - id: '03'
     title: Being United (in Unity /Union) with God and Yeshua
-  - id: '04'
+  - id: BA4
     title: Trusting (Having Faith /Believing) in God and Yeshua
-  - id: '05'
+  - id: BA5
     title: Not Denying Our Belief and Faith in God & Yeshua
-  - id: '10'
+  - id: BA10
     title: Obeying the Commandments of God and Yeshua
-  - id: '13'
+  - id: BA13
     title: Hearing the Words & Voice of God and Yeshua
-  - id: '14'
+  - id: BA14
     title: Knowing God through Yeshua
   - id: '15'
     title: Serving God and Yeshua
-  - id: '17'
+  - id: BA17
     title: Imitating God and Yeshua
-  - id: '20'
+  - id: BA20
     title: Listening to, Believing, and Obeying the Good News of Yeshua
-  - id: '25'
+  - id: BA25
     title: Putting God and Yeshua Before All Things and All Persons
-  - id: '26'
+  - id: BA26
     title: Being Yeshua’s Witness
-  - id: '27'
+  - id: BA27
     title: Receiving Yeshua’s Love and Kindness
-  - id: '28'
+  - id: BA28
     title: Believing that Yeshua Died for Our Sins
-  - id: '29'
+  - id: BA29
     title: Having a Close Personal Relationship with God and Yeshua
-  - id: '32'
+  - id: BA32
     title: Believing that Yeshua is the Messiah, the Son of God, and Deity
-  - id: '35'
+  - id: BA35
     title: Not Rejecting or Turning Away from God or Yeshua
-  - id: '36'
+  - id: BA36
     title: Embracing Yeshua’s Sacrifice for Forgiveness, Righteousness, and Redemption
   - id: '39'
     title: Acknowledging God’s and Yeshua’s Kindness & Blessings
-  - id: '40'
+  - id: BA40
     title: Receiving and Following God and Yeshua
-  - id: '45'
+  - id: BA45
     title: Knowing Yeshua as Lord and Messiah
   - id: '49'
     title: Living with Yeshua
   - id: '49'
     title: Living with Yeshua
-  - id: '58'
+  - id: BA58
     title: Standing Firm in Union with the Lord
   commandment_form: Explicit
   bible_references:
@@ -6976,7 +6976,7 @@
     title: Honoring and Revering Our Father and Mother
   - id: F5
     title: Withholding Food, Clothing, or Marital Rights from Our Wife
-  - id: F6
+  - id: F5
     title: Treatment of Children
   - id: N1
     title: Loving Our Neighbor, the Stranger, and Even Our Enemy
@@ -7271,7 +7271,7 @@
     title: Not Harboring Bitterness Against Our Neighbor
   - id: DA49
     title: Not Harboring Malice or Being Spiteful to Our Neighbor
-  - id: DA79
+  - id: DA31
     title: Not Hating Our Brother
   commandment_form: Explicit
   bible_references:
@@ -8335,11 +8335,11 @@
   - id: S3
     title: Committing Adultery
   commandments_related_nt:
-  - id: '13'
+  - id: AA13
     title: Fleeing from Sin and Evil
-  - id: '16'
+  - id: AA16
     title: Not Contemplating How to Gratify Sinful Desires
-  - id: '60'
+  - id: AA60
     title: Not Allowing Anger to Cause Us to Sin
   - id: DA3
     title: Not Harming Our Neighbor
