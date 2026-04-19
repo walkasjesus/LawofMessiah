@@ -7,6 +7,12 @@ import re
 toc_filepath = "volume_1_2_scraped_files/toc.php"
 
 # Function to parse toc.html and generate the YAML structure
+def normalize_title_text(value):
+    text = re.sub(r"\s+", " ", str(value or "")).strip()
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
 def parse_toc_html(toc_filepath):
     with open(toc_filepath, "r", encoding="ISO-8859-1") as file:
         soup = BeautifulSoup(file, "html.parser")
@@ -29,10 +35,10 @@ def parse_toc_html(toc_filepath):
             match = re.match(r"([A-Z][0-9]{3})\.php", href)
             if match:
                 id = match.group(1)
-                title_text = link_cell.get_text(strip=True)
+                title_text = link_cell.get_text(separator=" ", strip=True)
                 # An asterisk (*) following a Mitzvah title below indicates that its assigned NCLA Code is other than JMm JFm KMm KFm GMm GFm
                 ncla_deviation = "*" in title_text
-                title_text = title_text.replace("*", "").strip()
+                title_text = normalize_title_text(title_text.replace("*", ""))
 
                 # Find the id_short
                 id_short_cell = row.find("td", align="right")
