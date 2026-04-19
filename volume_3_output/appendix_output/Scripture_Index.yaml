@@ -1,0 +1,5430 @@
+- id: AA1
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 1:15-16
+    - 1 Thessalonians 2:10
+    - 1 Thessalonians 4:3-4
+    - 1 Thessalonians 4:7
+    - 1 Timothy 1:9
+    - 1 Timothy 2:1-2
+    - 1 Timothy 4:7-8
+    - 1 Timothy 6:11
+    - 2 Corinthians 6:17
+    - 2 Corinthians 7:1
+    - 2 Peter 1:5
+    - 2 Peter 2:9-10
+    - 2 Peter 3:11
+    - 2 Peter 3:14
+    - 2 Timothy 1:9
+    - 2 Timothy 3:2
+    - Acts 26:17-18
+    - Colossians 3:12
+    - Ephesians 4:22-24
+    - Hebrews 12:14-16
+    - Revelation 22:11
+    - Romans 12:1
+    - Romans 13:14
+    - Romans 6:19
+    - Titus 2:3-8
+    - Titus 2:12
+    ot_scriptures:
+    - Deuteronomy 6:26
+    - Genesis 6:9
+    - Isaiah 55:7-8
+- id: AA10
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:8
+    - Colossians 3:12
+    - James 2:13
+    - Jude 1:22-23
+    - Luke 10:30-37
+    - Luke 6:36
+    - Matthew 12:7
+    - Matthew 18:33
+    - Matthew 23:23
+    - Matthew 5:7
+    - Philippians 2:1-2
+    - Romans 11:30-31
+    - Romans 12:8
+    - Romans 12:15
+    - Romans 1:31
+    - Romans 3:10
+    ot_scriptures:
+    - Daniel 4:24
+    - Zechariah 7:9
+- id: AA11
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:15
+    - Colossians 3:2
+    - Titus 2:12
+    ot_scriptures:
+    - Amos 6:13
+    - Ecclesiastes 2:1-2
+    - Ecclesiastes 7:4
+    - Proverbs 14:13
+    - Proverbs 15:23
+    - Proverbs 21:17
+- id: AA12
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:15
+    - 1 Timothy 1:9
+    - 2 Corinthians 1:12
+    - Colossians 2:8
+    - James 1:27
+    - Romans 12:2
+    ot_scriptures:
+    - Amos 6:13
+    - Haggai 1:6
+    - Proverbs 14:12
+    - Proverbs 15:21
+    - Proverbs 23:20-21
+- id: AA13
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:6
+    - 1 Corinthians 5:6-8
+    - 1 Peter 1:14
+    - 1 Peter 3:11-12
+    - 1 Thessalonians 5:22
+    - 1 Timothy 1:9
+    - 1 Timothy 6:10-11
+    - 2 Thessalonians 2:9-12
+    - 2 Timothy 2:22
+    - Acts 13:9
+    - Acts 3:26
+    - Colossians 3:5
+    - Ephesians 5:11
+    - Hebrews 10:26
+    - Hebrews 12:1
+    - Hebrews 12:4
+    - Hebrews 3:12
+    - James 1:21
+    - James 4:7
+    - Jude 1:11
+    - Jude 1:18
+    - Philippians 3:2
+    - Revelation 22:11
+    - Revelation 2:2
+    - Romans 12:9
+    - Romans 12:21
+    - Romans 13:3-4
+    - Romans 13:12
+    - Romans 16:19
+    - Romans 1:29
+    - Romans 2:8-9
+    - Romans 6:12-13
+    - Titus 3:3
+    ot_scriptures:
+    - Genesis 39:11-12
+- id: AA14
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 6:6
+    - 2 Timothy 4:3
+    - Colossians 1:11
+    - Colossians 3:12
+    - Ephesians 4:2-3
+    - Galatians 5:22-23
+    - Hebrews 6:12
+    - Romans 12:12
+    - Romans 15:4
+    ot_scriptures:
+    - Isaiah 30:18
+    - Isaiah 40:31
+    - Lamentations 3:25-26
+    - Micah 7:7
+    - Psalms 37:7
+    - Psalms 40:2
+- id: AA15
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:3
+    - 1 Peter 1:22
+    - 2 Corinthians 12:21
+    - 2 Corinthians 6:6
+    - 2 Corinthians 7:1
+    - 2 Timothy 2:21
+    - Colossians 3:5
+    - Ephesians 4:19
+    - Ephesians 5:3
+    - Ephesians 5:5
+    - James 3:17
+    - John 18:28
+    - Philippians 1:10
+    ot_scriptures:
+    - Daniel 1:8
+    - Ezekiel 20:7
+    - Ezekiel 20:18
+    - Leviticus 11:43-44
+    - Numbers 19:13
+    - Proverbs 22:24-25
+    - Psalms 106:38-39
+- id: AA16
+  bible_references:
+    nt_scriptures:
+    - Colossians 3:2
+    - Matthew 5:28
+    - Romans 13:14
+    ot_scriptures:
+    - Exodus 21:14
+    - Isaiah 30:1
+- id: AA17
+  bible_references:
+    nt_scriptures:
+    - Acts 13:9
+    - Romans 14:16
+    ot_scriptures:
+    - 1 Kings 3:9
+    - Isaiah 29:16
+    - Isaiah 5:20
+    - Leviticus 27:33
+    - Malachi 2:17
+    - Numbers 24:13
+    - Proverbs 17:15
+- id: AA18
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:6-8
+    - 1 Peter 1:3
+    - 2 Corinthians 5:17
+    - 2 Peter 2:9-10
+    - 2 Peter 2:18
+    - Colossians 3:9-10
+    - Ephesians 4:22-24
+    - Galatians 5:24-25
+    - Galatians 6:8
+    - John 3:3-8
+    - Romans 12:2
+    - Romans 8:12-13
+    ot_scriptures:
+    - Ezekiel 36:26-27
+- id: AA19
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:58
+    - 1 Corinthians 16:13
+    - 1 Thessalonians 3:8
+    - 2 Peter 1:5
+    - 2 Timothy 4:7
+    - Colossians 4:12
+    - Galatians 5:1
+    - James 1:4
+    - Jude 1:20
+    - Philippians 1:27
+    - Revelation 13:10
+    - Revelation 14:12
+    - Revelation 2:3
+    ot_scriptures:
+    - Genesis 15:6
+    - Isaiah 26:3-4
+    - Jeremiah 17:7-8
+    - Proverbs 16:20
+    - Proverbs 29:25
+    - Proverbs 3:5-6
+    - Psalms 112:7
+    - Psalms 118:6-9
+    - Psalms 143:8-9
+    - Psalms 20:8
+    - Psalms 32:10
+    - Psalms 37:3-6
+    - Psalms 62:7
+    - Psalms 62:9
+    - Psalms 71:5-6
+- id: AA2
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 16:13-14
+    - 1 Thessalonians 3:12
+    - 1 Thessalonians 4:3-5
+    - 2 Peter 2:13-14
+    - Romans 13:13
+    ot_scriptures:
+    - Proverbs 4:26
+    - Psalms 15:1-2
+    - Psalms 39:2
+- id: AA20
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 2:7
+    - 2 Corinthians 10:1
+    - 2 Timothy 2:25
+    - Ephesians 4:2
+    - Galatians 5:22-23
+    - Philippians 4:5
+    - Titus 3:1-2
+    ot_scriptures:
+    - Proverbs 15:1
+    - Proverbs 25:15
+- id: AA21
+  bible_references:
+    nt_scriptures:
+    - Galatians 5:21
+    - James 1:19
+    - Mark 11:24
+    - Revelation 3:15-16
+    ot_scriptures:
+    - Deuteronomy 31:6
+    - Exodus 15:2
+    - Joshua 1:9
+    - Proverbs 3:5
+- id: AA22
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:9-11
+    - 1 Corinthians 6:9-11
+    - 1 Peter 3:10
+    - 1 Peter 4:11
+    - 1 Timothy 5:13
+    - 2 Peter 2:18
+    - 2 Timothy 2:16
+    - Colossians 3:8
+    - Ephesians 4:29
+    - Ephesians 4:31
+    - Ephesians 5:4
+    - James 1:21
+    - James 1:26
+    - James 3:2
+    - Matthew 12:36-37
+    - Romans 3:13-14
+    - Titus 2:8
+    ot_scriptures:
+    - Proverbs 11:9
+    - Proverbs 13:3
+    - Proverbs 15:4
+    - Proverbs 21:23
+    - Psalms 141:3
+    - Psalms 19:15
+    - Psalms 37:30
+    - Psalms 49:3
+- id: AA23
+  bible_references:
+    nt_scriptures:
+    - Ephesians 4:25
+    - Ephesians 4:31
+    - James 1:21
+    ot_scriptures:
+    - 1 Kings 15:12
+    - Deuteronomy 13:6
+    - Ezekiel 45:9
+    - Genesis 13:6
+- id: AA24
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:8
+    - Ephesians 4:32
+    - Romans 1:31
+    ot_scriptures:
+    - 2 Kings 22:19
+- id: AA25
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:3
+    - 2 Corinthians 10:5
+    - 2 Corinthians 4:18
+    - 2 Peter 3:1
+    - Colossians 3:1
+    - Ephesians 4:19
+    - Galatians 5:19
+    - James 3:17
+    - Mark 8:33
+    - Philippians 1:10-11
+    - Philippians 4:8
+    - Revelation 21:27
+    - Romans 8:5-6
+    ot_scriptures:
+    - Ecclesiastes 10:20
+    - Psalms 119:15
+    - Psalms 139:23
+    - Psalms 19:15
+- id: AA26
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 4:7
+    - 2 Corinthians 6:17
+    - James 1:27
+    - John 15:19
+    - John 17:14-17
+    - Mark 7:15-23
+    - Matthew 15:18-20
+    - Romans 14:14
+    ot_scriptures:
+    - Deuteronomy 14:8
+    - Ezekiel 18:6
+    - Isaiah 52:11
+    - Lamentations 4:14-15
+    - Leviticus 11:8
+    - Leviticus 15:19-27
+    - Numbers 19:11-13
+    - Proverbs 17:19
+- id: AA27
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:18
+    - 2 Corinthians 2:14
+    - 2 Corinthians 4:15
+    - 2 Timothy 1:3
+    - 2 Timothy 3:2
+    - Colossians 1:3
+    - Colossians 1:11-12
+    - Colossians 2:7
+    - Colossians 3:15-17
+    - Colossians 4:2
+    - Ephesians 5:4
+    - Ephesians 5:20
+    - Philippians 4:6
+    - Romans 14:6-8
+    - Romans 1:20-21
+    ot_scriptures:
+    - Deuteronomy 31:6
+    - Psalms 100:1-5
+    - Psalms 105:1
+    - Psalms 118:1
+    - Psalms 118:28-29
+    - Psalms 136:1-3
+    - Psalms 136:26
+    - Psalms 50:14
+    - Psalms 50:23
+    - Psalms 92:2
+    - Psalms 95:2
+    - Psalms 97:12
+    - Psalms 9:2
+- id: AA29
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:10
+    - 1 Thessalonians 5:16
+    - 2 Corinthians 6:10
+    - Colossians 1:11
+    - Galatians 5:22-23
+    - Matthew 5:12
+    - Philippians 3:1
+    - Philippians 4:4
+- id: AA3
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:34
+    - 1 Corinthians 6:9-11
+    - 1 John 3:7
+    - 1 Thessalonians 2:10
+    - 1 Timothy 6:11
+    - 2 Peter 2:21
+    - 2 Peter 3:14
+    - 2 Timothy 2:22
+    - Ephesians 4:22-24
+    - Galatians 2:16-17
+    - Galatians 3:24-26
+    - Hebrews 10:38-39
+    - Matthew 5:20
+    - Matthew 6:33
+    - Philippians 1:10-11
+    - Revelation 22:11
+    - Romans 10:6-7
+    - Romans 3:20-28
+    - Romans 4:2
+    - Romans 4:5-6
+    - Romans 4:11-14
+    - Romans 4:20-22
+    - Romans 6:12-13
+    - Romans 6:19
+    - Titus 3:7
+    ot_scriptures:
+    - Genesis 15:6
+    - Genesis 6:9
+    - Job 17:9
+    - Proverbs 10:31
+    - Psalms 11:7
+    - Psalms 1:6
+- id: AA30
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:6-8
+    - 1 Timothy 1:10-11
+    - 1 Timothy 4:6-7
+    - 2 Corinthians 1:18
+    - Acts 5:3-4
+    - Colossians 3:9-10
+    - Ephesians 4:25
+    - Ephesians 5:8-9
+    - Matthew 5:37
+    - Revelation 21:8
+    - Revelation 21:27
+    - Revelation 22:15
+    - Revelation 2:2
+    - Romans 1:29
+    ot_scriptures:
+    - Deuteronomy 19:14
+    - Deuteronomy 19:18-19
+    - Deuteronomy 25:13-16
+    - Deuteronomy 5:17
+    - Exodus 20:13
+    - Leviticus 19:11-13
+    - Leviticus 19:35-36
+    - Leviticus 5:21
+    - Leviticus 5:23
+    - Proverbs 12:22
+    - Proverbs 13:5
+    - Proverbs 19:9
+    - Proverbs 20:10
+    - Proverbs 6:16-19
+- id: AA31
+  bible_references:
+    nt_scriptures:
+    - 2 Thessalonians 2:2
+    - 2 Timothy 3:10
+    - 2 Timothy 4:5
+    - Jude 1:20
+    ot_scriptures:
+    - Isaiah 26:3-4
+    - Psalms 112:7
+    - Psalms 62:9
+    - Psalms 71:5-6
+- id: AA32
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 4:1-2
+    - 1 Corinthians 4:16-17
+    - 1 Timothy 1:12
+    - 1 Timothy 2:7
+    - 2 Timothy 2:12
+    - 2 Timothy 2:22
+    - 2 Timothy 3:4
+    - Galatians 3:2
+    - Galatians 3:24-26
+    - Galatians 5:5-6
+    - Hebrews 10:33
+    - James 1:7-8
+    - James 4:8
+    - James 5:12
+    - Matthew 5:37
+    - Matthew 6:24
+    - Philippians 4:3
+    - Revelation 14:12
+    - Revelation 21:8
+    - Revelation 2:10
+    - Romans 1:31
+    ot_scriptures:
+    - 1 Chronicles 12:33
+    - Daniel 6:5
+    - Ezekiel 48:11
+    - Numbers 12:7
+    - Proverbs 25:13
+    - Psalms 119:113
+    - Psalms 30:5
+    - Psalms 31:24
+    - Psalms 37:28
+    - Psalms 50:5
+    - Psalms 97:10
+- id: AA33
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:1
+    - James 3:17
+    - Luke 11:46
+    - Luke 12:1
+    - Luke 6:42
+    - Matthew 23:13-15
+    - Matthew 23:23
+    - Matthew 23:25-29
+    - Matthew 6:5-6
+    - Matthew 7:4-5
+    ot_scriptures:
+    - Job 8:13
+    - Proverbs 11:9
+    - Psalms 26:4
+- id: AA34
+  bible_references:
+    nt_scriptures:
+    - Acts 18:18
+    - James 5:12
+    - Mark 7:11-13
+    - Matthew 15:5-6
+    - Matthew 5:33
+    ot_scriptures:
+    - Deuteronomy 23:22
+    - Ecclesiastes 5:3
+    - Numbers 30:2
+    - Psalms 56:13
+    - Psalms 65:2
+    - Psalms 76:12
+- id: AA35
+  bible_references:
+    nt_scriptures:
+    - Galatians 5:19-20
+    - James 3:14
+    - James 3:16
+    - Philippians 1:17
+    ot_scriptures:
+    - Numbers 16:28-29
+- id: AA36
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:12-13
+    - 1 Timothy 1:19-20
+    - Luke 12:8-10
+    - Mark 3:28-30
+    - Matthew 12:31-32
+    - Revelation 13:4-6
+    ot_scriptures:
+    - Exodus 22:27
+    - Leviticus 24:14-16
+- id: AA37
+  bible_references:
+    nt_scriptures:
+    - Romans 13:9
+    - Romans 1:30
+    - Romans 7:7
+    ot_scriptures:
+    - Deuteronomy 5:18
+    - Ecclesiastes 8:11
+    - Micah 2:1
+    - Proverbs 24:8
+    - Proverbs 3:29
+    - Psalms 140:3
+- id: AA38
+  bible_references:
+    nt_scriptures:
+    - James 5:12
+    - Matthew 5:33-37
+    ot_scriptures:
+    - Deuteronomy 10:20
+    - Deuteronomy 6:13-15
+    - Leviticus 18:12
+- id: AA39
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 4:2-3
+    - 1 Thessalonians 4:3-5
+    - 2 Peter 2:9-10
+    - Galatians 5:16
+    - Jude 1:18
+    - Titus 3:3
+    ot_scriptures:
+    - Exodus 20:14
+    - Proverbs 6:23-29
+- id: AA4
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:5
+    - 1 Timothy 3:8-9
+    - 2 Corinthians 6:17
+    - Hebrews 10:22
+    - James 4:8
+    - John 13:10
+    - Luke 11:39-41
+    - Matthew 23:25-29
+    - Revelation 22:11
+    ot_scriptures:
+    - Exodus 30:19-21
+    - Ezekiel 36:25
+    - Isaiah 1:16
+    - Leviticus 10:9-10
+    - Leviticus 16:30
+    - Proverbs 20:9
+    - Psalms 24:4-5
+    - Psalms 51:12
+- id: AA40
+  bible_references:
+    nt_scriptures:
+    - Acts 10:15
+    - Acts 11:9
+    ot_scriptures:
+    - Ezekiel 36:25-27
+    - Ezekiel 44:23
+    - Psalms 24:3-4
+    - Psalms 51:4
+    - Psalms 51:9
+    - Psalms 51:12
+- id: AA41
+  bible_references:
+    nt_scriptures:
+    - 1 John 4:1-3
+    - 1 Thessalonians 5:21
+    - Acts 17:11
+    ot_scriptures:
+    - Deuteronomy 27:10
+    - Exodus 15:26
+    - Genesis 3:8
+- id: AA42
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 1:22
+    - 1 Timothy 4:6-7
+    - 2 Thessalonians 2:9-12
+    - 2 Timothy 3:7
+    - 2 Timothy 4:4
+    - Colossians 3:9-10
+    - Ephesians 4:25
+    - Ephesians 5:8-9
+    - Hebrews 4:14
+    - Revelation 22:15
+    - Romans 1:18
+    - Romans 2:8-9
+    ot_scriptures:
+    - Deuteronomy 19:18-19
+    - Deuteronomy 5:17
+    - Exodus 20:13
+    - Leviticus 19:35-36
+    - Leviticus 5:1
+    - Proverbs 12:22
+    - Proverbs 13:5
+    - Proverbs 6:16-19
+- id: AA43
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 13:4-5
+    - 2 Timothy 3:2
+    - 2 Timothy 3:4
+    - Colossians 3:3
+    - Galatians 5:19-20
+    - Galatians 5:24
+    - John 15:13
+    - Matthew 16:24-25
+    - Philippians 2:3
+    - Romans 10:1-3
+    - Romans 12:1
+    - Romans 12:10
+    - Romans 2:8
+    ot_scriptures:
+    - Leviticus 19:18
+    - Leviticus 19:34
+    - Psalms 44:23
+- id: AA44
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:7
+    - 1 John 3:10-11
+    - 1 Peter 2:12
+    - 1 Peter 2:15
+    - 1 Peter 3:11-12
+    - 1 Peter 4:19
+    - 1 Thessalonians 5:21
+    - 1 Timothy 2:10
+    - 1 Timothy 5:10
+    - 1 Timothy 5:25
+    - 1 Timothy 6:18
+    - 2 Corinthians 9:8
+    - 2 Timothy 2:19
+    - 2 Timothy 3:3
+    - 3 John 1:11
+    - Acts 10:34-35
+    - Colossians 1:10
+    - Galatians 6:9-10
+    - Hebrews 10:24
+    - James 2:13
+    - James 2:26
+    - James 4:17
+    - Luke 12:57
+    - Matthew 19:16-19
+    - Matthew 19:21
+    - Matthew 5:13-16
+    - Matthew 6:1-4
+    - Romans 12:9
+    - Romans 12:17
+    - Romans 12:21
+    - Romans 13:3-4
+    - Romans 16:19
+    - Romans 2:7
+    - Romans 2:10
+    - Romans 6:19
+    - Titus 2:6-8
+    - Titus 2:14
+    - Titus 3:1
+    - Titus 3:8
+    - Titus 3:14
+    ot_scriptures:
+    - Isaiah 1:17
+    - Jeremiah 13:23
+    - Nehemiah 13:4
+    - Proverbs 3:27
+    - Psalms 34:14-15
+    - Psalms 37:3
+    - Psalms 37:27
+- id: AA45
+  bible_references:
+    nt_scriptures:
+    - Philippians 3:2-3
+    - Romans 2:28-29
+    ot_scriptures:
+    - Deuteronomy 10:16
+    - Deuteronomy 30:5-6
+    - Jeremiah 4:4
+- id: AA46
+  bible_references:
+    nt_scriptures:
+    - 1 John 4:6
+    - Hebrews 10:26
+    - James 4:17
+    - Romans 3:7-8
+    ot_scriptures:
+    - Deuteronomy 12:28
+    - Deuteronomy 6:17-18
+    - Genesis 18:19
+- id: AA47
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 2:4
+    - 1 Timothy 6:20
+    - 2 Peter 1:5
+    - 2 Peter 3:18
+    - Colossians 2:2-3
+    ot_scriptures:
+    - Proverbs 15:14
+    - Proverbs 18:15
+    - Proverbs 1:7
+    - Proverbs 1:28-29
+    - Proverbs 20:15
+    - Proverbs 2:6
+    - Psalms 119:66
+    - Psalms 19:2
+- id: AA48
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 2:3-5
+    - 2 Timothy 1:7
+    - Ephesians 6:10
+    - Galatians 3:3
+    - Philippians 4:13
+    ot_scriptures:
+    - Deuteronomy 8:17-18
+    - Job 40:12-14
+    - Leviticus 26:19
+- id: AA49
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:13
+    - 1 Corinthians 6:18
+    - 1 John 2:16
+    - 1 Peter 1:14
+    - 1 Peter 2:11
+    - 1 Peter 4:3
+    - 1 Thessalonians 4:5
+    - 2 Corinthians 5:7
+    - 2 Peter 1:6
+    - Ephesians 4:20
+    - Galatians 5:16-18
+    - Galatians 5:20-21
+    - Galatians 5:24
+    - James 1:14-15
+    - Matthew 5:27-30
+    - Romans 13:14
+    - Romans 1:26-27
+    - Titus 2:12
+    ot_scriptures:
+    - Ecclesiastes 2:8
+    - Exodus 20:14
+    - Proverbs 16:32
+    - Proverbs 6:25
+- id: AA5
+  bible_references:
+    nt_scriptures:
+    - Ephesians 5:1-2
+    - Matthew 5:48
+    ot_scriptures:
+    - Ecclesiastes 7:20
+    - Leviticus 11:44-45
+    - Leviticus 19:2
+    - Leviticus 20:7-8
+- id: AA50
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:8-11
+    - 1 Peter 4:9
+    - James 5:9
+    - John 6:41-43
+    - Jude 1:16
+    - Philippians 2:14
+    ot_scriptures:
+    - Exodus 15:24
+    - Exodus 16:7-8
+    - Isaiah 29:24
+    - Numbers 14:2
+    - Numbers 14:27
+    - Psalms 106:25
+- id: AA51
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:8
+    - 1 Thessalonians 2:10
+    - 1 Thessalonians 3:13
+    - 1 Thessalonians 5:23
+    - 1 Timothy 3:10
+    - 2 Corinthians 7:11
+    - Philippians 2:14-15
+    - Philippians 3:6
+    - Titus 1:67
+    ot_scriptures:
+    - Job 1:1
+    - Job 8:20
+    - Proverbs 2:7
+    - Psalms 119:1
+    - Psalms 143:2
+    - Psalms 15:2
+    - Psalms 15:5
+    - Psalms 19:14
+    - Psalms 25:6-7
+    - Psalms 25:11
+    - Psalms 25:18
+    - Psalms 26:1
+    - Psalms 26:11
+- id: AA52
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 2:7
+    - Acts 5:29
+    - Titus 1:6
+    - Titus 1:10
+    ot_scriptures:
+    - 1 Samuel 15:23
+    - Deuteronomy 21:18-21
+    - Ezekiel 2:8
+    - Isaiah 30:1
+    - Numbers 14:9
+    - Psalms 106:43
+    - Psalms 66:7
+- id: AA53
+  bible_references:
+    nt_scriptures:
+    - Titus 2:6-7
+    ot_scriptures:
+    - Job 27:5
+    - Job 4:6
+    - Proverbs 11:3
+    - Proverbs 20:7
+    - Psalms 25:21
+- id: AA54
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:10-11
+    - 2 Timothy 3:3
+    - Hebrews 5:14
+    - Romans 12:9
+    ot_scriptures:
+    - 1 Kings 3:9
+    - Amos 5:14-15
+    - Psalms 37:27
+- id: AA55
+  bible_references:
+    nt_scriptures:
+    - James 1:7-8
+    - James 4:8
+    - Matthew 6:24
+    - Revelation 21:8
+    ot_scriptures:
+    - 1 Chronicles 12:33
+    - Psalms 119:113
+- id: AA56
+  bible_references:
+    nt_scriptures:
+    - James 1:19
+    - James 1:26
+    ot_scriptures:
+    - Proverbs 10:19
+    - Proverbs 17:27
+    - Proverbs 18:2
+    - Proverbs 18:13
+    - Proverbs 21:23
+    - Proverbs 29:11
+- id: AA57
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:14-15
+    - James 1:19
+    - Philippians 4:5
+    ot_scriptures:
+    - Isaiah 1:18
+- id: AA58
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 4:1-2
+    - 1 Corinthians 4:17
+    - 1 Timothy 1:12
+    - 1 Timothy 2:7
+    - James 1:7-8
+    - Matthew 6:24
+- id: AA59
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:15-16
+    - 1 Peter 3:21
+    - 1 Timothy 1:5
+    - 1 Timothy 1:18-19
+    - 1 Timothy 3:8-9
+    - Hebrews 13:18
+    - Hebrews 9:13-14
+    ot_scriptures:
+    - 1 Kings 8:37-39
+- id: AA6
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 2:16
+    - 1 Corinthians 6:15-16
+    - 1 Peter 1:13
+    - 1 Thessalonians 4:3-5
+    - 2 Timothy 1:7
+    - Colossians 3:2-3
+    - Mark 9:43-47
+    - Matthew 18:8-9
+    - Matthew 5:28-30
+    - Philippians 4:8
+    - Romans 12:2
+    - Romans 6:12-13
+    - Romans 8:12-13
+- id: AA60
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 12:20-21
+    - Ephesians 4:26
+    ot_scriptures:
+    - Proverbs 19:11
+    - Psalms 4:4
+- id: AA61
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 6:18
+    - 1 Peter 4:3
+    - 1 Timothy 3:2-3
+    - 1 Timothy 3:8
+    - Ephesians 5:18
+    - Jude 1:22-23
+    - Romans 13:13
+    ot_scriptures:
+    - Deuteronomy 23:18
+    - Ezekiel 16:25-26
+    - Proverbs 31:4-5
+- id: AA62
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 2:2
+    - 2 Corinthians 4:1
+    - 2 Corinthians 4:16
+    ot_scriptures:
+    - Joshua 1:7
+    - Joshua 1:9
+    - Joshua 23:6
+    - Psalms 27:14
+    - Psalms 31:24
+- id: AA63
+  bible_references:
+    nt_scriptures:
+    - Romans 1:26
+    ot_scriptures:
+    - Ezekiel 13:3
+    - Proverbs 14:17
+    - Psalms 14:1
+    - Psalms 53:2
+- id: AA64
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 12:20-21
+    ot_scriptures:
+    - Proverbs 19:11
+    - Psalms 4:4
+- id: AA65
+  bible_references:
+    nt_scriptures:
+    - Colossians 3:8
+    - Ephesians 4:26
+    - Ephesians 4:31
+    - Matthew 5:22
+- id: AA7
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 6:9-11
+    - 1 Thessalonians 2:12
+    - 2 Peter 1:11
+    - James 2:5
+    - John 3:3-5
+    - Luke 12:31-32
+    - Luke 9:2
+    - Matthew 19:24
+    - Matthew 25:34
+    - Matthew 6:33
+    ot_scriptures:
+    - 1 Chronicles 29:11
+    - Daniel 3:32
+    - Daniel 4:31
+    - Psalms 22:28-30
+- id: AA8
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:9-11
+    - 1 Corinthians 6:9-11
+    - 1 Thessalonians 2:5
+    - 2 Peter 2:13-14
+    - Colossians 3:5
+    - Ephesians 4:19
+    - Ephesians 5:3
+    - Ephesians 5:5
+    - Luke 12:15
+    - Luke 3:13
+    - Romans 1:29
+    - Romans 7:7
+    ot_scriptures:
+    - Proverbs 28:16
+    - Psalms 10:3
+- id: AA9
+  bible_references:
+    nt_scriptures:
+    - Ephesians 5:8-9
+    - Ephesians 5:11-13
+    - Luke 11:34-36
+    - Matthew 5:13-16
+    ot_scriptures:
+    - Isaiah 42:6-7
+    - Isaiah 49:5-6
+    - Isaiah 60:1-3
+- id: AB8
+  bible_references:
+    nt_scriptures:
+    - Matthew 17:5
+- id: BA1
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:9
+    - Acts 15:10
+    - Acts 5:3-4
+    - Acts 5:7-9
+    - Hebrews 3:9
+    - James 1:2-4
+    - James 1:12
+    - Luke 4:12
+    - Matthew 4:1-4
+    - Matthew 4:9-11
+    ot_scriptures:
+    - Deuteronomy 6:16
+    - Exodus 17:7
+    - Genesis 3:1-6
+    - Isaiah 7:12
+- id: BA10
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 7:19
+    - 1 John 2:3-5
+    - 1 John 2:17
+    - 1 John 3:22
+    - 1 John 3:24
+    - 1 John 5:2-3
+    - 1 Timothy 6:13-14
+    - 2 John 1:6
+    - 2 Timothy 3:16
+    - Acts 3:22
+    - Acts 5:29
+    - Ephesians 5:6-7
+    - Galatians 2:16
+    - Hebrews 10:36
+    - Hebrews 3:18
+    - Hebrews 4:11
+    - Hebrews 5:9
+    - John 14:15
+    - John 14:21
+    - John 14:23-24
+    - John 15:10
+    - John 8:31-32
+    - John 8:47
+    - John 8:51
+    - Luke 11:42
+    - Mark 10:19
+    - Mark 7:9-13
+    - Matthew 12:50
+    - Matthew 19:17
+    - Matthew 5:17-19
+    - Matthew 7:24-27
+    - Philippians 2:12
+    - Revelation 12:17
+    - Revelation 2:26
+    - Revelation 3:8
+    - Revelation 3:10
+    - Romans 10:21
+    - Romans 15:18
+    - Romans 16:19
+    - Romans 2:13
+    - Romans 2:21-27
+    - Romans 3:31
+    - Titus 3:3
+    ot_scriptures:
+    - Deuteronomy 11:22-23
+    - Deuteronomy 11:32
+    - Deuteronomy 13:5
+    - Deuteronomy 18:15-19
+    - Deuteronomy 26:17-19
+    - Deuteronomy 27:10
+    - Deuteronomy 28:1
+    - Deuteronomy 28:15
+    - Deuteronomy 29:28
+    - Deuteronomy 30:8-16
+    - Deuteronomy 4:13-14
+    - Deuteronomy 4:40
+    - Deuteronomy 6:17
+    - Exodus 15:26
+    - Numbers 15:28-40
+- id: BA11
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:17
+    - 1 Timothy 6:15-16
+    - 2 Peter 1:17
+    - Hebrews 2:7-9
+    - Hebrews 3:3
+    - John 12:32
+    - John 5:22-23
+    - Philippians 2:9-10
+    - Revelation 4:11
+    - Revelation 5:12-13
+    - Revelation 7:12
+    - Romans 14:6-8
+    ot_scriptures:
+    - Exodus 35:2
+    - Isaiah 24:14-15
+    - Proverbs 3:9
+    - Psalms 50:15
+    - Psalms 56:9
+    - Psalms 96:6
+- id: BA12
+  bible_references:
+    nt_scriptures:
+    - John 8:28
+- id: BA13
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:21
+    - Acts 3:22
+    - Hebrews 4:1
+    - James 1:22-25
+    - John 14:15
+    - John 14:21
+    - John 16:3
+    - John 5:25
+    - John 8:47
+    - Luke 11:28
+    - Luke 14:35
+    - Luke 8:18
+    - Mark 4:23
+    - Matthew 11:15
+    - Matthew 13:9
+    - Matthew 18:9
+    - Matthew 7:24-27
+    - Romans 8:14
+    ot_scriptures:
+    - 1 Kings 19:11-12
+    - Deuteronomy 13:5
+    - Deuteronomy 28:1-2
+    - Deuteronomy 28:15
+    - Exodus 19:5
+    - Exodus 23:21-22
+    - Numbers 12:6-8
+- id: BA14
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 8:3
+    - 2 Thessalonians 1:8
+    - Colossians 2:9
+    - Hebrews 4:16
+    - Hebrews 8:11
+    - John 10:14-15
+    - John 12:45
+    - John 14:6-7
+    - John 14:9
+    - John 17:20
+    - John 1:12
+    - John 8:19
+    - John 8:54-55
+    ot_scriptures:
+    - Isaiah 43:10
+    - Jeremiah 31:32-33
+- id: BA15
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 4:1
+    - 1 Corinthians 7:35
+    - 1 Thessalonians 1:8-9
+    - 2 Timothy 4:5
+    - Hebrews 12:28
+    - Hebrews 9:14
+    - John 12:26
+    - Luke 4:8
+    - Matthew 4:10
+    - Romans 12:11
+    - Romans 1:9
+    ot_scriptures:
+    - 1 Samuel 12:24
+    - Deuteronomy 10:20
+    - Deuteronomy 11:13-14
+    - Deuteronomy 6:13
+    - Exodus 23:25
+    - Joshua 24:14-15
+    - Malachi 3:18
+    - Psalms 2:11
+- id: BA16
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 7:35
+    - 2 Corinthians 5:14-15
+    - 2 Timothy 2:12
+    - Colossians 3:7
+    - Colossians 4:2
+    - Colossians 4:12
+    - Ephesians 2:10
+    - Luke 4:8
+    - Romans 12:1
+    - Romans 14:8
+    ot_scriptures:
+    - 1 Kings 11:4
+    - 1 Samuel 12:24
+    - 2 Chronicles 16:9
+    - Deuteronomy 6:5
+- id: BA17
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 11:1
+    - 1 John 2:6
+    - 1 Peter 2:21
+    - 1 Thessalonians 1:6
+    - 2 Timothy 2:3
+    - Colossians 3:13
+    - Ephesians 4:32
+    - Ephesians 5:1-2
+    - John 13:12-15
+    - John 13:34
+    - Luke 6:36
+    - Matthew 28:19
+    - Philippians 2:3-8
+    ot_scriptures:
+    - Exodus 7:1
+    - Genesis 1:26-27
+- id: BA18
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 5:18-20
+    - Colossians 1:20-22
+    - Ephesians 2:16
+    - Romans 11:15
+    - Romans 5:10-11
+- id: BA19
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 1:4
+    - 2 Corinthians 5:10
+    - 2 Timothy 4:8
+    - Colossians 3:23-24
+    - James 1:12
+    - Luke 18:22
+    - Matthew 19:21
+    - Matthew 5:12
+    - Matthew 6:20
+    - Revelation 3:11
+    ot_scriptures:
+    - Daniel 12:13
+- id: BA2
+  bible_references:
+    nt_scriptures:
+    - Ephesians 4:21
+    - Ephesians 4:23-24
+    - Hebrews 4:9-11
+    - Matthew 11:28-29
+    - Titus 3:4-6
+    ot_scriptures:
+    - Exodus 23:12
+    - Exodus 31:15
+    - Exodus 33:14
+    - Isaiah 40:31
+    - Phi 1:20
+- id: BA20
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 4:17
+    - 2 Thessalonians 1:8
+    - 2 Thessalonians 2:14
+    - Acts 13:23
+    - Acts 17:2-3
+    - Luke 3:18
+    - Luke 8:1
+    - Mark 1:14-15
+    - Matthew 11:5
+    - Matthew 24:14
+    - Matthew 4:23
+    - Matthew 9:35
+    - Romans 1:2-4
+- id: BA21
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 14:1
+    - 1 Corinthians 2:9
+    - 1 Corinthians 8:3
+    - 1 John 3:18
+    - 1 John 4:19-21
+    - 1 John 5:1-3
+    - 1 Thessalonians 3:6
+    - 1 Thessalonians 5:8
+    - 2 Corinthians 6:6
+    - 2 Timothy 1:13
+    - Colossians 3:14
+    - Ephesians 3:16-17
+    - Ephesians 5:1-2
+    - John 14:15
+    - John 14:21-23
+    - John 21:15-17
+    - Luke 10:25-28
+    - Mark 12:30
+    - Matthew 10:37
+    - Matthew 22:37-38
+    - Revelation 2:4
+    - Revelation 2:19
+    ot_scriptures:
+    - Deuteronomy 10:12
+    - Deuteronomy 11:1
+    - Deuteronomy 5:9-10
+    - Deuteronomy 6:5-9
+    - Deuteronomy 7:9
+    - Exodus 20:5-6
+- id: BA22
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 8:4
+    - 1 Corinthians 8:6
+    - 1 Timothy 2:5
+    - 2 Corinthians 13:14
+    - Colossians 1:16
+    - Colossians 2:9
+    - Ephesians 4:5-6
+    - Galatians 3:20
+    - John 10:30
+    - John 10:36
+    - John 10:38
+    - John 14:10-11
+    - John 17:3
+    - John 17:20-23
+    - John 1:1
+    - John 1:14
+    - John 20:28
+    - Mark 12:29
+    - Mark 12:32
+    - Matthew 1:23
+    - Romans 3:30
+    ot_scriptures:
+    - 1 Chronicles 17:20
+    - Deuteronomy 32:39
+    - Deuteronomy 4:35
+    - Deuteronomy 4:39
+    - Deuteronomy 6:4
+    - Isaiah 37:16
+    - Isaiah 43:10-11
+    - Isaiah 44:6
+    - Isaiah 45:5
+    - Isaiah 45:21
+    - Isaiah 46:9
+    - Joel 2:27
+    - Nehemiah 9:6
+    - Psalms 86:10
+    - Zechariah 14:9
+- id: BA23
+  bible_references:
+    nt_scriptures:
+    - 1 John 4:18
+    - 1 Peter 1:17
+    - 1 Peter 2:17
+    - 1 Peter 3:15
+    - 2 Corinthians 5:11
+    - 2 Corinthians 7:1
+    - Acts 10:34-35
+    - Acts 9:31
+    - Colossians 3:22
+    - Colossians 4:1
+    - Ephesians 5:21
+    - Hebrews 11:7
+    - Luke 12:4-7
+    - Luke 1:50
+    - Matthew 10:28-31
+    - Philippians 2:12-13
+    - Romans 3:18
+    ot_scriptures:
+    - 1 Samuel 12:14
+    - 2 Chronicles 17:10
+    - Deuteronomy 10:12
+    - Deuteronomy 17:19
+    - Deuteronomy 31:12
+    - Deuteronomy 6:24
+    - Ecclesiastes 12:13
+    - Job 28:28
+    - Joshua 24:14
+    - Joshua 3:24
+    - Proverbs 10:27
+    - Proverbs 14:27
+    - Proverbs 15:6
+    - Proverbs 16:6
+    - Proverbs 19:23
+    - Proverbs 1:7
+    - Proverbs 22:4
+    - Proverbs 23:17
+    - Proverbs 28:14
+    - Proverbs 2:5
+    - Proverbs 31:30
+    - Proverbs 3:7
+    - Proverbs 8:13
+    - Proverbs 9:10
+    - Psalms 103:13
+    - Psalms 111:10
+    - Psalms 112:1
+    - Psalms 128:1
+    - Psalms 145:19
+    - Psalms 19:9
+    - Psalms 25:14
+    - Psalms 31:19
+    - Psalms 34:9
+    - Psalms 34:11
+    - Psalms 86:11
+- id: BA24
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 10:17-18
+    - 2 Timothy 2:15
+    - Colossians 1:10
+- id: BA25
+  bible_references:
+    nt_scriptures:
+    - Acts 5:29
+    - Colossians 1:18
+    - Colossians 3:23
+    - John 14:6
+    - Luke 10:38-42
+    - Luke 14:26-27
+    - Luke 14:33
+    - Matthew 10:37-38
+    - Matthew 13:44-46
+    - Matthew 22:37-40
+    - Matthew 6:32-33
+    - Philippians 2:9-11
+    - Philippians 3:8-9
+    ot_scriptures:
+    - Exodus 20:3
+    - Proverbs 3:9
+- id: BA26
+  bible_references:
+    nt_scriptures:
+    - 2 Timothy 1:8
+    - Acts 13:31
+    - Acts 1:8
+    - Acts 26:16
+    - Acts 4:33
+    - Acts 5:32
+    - John 1:6-8
+    - John 1:15
+    - Luke 21:12-13
+    - Revelation 12:17
+- id: BA27
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:4
+    - 2 Corinthians 5:14
+    - Acts 15:11
+    - Ephesians 1:4
+    - Ephesians 3:16-18
+    - Galatians 2:20
+    - James 2:26
+    - John 2:14-26
+    - Luke 9:23
+    - Matthew 22:37-39
+    - Romans 8:35-37
+- id: BA28
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:3
+    - 1 Corinthians 5:7
+    - 1 John 2:2
+    - 1 John 3:16
+    - 1 John 4:10
+    - 1 Peter 1:18-19
+    - 1 Peter 2:24
+    - 1 Peter 3:18
+    - 1 Timothy 2:6
+    - 2 Corinthians 5:14
+    - Acts 5:30-31
+    - Colossians 1:14
+    - Colossians 1:22
+    - Ephesians 2:13
+    - Galatians 1:4
+    - Galatians 2:19-20
+    - Hebrews 10:10
+    - Hebrews 2:9
+    - Hebrews 8:6-12
+    - Hebrews 9:14
+    - Hebrews 9:28
+    - John 1:29
+    - John 3:17
+    - Mark 10:45
+    - Matthew 5:7
+    - Romans 3:21-25
+    - Romans 4:25
+    - Romans 5:6-8
+    - Romans 5:10
+    - Romans 8:33-34
+    ot_scriptures:
+    - Isaiah 53:4-6
+    - Isaiah 53:11-12
+    - Jeremiah 31:30
+    - Jeremiah 31:32-33
+    - Leviticus 16:3-11
+    - Leviticus 17:11
+    - Leviticus 4:2-3
+    - Leviticus 4:13-14
+- id: BA29
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:9
+    - 1 Corinthians 1:21
+    - 1 Corinthians 8:8
+    - 1 John 4:8
+    - 2 Thessalonians 1:6-8
+    - Acts 17:26-28
+    - Galatians 2:18-19
+    - Galatians 4:8
+    - Hebrews 8:11
+    - Philippians 3:10-11
+    - Romans 14:7
+    - Romans 3:10-12
+    - Titus 1:16
+    ot_scriptures:
+    - Genesis 5:24
+    - Hosea 2:22
+    - Hosea 6:3
+    - Hosea 8:2
+    - Jeremiah 31:30
+- id: BA3
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 11:11
+    - 1 Corinthians 4:17
+    - 1 John 2:5-6
+    - 1 John 2:10
+    - 1 John 2:24
+    - 1 John 2:27-28
+    - 1 John 3:6
+    - 1 John 3:17
+    - 1 John 3:24
+    - 1 John 4:13-14
+    - 1 John 4:16
+    - 1 Thessalonians 2:2
+    - 1 Thessalonians 3:7-8
+    - 1 Thessalonians 4:1
+    - 1 Thessalonians 5:18
+    - 2 Corinthians 5:17
+    - 2 John 1:9
+    - 2 Thessalonians 3:4
+    - 2 Thessalonians 3:10-12
+    - 2 Timothy 1:9
+    - 2 Timothy 3:11-12
+    - Colossians 2:6
+    - Colossians 2:11-12
+    - Ephesians 1:7
+    - Ephesians 1:11
+    - Ephesians 2:7
+    - Ephesians 2:21-22
+    - Ephesians 3:5-6
+    - Ephesians 3:12
+    - Ephesians 4:2-3
+    - Ephesians 4:11-13
+    - Ephesians 6:1
+    - Ephesians 6:10
+    - Galatians 3:13-14
+    - Galatians 3:24-26
+    - Galatians 5:5-6
+    - John 15:4
+    - John 16:33
+    - John 17:20-23
+    - John 6:56
+    - John 8:31
+    - Philippians 1:27
+    - Philippians 2:1-2
+    - Philippians 2:5
+    - Philippians 3:1
+    - Philippians 3:8-9
+    - Philippians 4:4
+    - Philippians 4:7
+    - Romans 8:1
+    ot_scriptures:
+    - 1 Samuel 10:9-11
+    - 2 Kings 2:9-15
+    - Ezekiel 11:19
+    - Genesis 1:26-27
+    - Genesis 6:3
+    - Isaiah 61:1-2
+    - Judges 14:6
+    - Judges 3:9-10
+    - Judges 6:14
+    - Psalms 51:13
+- id: BA30
+  bible_references:
+    nt_scriptures:
+    - Acts 5:1-10
+    - Matthew 12:31-32
+    - Revelation 2:2
+- id: BA31
+  bible_references:
+    nt_scriptures:
+    - Acts 13:40-41
+    - John 15:18
+    - John 15:24
+    - John 7:7
+    - Luke 19:14
+    - Romans 1:30
+    ot_scriptures:
+    - Deuteronomy 32:41
+    - Numbers 10:35
+    - Proverbs 8:36
+    - Psalms 139:21
+    - Psalms 68:2
+    - Psalms 81:16
+- id: BA32
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:22
+    - 1 John 3:23
+    - 1 John 4:15
+    - 1 John 5:1
+    - 1 John 5:5
+    - 1 Timothy 2:5
+    - Acts 2:36
+    - Colossians 1:15
+    - Colossians 2:9
+    - Galatians 3:20
+    - John 10:36-38
+    - John 11:3-4
+    - John 17:21-23
+    - John 1:32-34
+    - John 1:49-50
+    - John 20:30-31
+    - John 3:16
+    - Romans 1:2-4
+    ot_scriptures:
+    - 1 Chronicles 17:13-14
+    - Isaiah 9:5
+    - Proverbs 30:4
+    - Psalms 2:7
+    - Psalms 89:27
+- id: BA33
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:31
+    - 1 Corinthians 5:20
+    - 1 Peter 4:11
+    - 1 Timothy 1:17
+    - 2 Corinthians 4:15
+    - 2 Peter 1:17
+    - Hebrews 2:9
+    - John 12:23
+    - John 13:31-32
+    - John 7:18
+    - Luke 9:26
+    - Mark 13:26
+    - Matthew 24:30
+    - Matthew 25:31
+    - Philippians 2:9-11
+    - Revelation 14:7
+    - Revelation 19:7
+    - Revelation 4:9-11
+    - Revelation 5:12-13
+    - Romans 15:5-9
+    - Romans 1:20-21
+    ot_scriptures:
+    - Deuteronomy 10:21-22
+    - Psalms 135:1
+    - Psalms 150:1-6
+    - Psalms 20:8
+    - Psalms 34:2
+    - Psalms 95:2
+- id: BA34
+  bible_references:
+    nt_scriptures:
+    - Mark 7:6
+    - Matthew 15:7-9
+    - Romans 2:23
+    ot_scriptures:
+    - Isaiah 29:13-14
+    - Malachi 1:6
+    - Malachi 2:2
+    - Numbers 20:12
+- id: BA35
+  bible_references:
+    nt_scriptures:
+    - Hebrews 10:26-27
+    - Hebrews 12:25
+    - John 12:48
+    - Luke 12:9
+    - Mark 14:21
+    - Mark 8:38
+    - Matthew 10:32-33
+    - Romans 1:18-28
+    - Romans 1:30
+    - Romans 1:32
+    - Romans 3:10-12
+    ot_scriptures:
+    - 1 Samuel 8:7
+    - Deuteronomy 28:20
+    - Hosea 7:13
+    - Judges 2:13
+    - Numbers 15:30-31
+- id: BA36
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:16
+    - 1 Corinthians 15:3-5
+    - Colossians 1:13-14
+    - Ephesians 1:7
+    - Ephesians 4:32
+    - Galatians 2:17
+    - John 3:16
+    - Mark 10:45
+    - Matthew 20:25-28
+    - Matthew 26:26-28
+    - Matthew 6:9-11
+    - Matthew 6:14-15
+    - Romans 3:20-28
+    - Romans 5:6-11
+    ot_scriptures:
+    - Daniel 9:9
+    - Exodus 15:2
+    - Exodus 34:6-7
+    - Isaiah 1:18
+    - Isaiah 42:6
+    - Isaiah 43:25
+    - Isaiah 55:7
+    - Isaiah 64:5
+    - Micah 7:18-19
+    - Proverbs 28:13
+    - Psalms 103:12
+    - Psalms 27:1
+    - Psalms 49:8
+- id: BA37
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:9-10
+    - Romans 10:21
+    - Romans 9:20
+    ot_scriptures:
+    - 1 Samuel 15:23
+    - Exodus 16:2-3
+    - Numbers 14:2
+    - Numbers 21:5-6
+- id: BA38
+  bible_references:
+    nt_scriptures:
+    - Hebrews 4:15
+    - James 5:11
+    - Luke 6:36
+    - Luke 7:13
+    - Mark 1:41
+    - Mark 5:19
+    - Mark 6:34
+    - Mark 8:2
+    - Matthew 14:14
+    - Matthew 9:13
+    - Matthew 9:36
+    ot_scriptures:
+    - Hosea 11:8
+    - Isaiah 14:1
+    - Lamentations 3:21-22
+    - Psalms 103:13
+    - Psalms 78:38
+    - Psalms 86:15
+- id: BA39
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:4
+    - Acts 13:43
+    - Acts 14:3
+    - Acts 15:11
+    - Acts 15:40
+    - Acts 20:24
+    - Ephesians 2:7
+    - John 3:17
+    - Matthew 11:28-30
+    - Romans 11:22
+    - Romans 2:4
+    - Titus 3:4
+    ot_scriptures:
+    - 1 Samuel 20:14-15
+    - Deuteronomy 21:5
+    - Deuteronomy 28:2-8
+    - Numbers 6:22-27
+    - Psalms 145:9
+- id: BA4
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:23
+    - 1 John 4:16
+    - 1 John 5:10
+    - 1 John 5:13
+    - 1 Peter 1:5
+    - 1 Peter 1:8-9
+    - 1 Peter 1:21
+    - 1 Peter 2:6-7
+    - 1 Peter 5:9
+    - 1 Thessalonians 1:8
+    - 1 Thessalonians 3:2
+    - 1 Thessalonians 3:6
+    - 1 Thessalonians 5:8
+    - 1 Timothy 1:3-5
+    - 1 Timothy 1:16
+    - 1 Timothy 1:18-19
+    - 1 Timothy 4:3
+    - 1 Timothy 4:10
+    - 2 Corinthians 10:15
+    - 2 Corinthians 13:5
+    - 2 Corinthians 4:13
+    - 2 Corinthians 5:7
+    - 2 Thessalonians 1:3-4
+    - 2 Thessalonians 1:10-11
+    - 2 Timothy 1:5
+    - 2 Timothy 1:12
+    - 2 Timothy 3:10
+    - 2 Timothy 3:15
+    - Acts 10:43
+    - Acts 13:38-39
+    - Acts 15:11
+    - Acts 16:29-31
+    - Acts 19:4-5
+    - Acts 20:20-21
+    - Acts 26:17-18
+    - Colossians 1:23
+    - Colossians 2:5
+    - Colossians 2:7
+    - Ephesians 1:13
+    - Ephesians 1:18-19
+    - Ephesians 3:16-17
+    - Galatians 2:16
+    - Galatians 2:20
+    - Galatians 3:2
+    - Galatians 3:5-7
+    - Galatians 3:10-14
+    - Galatians 3:24-26
+    - Galatians 5:5-6
+    - Hebrews 10:38-39
+    - Hebrews 11:1-12
+    - Hebrews 11:17
+    - Hebrews 11:20-33
+    - Hebrews 11:39
+    - Hebrews 3:12
+    - Hebrews 3:19
+    - Hebrews 4:2-3
+    - Hebrews 6:1-2
+    - Hebrews 6:12
+    - John 10:37-38
+    - John 12:36
+    - John 12:44-46
+    - John 14:1
+    - John 14:11
+    - John 17:20
+    - John 3:14-16
+    - John 6:47
+    - Jude 1:5
+    - Mark 11:22-24
+    - Mark 16:15-16
+    - Matthew 23:23
+    - Philippians 1:29
+    - Philippians 3:8-9
+    - Revelation 13:10
+    - Revelation 14:12
+    - Revelation 2:19
+    - Romans 10:4
+    - Romans 10:6-7
+    - Romans 10:10-11
+    - Romans 10:17
+    - Romans 11:20
+    - Romans 11:23
+    - Romans 12:3
+    - Romans 14:2-3
+    - Romans 14:23
+    - Romans 1:16-17
+    - Romans 3:20-28
+    - Romans 3:30-31
+    - Romans 4:3
+    - Romans 4:9-14
+    - Romans 4:20-24
+    - Romans 5:1-4
+    - Romans 9:30-32
+    - Titus 1:13
+    - Titus 2:2
+    ot_scriptures:
+    - Job 13:15
+    - Psalms 115:10-11
+    - Psalms 37:5
+    - Psalms 4:6
+- id: BA40
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 3:4
+    - John 10:9
+    - John 10:27
+    - John 12:26
+    - John 13:20
+    - John 14:23
+    - John 21:19
+    - John 21:22
+    - John 4:13-14
+    - John 8:12
+    - Luke 14:26-27
+    - Luke 18:22
+    - Luke 9:23-24
+    - Mark 10:21
+    - Mark 1:16-17
+    - Mark 8:34-35
+    - Matthew 10:38
+    - Matthew 10:40
+    - Matthew 16:24-25
+    - Matthew 19:21
+    - Matthew 19:28
+    - Matthew 4:19
+    - Matthew 8:22
+    ot_scriptures:
+    - Deuteronomy 1:36
+    - Isaiah 48:17
+    - Jeremiah 2:2
+    - Joshua 14:8-9
+    - Joshua 14:14
+    - Numbers 14:24
+    - Numbers 32:11-12
+- id: BA41
+  bible_references:
+    nt_scriptures:
+    - Luke 9:47-48
+    - Mark 9:36-37
+- id: BA42
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:16-17
+    - 1 Corinthians 11:23-31
+    - 1 Corinthians 11:33
+    - John 6:33
+    - John 6:35
+    - John 6:48-51
+    - John 6:53-58
+    - Luke 22:19-20
+    - Luke 24:30
+    - Mark 14:22-25
+    - Matthew 26:26-28
+    ot_scriptures:
+    - Genesis 14:18-20
+- id: BA43
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 8:6
+    - 1 John 1:3
+    - 1 John 5:20
+    - 1 Peter 1:1-2
+    - 2 Corinthians 1:15-17
+    - 2 Corinthians 1:21-22
+    - Acts 10:38
+    - Acts 2:33
+    - Acts 7:59
+    - Colossians 1:16
+    - Ephesians 5:31
+    - Hebrews 1:8
+    - John 10:30
+    - John 14:10-11
+    - John 14:16-17
+    - John 14:26
+    - John 15:26
+    - John 16:8
+    - John 16:13-15
+    - John 1:1-4
+    - John 1:14
+    - John 20:27-28
+    - John 5:18
+    - Jude 1:20-21
+    - Luke 1:35
+    - Luke 3:21-22
+    - Matthew 1:23
+    - Matthew 28:18-19
+    - Philippians 1:2
+    - Philippians 2:5-8
+    - Titus 1:4
+    - Titus 2:13
+    ot_scriptures:
+    - Exodus 24:16-18
+    - Exodus 40:34-38
+    - Genesis 2:24
+    - Isaiah 63:10-11
+    - Psalms 51:13
+- id: BA44
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 12:9-10
+    - 2 Corinthians 1:9
+    - Ephesians 2:8-9
+    - Galatians 3:9
+    - Philippians 4:6-7
+    ot_scriptures:
+    - 2 Chronicles 16:7
+    - Proverbs 3:26
+    - Psalms 143:8
+    - Psalms 44:7
+    - Psalms 49:7
+- id: BA45
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:22-23
+    - 1 John 4:6-8
+    - 1 Timothy 2:5
+    - 2 Peter 3:18
+    - Acts 2:36
+    - Hebrews 4:16
+    - John 20:28
+    - Romans 10:9
+- id: BA46
+  bible_references:
+    nt_scriptures:
+    - Colossians 2:7
+- id: BA47
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:34
+    - 2 Timothy 2:25
+    - 2 Timothy 3:6-7
+    - John 16:13
+    ot_scriptures:
+    - 1 Samuel 17:46-47
+    - Daniel 11:32
+    - Exodus 10:1-2
+    - Ezekiel 20:11-12
+    - Isaiah 37:20
+    - Joshua 4:23-24
+- id: BA48
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 1:8
+    - 1 Peter 5:7
+    - John 10:2-3
+    - John 3:17
+    - Luke 10:17-24
+    - Luke 1:47
+    - Matthew 2:10
+    - Philippians 1:25
+    - Philippians 3:1
+    - Revelation 19:7
+    - Romans 12:12
+    - Romans 15:13
+    - Romans 5:1
+    - Romans 8:35
+- id: BA49
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:9-10
+    - John 15:4-7
+    - John 15:10
+- id: BA5
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:22-23
+    - 1 Peter 4:16
+    - 2 Timothy 2:12
+    - John 18:15-27
+    - Luke 9:26
+    - Mark 14:66-72
+    - Matthew 26:69-75
+    - Revelation 2:13
+    - Revelation 3:8
+- id: BA50
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:21
+    - 1 John 2:2
+    - 1 John 4:6-8
+    - Matthew 10:32
+    - Matthew 28:16-20
+    - Romans 10:9
+- id: BA51
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 2:6
+    - Galatians 1:1
+    - Galatians 3:19
+    - Hebrews 12:24
+    - Hebrews 8:6
+    - Hebrews 9:15
+- id: BA52
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:5
+    - 1 Timothy 4:10
+    - 1 Timothy 5:5
+    - 1 Timothy 6:17
+    - 2 Corinthians 1:10
+    - Acts 24:15
+    - Hebrews 11:1
+    - Hebrews 6:19
+    - Romans 15:12-13
+    - Romans 5:3-5
+    - Titus 1:1-3
+    - Titus 2:11
+    - Titus 2:13
+    ot_scriptures:
+    - Lamentations 3:21-26
+    - Psalms 130:7
+    - Psalms 31:25
+    - Psalms 33:22
+    - Psalms 39:8
+    - Psalms 42:6
+- id: BA53
+  bible_references:
+    nt_scriptures:
+    - Hebrews 10:29
+    - James 1:13
+- id: BA54
+  bible_references:
+    nt_scriptures:
+    - 1 John 5:3-4
+    - 1 Peter 2:16
+    - Hebrews 10:36
+    - Hebrews 12:9
+    - Hebrews 13:13
+    - James 4:7
+    - Luke 11:27-28
+    - Luke 18:18-20
+    - Matthew 5:17-19
+    - Matthew 7:21
+    - Romans 10:2
+    - Romans 8:7
+    ot_scriptures:
+    - Deuteronomy 11:22-23
+    - Deuteronomy 11:32
+    - Deuteronomy 26:17-19
+    - Deuteronomy 29:28
+    - Deuteronomy 30:8-16
+    - Deuteronomy 4:13-14
+    - Deuteronomy 4:40
+    - Exodus 10:3
+    - Numbers 15:38-40
+- id: BA55
+  bible_references:
+    nt_scriptures:
+    - James 4:10
+- id: BA56
+  bible_references:
+    nt_scriptures:
+    - Acts 4:27-30
+    - Hebrews 13:12
+    - Luke 1:35
+    - Luke 4:34
+    - Mark 1:24
+    - Matthew 3:16-17
+- id: BA57
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:4
+    - John 11:25-26
+    - John 1:12
+    - John 5:39
+    - John 6:37
+    - John 6:65
+    - Luke 14:27
+    - Mark 1:17
+    - Mark 8:34
+    - Matthew 11:28-30
+    - Matthew 4:19
+    - Romans 10:10
+    ot_scriptures:
+    - 1 Chronicles 22:19
+    - Jeremiah 2:31
+    - Micah 4:1
+    - Micah 6:6
+- id: BA58
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:58
+    - 1 Corinthians 16:13
+    - 1 Peter 1:23
+    - 1 Peter 5:12
+    - 2 Corinthians 1:24
+    - 2 Thessalonians 2:15
+    - Colossians 4:12
+    - Galatians 5:1
+    - John 3:3-5
+    - Luke 21:16
+    - Philippians 1:27
+    - Philippians 4:1
+    ot_scriptures:
+    - 2 Samuel 23:5
+    - Daniel 11:32
+    - Joshua 23:16
+- id: BA59
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:20
+    - 1 Peter 1:3
+    - 1 Thessalonians 1:9
+    - 2 Timothy 2:8
+    - Acts 20:7-12
+    - Acts 4:10
+    - Acts 9:35-42
+    - John 11:1-44
+    - John 21:14
+    - John 2:22
+    - Luke 24:1-6
+    - Luke 7:11-15
+    - Luke 8:49-55
+    - Mark 5:35-43
+    - Matthew 17:9
+    - Matthew 27:50-54
+    - Matthew 28:1-7
+    - Romans 7:4
+- id: BA6
+  bible_references:
+    nt_scriptures:
+    - Ephesians 5:1-2
+    - Galatians 2:20
+    - Luke 9:23
+    - Mark 8:34
+    - Matthew 16:24
+    - Philippians 3:8-9
+    - Romans 12:1
+    - Romans 6:22
+- id: BA60
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 4:16
+    - 2 Timothy 1:8
+    - 2 Timothy 1:12
+    - Luke 9:26
+    - Mark 8:38
+    - Romans 1:16
+- id: BA61
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:26-28
+    - 2 Peter 1:10-11
+    - 2 Thessalonians 2:13
+    - 2 Timothy 1:9
+    - Ephesians 1:4-5
+    - Ephesians 1:11
+    - Hebrews 11:8
+    - John 15:16
+    - John 6:44
+    - Matthew 22:14
+    - Romans 8:30
+    ot_scriptures:
+    - Deuteronomy 14:2
+    - Deuteronomy 7:6
+    - Genesis 17:3-8
+    - Isaiah 41:4
+    - Isaiah 41:8-9
+- id: BA62
+  bible_references:
+    nt_scriptures:
+    - Acts 3:19-20
+    - Hebrews 3:10-11
+    - Hebrews 3:17-18
+    - Hebrews 4:1
+    - Hebrews 4:5
+    - Hebrews 4:9
+    ot_scriptures:
+    - Exodus 23:12
+    - Exodus 31:15
+    - Exodus 33:14
+- id: BA68
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 1:3
+- id: BA7
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:9
+    - Ephesians 1:5-6
+    - Ephesians 1:12
+    - Hebrews 13:15
+    - Matthew 5:16
+    - Revelation 19:5
+    - Revelation 5:13-14
+    - Revelation 7:12
+    - Romans 13:15
+    - Romans 15:11
+    ot_scriptures:
+    - Psalms 100:4
+    - Psalms 107:32
+    - Psalms 113:1
+    - Psalms 117:1
+    - Psalms 135:2-3
+    - Psalms 22:24
+    - Psalms 30:5
+    - Psalms 74:21
+- id: BA8
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:22
+    - 1 Thessalonians 2:4
+    - 1 Timothy 5:3-5
+    - 2 Corinthians 5:8-9
+    - Colossians 1:10
+    - Colossians 3:20
+    - Ephesians 5:10
+    - Galatians 8:10
+    - Hebrews 11:5-6
+    - Hebrews 13:15-16
+    - Hebrews 13:21
+    - John 8:29
+    - Philippians 4:18
+    - Romans 8:8-9
+    ot_scriptures:
+    - Malachi 3:4
+    - Proverbs 16:7
+    - Proverbs 21:3
+    - Psalms 104:34
+    - Psalms 149:4
+    - Psalms 69:31
+- id: BA9
+  bible_references:
+    nt_scriptures:
+    - 2 Thessalonians 1:6
+    - Colossians 3:25
+    - Ephesians 5:22-23
+    - Ephesians 6:9
+    - Hebrews 13:17
+    - Luke 11:42
+    - Luke 12:47-48
+    - Matthew 12:17-18
+    - Matthew 23:23
+    ot_scriptures:
+    - 2 Chronicles 19:7
+    - Exodus 12:48
+    - Genesis 17:9-10
+    - Genesis 17:12-13
+    - Isaiah 30:18
+    - Isaiah 61:8
+    - Job 34:12
+    - Proverbs 1:1-3
+    - Psalms 146:7
+    - Psalms 99:4
+- id: BB1
+  bible_references:
+    nt_scriptures:
+    - Luke 6:38
+- id: CA1
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:15
+    - 1 Timothy 6:9-10
+    - 1 Timothy 6:17-19
+    - 2 Timothy 3:1
+    - Hebrews 13:5
+    - James 2:5
+    - John 6:27
+    - Luke 12:15
+    - Luke 12:21
+    - Luke 12:33-34
+    - Luke 14:33
+    - Luke 16:11
+    - Luke 18:22
+    - Mark 10:21
+    - Matthew 13:22
+    - Matthew 19:22-23
+    - Matthew 6:19-21
+    - Matthew 6:25-34
+    - Revelation 3:17
+    ot_scriptures:
+    - 2 Chronicles 1:11-12
+    - Ecclesiastes 5:9
+    - Jeremiah 9:22
+    - Proverbs 11:28
+    - Proverbs 16:8
+    - Proverbs 22:1
+    - Proverbs 23:4-5
+    - Proverbs 28:6
+    - Proverbs 28:20
+    - Proverbs 30:7-9
+    - Psalms 37:16
+    - Psalms 49:6
+    - Psalms 62:11
+- id: CA2
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:15
+    - Luke 14:33
+    - Luke 18:22
+    - Mark 10:21
+    - Matthew 10:37
+    ot_scriptures:
+    - Exodus 20:3
+- id: CA3
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 3:12-14
+    - 1 Corinthians 9:24-25
+    - 1 Peter 1:3-4
+    - 1 Peter 5:4
+    - 1 Timothy 6:17-19
+    - 2 Corinthians 5:10
+    - 2 John 1:8
+    - 2 Timothy 4:7-8
+    - Colossians 3:23-24
+    - James 1:12
+    - Luke 12:33-34
+    - Luke 6:35
+    - Mark 10:21
+    - Matthew 16:27
+    - Matthew 5:11-12
+    - Matthew 5:17-19
+    - Matthew 6:19-21
+    - Revelation 22:12
+    - Revelation 2:10
+    - Revelation 3:11
+    ot_scriptures:
+    - Jeremiah 17:10
+    - Proverbs 11:28
+    - Proverbs 22:1
+    - Psalms 62:11
+- id: CA4
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 7:24
+    - 1 Timothy 6:6-9
+    - 2 Corinthians 11:23-28
+    - 2 Corinthians 12:10
+    - Hebrews 13:5
+    - James 2:5
+    - Luke 12:15
+    - Luke 3:14
+    - Matthew 6:25-32
+    - Matthew 6:34
+    - Philippians 4:11-13
+    ot_scriptures:
+    - Deuteronomy 10:18
+    - Ecclesiastes 3:13
+    - Ecclesiastes 6:9
+    - Proverbs 16:8
+    - Proverbs 19:23
+    - Proverbs 28:6
+    - Proverbs 30:8
+- id: CA5
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 6:3-6
+    - 1 Timothy 6:17-19
+    - Luke 6:24
+    ot_scriptures:
+    - Proverbs 23:4-5
+- id: CA6
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 6:9-10
+    - 1 Timothy 6:19
+    - 2 Timothy 3:1
+    - Hebrews 13:5
+    - James 2:5
+    - John 6:27
+    - Luke 12:15
+    - Luke 12:21
+    - Luke 12:33-34
+    - Luke 14:33
+    - Luke 16:11
+    - Matthew 13:22
+    - Matthew 19:22-23
+    - Matthew 6:25-32
+    - Matthew 6:34
+    - Revelation 3:17
+    ot_scriptures:
+    - 2 Chronicles 1:11-12
+    - Ecclesiastes 5:9
+    - Proverbs 11:28
+    - Proverbs 22:1
+    - Proverbs 23:4-5
+    - Proverbs 28:20
+    - Proverbs 30:7-9
+    - Psalms 62:11
+- id: CA7
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 6:10
+    - Hebrews 13:5
+    ot_scriptures:
+    - Ecclesiastes 5:9
+    - Proverbs 16:8
+    - Proverbs 28:6
+    - Proverbs 28:20
+    - Proverbs 30:7
+    - Proverbs 30:9
+    - Psalms 37:16
+- id: CA8
+  bible_references:
+    nt_scriptures:
+    - James 1:10-11
+    - Matthew 6:1-4
+    - Revelation 3:17
+- id: CA9
+  bible_references:
+    nt_scriptures:
+    - 2 Timothy 1:7
+    - James 1:10-11
+    - Revelation 3:17
+    ot_scriptures:
+    - Jeremiah 48:7
+    - Jeremiah 49:4
+    - Job 31:24-28
+    - Psalms 49:6
+    - Psalms 52:9
+- id: DA1
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 6:1-7
+    - Hebrews 12:14
+    - Luke 12:58-59
+    - Matthew 18:15-17
+    - Matthew 5:23-25
+    ot_scriptures:
+    - Deuteronomy 5:29
+- id: DA10
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:12-13
+    - 2 Corinthians 13:11
+    - Galatians 5:15
+    - Galatians 5:21
+    - Hebrews 12:15
+    - Mark 9:50
+    - Matthew 5:9
+    - Philippians 2:14
+    - Romans 12:16
+    - Romans 12:18
+    - Romans 13:13
+    - Romans 14:16
+    - Romans 14:19
+    ot_scriptures:
+    - Ecclesiastes 3:8
+    - Proverbs 16:7
+    - Psalms 37:11
+- id: DA11
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:14
+    - Acts 20:35
+    - Galatians 6:1-2
+    - John 15:13
+    - Luke 10:34
+    - Matthew 22:39
+    - Matthew 8:17
+    - Romans 14:1
+    - Romans 15:1-3
+    - Romans 8:26
+- id: DA12
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 4:12
+    - 1 Corinthians 5:9-11
+    - 1 John 3:17-18
+    - 1 Thessalonians 2:7
+    - 1 Thessalonians 4:6
+    - 1 Thessalonians 5:11
+    - 1 Thessalonians 5:15
+    - 1 Timothy 1:13
+    - 2 Timothy 2:24
+    - Acts 20:35
+    - Galatians 5:15
+    - Galatians 6:10
+    - Hebrews 13:16
+    - Hebrews 6:10
+    - James 2:14-18
+    - John 7:23
+    - Luke 6:31
+    - Luke 6:38
+    - Matthew 7:12
+    - Philippians 2:3-4
+    - Romans 12:13
+    - Romans 15:1-2
+    - Romans 3:11-12
+    ot_scriptures:
+    - Deuteronomy 15:11
+    - Deuteronomy 6:4
+    - Deuteronomy 6:6-7
+    - Isaiah 52:7
+    - Isaiah 58:10
+    - Job 6:14
+    - Leviticus 25:35
+    - Proverbs 11:17
+    - Proverbs 11:25-26
+    - Proverbs 14:31
+    - Proverbs 15:26
+    - Proverbs 19:17
+    - Zechariah 7:10
+- id: DA13
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:7
+    - 2 Corinthians 11:3
+    - 2 Corinthians 6:17
+    - 2 Peter 3:17
+    - 2 Timothy 3:1
+    - 2 Timothy 3:3-5
+    - Acts 20:28-32
+    - Colossians 2:8
+    - Ephesians 5:6-7
+    - Galatians 1:8-9
+    - Galatians 6:1
+    - John 17:15-16
+    - Mark 8:11-15
+    - Matthew 16:6-12
+    - Romans 16:17
+    ot_scriptures:
+    - Ezra 10:11
+    - Nehemiah 9:2
+    - Numbers 16:26
+    - Proverbs 13:20
+- id: DA14
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 14:34-35
+    - 1 Peter 2:13
+    - 1 Peter 2:18
+    - 1 Peter 3:1
+    - 1 Peter 5:5
+    - Colossians 3:18
+    - Ephesians 5:21-22
+    - Hebrews 13:17
+    - Titus 2:5
+    - Titus 2:9
+    - Titus 3:1
+    ot_scriptures:
+    - Genesis 16:9
+    - Genesis 3:16
+- id: DA15
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 11:18
+    - 1 Corinthians 1:10
+    - 1 Corinthians 4:6
+    - 2 Corinthians 13:11
+    - Acts 4:32
+    - Colossians 2:2
+    - Ephesians 4:3
+    - Ephesians 4:11-13
+    - Ephesians 4:16
+    - Galatians 3:28
+    - John 17:11
+    - Matthew 18:19-20
+    - Philippians 2:1-2
+    - Romans 12:12-14
+    - Romans 12:25
+    - Romans 15:5-6
+    - Romans 16:17
+    ot_scriptures:
+    - 1 Samuel 11:7
+    - Amos 3:3
+    - Ecclesiastes 4:9-12
+    - Judges 20:8
+    - Judges 20:11
+    - Psalms 133:1
+- id: DA16
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 14:31
+    - 1 Peter 5:12
+    - 1 Thessalonians 2:11-12
+    - 1 Thessalonians 5:11
+    - 2 Corinthians 1:3-4
+    - 2 Corinthians 1:6
+    - 2 Corinthians 2:7
+    - 2 Corinthians 7:4
+    - Acts 11:23
+    - Acts 14:21-22
+    - Acts 16:40
+    - Acts 20:1
+    - Colossians 1:29
+    - Hebrews 10:24-25
+    - Romans 14:19
+    - Titus 2:15
+- id: DA17
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:33
+    - 1 Corinthians 5:12-13
+    - 2 Thessalonians 3:6
+    - 2 Thessalonians 3:14-15
+    - 2 Timothy 3:14-15
+    - Romans 16:17
+    ot_scriptures:
+    - Proverbs 13:20
+    - Proverbs 24:1
+    - Psalms 1:1
+    - Psalms 26:4-5
+- id: DA18
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:28-29
+    - 1 Corinthians 10:32
+    - 1 Corinthians 12:2
+    - 1 Corinthians 8:9
+    - 1 Corinthians 8:12-13
+    - 2 Corinthians 6:3
+    - Galatians 2:13
+    - Luke 11:52
+    - Luke 17:1-2
+    - Matthew 18:6-7
+    - Matthew 24:5
+    - Revelation 2:14
+    - Romans 14:13
+    - Romans 14:20-21
+    ot_scriptures:
+    - Exodus 34:15
+    - Isaiah 3:12
+    - Isaiah 9:15
+    - Jeremiah 23:13
+    - Jeremiah 23:32
+    - Micah 3:5
+    - Proverbs 12:26
+    - Proverbs 16:29
+    - Proverbs 4:12
+    - Psalms 35:15
+- id: DA19
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:1-5
+    - 2 Thessalonians 3:6
+    - 2 Thessalonians 3:14-15
+- id: DA2
+  bible_references:
+    nt_scriptures:
+    - Matthew 5:23-24
+- id: DA20
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:1
+    - 1 Timothy 6:3-4
+    - 2 Corinthians 12:20
+    - 2 Corinthians 9:5
+    - Acts 20:33-35
+    - Ephesians 5:3
+    - Ephesians 5:5
+    - Galatians 5:26
+    - James 3:14-16
+    - Mark 7:21-23
+    - Romans 13:8-9
+    - Romans 7:7
+    ot_scriptures:
+    - Deuteronomy 5:18
+    - Exodus 20:14
+    - Micah 2:1-2
+    - Proverbs 21:26
+- id: DA21
+  bible_references:
+    nt_scriptures:
+    - James 5:6
+    - Luke 18:20
+    - Mark 10:19
+    - Matthew 19:18
+    - Matthew 5:21-22
+    - Revelation 22:15
+    - Romans 13:8-9
+    ot_scriptures:
+    - Deuteronomy 5:17
+    - Exodus 20:13
+- id: DA22
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:17
+    - Ephesians 4:28
+    - Luke 18:20
+    - Mark 10:19
+    - Matthew 19:18
+    - Matthew 23:25
+    - Romans 13:8
+    - Romans 2:21
+    - Romans 2:23-24
+    ot_scriptures:
+    - Deuteronomy 5:17
+    - Ezekiel 22:29
+    - Genesis 42:36
+    - Jeremiah 23:30
+    - Leviticus 19:11
+    - Malachi 3:5
+- id: DA23
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:10
+    - Colossians 3:8
+    - James 4:11-12
+    - Luke 3:14
+    - Titus 2:3
+    - Titus 2:5
+    - Titus 3:2
+    ot_scriptures:
+    - Deuteronomy 19:16-17
+    - Isaiah 58:9
+    - Jeremiah 18:18
+    - Leviticus 19:16
+    - Proverbs 25:18
+    - Psalms 15:3
+- id: DA24
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 14:1
+    - 1 John 2:10
+    - 1 John 3:10-11
+    - 1 John 3:14-15
+    - 1 John 3:23
+    - 1 John 4:7
+    - 1 John 4:11-12
+    - 1 John 4:19-21
+    - 1 John 5:2
+    - 1 Peter 1:22
+    - 1 Peter 2:17
+    - 1 Peter 4:8-11
+    - 1 Thessalonians 2:7
+    - 1 Thessalonians 3:6
+    - 1 Thessalonians 3:12
+    - 1 Thessalonians 4:6
+    - 1 Thessalonians 4:9-10
+    - 1 Thessalonians 5:8
+    - 1 Timothy 1:5
+    - 2 Corinthians 2:8
+    - 2 John 1:5
+    - 2 Thessalonians 1:3
+    - 2 Timothy 1:13
+    - Colossians 3:14
+    - Galatians 5:13-14
+    - James 2:8
+    - John 11:19
+    - John 13:34-35
+    - John 15:12
+    - John 15:17
+    - Luke 10:25-28
+    - Luke 6:31
+    - Mark 12:30-31
+    - Matthew 19:19
+    - Matthew 5:43
+    - Revelation 2:19
+    - Romans 12:10
+    - Romans 14:15
+    ot_scriptures:
+    - Deuteronomy 10:19
+    - Proverbs 27:6
+    - Proverbs 27:9
+- id: DA25
+  bible_references:
+    nt_scriptures:
+    - James 5:4
+    ot_scriptures:
+    - Exodus 23:7
+    - Jeremiah 6:13
+    - Leviticus 5:21
+    - Micah 6:11
+    - Proverbs 20:17
+    - Proverbs 22:23
+- id: DA26
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 3:3
+    - 2 Timothy 2:14
+    - 2 Timothy 2:24
+    - Galatians 5:14
+    - James 4:2
+    - Romans 14:20-21
+    - Titus 3:2
+    - Titus 3:9
+    ot_scriptures:
+    - Exodus 17:7
+    - Genesis 13:8
+    - Genesis 45:23-24
+    - Isaiah 58:4
+    - Proverbs 17:14
+    - Proverbs 22:10
+    - Proverbs 3:30
+- id: DA27
+  bible_references:
+    nt_scriptures:
+    - 1 John 4:18
+    - 2 Corinthians 10:1-2
+    - 2 Timothy 1:7
+    - Luke 3:14
+    - Philippians 1:28
+    - Philippians 4:6
+    ot_scriptures:
+    - Nehemiah 6:13
+    - Psalms 27:1
+    - Psalms 28:1
+- id: DA28
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:10
+    - 1 Timothy 3:11
+    - 1 Timothy 5:13
+    - James 4:11-12
+    ot_scriptures:
+    - Jeremiah 6:28
+    - Jeremiah 9:3
+    - Proverbs 11:13
+    - Proverbs 16:27-28
+    - Proverbs 20:19
+    - Proverbs 26:20
+    - Proverbs 26:22
+- id: DA29
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:13
+    - James 2:13
+    - Jude 1:23
+    - Luke 10:30-37
+    - Matthew 5:7
+    - Romans 11:30-31
+    ot_scriptures:
+    - Daniel 4:24
+    - Isaiah 58:6-7
+- id: DA3
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:15
+    - 1 Peter 3:12
+    - 1 Peter 4:19
+    - 1 Thessalonians 5:15
+    - 2 Peter 2:15
+    - Galatians 6:9-10
+    - Hebrews 13:16
+    - James 3:13
+    - John 7:23
+    - Luke 6:31
+    - Matthew 7:12
+    - Philippians 2:4
+    - Romans 12:17
+    - Romans 13:10
+    - Romans 3:15
+    ot_scriptures:
+    - Leviticus 19:15-18
+    - Proverbs 25:15
+    - Proverbs 3:29
+- id: DA30
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 11:11
+    - 2 John 1:11
+    - 2 Thessalonians 3:10
+    - Ephesians 5:11
+    - Romans 1:32
+- id: DA31
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:9
+    - 1 John 2:11
+    - 1 John 3:1
+    - 1 John 3:15
+    - 1 John 4:20
+    - Hebrews 13:1-2
+    - Mark 3:35
+    ot_scriptures:
+    - Proverbs 14:21
+- id: DA32
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 12:26
+    - 1 Corinthians 9:22
+    - Hebrews 4:15
+    - John 11:33-35
+    - Mark 3:5
+    - Matthew 9:16
+    - Romans 12:15
+    ot_scriptures:
+    - Daniel 1:9
+    - Job 2:11
+    - Psalms 34:19
+- id: DA33
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 4:12
+    - Matthew 5:22
+    - Romans 14:2-3
+    - Titus 2:15
+    ot_scriptures:
+    - Proverbs 14:21
+- id: DA34
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 11:18
+    - 1 Corinthians 1:10
+    - Ephesians 4:12-13
+    - Jude 1:19
+    - Romans 12:18
+    - Titus 3:10
+- id: DA35
+  bible_references:
+    nt_scriptures:
+    - Colossians 5:9-11
+    - Luke 18:11
+    ot_scriptures:
+    - Amos 5:11-12
+    - Ezekiel 22:12
+    - Ezekiel 22:29
+    - Isaiah 16:4
+    - Isaiah 30:12-13
+    - Isaiah 33:15
+    - Jeremiah 22:17
+    - Leviticus 5:23
+- id: DA36
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:12-13
+    - 2 Corinthians 2:10
+    - Colossians 3:13
+    - John 20:23
+    - Luke 11:1-4
+    - Luke 17:3-4
+    - Luke 23:34
+    - Luke 6:17
+    - Luke 6:27-30
+    - Luke 6:32
+    - Mark 11:25
+    - Matthew 18:21-22
+    - Matthew 18:32-35
+    - Matthew 6:14-15
+    ot_scriptures:
+    - Ecclesiastes 7:21-22
+    - Genesis 50:16-21
+    - Leviticus 19:17
+    - Leviticus 19:22
+- id: DA37
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 3:17
+    - Hebrews 13:1-3
+    - Luke 21:12
+    - Luke 4:18-19
+    - Luke 6:37
+    - Luke 9:1-6
+    - Matthew 25:36
+    - Romans 7:22-25
+    ot_scriptures:
+    - Isaiah 42:7
+    - Psalms 102:20
+    - Psalms 146:7
+    - Psalms 69:34
+- id: DA38
+  bible_references:
+    nt_scriptures:
+    - Mark 9:24
+    - Philippians 1:15
+    ot_scriptures:
+    - 1 Samuel 1:6
+    - Genesis 25:22-23
+    - Leviticus 18:18
+- id: DA39
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:23
+    - 1 Thessalonians 5:15
+    - Hebrews 10:30
+    - Matthew 5:38-39
+    - Romans 12:17
+    - Romans 12:19
+    ot_scriptures:
+    - Deuteronomy 32:35
+    - Deuteronomy 32:43
+    - Ezekiel 25:17
+    - Proverbs 20:22
+    - Proverbs 24:29
+    - Psalms 94:1
+- id: DA4
+  bible_references:
+    nt_scriptures:
+    - Hebrews 13:2
+    - Luke 10:35
+    - Luke 14:12-14
+    - Luke 15:2
+- id: DA40
+  bible_references:
+    nt_scriptures:
+    - 2 Timothy 2:23-24
+    - Romans 14:1
+    - Romans 15:7
+    - Titus 3:9
+    ot_scriptures:
+    - Proverbs 26:4
+- id: DA41
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 6:14
+    - Hebrews 13:1
+    - John 15:12-15
+    - Mark 12:31
+    - Matthew 5:47
+    ot_scriptures:
+    - Exodus 33:11
+    - Job 6:14
+    - Proverbs 17:9
+    - Proverbs 17:17
+    - Proverbs 18:24
+- id: DA42
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:6
+    - 1 Timothy 6:3-5
+    - 2 Timothy 2:14
+    - 2 Timothy 2:16
+    - 2 Timothy 2:23
+    - James 4:1-2
+    - Titus 3:9
+- id: DA43
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:12-13
+    - 1 Corinthians 6:1-7
+    - Acts 10:28
+    - Ephesians 4:29
+    - Galatians 6:1
+    - Luke 6:37
+    - Matthew 7:1-2
+    - Romans 14:13
+    ot_scriptures:
+    - Leviticus 19:15
+    - Psalms 50:6
+- id: DA44
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:17
+    - 2 Corinthians 8:14
+    - Luke 3:11
+    - Luke 6:34-35
+    - Matthew 5:42
+    - Romans 12:13
+    - Romans 13:7
+    ot_scriptures:
+    - Deuteronomy 15:1-3
+    - Deuteronomy 15:6-8
+    - Deuteronomy 23:20-21
+    - Exodus 22:13
+    - Exodus 22:24-25
+    - Leviticus 25:36-37
+    - Proverbs 11:15
+    - Proverbs 19:17
+    - Proverbs 22:26-27
+    - Proverbs 28:8
+    - Proverbs 3:28
+    - Psalms 112:5
+    - Psalms 37:21
+- id: DA45
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 8:12-13
+    - James 4:17
+    - Mark 12:31
+    - Matthew 18:15
+    - Matthew 19:19
+    - Matthew 5:23-24
+    ot_scriptures:
+    - 1 Samuel 2:25
+    - Exodus 20:13-14
+- id: DA46
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:3-4
+    - 1 John 4:19
+    - 1 Thessalonians 2:12
+    - 2 Corinthians 2:6-7
+    - 2 Timothy 1:16
+    - Ephesians 6:21-22
+    - Romans 12:8
+    ot_scriptures:
+    - 1 Chronicles 7:22
+    - 2 Samuel 10:2
+    - Isaiah 1:3-4
+    - Job 2:11
+- id: DA47
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:1
+    - 1 Peter 3:10
+    - 2 Corinthians 4:2
+    - 2 John 1:8
+    - 2 Peter 2:13
+    - 2 Thessalonians 2:10
+    - Colossians 2:8
+    - Ephesians 5:6
+    - Romans 16:18
+    - Romans 3:13
+    ot_scriptures:
+    - 1 Samuel 19:13-17
+    - Genesis 20:2
+    - Jeremiah 17:9
+    - Joshua 2:1
+    - Proverbs 24:28
+    - Psalms 119:29
+    - Psalms 35:20
+    - Psalms 43:1
+- id: DA48
+  bible_references:
+    nt_scriptures:
+    - 3 John 1:10
+    - Hebrews 12:15
+    - James 3:14
+    - Mark 7:21-22
+    - Matthew 11:30
+    - Romans 12:15
+    - Romans 3:14
+    ot_scriptures:
+    - Ezekiel 25:15
+    - Isaiah 32:5-7
+    - Job 21:25
+    - Proverbs 14:10
+    - Psalms 55:11
+    - Psalms 73:8
+- id: DA49
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 4:10
+    - 1 Thessalonians 5:14
+    - Colossians 3:13
+    - Galatians 6:5
+    - James 5:16
+    - John 13:34
+    - John 15:12
+    - Luke 11:46
+    - Romans 15:1
+    ot_scriptures:
+    - Exodus 2:11
+    - Numbers 11:17
+    - Psalms 55:23
+    - Psalms 68:20
+- id: DA5
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 12:5
+    - Colossians 3:23
+    - Galatians 5:13-14
+    - John 13:13-14
+    - John 21:15-17
+    - Luke 17:7-10
+    ot_scriptures:
+    - Ecclesiastes 5:8
+    - Isaiah 1:17
+    - Proverbs 31:8-9
+- id: DA50
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:14
+    - Galatians 6:2
+    - Luke 17:3-4
+    - Mark 11:25-26
+    - Romans 14:1
+- id: DA51
+  bible_references:
+    nt_scriptures:
+    - Colossians 3:21
+    - Galatians 5:26
+    ot_scriptures:
+    - 1 Kings 14:10
+    - Proverbs 27:3
+- id: DA52
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 4:11
+    - 1 Timothy 3:6
+    - Colossians 4:5-6
+    - Romans 11:16-17
+    ot_scriptures:
+    - Deuteronomy 23:21
+    - Exodus 12:43-49
+- id: DA53
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:16
+    - 1 John 3:18
+    - Acts 7:22-25
+    - Acts 7:33-34
+    - Luke 10:30-33
+    - Luke 10:36-37
+    - Luke 19:10
+    - Mark 12:30
+    ot_scriptures:
+    - Deuteronomy 25:11-12
+    - Jeremiah 22:3
+    - Proverbs 24:11-12
+    - Psalms 82:4
+- id: DA54
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 2:5
+    - Jude 1:16
+    ot_scriptures:
+    - Ezekiel 33:31
+    - Isaiah 30:10
+    - Job 32:21-22
+    - Proverbs 26:28
+    - Proverbs 28:23
+    - Proverbs 29:5
+    - Psalms 12:3
+    - Psalms 5:10
+- id: DA55
+  bible_references:
+    nt_scriptures:
+    - 2 Peter 3:3
+    - Acts 13:31
+    - Jude 1:18
+    ot_scriptures:
+    - Isaiah 28:14
+    - Isaiah 28:22
+    - Isaiah 29:20
+    - Proverbs 13:1
+    - Proverbs 14:6
+    - Proverbs 21:24
+    - Proverbs 22:10
+    - Proverbs 9:7-8
+    - Proverbs 9:12
+    - Psalms 14:1
+    - Psalms 1:1
+    - Psalms 73:8
+- id: DA56
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 4:15
+    - 1 Thessalonians 4:11
+    - 1 Timothy 5:13
+    - 2 Thessalonians 3:10-11
+    ot_scriptures:
+    - Proverbs 26:17
+- id: DA57
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 4:12
+- id: DA58
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 4:12
+    ot_scriptures:
+    - Proverbs 18:9
+    - Proverbs 3:11
+- id: DA59
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 5:8
+    - Colossians 3:21
+    - Ephesians 6:4
+    - James 1:27
+    - Luke 17:1-2
+    - Luke 18:15-16
+    - Luke 9:48
+    - Mark 10:13-16
+    - Mark 9:42
+    - Matthew 10:42
+    - Matthew 18:5-6
+    - Matthew 18:10
+    - Matthew 19:14
+    - Matthew 25:40
+    ot_scriptures:
+    - Exodus 21:22
+    - Proverbs 19:18
+    - Proverbs 22:15
+    - Proverbs 29:15
+- id: DA6
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:17-18
+    - 1 Peter 3:1-2
+    - 1 Peter 3:7
+    - 1 Thessalonians 4:6
+    - 1 Thessalonians 4:11-12
+    - 1 Thessalonians 5:12
+    - 1 Timothy 3:4
+    - 1 Timothy 5:3
+    - 1 Timothy 6:1-2
+    - 2 Corinthians 7:14-15
+    - Acts 2:46-47
+    - Galatians 5:15
+    - James 2:3-4
+    - Romans 12:10
+    - Romans 13:7
+    ot_scriptures:
+    - Genesis 43:28
+    - Leviticus 19:32
+- id: DA60
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 5:1-2
+    - Ephesians 6:1-4
+    ot_scriptures:
+    - 2 Kings 2:23-25
+    - Deuteronomy 27:16
+    - Exodus 20:12
+    - Job 29:8
+    - Job 32:4-6
+    - Leviticus 19:32
+    - Proverbs 23:22
+- id: DA61
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 14:3
+    - 1 Corinthians 14:31
+    - 1 Thessalonians 3:2
+    - 1 Thessalonians 5:11
+    - 1 Timothy 6:2
+    - 2 Corinthians 1:4-6
+    - 2 Corinthians 2:7
+    - 2 Timothy 4:2
+    - Acts 11:23
+    - Acts 13:15
+    - Acts 15:32
+    - Acts 18:27
+    - Colossians 4:8
+    - Ephesians 6:22
+    - Hebrews 10:24
+    - Hebrews 13:22
+    - Hebrews 3:13
+    - Romans 12:8
+    - Romans 1:12
+    - Titus 1:9
+    ot_scriptures:
+    - 1 Samuel 23:16
+    - Deuteronomy 1:38
+    - Deuteronomy 3:28
+    - Joshua 15:10
+- id: DA62
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 14:26
+    - 1 Corinthians 5:4
+    - 1 Timothy 5:2
+    - 2 Thessalonians 2:1
+    - Acts 12:12
+    - Acts 14:27
+    - Acts 15:6
+    - Acts 15:30
+    - Acts 17:10-11
+    - Acts 1:12-14
+    - Acts 20:7
+    - Acts 2:1
+    - Acts 2:46
+    - Acts 4:31
+    - Acts 5:12
+    - Acts 5:42
+    - Hebrews 10:25
+    - Matthew 18:20
+    ot_scriptures:
+    - Leviticus 23:1-4
+    - Leviticus 23:7-8
+    - Leviticus 23:21
+    - Leviticus 23:24
+    - Leviticus 23:27
+    - Leviticus 23:35-36
+    - Numbers 28:18
+    - Numbers 28:25-26
+    - Numbers 29:1
+    - Numbers 29:7
+    - Numbers 29:12
+- id: DA63
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 5:2
+    - Acts 10:34
+    - James 2:1
+    - James 2:9
+    - Matthew 5:45
+    - Romans 2:11
+    ot_scriptures:
+    - 2 Chronicles 19:7
+    - Genesis 17:3-4
+    - Genesis 25:28
+    - Genesis 29:30
+    - Genesis 43:34
+    - Job 34:17-19
+    - Proverbs 22:2
+- id: DA64
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:20
+    - 1 Timothy 5:22
+    - Ephesians 4:29
+    - Galatians 2:11-13
+    - James 4:11-12
+    - James 5:9
+    ot_scriptures:
+    - Deuteronomy 19:15
+    - Numbers 12:1-6
+    - Numbers 12:8-10
+    - Proverbs 11:13
+    - Proverbs 16:27
+    - Proverbs 20:19
+    - Psalms 34:13-14
+- id: DA65
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:23
+    - 1 Peter 3:9
+    - 1 Peter 4:14
+    - 1 Timothy 6:5
+    - 2 Timothy 3:1
+    - Acts 13:45
+    - Acts 18:16
+    - Luke 20:11
+    - Luke 22:65
+    - Luke 23:29
+    - Mark 12:4
+    - Mark 15:29
+    - Mark 15:32
+    - Matthew 27:39
+    - Romans 15:3
+    ot_scriptures:
+    - Ecclesiastes 10:20
+    - Hosea 12:15
+    - Job 19:3
+    - Micah 7:5-6
+    - Psalms 55:13
+    - Psalms 69:21
+- id: DA66
+  bible_references:
+    ot_scriptures:
+    - 1 Samuel 18:9
+    - Genesis 20:16
+- id: DA67
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 6:14
+    - 2 Timothy 3:5
+    ot_scriptures:
+    - Exodus 34:12
+    - Proverbs 1:10
+    - Proverbs 24:1
+- id: DA68
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 4:8-9
+    - 1 Timothy 3:2
+    - 1 Timothy 5:10
+    - Acts 15:4
+    - Acts 16:15
+    - Acts 18:27
+    - Acts 28:1-2
+    - Acts 28:7
+    - Acts 2:16
+    - Colossians 4:10
+    - Galatians 4:14
+    - Hebrews 11:31
+    - James 2:25
+    - John 4:44-45
+    - Luke 10:8
+    - Luke 10:10
+    - Luke 10:38
+    - Luke 19:5-6
+    - Luke 24:29
+    - Luke 9:5
+    - Luke 9:11
+    - Luke 9:48
+    - Mark 6:11
+    - Mark 9:37
+    - Matthew 18:4-5
+    - Matthew 18:25
+    - Matthew 18:42-43
+    - Romans 15:7
+    - Romans 16:1-2
+    - Titus 1:7-8
+    ot_scriptures:
+    - 1 Kings 17:10-14
+    - 2 Kings 4:8-13
+    - 2 Samuel 9:7-13
+    - Genesis 18:1-8
+    - Genesis 19:1-3
+    - Genesis 20:15
+    - Genesis 24:31
+    - Genesis 47:12
+    - Job 31:32
+    - Joshua 6:17
+    - Judges 19:16-21
+    - Leviticus 19:33-34
+- id: DA69
+  bible_references:
+    ot_scriptures:
+    - Deuteronomy 6:1-2
+- id: DA7
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:8
+    - 1 Peter 4:8
+    - James 2:15-16
+    - Matthew 7:12
+    - Romans 12:16
+    ot_scriptures:
+    - Isaiah 61:1
+    - Zechariah 7:9
+- id: DA8
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:33
+    - Romans 12:16
+    ot_scriptures:
+    - Proverbs 22:24
+- id: DA9
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 5:4
+    - Luke 6:34
+    - Matthew 18:28-34
+    - Romans 13:7
+    - Romans 15:26-27
+    - Romans 1:14-15
+    - Romans 4:4
+    ot_scriptures:
+    - 1 Samuel 12:3
+    - Deuteronomy 15:2
+    - Deuteronomy 15:9-10
+    - Deuteronomy 15:12
+    - Deuteronomy 24:12-15
+    - Deuteronomy 24:17
+    - Exodus 22:25
+    - Leviticus 25:35-37
+    - Phi 1:18-19
+    - Proverbs 3:27-28
+    - Psalms 37:21
+- id: DB2
+  bible_references:
+    nt_scriptures:
+    - Acts 7:8
+- id: DB3
+  bible_references:
+    nt_scriptures:
+    - Acts 17:29
+- id: DB4
+  bible_references:
+    nt_scriptures:
+    - Romans 3:1-2
+- id: EA1
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:28-30
+    - 1 Corinthians 4:7
+    - 1 Corinthians 5:6
+    - 2 Peter 2:18-19
+    - Ephesians 2:8-9
+    - Galatians 6:3-4
+    - James 4:13-16
+    - Jude 1:16
+    - Luke 11:43
+    - Luke 14:8-11
+    - Luke 20:46-47
+    - Matthew 23:9-12
+    - Matthew 6:1-2
+    - Romans 12:3
+    - Romans 12:16
+    - Romans 3:20
+    - Romans 3:27
+    ot_scriptures:
+    - Jeremiah 9:23
+    - Proverbs 11:2
+    - Proverbs 27:1-2
+    - Psalms 10:2-4
+    - Psalms 75:5
+    - Psalms 94:3-4
+- id: EA2
+  bible_references:
+    nt_scriptures:
+    - Luke 20:45-47
+    - Mark 12:38-40
+    - Matthew 23:5
+    - Matthew 6:1-4
+- id: EA3
+  bible_references:
+    nt_scriptures:
+    - Hebrews 10:25
+    - Mark 12:38-40
+    - Matthew 6:5-6
+- id: EA4
+  bible_references:
+    nt_scriptures:
+    - Matthew 6:16-18
+- id: EA5
+  bible_references:
+    nt_scriptures:
+    - Galatians 3:28
+    - Galatians 6:3-4
+    - Luke 11:43
+    - Luke 17:7-10
+    - Luke 20:46-47
+    - Matthew 23:11-12
+    ot_scriptures:
+    - Proverbs 11:2
+    - Proverbs 16:5
+    - Proverbs 16:18
+- id: EA6
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 12:20
+    - 1 Corinthians 4:18
+    - Galatians 5:26
+    - Galatians 6:3-4
+    - James 4:6
+    - James 4:10
+    - Luke 11:43
+    - Luke 17:7-10
+    - Luke 20:46-47
+    - Matthew 18:4
+    - Matthew 23:11-12
+    - Romans 11:20
+    ot_scriptures:
+    - Proverbs 11:2
+    - Proverbs 16:5
+    - Proverbs 16:18
+    - Proverbs 18:12
+    - Proverbs 29:23
+    - Proverbs 8:13
+    - Psalms 10:4
+- id: EA7
+  bible_references:
+    nt_scriptures:
+    - Mark 12:38-39
+    ot_scriptures:
+    - Proverbs 16:5
+    - Proverbs 16:18
+- id: EA8
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 2:6
+    - Matthew 6:3-7
+- id: EB7
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:20
+- id: FA1
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 5:8
+    - 2 Thessalonians 1:11
+    - Acts 1:14
+    - Acts 2:42
+    - Colossians 4:2
+    - Ephesians 5:4
+    - Ephesians 6:18
+    - Galatians 4:2
+    - Luke 11:9-10
+    - Luke 18:1-8
+    - Matthew 7:7-8
+    - Matthew 7:11
+    ot_scriptures:
+    - 1 Kings 8:59
+    - Deuteronomy 9:25-26
+    - Genesis 12:25-29
+    - Joshua 1:8
+    - Micah 7:7
+    - Psalms 37:7
+    - Psalms 40:2
+    - Psalms 88:1
+- id: FA10
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 2:1-2
+    - Ephesians 6:18
+    - James 5:16
+    ot_scriptures:
+    - Job 42:8
+- id: FA11
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:18
+    - Colossians 1:12
+    - Hebrews 11:1-6
+    - James 1:5-6
+    - James 1:14-16
+    - Mark 11:23-24
+    - Matthew 21:18-22
+    - Matthew 9:27-29
+    ot_scriptures:
+    - 2 Samuel 22:31
+    - Deuteronomy 32:20
+- id: FA12
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:17
+    - Ephesians 6:18
+    - James 4:2
+    - Matthew 7:7-8
+    - Matthew 7:11
+    ot_scriptures:
+    - Deuteronomy 9:25-26
+    - Joshua 1:8
+    - Psalms 88:1
+- id: FA13
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 1:15-16
+    - 1 Timothy 2:8
+    - Luke 24:50
+    - Revelation 10:5-6
+    ot_scriptures:
+    - 1 Kings 8:22
+    - 1 Kings 8:54
+    - Deuteronomy 32:40
+    - Exodus 17:11
+    - Ezra 9:5
+    - Lamentations 3:41-42
+    - Leviticus 9:22
+    - Nehemiah 8:6
+    - Psalms 119:48
+    - Psalms 134:2
+    - Psalms 141:2
+    - Psalms 28:2
+    - Psalms 63:4
+- id: FA14
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 2:8
+    - Ephesians 4:26
+    - James 1:20
+    ot_scriptures:
+    - Habakkuk 1:14-16
+- id: FA15
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:3-4
+    - 1 Timothy 2:9-10
+    ot_scriptures:
+    - 1 Samuel 16:7
+    - Proverbs 11:22
+- id: FA16
+  bible_references:
+    nt_scriptures:
+    - Ephesians 6:18
+    - John 4:24
+    - Philippians 3:3
+    - Revelation 19:10
+    ot_scriptures:
+    - Psalms 145:18
+    - Psalms 95:6
+- id: FA17
+  bible_references:
+    nt_scriptures:
+    - Colossians 3:17
+    - John 10:25
+    - John 14:13-14
+    - John 14:16-20
+    - John 14:22
+    - John 14:24-31
+    - John 16:23-26
+    - Matthew 18:20
+    - Matthew 6:9
+    ot_scriptures:
+    - Deuteronomy 10:8
+    - Deuteronomy 18:19
+    - Deuteronomy 18:22
+    - Deuteronomy 21:5
+    - Exodus 20:21
+    - Exodus 33:19
+    - Exodus 34:5
+    - Psalms 118:26
+- id: FA18
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 1:11
+    - Acts 12:5
+    - Acts 12:12
+    - Acts 1:14
+    - Acts 2:1
+    - Acts 2:42
+    - Acts 2:46
+    - Acts 4:24
+    - Acts 4:31
+    - Colossians 4:3
+    - Hebrews 10:25
+    - James 5:14-16
+    - Luke 9:28
+    - Matthew 18:19
+    - Romans 15:30
+- id: FA19
+  bible_references:
+    nt_scriptures:
+    - Ephesians 6:17
+- id: FA2
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:17
+    - Acts 14:12-15
+    - John 4:24
+    - Luke 4:8
+    - Matthew 4:10
+    - Revelation 14:7
+    - Revelation 19:10
+    - Romans 1:23-25
+    ot_scriptures:
+    - Deuteronomy 10:21
+    - Deuteronomy 4:15-21
+    - Exodus 20:2
+    - Exodus 20:4-6
+    - Isaiah 43:11-12
+- id: FA20
+  bible_references:
+    nt_scriptures:
+    - Colossians 1:13
+    - Luke 11:20
+    - Luke 17:20-21
+    - Mark 1:15
+    - Matthew 3:2
+    - Matthew 6:10
+    ot_scriptures:
+    - Daniel 2:44
+- id: FA21
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 4:19
+    - Acts 18:21
+    - Acts 21:14
+    - James 4:15
+    - Luke 11:1-4
+    - Matthew 26:42
+    - Matthew 6:10
+    ot_scriptures:
+    - 2 Samuel 10:12
+- id: FA22
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 9:10
+    - John 6:31
+    - John 6:35
+    - John 6:50-51
+    - John 6:58
+    - Matthew 4:4
+    - Matthew 6:11
+    - Philippians 4:19
+    ot_scriptures:
+    - Deuteronomy 8:3
+    - Deuteronomy 8:16
+    - Exodus 16:13-15
+    - Exodus 16:29-31
+    - Genesis 22:14
+    - Isaiah 55:1-2
+    - Nehemiah 9:15
+    - Numbers 11:6-9
+    - Numbers 11:31-32
+    - Psalms 105:40
+    - Psalms 78:23-25
+- id: FA23
+  bible_references:
+    nt_scriptures:
+    - 1 John 1:9
+    - Acts 2:38
+    - Acts 3:19
+    - Luke 23:34
+    - Matthew 6:12
+    ot_scriptures:
+    - Numbers 14:19-20
+    - Psalms 32:5
+- id: FA24
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:13
+    - 1 Timothy 6:9
+    - Galatians 1:4
+    - Hebrews 2:18
+    - Hebrews 4:15
+    - James 1:12-14
+    - John 17:15
+    - Luke 22:40
+    - Luke 22:46
+    - Luke 4:13
+    - Luke 8:13
+    - Mark 14:38
+    - Matthew 26:41
+    - Matthew 4:10
+    - Matthew 6:13
+- id: FA25
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:13
+    - 1 John 5:19
+    - 1 Peter 5:8
+    - 2 Thessalonians 3:3
+    - Ephesians 6:11-13
+    - Ephesians 6:17
+    - Matthew 6:11-13
+    - Revelation 12:9
+    ot_scriptures:
+    - Deuteronomy 20:2-4
+    - Proverbs 10:22
+    - Psalms 121:7
+    - Psalms 138:7
+    - Psalms 32:7
+    - Psalms 46:2
+    - Psalms 5:12
+    - Psalms 91:1-3
+- id: FA26
+  bible_references:
+    nt_scriptures:
+    - Hebrews 10:22
+    - Hebrews 11:6
+    - James 1:5-6
+    - James 5:14-15
+    - John 15:7
+    - Mark 11:22-24
+    - Matthew 21:21-22
+    - Matthew 9:20-22
+    - Matthew 9:27-30
+- id: FA27
+  bible_references:
+    nt_scriptures:
+    - 1 John 5:16
+    - 1 Timothy 2:1
+    - 2 Corinthians 1:11
+    - Colossians 1:9
+    - Ephesians 6:17
+    - Luke 6:28
+    - Matthew 5:44
+    - Romans 10:1
+    - Romans 8:26-27
+    ot_scriptures:
+    - 1 Samuel 12:23
+    - Job 42:10
+- id: FA28
+  bible_references:
+    nt_scriptures:
+    - Colossians 3:16
+    - Hebrews 13:15
+    - Hebrews 1:6
+    - John 1:1-10
+    - John 20:28
+    - John 9:38
+    - Luke 24:52
+    - Matthew 14:33
+    - Matthew 28:9
+    - Matthew 28:17
+    - Matthew 2:11
+    - Philippians 2:11
+    - Revelation 14:7
+    - Revelation 19:10
+    - Revelation 5:13
+    ot_scriptures:
+    - Psalms 150:6
+    - Psalms 29:2
+    - Psalms 95:6
+- id: FA29
+  bible_references:
+    nt_scriptures:
+    - Colossians 3:17
+    - Ephesians 5:20
+    ot_scriptures:
+    - Psalms 136:1
+    - Psalms 50:23
+- id: FA3
+  bible_references:
+    nt_scriptures:
+    - Matthew 6:7-8
+    ot_scriptures:
+    - Deuteronomy 12:4
+    - Jeremiah 10:2
+- id: FA30
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 3:10
+    - 1 Thessalonians 5:17
+    - 1 Thessalonians 7:17
+    - 2 Thessalonians 1:11
+    - Acts 6:4
+    - Luke 21:36
+    ot_scriptures:
+    - 1 Samuel 1:12
+    - Psalms 119:164
+- id: FA31
+  bible_references:
+    nt_scriptures:
+    - 2 Thessalonians 3:1
+- id: FA32
+  bible_references:
+    nt_scriptures:
+    - 1 John 5:16
+    - 2 Corinthians 1:11
+    - Colossians 1:9
+    - Luke 6:28
+    - Matthew 5:44
+    - Romans 10:1
+    - Romans 8:26-27
+    ot_scriptures:
+    - 1 Samuel 12:23
+    - Job 42:10
+- id: FA33
+  bible_references:
+    nt_scriptures:
+    - 1 John 5:16
+    - 1 Timothy 2:2
+    - Colossians 1:9
+    - Matthew 5:44
+    - Romans 8:27
+- id: FA34
+  bible_references:
+    nt_scriptures:
+    - James 1:5
+    ot_scriptures:
+    - 2 Chronicles 1:9-10
+    - Daniel 2:23
+    - Psalms 51:8
+- id: FA35
+  bible_references:
+    nt_scriptures:
+    - James 4:3
+    - Matthew 6:7-8
+- id: FA36
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:16-17
+    - James 5:13
+    - Matthew 6:5-6
+    - Philippians 4:4
+    ot_scriptures:
+    - Deuteronomy 8:10
+    - Habakkuk 3:17-19
+    - Psalms 30:3-4
+    - Psalms 30:6
+    - Psalms 34:2
+- id: FA37
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 12:9
+    - 1 Peter 2:24
+    - Acts 10:38
+    - Acts 28:8-9
+    - James 5:14-15
+    - John 9:1-7
+    - Luke 10:9
+    - Luke 4:40
+    - Luke 9:1
+    - Mark 2:17
+    - Mark 6:5-6
+    - Matthew 10:1
+    - Matthew 10:8
+    - Matthew 13:58
+    - Matthew 14:14
+    - Matthew 4:23
+    - Matthew 8:13
+    - Matthew 8:16
+    - Matthew 9:35
+    ot_scriptures:
+    - Deuteronomy 7:15
+    - Exodus 23:25
+    - Hosea 6:1
+    - Isaiah 53:4-5
+    - Jeremiah 17:14
+    - Jeremiah 30:17
+    - Psalms 147:3
+    - Psalms 30:3
+    - Psalms 41:4
+- id: FA38
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 2:2
+- id: FA39
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 14:14-15
+    - Galatians 5:16
+- id: FA4
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 9:11
+    - 2 Timothy 2:6
+    - Galatians 6:8-9
+    - John 4:35-36
+    - Luke 10:2
+    - Matthew 9:37-38
+    - Revelation 14:15
+    - Romans 16:3
+- id: FA40
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:7
+    - 1 Corinthians 10:14
+    - 1 John 5:21
+    - Hebrews 1:10-12
+    - Romans 1:22-25
+    ot_scriptures:
+    - Deuteronomy 17:2-5
+    - Deuteronomy 4:19
+    - Deuteronomy 6:14
+    - Exodus 20:4
+    - Exodus 32:8
+    - Exodus 34:17
+    - Isaiah 45:20
+    - Jeremiah 7:18
+- id: FA5
+  bible_references:
+    nt_scriptures:
+    - Matthew 5:44
+- id: FA6
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 1:16
+    - Luke 11:1-4
+    - Matthew 6:9
+    - Revelation 4:8
+    ot_scriptures:
+    - Exodus 15:11
+    - Isaiah 57:15
+    - Psalms 96:9
+- id: FA7
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 11:4-13
+    - 1 Timothy 2:9
+    ot_scriptures:
+    - Deuteronomy 22:5
+- id: FA8
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 14:4-15
+    - Acts 16:25
+    - Colossians 3:16
+    - Ephesians 5:19
+    - Hebrews 2:12
+    - James 5:13
+    - Luke 15:25
+    - Mark 14:26
+    - Matthew 26:30
+    - Philippians 4:8
+    - Revelation 5:8
+    ot_scriptures:
+    - 1 Chronicles 15:22
+    - 1 Chronicles 23:5
+    - 1 Samuel 22:5
+    - 2 Chronicles 5:13
+    - 2 Chronicles 7:6
+    - Exodus 15:1
+    - Job 21:12
+    - Psalms 101:1
+    - Psalms 104:33
+    - Psalms 105:2
+    - Psalms 135:13
+    - Psalms 144:9
+    - Psalms 149:3
+    - Psalms 150:4
+    - Psalms 40:4
+    - Psalms 57:8
+    - Psalms 68:5
+    - Psalms 71:23
+    - Psalms 87:7
+- id: FA9
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 5:18
+    - Colossians 1:12
+    - Colossians 2:7
+    - Colossians 3:15
+    - Colossians 3:17
+    - Ephesians 5:20
+    - Hebrews 13:15
+    - Romans 8:28
+    ot_scriptures:
+    - 1 Chronicles 16:34
+    - Psalms 100:4
+    - Psalms 30:13
+    - Psalms 69:31
+    - Psalms 92:2
+- id: GA1
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:34
+    - 1 John 1:9
+    - 1 John 3:4
+    - 1 John 3:6
+    - 1 John 3:9
+    - 1 John 5:18
+    - 2 Corinthians 3:16
+    - 2 Corinthians 7:9-10
+    - Acts 13:24
+    - Acts 14:15
+    - Acts 17:30
+    - Acts 19:4-5
+    - Acts 20:20-21
+    - Acts 26:17-20
+    - Acts 2:38
+    - Acts 3:19
+    - Acts 3:26
+    - Acts 8:22
+    - John 5:14
+    - John 8:10-11
+    - Luke 13:3-5
+    - Luke 17:4
+    - Mark 1:14-15
+    - Matthew 3:2
+    - Matthew 4:17
+    - Revelation 2:5
+    - Revelation 2:16
+    - Revelation 2:21-22
+    - Revelation 3:3
+    - Revelation 3:19
+    - Romans 2:4
+    - Romans 3:26
+    - Romans 3:28
+    - Romans 6:15
+    ot_scriptures:
+    - 1 Samuel 1:27
+    - Ezekiel 14:6
+    - Ezekiel 33:11
+    - Hosea 3:5
+    - Job 36:10
+    - Proverbs 1:23
+    - Psalms 7:13
+    - Psalms 9:3
+- id: GA10
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:34
+- id: GA2
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:2
+    - Acts 10:43
+    - Acts 13:38-39
+    - Acts 22:16
+    - Acts 26:17-18
+    - Acts 2:38
+    - Acts 3:19
+    - Colossians 1:14
+    - Colossians 2:13-15
+    - Ephesians 1:7
+    - Hebrews 10:1-4
+    - Hebrews 10:12-17
+    - Hebrews 2:2
+    - Matthew 26:28
+    - Romans 8:1
+    ot_scriptures:
+    - 2 Chronicles 7:14
+    - Daniel 9:9
+    - Psalms 130:4
+- id: GA3
+  bible_references:
+    nt_scriptures:
+    - Acts 26:20
+    - Luke 3:8
+    - Matthew 3:8
+    - Romans 7:4
+    ot_scriptures:
+    - Exodus 22:2
+    - Exodus 22:10
+    - Exodus 22:13
+    - Isaiah 3:10
+    - Leviticus 24:18-21
+    - Leviticus 5:16
+    - Numbers 5:6-8
+- id: GA4
+  bible_references:
+    nt_scriptures:
+    - Acts 10:48
+    - Acts 19:4-5
+    - Acts 22:16
+    - Acts 2:38
+    - Galatians 3:27
+    - John 1:33-34
+    - Mark 1:8
+    - Matthew 28:17-18
+    - Matthew 3:11
+- id: GA5
+  bible_references:
+    nt_scriptures:
+    - 2 Timothy 3:17
+    - Acts 26:19-20
+    - Ephesians 2:10
+    - Galatians 6:9
+    - Hebrews 6:10
+    - James 2:14-18
+    - James 2:26
+    - John 6:28-29
+    - Matthew 3:8
+    - Matthew 5:16
+    - Romans 2:5-6
+    - Romans 7:4
+    - Titus 2:14
+    ot_scriptures:
+    - Isaiah 3:10
+- id: GA6
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:8-9
+    - John 8:34
+    - Matthew 12:32
+    ot_scriptures:
+    - Daniel 12:10
+    - Isaiah 5:18
+    - Jeremiah 4:13
+    - Proverbs 2:12-14
+    - Psalms 36:5
+- id: GA7
+  bible_references:
+    nt_scriptures:
+    - Hebrews 3:8
+    - Hebrews 3:13
+    - Hebrews 3:15
+    - Hebrews 4:7
+    - Mark 8:1
+    ot_scriptures:
+    - Psalms 95:8
+- id: GA8
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:21
+    - 2 Peter 2:21
+    - Hebrews 6:4-6
+    - Luke 3:8
+    - Luke 9:62
+    ot_scriptures:
+    - Hosea 11:8
+    - Jeremiah 14:7
+    - Jeremiah 3:12
+    - Jeremiah 3:14
+    - Jeremiah 5:6
+    - Jeremiah 8:5
+    - Proverbs 14:14
+- id: GB22
+  bible_references:
+    nt_scriptures:
+    - Matthew 4:4
+- id: GB8
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:3
+- id: HA1
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 4:16-17
+    - 1 Thessalonians 5:2
+    - 2 Thessalonians 2:3-4
+    - John 14:1-3
+    - John 14:6
+    - Luke 12:40
+    - Matthew 16:27
+    - Matthew 24:27
+    - Matthew 24:30
+    - Matthew 24:36
+    - Matthew 24:42
+    - Matthew 24:44
+    - Matthew 25:1-3
+    - Matthew 25:13
+    - Matthew 9:28
+    - Revelation 1:7
+    - Revelation 22:12
+- id: HA2
+  bible_references:
+    nt_scriptures:
+    - Luke 21:9
+    - Luke 21:25-28
+    - Mark 13:7
+    - Matthew 24:6
+    - Matthew 9:28
+    - Revelation 13:4-7
+- id: HA3
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 5:8
+    - 1 Thessalonians 1:10
+    - 1 Thessalonians 4:16-17
+    - 1 Thessalonians 5:2
+    - 2 Thessalonians 2:2-4
+    - John 14:1-3
+    - John 14:6
+    - Luke 12:40
+    - Luke 21:25-28
+    - Mark 13:32-37
+    - Matthew 16:27
+    - Matthew 24:27
+    - Matthew 24:30
+    - Matthew 24:36
+    - Matthew 24:42
+    - Matthew 24:44
+    - Matthew 25:1-3
+    - Matthew 25:13
+    - Revelation 1:7
+    - Revelation 22:12
+    - Romans 13:11
+    ot_scriptures:
+    - Ezekiel 38:19-23
+- id: HA4
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:18
+    - 1 John 2:22
+    - 1 John 4:1
+    - 1 John 4:3
+    - 2 John 1:7
+    - 2 Thessalonians 2:9
+    - 2 Thessalonians 2:11-12
+    ot_scriptures:
+    - Daniel 9:27
+- id: HA5
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 4:16-17
+    - 1 Thessalonians 5:2
+    - James 5:7-8
+    - John 14:1-3
+    - Luke 12:40
+    - Matthew 16:27
+    - Matthew 24:27
+    - Matthew 24:30
+    - Matthew 24:36
+    - Matthew 24:42
+    - Matthew 24:44
+    - Matthew 25:1-3
+    - Matthew 25:13
+    - Revelation 1:7
+    - Revelation 22:12
+    - Romans 8:25
+    ot_scriptures:
+    - Psalms 130:5-6
+    - Psalms 25:3
+    - Psalms 27:14
+    - Psalms 33:20
+    - Psalms 39:8
+    - Psalms 40:2
+    - Psalms 62:6
+- id: HA6
+  bible_references:
+    nt_scriptures:
+    - Revelation 12:8-9
+    - Revelation 13:1-7
+    - Revelation 13:10-18
+    - Revelation 14:9-11
+    - Revelation 17:7-16
+    - Revelation 19:20
+    - Revelation 20:4
+- id: IA1
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 8:4
+    - 1 Corinthians 8:7
+    - 1 Corinthians 8:10
+    - Acts 10:9-16
+    - Acts 15:1
+    - Acts 15:19-20
+    - Acts 15:28-29
+    - Acts 21:25
+    - Revelation 2:20
+    ot_scriptures:
+    - Deuteronomy 12:15-16
+    - Deuteronomy 12:21-24
+    - Deuteronomy 14:11-20
+    - Genesis 32:25
+    - Genesis 9:3-4
+    - Leviticus 11:1-43
+    - Leviticus 11:45-47
+    - Leviticus 17:10-14
+    - Leviticus 19:26
+    - Leviticus 20:24-26
+    - Leviticus 3:16-17
+    - Leviticus 7:22-27
+- id: IA2
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 8:4-13
+    - Acts 10:9-16
+    - Acts 15:19-20
+    - Acts 21:25
+    - Revelation 2:20
+    - Romans 14:2-4
+    - Romans 14:15
+    - Romans 14:20-21
+    ot_scriptures:
+    - Deuteronomy 12:15-16
+    - Deuteronomy 12:21-24
+    - Deuteronomy 14:11-20
+    - Genesis 32:25
+    - Genesis 9:3-4
+    - Leviticus 11:8-43
+    - Leviticus 11:45-47
+    - Leviticus 17:10-14
+    - Leviticus 19:26
+    - Leviticus 20:24-26
+    - Leviticus 3:16-17
+    - Leviticus 7:22-27
+- id: IA3
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 4:2-5
+    - Acts 15:1
+    - Acts 15:19-20
+- id: JA1
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 4:12
+    - 1 Peter 3:9
+    - Luke 6:27
+    - Luke 6:29
+    - Luke 6:35
+    - Mark 11:25
+    - Matthew 5:39-42
+    - Romans 12:14
+    - Romans 12:17
+    - Romans 12:20
+    ot_scriptures:
+    - Deuteronomy 15:3
+    - Exodus 22:24
+    - Exodus 23:4-5
+- id: JA10
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:14
+    - 1 Peter 4:12-16
+    - 2 Corinthians 12:10
+    - 2 Corinthians 4:8-9
+    - 2 Timothy 3:10-11
+    - 2 Timothy 4:5
+    - Luke 6:27
+    - Matthew 5:11
+    - Matthew 5:40-41
+    - Romans 5:3-4
+- id: JA11
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:18
+    - 2 Timothy 4:7
+- id: JA14
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:13
+- id: JA2
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 11:3-4
+    - 1 Corinthians 11:13-15
+    - 1 John 4:1-4
+    - 1 Timothy 4:1
+    - 2 John 1:7
+    - 2 Peter 2:1-2
+    - 2 Peter 3:17
+    - 2 Thessalonians 2:1-4
+    - 2 Thessalonians 2:9
+    - 2 Thessalonians 2:11-12
+    - 2 Timothy 3:13
+    - Acts 17:11
+    - Acts 20:28-32
+    - Ephesians 5:6
+    - Ephesians 6:11-16
+    - Galatians 6:7-8
+    - Jude 1:3-4
+    - Luke 12:1
+    - Luke 21:36
+    - Mark 13:9
+    - Mark 8:14-16
+    - Matthew 24:3-5
+    - Matthew 24:11
+    - Matthew 24:23-25
+    - Matthew 7:15-20
+    - Romans 16:18
+    ot_scriptures:
+    - Genesis 3:1
+    - Isaiah 8:19
+    - Proverbs 22:3
+- id: JA3
+  bible_references:
+    nt_scriptures:
+    - 1 John 4:18
+    - 1 Peter 3:14
+    - Acts 18:9-10
+    - Acts 27:24
+    - Hebrews 13:6
+    - John 12:42-43
+    - John 6:20
+    - John 9:20-22
+    - Luke 12:4-7
+    - Luke 8:50
+    - Mark 5:46
+    - Mark 6:50
+    - Matthew 10:26
+    - Matthew 10:28-31
+    - Matthew 14:26-27
+    - Philippians 1:28
+    - Revelation 2:10
+    ot_scriptures:
+    - Exodus 14:13
+    - Genesis 15:1
+    - Genesis 21:17
+    - Genesis 26:23-24
+    - Genesis 46:2-3
+    - Haggai 2:5
+    - Isaiah 31:13
+    - Isaiah 35:4
+    - Isaiah 41:10-11
+    - Isaiah 43:1
+    - Isaiah 43:5
+- id: JA4
+  bible_references:
+    nt_scriptures:
+    - Luke 12:11-12
+    - Luke 21:14-15
+    - Mark 13:11
+    - Matthew 10:18-20
+- id: JA5
+  bible_references:
+    nt_scriptures:
+    - Acts 20:29
+    - Luke 7:3
+    - Matthew 10:16-17
+    ot_scriptures:
+    - Proverbs 10:19
+    - Proverbs 11:30
+    - Proverbs 14:16
+    - Proverbs 29:9
+- id: JA6
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 3:9-10
+    - 1 Thessalonians 5:15
+    - 2 Timothy 2:25-26
+    - John 17:22-23
+    - Luke 6:29-30
+    - Matthew 10:23
+    - Matthew 26:52-54
+    - Matthew 5:38-42
+    - Romans 12:19-20
+    - Romans 13:4
+- id: JA7
+  bible_references:
+    nt_scriptures:
+    - 1 John 3:13
+    - Luke 21:17
+    - Luke 6:22
+    - Mark 13:13
+    - Matthew 10:22
+    - Matthew 24:9
+- id: JA8
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 4:12-13
+    - 1 Peter 3:9
+    - Luke 6:27
+    - Luke 6:29-30
+    - Luke 6:35
+    - Matthew 5:39-43
+    - Matthew 5:45
+    - Matthew 5:47-48
+    - Matthew 6:46
+    - Romans 12:14
+    - Romans 12:18-20
+- id: JA9
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:13
+    - 1 Corinthians 4:12
+    - 1 John 5:4
+    - 1 Peter 3:14
+    - 1 Peter 4:12-16
+    - 2 Corinthians 12:10
+    - 2 Corinthians 4:8-9
+    - 2 Timothy 3:10-11
+    - 2 Timothy 4:5
+    - Ephesians 6:11-16
+    - Hebrews 11:1
+    - James 1:2-4
+    - Matthew 5:11-12
+    - Revelation 2:9-10
+    - Romans 5:3-4
+- id: KA1
+  bible_references:
+    nt_scriptures:
+    - 2 Thessalonians 2:1-3
+    - Acts 20:29-30
+    - Luke 17:22-23
+    - Luke 21:8
+    - Mark 13:5-6
+    - Mark 13:21-23
+    - Matthew 24:4-5
+    - Matthew 24:23-25
+    - Revelation 6:2
+- id: KA2
+  bible_references:
+    nt_scriptures:
+    - 1 John 4:1-5
+    - 1 Timothy 4:1-5
+    - 2 John 1:10
+    - 2 Peter 2:1-3
+    - 2 Thessalonians 2:1
+    - Luke 6:26
+    - Mark 13:22-23
+    - Matthew 24:24
+    - Matthew 4:1-9
+    - Matthew 4:11
+    - Matthew 7:15-20
+    - Revelation 19:20
+    - Revelation 20:10
+    ot_scriptures:
+    - Jonah 3:14
+- id: KA3
+  bible_references:
+    nt_scriptures:
+    - 1 John 2:26-27
+    - 1 Timothy 4:1-3
+    - 1 Timothy 6:20-21
+    - 2 Corinthians 11:3-4
+    - 2 John 1:9-10
+    - 2 Peter 2:1-3
+    - 2 Peter 2:10
+    - 2 Timothy 4:3-4
+    - Acts 17:11
+    - Acts 20:28
+    - Acts 20:30-31
+    - Colossians 2:18
+    - Galatians 1:6-9
+    - Hebrews 13:9
+    - Matthew 16:6-12
+    - Matthew 23:1-3
+    - Revelation 2:14-16
+    - Revelation 2:20
+    - Romans 16:18
+    - Titus 1:9-10
+    - Titus 1:13
+    ot_scriptures:
+    - Deuteronomy 13:1-2
+    - Habakkuk 2:18
+    - Isaiah 9:14
+    - Jeremiah 10:8
+- id: KA32
+  bible_references:
+    nt_scriptures:
+    - Titus 1:11-12
+- id: KA4
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 4:6
+    - 1 John 2:27
+    - 1 John 4:2
+    - 1 John 4:4-5
+    - 2 Peter 2:1-3
+    - Mark 13:22-23
+    - Matthew 24:11
+    - Matthew 24:24
+    - Matthew 7:15-20
+    - Revelation 19:20
+    - Revelation 20:10
+    ot_scriptures:
+    - Deuteronomy 13:1-6
+    - Deuteronomy 18:20
+    - Deuteronomy 18:40
+    - Jeremiah 14:14
+    - Jeremiah 27:15
+- id: LA0
+  bible_references:
+    nt_scriptures:
+    - Colossians 4:1
+    - Revelation 18:13
+    ot_scriptures:
+    - 2 Kings 4:1
+    - Deuteronomy 15:11-18
+    - Deuteronomy 20:10-11
+    - Deuteronomy 23:16
+    - Deuteronomy 24:7
+    - Exodus 21:2-11
+    - Exodus 21:16
+    - Exodus 21:26-27
+    - Genesis 16:6
+    - Genesis 17:2
+    - Genesis 17:12
+    - Genesis 20:14
+    - Genesis 21:10
+    - Genesis 29:20-30
+    - Jeremiah 2:14
+    - Leviticus 25:10
+    - Leviticus 25:39-47
+    - Phi 1:1-25
+    - Proverbs 22:7
+- id: LA1
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 7:21-24
+    - 1 Timothy 1:10-11
+    - 2 Peter 1:1
+    - Colossians 2:17
+    - Ephesians 6:5-8
+    - Galatians 4:7
+    - Galatians 5:1
+    - James 1:1
+    - John 8:34-36
+    - Jude 1:1
+    - Luke 16:13
+    - Romans 1:1
+    - Romans 6:16-23
+    - Romans 7:4
+    ot_scriptures:
+    - Leviticus 25:55
+- id: LA10
+  bible_references:
+    nt_scriptures:
+    - Titus 2:9-10
+- id: LA11
+  bible_references:
+    nt_scriptures:
+    - Titus 2:10
+- id: LA2
+  bible_references:
+    nt_scriptures:
+    - 2 Timothy 3:16-17
+    - Acts 10:44-48
+    - Ephesians 2:11-19
+    - Galatians 2:14-18
+    - Galatians 2:21
+    - Galatians 3:2
+    - Galatians 3:5
+    - Galatians 3:10-12
+    - Galatians 3:23
+    - Galatians 3:27-29
+    - Galatians 4:4-10
+    - Galatians 4:21
+    - Galatians 5:1-4
+    - Galatians 5:18
+    - Mark 7:13
+    - Romans 14:2-6
+    - Romans 14:9-23
+    ot_scriptures:
+    - Leviticus 25:55
+- id: LA3
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:18
+    - 1 Timothy 1:3-4
+    - 1 Timothy 6:1-2
+    - Colossians 3:22
+    - Ephesians 6:5-7
+    - Titus 2:9-10
+    ot_scriptures:
+    - Deuteronomy 28:47-48
+    - Exodus 23:5
+    - Joshua 22:5
+    - Joshua 24:15
+    - Psalms 2:11
+- id: LA4
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:10
+    - Colossians 4:1
+    - Ephesians 6:9
+    ot_scriptures:
+    - Exodus 12:49
+    - Exodus 19:33-34
+    - Exodus 21:2
+    - Exodus 21:7-11
+    - Exodus 21:16
+    - Exodus 21:20
+    - Exodus 21:26-27
+    - Exodus 22:21
+    - Exodus 23:12
+    - Exodus 24:22
+    - Exodus 25:44-46
+- id: LA5
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 6:9
+    - Luke 12:20-21
+    - Luke 16:13
+    - Matthew 6:19-21
+    ot_scriptures:
+    - Exodus 34:12-14
+- id: LA6
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 7:21-22
+    ot_scriptures:
+    - Deuteronomy 13:5
+- id: LA7
+  bible_references:
+    nt_scriptures:
+    - Ephesians 6:5-6
+- id: LA8
+  bible_references:
+    nt_scriptures:
+    - Colossians 3:11
+- id: LA9
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 6:1-2
+- id: MA1
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 9:8-11
+    - Luke 12:22-32
+    - Matthew 10:9-10
+    - Matthew 6:25-31
+    - Matthew 6:34
+    - Matthew 7:11
+    - Philippians 4:7
+    - Philippians 4:19
+    - Romans 8:32
+    ot_scriptures:
+    - Malachi 3:10
+    - Psalms 23:1
+    - Psalms 34:10
+    - Psalms 37:25
+- id: MA2
+  bible_references:
+    nt_scriptures:
+    - 1 John 4:18
+    - Acts 12:2
+    - Acts 24:24-27
+    - Acts 7:55-60
+    - Hebrews 13:6
+    - John 12:42
+    - John 7:13
+    - Luke 10:19
+    - Luke 12:4-7
+    - Matthew 10:28
+    - Romans 8:15
+    ot_scriptures:
+    - 1 Samuel 15:24
+    - Proverbs 29:25
+    - Psalms 118:6
+    - Psalms 56:12
+- id: MA3
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 9:8-11
+    - Luke 12:22-32
+    - Luke 21:34
+    - Matthew 10:9-10
+    - Matthew 7:11
+    - Philippians 4:7
+    - Philippians 4:19
+    - Romans 8:32
+    ot_scriptures:
+    - Psalms 34:10
+    - Psalms 37:25
+- id: MA4
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 5:6-7
+    - John 14:27
+    - Mark 5:36
+    - Matthew 10:28
+    ot_scriptures:
+    - Isaiah 35:4
+    - Isaiah 4:10
+    - Joshua 2:1
+    - Psalms 118:6
+    - Psalms 23:4
+    - Psalms 27:2
+    - Psalms 34:5
+    - Psalms 56:3-4
+- id: NA1
+  bible_references:
+    nt_scriptures:
+    - Luke 10:8-11
+    - Luke 9:3-5
+    - Mark 6:11
+    - Matthew 10:14
+    - Matthew 10:23
+    - Matthew 15:14
+    - Matthew 7:6
+- id: NA10
+  bible_references:
+    nt_scriptures:
+    - Luke 10:9-11
+    - Luke 9:2
+    - Matthew 10:7-8
+- id: NA11
+  bible_references:
+    nt_scriptures:
+    - Luke 9:49-50
+- id: NA12
+  bible_references:
+    nt_scriptures:
+    - James 3:18
+    - Matthew 10:11-14
+- id: NA13
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:23-33
+    - 1 Corinthians 8:1
+    - 1 Corinthians 8:3
+    - 1 Corinthians 8:5
+    - 1 Corinthians 8:7-11
+    - 1 Timothy 4:4
+    - Acts 10:1-33
+    - Acts 10:35-48
+    - Acts 15:20
+    - Acts 15:29
+    - Colossians 2:16
+    - Mark 7:18-19
+    - Matthew 15:11
+    - Romans 14:4-5
+    - Romans 14:9-12
+    - Romans 14:14-15
+    - Romans 14:17-18
+    - Romans 14:22-23
+    ot_scriptures:
+    - Deuteronomy 14:1-21
+    - Isaiah 66:17
+    - Leviticus 11:1-7
+    - Leviticus 11:9-42
+    - Leviticus 11:46-47
+    - Leviticus 17:15
+    - Leviticus 20:25-26
+    - Leviticus 3:17
+- id: NA14
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 12:28
+    - 1 Timothy 3:2
+    - 1 Timothy 4:11
+    - 2 Timothy 1:11
+    - 2 Timothy 2:2
+    - 2 Timothy 2:23
+    - 2 Timothy 4:2
+    - Acts 20:20
+    - Acts 2:42
+    - Acts 5:42
+    - Colossians 1:28
+    - Ephesians 6:4
+    - James 3:1
+    - Matthew 28:20
+    - Titus 2:1
+    - Titus 3:5
+    - Titus 3:7-8
+    ot_scriptures:
+    - Deuteronomy 11:18-19
+    - Proverbs 22:6
+- id: NA15
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 12:28
+    - 1 John 1:3
+    - 1 Peter 1:10-11
+    - 1 Peter 1:25
+    - 1 Timothy 2:7
+    - 1 Timothy 4:11
+    - 1 Timothy 4:13
+    - 1 Timothy 4:16
+    - 2 Timothy 1:11
+    - 2 Timothy 2:2
+    - 2 Timothy 2:8
+    - 2 Timothy 3:16-17
+    - 2 Timothy 4:1-2
+    - Acts 18:9-11
+    - Acts 2:42
+    - Acts 5:42
+    - Ephesians 4:11
+    - Matthew 28:20
+    - Romans 12:7
+    - Titus 1:9
+    - Titus 2:1
+    - Titus 2:3-4
+    ot_scriptures:
+    - Deuteronomy 11:19
+    - Proverbs 22:6
+    - Proverbs 6:20
+    - Psalms 34:12
+- id: NA16
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 4:13
+    - 2 Corinthians 3:14-15
+    - Acts 13:15
+    - Acts 13:27
+    - Acts 15:21
+    - Acts 8:28
+    - Acts 8:30
+    - Luke 10:26
+    - Luke 4:16
+    - Luke 6:3
+    - Mark 12:10
+    - Mark 12:26
+    - Mark 2:25
+    - Matthew 12:3
+    - Matthew 12:5
+    - Matthew 19:4
+    - Matthew 21:16
+    - Matthew 21:42
+    - Matthew 22:31
+    - Revelation 1:3
+    - Romans 10:17
+    - Romans 15:4
+    ot_scriptures:
+    - 2 Kings 22:8
+    - 2 Kings 22:10
+    - 2 Kings 23:2
+    - Deuteronomy 17:19
+    - Deuteronomy 31:11
+    - Exodus 24:7
+    - Habakkuk 2:2
+    - Jeremiah 36:6
+    - Jeremiah 36:8
+    - Jeremiah 36:10
+    - Jeremiah 36:13
+    - Jeremiah 36:15
+    - Jeremiah 36:21
+    - Jeremiah 51:61
+    - Joshua 8:34
+    - Nehemiah 13:1
+    - Nehemiah 8:1-3
+    - Nehemiah 8:8
+    - Nehemiah 8:18
+    - Nehemiah 9:3
+    - Psalms 119:11
+- id: NA17
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:27
+    - 1 Corinthians 10:32-33
+    - 1 Corinthians 11:1
+    - 1 Corinthians 8:1-2
+    - 1 Corinthians 8:5
+    - 1 Corinthians 8:7-11
+    - 1 Corinthians 9:14
+    - 1 Corinthians 9:19-23
+    - Acts 17:23-24
+    - Luke 10:7
+    - Luke 5:29-32
+    - Luke 7:34-36
+    - Mark 2:15-17
+    - Matthew 11:19
+    - Matthew 9:10-13
+    - Romans 14:22-23
+- id: NA18
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:18-20
+    - 2 Corinthians 5:18-20
+    - Acts 1:8
+    - Ephesians 6:19-20
+    - John 20:21
+- id: NA19
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 5:18-20
+    - Colossians 1:20-22
+    - Ephesians 2:16
+    - Romans 5:11
+    ot_scriptures:
+    - Isaiah 59:1-3
+- id: NA2
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 9:9
+    - 1 Timothy 5:18
+    - Luke 10:3-9
+    - Luke 9:3-5
+    - Mark 6:7-10
+    - Matthew 10:9-14
+    ot_scriptures:
+    - Deuteronomy 25:4
+- id: NA20
+  bible_references:
+    nt_scriptures:
+    - Galatians 2:10
+    - Luke 14:12-14
+    - Luke 3:11
+    - Luke 4:18
+    - Luke 6:20-21
+    - Luke 7:22
+    - Matthew 12:33
+    - Matthew 25:31-46
+    ot_scriptures:
+    - Deuteronomy 15:6-10
+    - Isaiah 25:4
+    - Isaiah 58:10
+    - Proverbs 31:8-9
+    - Psalms 35:10
+    - Psalms 56:4
+- id: NA21
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:24
+    - 1 Corinthians 1:30
+    - Ephesians 1:16-17
+    - James 3:13
+    - Luke 21:13-15
+    - Romans 11:33
+    ot_scriptures:
+    - Job 12:13
+    - Peo 16:16
+    - Proverbs 3:13
+- id: NA22
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 5:2
+    - 1 Thessalonians 2:10-11
+    - Colossians 3:21
+    - Hebrews 12:7
+    - Luke 11:11-12
+    ot_scriptures:
+    - Proverbs 1:8
+    - Proverbs 3:1
+- id: NA23
+  bible_references:
+    nt_scriptures:
+    - 1 John 4:4-5
+    - 1 Timothy 1:3-4
+    - 1 Timothy 4:1-2
+    - 2 Corinthians 11:13-15
+    - 2 John 1:7
+    - 2 John 1:10-11
+    - 2 Peter 2:3
+    - 2 Timothy 4:3-4
+    - Ephesians 4:14
+    - Hebrews 13:9
+    - Mark 13:22
+    - Matthew 7:15-20
+    - Romans 16:18
+    - Titus 1:13
+    ot_scriptures:
+    - Deuteronomy 13:2
+    - Genesis 3:2-5
+    - Isaiah 5:20
+    - Jeremiah 23:16
+    - Jeremiah 5:30-31
+- id: NA24
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 4:13
+    - 2 Timothy 3:17
+    - Titus 2:1
+    ot_scriptures:
+    - Proverbs 3:1-2
+    - Psalms 28:9
+- id: NA25
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 4:6
+    - 1 Timothy 4:12
+    - Titus 2:2
+    - Titus 2:4
+    - Titus 2:10
+    ot_scriptures:
+    - Deuteronomy 11:18
+    - Deuteronomy 4:8-9
+- id: NA3
+  bible_references:
+    nt_scriptures:
+    - Ephesians 2:12
+    - Galatians 2:9
+    - John 4:22
+    - Matthew 10:5-6
+    - Matthew 10:22
+    - Romans 11:17-18
+    - Romans 1:16
+    - Romans 2:9-10
+    ot_scriptures:
+    - Deuteronomy 7:6
+    - Exodus 9:6
+    - Genesis 17:5
+    - Isaiah 60:2-3
+- id: NA4
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 2:8-9
+    - 2 Thessalonians 3:8-9
+    - Luke 6:33-34
+    - Matthew 10:7-8
+- id: NA5
+  bible_references:
+    nt_scriptures:
+    - Acts 20:20-21
+- id: NA6
+  bible_references:
+    nt_scriptures:
+    - 2 Timothy 2:2
+- id: NA7
+  bible_references:
+    nt_scriptures:
+    - Acts 18:28
+    - Acts 28:23
+- id: NA8
+  bible_references:
+    nt_scriptures:
+    - Matthew 10:7-8
+- id: NA9
+  bible_references:
+    nt_scriptures:
+    - Acts 20:28
+    - Acts 20:31-32
+    - Matthew 10:42
+    - Matthew 18:10
+- id: OA3
+  bible_references:
+    nt_scriptures:
+    - Ephesians 6:2
+    - Galatians 6:6
+- id: OA5
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 11:3
