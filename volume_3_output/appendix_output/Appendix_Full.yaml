@@ -294,6 +294,8 @@
     - Galatians 5:22-23
     - Philippians 4:5
     - Titus 3:1-2
+    - 1 Timothy 6:11
+    - Colossians 3:12
     ot_scriptures:
     - Proverbs 15:1
     - Proverbs 25:15
@@ -388,6 +390,8 @@
     - Philippians 4:8
     - Revelation 21:27
     - Romans 8:5-6
+    - Colossians 3:1-2
+    - Colossians 3:5
     ot_scriptures:
     - Ecclesiastes 10:20
     - Psalms 119:15
@@ -407,6 +411,7 @@
     - Mark 7:15-23
     - Matthew 15:18-20
     - Romans 14:14
+    - Romans 12:2
     ot_scriptures:
     - Deuteronomy 14:8
     - Ezekiel 18:6
@@ -553,6 +558,7 @@
     - 2 Timothy 3:10
     - 2 Timothy 4:5
     - Jude 1:20
+    - 1 Timothy 6:11
     ot_scriptures:
     - Isaiah 26:3-4
     - Psalms 112:7
@@ -585,6 +591,8 @@
     - Revelation 21:8
     - Revelation 2:10
     - Romans 1:31
+    - 1 Timothy 6:11
+    - Galatians 5:22-23
     ot_scriptures:
     - 1 Chronicles 12:33
     - Daniel 6:5
@@ -702,6 +710,8 @@
     - Galatians 5:16
     - Jude 1:18
     - Titus 3:3
+    - 2 Timothy 2:22
+    - Matthew 5:28
     ot_scriptures:
     - Exodus 20:14
     - Proverbs 6:23-29
@@ -803,6 +813,8 @@
     - Romans 12:1
     - Romans 12:10
     - Romans 2:8
+    - Colossians 3:5
+    - Ephesians 4:22
     ot_scriptures:
     - Leviticus 19:18
     - Leviticus 19:34
@@ -853,6 +865,10 @@
     - Titus 3:1
     - Titus 3:8
     - Titus 3:14
+    - 2 Timothy 3:2-3
+    - Ephesians 5:8-9
+    - Matthew 19:16-21
+    - Romans 6:12-13
     ot_scriptures:
     - Isaiah 1:17
     - Jeremiah 13:23
@@ -918,6 +934,7 @@
     - Ephesians 6:10
     - Galatians 3:3
     - Philippians 4:13
+    - Colossians 1:11
     ot_scriptures:
     - Deuteronomy 8:17-18
     - Job 40:12-14
@@ -946,6 +963,13 @@
     - Romans 13:14
     - Romans 1:26-27
     - Titus 2:12
+    - 1 Thessalonians 4:3-5
+    - 2 Peter 1:5-6
+    - 2 Timothy 2:22
+    - Colossians 3:2
+    - Colossians 3:5
+    - Ephesians 4:19-20
+    - Galatians 5:16-24
     ot_scriptures:
     - Ecclesiastes 2:8
     - Exodus 20:14
@@ -1022,6 +1046,7 @@
     - Acts 5:29
     - Titus 1:6
     - Titus 1:10
+    - 1 Timothy 1:9
     ot_scriptures:
     - 1 Samuel 15:23
     - Deuteronomy 21:18-21
@@ -1067,6 +1092,8 @@
     - James 4:8
     - Matthew 6:24
     - Revelation 21:8
+    - James 5:12
+    - Matthew 5:37
     ot_scriptures:
     - 1 Chronicles 12:33
     - Psalms 119:113
@@ -1108,6 +1135,12 @@
     - 1 Timothy 2:7
     - James 1:7-8
     - Matthew 6:24
+    - James 4:8
+    - James 5:12
+    - Matthew 5:37
+    - Revelation 21:8
+    ot_scriptures:
+    - Psalms 119:113
 - id: AA59
   title: Keeping a Clear Conscience
   category: Godliness, Holiness & Righteousness
@@ -1166,6 +1199,9 @@
     - Ephesians 5:18
     - Jude 1:22-23
     - Romans 13:13
+    - Galatians 5:19-20
+    - Galatians 5:22-23
+    - Romans 1:29
     ot_scriptures:
     - Deuteronomy 23:18
     - Ezekiel 16:25-26
@@ -1217,6 +1253,9 @@
     - Ephesians 4:26
     - Ephesians 4:31
     - Matthew 5:22
+    ot_scriptures:
+    - Proverbs 19:11
+    - Psalms 4:4
 - id: AA7
   title: Seeking God’s Kingdom
   category: Godliness, Holiness & Righteousness
@@ -1287,12 +1326,26 @@
   title: Living by the Holy Spirit and Not by Our Old Nature
   category: Holy Spirit
   commandment_type: Positive & Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:11
+    - 1 Peter 4:6
+    - 2 Peter 2:9-10
+    - 2 Peter 2:18
+    - Galatians 5:16
+    - Galatians 5:24-25
+    - Galatians 6:15-16
+    - Romans 8:5-6
+    - Romans 8:12-13
 - id: AB12
   title: Not Blaspheming Against the Holy Spirit
   category: Holy Spirit
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    ot_scriptures:
+    - Exodus 22:27
+    - Leviticus 24:14-16
+    - Numbers 15:27-31
 - id: AB13
   title: Conforming Our Mind and Aligning Our Conscience with the Holy Spirit
   category: Holy Spirit
@@ -1332,7 +1385,14 @@
   title: Not lying to the Holy Spirit
   category: Holy Spirit
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - Acts 5:3-4
+    - Acts 5:7-9
+    - Revelation 21:8
+    - Revelation 21:27
+    - Revelation 22:15
+    - Revelation 2:2
 - id: AB6
   title: Sowing in the Holy Spirit
   category: Holy Spirit
@@ -1350,6 +1410,24 @@
   bible_references:
     nt_scriptures:
     - Matthew 17:5
+    - 1 Peter 1:10-11
+    - Galatians 3:5
+    - Hebrews 3:7-8
+    - Hebrews 3:15
+    - Hebrews 4:7
+    - John 10:27
+    - Luke 8:18
+    - Mark 13:11
+    - Mark 4:23
+    - Matthew 10:19-20
+    - Matthew 11:5
+    - Matthew 13:9
+    - Revelation 2:7
+    - Revelation 2:11
+    - Revelation 2:29
+    - Revelation 3:6
+    - Revelation 3:13
+    - Revelation 3:22
 - id: AB9
   title: Being Bold in the Holy Spirit
   category: Holy Spirit
@@ -1425,6 +1503,7 @@
     - Romans 2:21-27
     - Romans 3:31
     - Titus 3:3
+    - Revelation 14:12
     ot_scriptures:
     - Deuteronomy 11:22-23
     - Deuteronomy 11:32
@@ -1593,6 +1672,7 @@
     - Luke 6:36
     - Matthew 28:19
     - Philippians 2:3-8
+    - Romans 13:14
     ot_scriptures:
     - Exodus 7:1
     - Genesis 1:26-27
@@ -1636,6 +1716,8 @@
     - Hebrews 4:9-11
     - Matthew 11:28-29
     - Titus 3:4-6
+    - Colossians 3:9-10
+    - Ephesians 4:21-24
     ot_scriptures:
     - Exodus 23:12
     - Exodus 31:15
@@ -1689,6 +1771,7 @@
     - Matthew 22:37-38
     - Revelation 2:4
     - Revelation 2:19
+    - Galatians 5:22-23
     ot_scriptures:
     - Deuteronomy 10:12
     - Deuteronomy 11:1
@@ -1826,9 +1909,11 @@
     - Matthew 6:32-33
     - Philippians 2:9-11
     - Philippians 3:8-9
+    - Romans 12:1
     ot_scriptures:
     - Exodus 20:3
     - Proverbs 3:9
+    - Deuteronomy 6:5
 - id: BA26
   title: Being Yeshua’s Witness
   category: Relating to God & Yeshua
@@ -1862,6 +1947,11 @@
     - Luke 9:23
     - Matthew 22:37-39
     - Romans 8:35-37
+    - Ephesians 4:22-24
+    - Ephesians 5:1-2
+    - John 14:15
+    ot_scriptures:
+    - Deuteronomy 6:5
 - id: BA28
   title: Believing that Yeshua Died for Our Sins
   category: Relating to God & Yeshua
@@ -1898,6 +1988,8 @@
     - Romans 5:6-8
     - Romans 5:10
     - Romans 8:33-34
+    - Acts 5:29-31
+    - Ephesians 5:2
     ot_scriptures:
     - Isaiah 53:4-6
     - Isaiah 53:11-12
@@ -1926,6 +2018,8 @@
     - Romans 14:7
     - Romans 3:10-12
     - Titus 1:16
+    - James 4:8
+    - Romans 14:7-8
     ot_scriptures:
     - Genesis 5:24
     - Hosea 2:22
@@ -2019,6 +2113,7 @@
     - John 7:7
     - Luke 19:14
     - Romans 1:30
+    - Romans 1:29-30
     ot_scriptures:
     - Deuteronomy 32:41
     - Numbers 10:35
@@ -2050,6 +2145,8 @@
     - John 20:30-31
     - John 3:16
     - Romans 1:2-4
+    - Galatians 3:26
+    - John 17:20-23
     ot_scriptures:
     - 1 Chronicles 17:13-14
     - Isaiah 9:5
@@ -2121,6 +2218,7 @@
     - Romans 1:30
     - Romans 1:32
     - Romans 3:10-12
+    - Romans 1:18-32
     ot_scriptures:
     - 1 Samuel 8:7
     - Deuteronomy 28:20
@@ -2147,6 +2245,8 @@
     - Matthew 6:14-15
     - Romans 3:20-28
     - Romans 5:6-11
+    - Galatians 2:20
+    - Philippians 3:8-9
     ot_scriptures:
     - Daniel 9:9
     - Exodus 15:2
@@ -2217,6 +2317,7 @@
     - Romans 11:22
     - Romans 2:4
     - Titus 3:4
+    - John 3:16-17
     ot_scriptures:
     - 1 Samuel 20:14-15
     - Deuteronomy 21:5
@@ -2323,6 +2424,7 @@
     - Romans 9:30-32
     - Titus 1:13
     - Titus 2:2
+    - 1 Thessalonians 1:3
     ot_scriptures:
     - Job 13:15
     - Psalms 115:10-11
@@ -2374,7 +2476,8 @@
     - Luke 9:47-48
     - Mark 9:36-37
 - id: BA42
-  title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance of Yeshua
+  title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance
+    of Yeshua
   category: Relating to God & Yeshua
   commandment_type: Positive
   bible_references:
@@ -2430,6 +2533,9 @@
     - Philippians 2:5-8
     - Titus 1:4
     - Titus 2:13
+    - 1 Corinthians 6:11
+    - Colossians 2:9
+    - Titus 2:12-13
     ot_scriptures:
     - Exodus 24:16-18
     - Exodus 40:34-38
@@ -2467,6 +2573,9 @@
     - Hebrews 4:16
     - John 20:28
     - Romans 10:9
+    - 1 Peter 3:15
+    - Hebrews 8:11
+    - Philippians 3:8-9
 - id: BA46
   title: Remaining Rooted in Yeshua
   category: Relating to God & Yeshua
@@ -2484,6 +2593,10 @@
     - 2 Timothy 2:25
     - 2 Timothy 3:6-7
     - John 16:13
+    - 2 Corinthians 6:6
+    - 2 Peter 1:5
+    - Colossians 1:10
+    - Romans 1:20-21
     ot_scriptures:
     - 1 Samuel 17:46-47
     - Daniel 11:32
@@ -2511,6 +2624,7 @@
     - Romans 15:13
     - Romans 5:1
     - Romans 8:35
+    - John 3:16-17
 - id: BA49
   title: Living Along with Yeshua
   category: Relating to God & Yeshua
@@ -2547,6 +2661,10 @@
     - Matthew 10:32
     - Matthew 28:16-20
     - Romans 10:9
+    - 1 Timothy 2:5
+    - John 3:16
+    ot_scriptures:
+    - Jeremiah 31:33
 - id: BA51
   title: Knowing Yeshua as the One Mediator Between God and Man
   category: Relating to God & Yeshua
@@ -2559,6 +2677,7 @@
     - Hebrews 12:24
     - Hebrews 8:6
     - Hebrews 9:15
+    - 1 Timothy 2:5-6
 - id: BA52
   title: Setting Our Hope on God
   category: Relating to God & Yeshua
@@ -2578,6 +2697,7 @@
     - Titus 1:1-3
     - Titus 2:11
     - Titus 2:13
+    - Titus 2:11-13
     ot_scriptures:
     - Lamentations 3:21-26
     - Psalms 130:7
@@ -2611,6 +2731,7 @@
     - Matthew 7:21
     - Romans 10:2
     - Romans 8:7
+    - John 14:15
     ot_scriptures:
     - Deuteronomy 11:22-23
     - Deuteronomy 11:32
@@ -2640,6 +2761,8 @@
     - Luke 4:34
     - Mark 1:24
     - Matthew 3:16-17
+    - 1 Peter 3:15
+    - Colossians 2:9
 - id: BA57
   title: Coming to Yeshua for Spiritual Rest
   category: Relating to God & Yeshua
@@ -2658,6 +2781,27 @@
     - Matthew 11:28-30
     - Matthew 4:19
     - Romans 10:10
+    - 1 Timothy 1:16
+    - Acts 11:17
+    - Acts 16:30-31
+    - Acts 22:16
+    - Acts 2:21
+    - James 4:8
+    - John 10:9
+    - John 14:6
+    - John 3:16
+    - John 3:36
+    - John 6:44
+    - Luke 9:23
+    - Mark 16:15-16
+    - Matthew 16:24
+    - Matthew 19:21
+    - Matthew 7:13-14
+    - Revelation 15:4
+    - Revelation 22:17
+    - Revelation 3:20-21
+    - Romans 10:9-10
+    - Romans 10:12-13
     ot_scriptures:
     - 1 Chronicles 22:19
     - Jeremiah 2:31
@@ -2723,6 +2867,7 @@
     - Philippians 3:8-9
     - Romans 12:1
     - Romans 6:22
+    - Romans 6:12-13
 - id: BA60
   title: Not Being Ashamed of Yeshua & His Teachings
   category: Relating to God & Yeshua
@@ -2774,6 +2919,7 @@
     - Exodus 23:12
     - Exodus 31:15
     - Exodus 33:14
+    - Psalms 51:12
 - id: BA68
   title: ''
   category: ''
@@ -2826,6 +2972,7 @@
     - John 8:29
     - Philippians 4:18
     - Romans 8:8-9
+    - 2 Corinthians 5:9
     ot_scriptures:
     - Malachi 3:4
     - Proverbs 16:7
@@ -2866,6 +3013,14 @@
   bible_references:
     nt_scriptures:
     - Luke 6:38
+    - 1 Timothy 5:8
+    - 2 Corinthians 8:1-5
+    - 2 Corinthians 8:14
+    - 2 Corinthians 9:7-13
+    - Ephesians 4:28
+    - Hebrews 13:16
+    - Luke 12:33-34
+    - Luke 3:11
 - id: BB2
   title: Providing and Caring for Widows & Orphans
   category: Charity, Provision, & Generosity
@@ -2931,6 +3086,11 @@
     - Matthew 6:19-21
     - Matthew 6:25-34
     - Revelation 3:17
+    - 1 Timothy 6:9-11
+    - 2 Timothy 3:1-2
+    - Colossians 3:2
+    - Matthew 19:21-23
+    - Matthew 6:24-34
     ot_scriptures:
     - 2 Chronicles 1:11-12
     - Ecclesiastes 5:9
@@ -2956,8 +3116,13 @@
     - Luke 18:22
     - Mark 10:21
     - Matthew 10:37
+    - Matthew 10:37-38
+    - Matthew 19:20-21
+    - Matthew 6:33
     ot_scriptures:
     - Exodus 20:3
+    - Deuteronomy 6:5
+    - Proverbs 3:9
 - id: CA3
   title: Storing up Wealth in Heaven
   category: Prioritization & Acquisition of Wealth & Possessions
@@ -2984,6 +3149,8 @@
     - Revelation 22:12
     - Revelation 2:10
     - Revelation 3:11
+    - Luke 18:22
+    - Matthew 19:21
     ot_scriptures:
     - Jeremiah 17:10
     - Proverbs 11:28
@@ -3006,6 +3173,8 @@
     - Matthew 6:25-32
     - Matthew 6:34
     - Philippians 4:11-13
+    - 1 Timothy 6:6-8
+    - Matthew 6:25-34
     ot_scriptures:
     - Deuteronomy 10:18
     - Ecclesiastes 3:13
@@ -3047,6 +3216,15 @@
     - Matthew 6:25-32
     - Matthew 6:34
     - Revelation 3:17
+    - 1 John 2:15
+    - 1 Timothy 6:9-11
+    - 1 Timothy 6:17-19
+    - 2 Timothy 3:1-2
+    - Colossians 3:2
+    - Luke 18:22
+    - Mark 10:21
+    - Matthew 19:21-23
+    - Matthew 6:24-34
     ot_scriptures:
     - 2 Chronicles 1:11-12
     - Ecclesiastes 5:9
@@ -3125,7 +3303,13 @@
   title: Not Divorcing Except on Biblical Grounds
   category: Marriage & Family
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - Mark 10:7-9
+    - Mark 10:11-12
+    - Matthew 19:5-6
+    - Matthew 19:9
+    - Matthew 5:31-32
 - id: CB15
   title: Honoring Our Parents
   category: Marriage & Family
@@ -3235,7 +3419,15 @@
   title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 11:3
+    - 1 Peter 3:1
+    - 1 Peter 3:5
+    - Colossians 3:18
+    - Ephesians 5:22
+    - Ephesians 5:24
+    - Titus 2:3-5
 - id: CB9
   title: Husbands Loving Their Wives
   category: Marriage & Family
@@ -3257,6 +3449,7 @@
     - Luke 12:58-59
     - Matthew 18:15-17
     - Matthew 5:23-25
+    - Romans 12:1
     ot_scriptures:
     - Deuteronomy 5:29
 - id: DA10
@@ -3278,10 +3471,14 @@
     - Romans 13:13
     - Romans 14:16
     - Romans 14:19
+    - Ephesians 4:31-32
+    - Galatians 5:20-23
+    - James 3:17
     ot_scriptures:
     - Ecclesiastes 3:8
     - Proverbs 16:7
     - Psalms 37:11
+    - Isaiah 26:3
 - id: DA11
   title: Bearing the Weaknesses of Those Who Are Not Strong
   category: Relating to Brothers & Neighbors
@@ -3298,6 +3495,8 @@
     - Romans 14:1
     - Romans 15:1-3
     - Romans 8:26
+    ot_scriptures:
+    - Leviticus 19:18
 - id: DA12
   title: Being Good, Kind, & Generous to One Another
   category: Relating to Brothers & Neighbors
@@ -3327,6 +3526,14 @@
     - Romans 12:13
     - Romans 15:1-2
     - Romans 3:11-12
+    - 2 Corinthians 6:6
+    - Colossians 3:12
+    - Ephesians 4:32
+    - Ephesians 5:8-9
+    - Galatians 5:22-23
+    - James 3:17
+    - Philippians 2:4
+    - Romans 3:10-12
     ot_scriptures:
     - Deuteronomy 15:11
     - Deuteronomy 6:4
@@ -3362,6 +3569,9 @@
     - Mark 8:11-15
     - Matthew 16:6-12
     - Romans 16:17
+    - 1 Corinthians 5:11
+    - 2 Timothy 3:1-5
+    - Matthew 16:6-10
     ot_scriptures:
     - Ezra 10:11
     - Nehemiah 9:2
@@ -3410,6 +3620,10 @@
     - Romans 12:25
     - Romans 15:5-6
     - Romans 16:17
+    - 1 Peter 3:8
+    - Ephesians 4:2-3
+    - John 17:20-21
+    - Philippians 1:27
     ot_scriptures:
     - 1 Samuel 11:7
     - Amos 3:3
@@ -3439,8 +3653,11 @@
     - Hebrews 10:24-25
     - Romans 14:19
     - Titus 2:15
+    ot_scriptures:
+    - 2 Chronicles 32:6
 - id: DA17
-  title: Staying Away from a Brother Whose Life is Not in Accord with the Teachings and Traditions of the Shl’chim
+  title: Staying Away from a Brother Whose Life is Not in Accord with the Teachings
+    and Traditions of the Shl’chim
   category: Relating to Brothers & Neighbors
   commandment_type: Negative
   bible_references:
@@ -3451,6 +3668,7 @@
     - 2 Thessalonians 3:14-15
     - 2 Timothy 3:14-15
     - Romans 16:17
+    - 1 Corinthians 5:9-13
     ot_scriptures:
     - Proverbs 13:20
     - Proverbs 24:1
@@ -3476,6 +3694,7 @@
     - Revelation 2:14
     - Romans 14:13
     - Romans 14:20-21
+    - Romans 16:17
     ot_scriptures:
     - Exodus 34:15
     - Isaiah 3:12
@@ -3496,6 +3715,8 @@
     - 1 Corinthians 5:1-5
     - 2 Thessalonians 3:6
     - 2 Thessalonians 3:14-15
+    - 1 Corinthians 5:9-11
+    - Romans 16:17
 - id: DA2
   title: Seeking Reconciliation with Our Brother
   category: Relating to Brothers & Neighbors
@@ -3521,6 +3742,13 @@
     - Mark 7:21-23
     - Romans 13:8-9
     - Romans 7:7
+    - 2 Corinthians 12:20-21
+    - Colossians 3:5
+    - Galatians 5:19-21
+    - Luke 12:15
+    - Romans 13:13
+    - Romans 1:29
+    - Titus 3:3
     ot_scriptures:
     - Deuteronomy 5:18
     - Exodus 20:14
@@ -3539,6 +3767,9 @@
     - Matthew 5:21-22
     - Revelation 22:15
     - Romans 13:8-9
+    - 1 Timothy 1:9
+    - Revelation 21:8
+    - Romans 1:29
     ot_scriptures:
     - Deuteronomy 5:17
     - Exodus 20:13
@@ -3557,6 +3788,8 @@
     - Romans 13:8
     - Romans 2:21
     - Romans 2:23-24
+    - 1 Corinthians 6:10-11
+    - Romans 13:8-9
     ot_scriptures:
     - Deuteronomy 5:17
     - Ezekiel 22:29
@@ -3577,6 +3810,16 @@
     - Titus 2:3
     - Titus 2:5
     - Titus 3:2
+    - 1 Timothy 1:9-10
+    - 2 Corinthians 12:20-21
+    - 2 Timothy 3:2-3
+    - Ephesians 4:25
+    - Ephesians 4:31
+    - Luke 18:20
+    - Mark 10:19
+    - Matthew 19:18
+    - Romans 1:29-31
+    - Titus 3:1-2
     ot_scriptures:
     - Deuteronomy 19:16-17
     - Isaiah 58:9
@@ -3628,10 +3871,20 @@
     - Revelation 2:19
     - Romans 12:10
     - Romans 14:15
+    - 1 John 5:2-3
+    - 2 Corinthians 6:6
+    - Ephesians 3:16-17
+    - Ephesians 4:2-3
+    - Ephesians 5:1-2
+    - Matthew 22:39
+    - Matthew 7:12
+    - Philippians 2:4
+    - Romans 13:8-9
     ot_scriptures:
     - Deuteronomy 10:19
     - Proverbs 27:6
     - Proverbs 27:9
+    - Leviticus 19:18
 - id: DA25
   title: Not Defrauding Our Neighbor
   category: Relating to Brothers & Neighbors
@@ -3660,6 +3913,10 @@
     - Romans 14:20-21
     - Titus 3:2
     - Titus 3:9
+    - 2 Corinthians 12:20-21
+    - Galatians 5:14-15
+    - Galatians 5:20-21
+    - Romans 13:13
     ot_scriptures:
     - Exodus 17:7
     - Genesis 13:8
@@ -3680,6 +3937,7 @@
     - Luke 3:14
     - Philippians 1:28
     - Philippians 4:6
+    - Philippians 1:27-28
     ot_scriptures:
     - Nehemiah 6:13
     - Psalms 27:1
@@ -3694,6 +3952,7 @@
     - 1 Timothy 3:11
     - 1 Timothy 5:13
     - James 4:11-12
+    - 2 Corinthians 12:20-21
     ot_scriptures:
     - Jeremiah 6:28
     - Jeremiah 9:3
@@ -3714,6 +3973,10 @@
     - Luke 10:30-37
     - Matthew 5:7
     - Romans 11:30-31
+    - 2 Timothy 3:3
+    - James 3:17
+    - Matthew 23:23
+    - Romans 1:31
     ot_scriptures:
     - Daniel 4:24
     - Isaiah 58:6-7
@@ -3738,10 +4001,15 @@
     - Romans 12:17
     - Romans 13:10
     - Romans 3:15
+    - 1 Peter 3:11-12
+    - Ephesians 5:8-9
+    - Galatians 5:22-23
+    - Titus 2:6-8
     ot_scriptures:
     - Leviticus 19:15-18
     - Proverbs 25:15
     - Proverbs 3:29
+    - Exodus 20:13-14
 - id: DA30
   title: Not Giving Support to Wrongdoers
   category: Relating to Brothers & Neighbors
@@ -3766,6 +4034,10 @@
     - 1 John 4:20
     - Hebrews 13:1-2
     - Mark 3:35
+    - 1 John 2:9-11
+    - Hebrews 13:1
+    - Romans 12:10
+    - Romans 13:9
     ot_scriptures:
     - Proverbs 14:21
 - id: DA32
@@ -3781,6 +4053,10 @@
     - Mark 3:5
     - Matthew 9:16
     - Romans 12:15
+    - 1 Peter 3:8
+    - Colossians 3:12
+    - Luke 6:36
+    - Philippians 2:1-2
     ot_scriptures:
     - Daniel 1:9
     - Job 2:11
@@ -3809,6 +4085,8 @@
     - Jude 1:19
     - Romans 12:18
     - Titus 3:10
+    - Ephesians 4:2-3
+    - Romans 16:17
 - id: DA35
   title: Not Extorting Our Neighbor
   category: Relating to Brothers & Neighbors
@@ -3817,6 +4095,10 @@
     nt_scriptures:
     - Colossians 5:9-11
     - Luke 18:11
+    - 1 Corinthians 5:10-11
+    - 1 Corinthians 6:9-10
+    - 1 Thessalonians 4:6
+    - Matthew 23:25
     ot_scriptures:
     - Amos 5:11-12
     - Ezekiel 22:12
@@ -3846,6 +4128,8 @@
     - Matthew 18:21-22
     - Matthew 18:32-35
     - Matthew 6:14-15
+    - Ephesians 4:31-32
+    - Luke 6:27-32
     ot_scriptures:
     - Ecclesiastes 7:21-22
     - Genesis 50:16-21
@@ -3878,6 +4162,9 @@
     nt_scriptures:
     - Mark 9:24
     - Philippians 1:15
+    - 2 Corinthians 12:20-21
+    - Galatians 5:19-21
+    - Philippians 2:3
     ot_scriptures:
     - 1 Samuel 1:6
     - Genesis 25:22-23
@@ -3911,6 +4198,39 @@
     - Luke 10:35
     - Luke 14:12-14
     - Luke 15:2
+    - 1 Peter 4:8-9
+    - 1 Timothy 3:2
+    - 1 Timothy 5:10
+    - Acts 15:4
+    - Acts 16:15
+    - Acts 18:27
+    - Acts 28:1-2
+    - Acts 28:7
+    - Acts 2:16
+    - Colossians 4:10
+    - Galatians 4:14
+    - Hebrews 11:31
+    - Hebrews 13:1-2
+    - James 2:25
+    - John 4:44-45
+    - Luke 10:8
+    - Luke 10:10
+    - Luke 10:38
+    - Luke 19:5-6
+    - Luke 24:29
+    - Luke 9:5
+    - Luke 9:11
+    - Luke 9:48
+    - Mark 6:11
+    - Mark 9:37
+    - Matthew 18:4-5
+    - Matthew 18:25
+    - Matthew 18:42-43
+    - Romans 12:13
+    - Romans 14:1
+    - Romans 15:7
+    - Romans 16:1-2
+    - Titus 1:7-8
 - id: DA40
   title: Welcoming & Not Arguing with Persons Who Are Weak in Faith
   category: Relating to Brothers & Neighbors
@@ -3921,6 +4241,8 @@
     - Romans 14:1
     - Romans 15:7
     - Titus 3:9
+    - 1 Peter 4:9
+    - Hebrews 13:2
     ot_scriptures:
     - Proverbs 26:4
 - id: DA41
@@ -3934,6 +4256,8 @@
     - John 15:12-15
     - Mark 12:31
     - Matthew 5:47
+    - Hebrews 13:1-2
+    - Titus 3:1-2
     ot_scriptures:
     - Exodus 33:11
     - Job 6:14
@@ -3953,6 +4277,10 @@
     - 2 Timothy 2:23
     - James 4:1-2
     - Titus 3:9
+    - Galatians 5:15
+    - Philippians 2:14
+    ot_scriptures:
+    - Proverbs 21:23
 - id: DA43
   title: Not Calling Any Person Common or Unclean
   category: Relating to Brothers & Neighbors
@@ -3967,6 +4295,7 @@
     - Luke 6:37
     - Matthew 7:1-2
     - Romans 14:13
+    - Matthew 5:22
     ot_scriptures:
     - Leviticus 19:15
     - Psalms 50:6
@@ -3983,6 +4312,8 @@
     - Matthew 5:42
     - Romans 12:13
     - Romans 13:7
+    - 1 Timothy 6:18
+    - Romans 13:7-9
     ot_scriptures:
     - Deuteronomy 15:1-3
     - Deuteronomy 15:6-8
@@ -4009,9 +4340,12 @@
     - Matthew 18:15
     - Matthew 19:19
     - Matthew 5:23-24
+    - 1 Thessalonians 4:6
+    - Matthew 22:39
     ot_scriptures:
     - 1 Samuel 2:25
     - Exodus 20:13-14
+    - Leviticus 19:18
 - id: DA46
   title: Comforting Our Neighbor
   category: Relating to Brothers & Neighbors
@@ -4025,6 +4359,9 @@
     - 2 Timothy 1:16
     - Ephesians 6:21-22
     - Romans 12:8
+    - 1 Thessalonians 2:7
+    - 1 Thessalonians 4:6
+    - Galatians 5:14
     ot_scriptures:
     - 1 Chronicles 7:22
     - 2 Samuel 10:2
@@ -4046,6 +4383,7 @@
     - Ephesians 5:6
     - Romans 16:18
     - Romans 3:13
+    - Ephesians 4:25
     ot_scriptures:
     - 1 Samuel 19:13-17
     - Genesis 20:2
@@ -4068,6 +4406,10 @@
     - Matthew 11:30
     - Romans 12:15
     - Romans 3:14
+    - 1 Peter 2:1
+    - Colossians 3:8
+    - Ephesians 4:31
+    - Matthew 11:29-30
     ot_scriptures:
     - Ezekiel 25:15
     - Isaiah 32:5-7
@@ -4090,6 +4432,16 @@
     - John 15:12
     - Luke 11:46
     - Romans 15:1
+    - 1 Peter 1:22
+    - Colossians 3:12-13
+    - Ephesians 4:2
+    - Ephesians 4:31
+    - Galatians 6:1
+    - Galatians 6:10
+    - Hebrews 13:2
+    - Matthew 11:29-30
+    - Philippians 2:4
+    - Romans 12:15
     ot_scriptures:
     - Exodus 2:11
     - Numbers 11:17
@@ -4107,10 +4459,12 @@
     - John 13:13-14
     - John 21:15-17
     - Luke 17:7-10
+    - 1 Corinthians 4:1
     ot_scriptures:
     - Ecclesiastes 5:8
     - Isaiah 1:17
     - Proverbs 31:8-9
+    - Leviticus 19:18
 - id: DA50
   title: Bearing with One Another in Love & with Forgiveness
   category: Relating to Brothers & Neighbors
@@ -4122,6 +4476,12 @@
     - Luke 17:3-4
     - Mark 11:25-26
     - Romans 14:1
+    - Colossians 3:12-13
+    - Ephesians 4:2-3
+    - Galatians 6:1
+    - John 15:13
+    ot_scriptures:
+    - Leviticus 19:18
 - id: DA51
   title: Not Provoking Our Neighbor
   category: Relating to Brothers & Neighbors
@@ -4130,9 +4490,13 @@
     nt_scriptures:
     - Colossians 3:21
     - Galatians 5:26
+    - 1 Thessalonians 4:6
+    - 1 Timothy 1:13
+    - Colossians 3:8
     ot_scriptures:
     - 1 Kings 14:10
     - Proverbs 27:3
+    - 2 Chronicles 25:10
 - id: DA52
   title: Behaving Wisely Toward Outsiders
   category: Relating to Brothers & Neighbors
@@ -4143,6 +4507,7 @@
     - 1 Timothy 3:6
     - Colossians 4:5-6
     - Romans 11:16-17
+    - 1 Corinthians 5:12
     ot_scriptures:
     - Deuteronomy 23:21
     - Exodus 12:43-49
@@ -4160,6 +4525,9 @@
     - Luke 10:36-37
     - Luke 19:10
     - Mark 12:30
+    - 1 John 3:16-18
+    - Luke 10:30-37
+    - Mark 12:30-31
     ot_scriptures:
     - Deuteronomy 25:11-12
     - Jeremiah 22:3
@@ -4214,6 +4582,7 @@
     - 1 Thessalonians 4:11
     - 1 Timothy 5:13
     - 2 Thessalonians 3:10-11
+    - Philippians 2:4
     ot_scriptures:
     - Proverbs 26:17
 - id: DA57
@@ -4324,6 +4693,8 @@
     - Romans 12:8
     - Romans 1:12
     - Titus 1:9
+    - 1 Thessalonians 2:12
+    - 1 Thessalonians 5:14
     ot_scriptures:
     - 1 Samuel 23:16
     - Deuteronomy 1:38
@@ -4353,6 +4724,7 @@
     - Acts 5:42
     - Hebrews 10:25
     - Matthew 18:20
+    - Hebrews 10:24-25
     ot_scriptures:
     - Leviticus 23:1-4
     - Leviticus 23:7-8
@@ -4377,6 +4749,7 @@
     - James 2:9
     - Matthew 5:45
     - Romans 2:11
+    - James 3:17
     ot_scriptures:
     - 2 Chronicles 19:7
     - Genesis 17:3-4
@@ -4397,6 +4770,10 @@
     - Galatians 2:11-13
     - James 4:11-12
     - James 5:9
+    - 1 Peter 2:1
+    - 1 Timothy 1:19-20
+    - 2 Corinthians 12:20
+    - Colossians 3:8
     ot_scriptures:
     - Deuteronomy 19:15
     - Numbers 12:1-6
@@ -4426,6 +4803,10 @@
     - Mark 15:32
     - Matthew 27:39
     - Romans 15:3
+    - 1 Peter 3:8-9
+    - 1 Timothy 6:3-5
+    - 2 Timothy 3:1-2
+    - Luke 18:22
     ot_scriptures:
     - Ecclesiastes 10:20
     - Hosea 12:15
@@ -4453,6 +4834,7 @@
     - Exodus 34:12
     - Proverbs 1:10
     - Proverbs 24:1
+    - Proverbs 22:24
 - id: DA68
   title: Welcoming & Being Hospitable to Our Brother & Neighbor
   category: Relating to Brothers & Neighbors
@@ -4509,6 +4891,7 @@
   bible_references:
     ot_scriptures:
     - Deuteronomy 6:1-2
+    - Deuteronomy 6:4-7
 - id: DA7
   title: Being Sensitive to Each Other’s Needs
   category: Relating to Brothers & Neighbors
@@ -4577,6 +4960,11 @@
   bible_references:
     nt_scriptures:
     - Acts 17:29
+    - Galatians 3:24-26
+    - John 1:12
+    - Philippians 2:15
+    - Romans 8:16
+    - Romans 9:8
 - id: DB4
   title: Embracing Jewish Identity and Responsibility
   category: Identity
@@ -4607,6 +4995,15 @@
     - Romans 12:16
     - Romans 3:20
     - Romans 3:27
+    - 1 Corinthians 1:28-31
+    - 1 Corinthians 2:1
+    - 1 Corinthians 5:6-8
+    - 2 Timothy 3:1-2
+    - Colossians 3:12
+    - James 4:13-17
+    - Romans 12:1
+    - Romans 1:30
+    - Romans 3:20-25
     ot_scriptures:
     - Jeremiah 9:23
     - Proverbs 11:2
@@ -4652,10 +5049,14 @@
     - Luke 17:7-10
     - Luke 20:46-47
     - Matthew 23:11-12
+    - Acts 10:34
+    - Philippians 2:3
+    - Romans 12:16
     ot_scriptures:
     - Proverbs 11:2
     - Proverbs 16:5
     - Proverbs 16:18
+    - Genesis 1:26
 - id: EA6
   title: Being Humble and Not Arrogant or Prideful
   category: Humility & Pride
@@ -4674,6 +5075,14 @@
     - Matthew 18:4
     - Matthew 23:11-12
     - Romans 11:20
+    - 1 Timothy 1:13
+    - 2 Timothy 3:2-4
+    - Colossians 3:12
+    - Ephesians 4:2
+    - Galatians 2:20
+    - Philippians 2:3
+    - Romans 12:16
+    - Romans 1:30
     ot_scriptures:
     - Proverbs 11:2
     - Proverbs 16:5
@@ -4692,6 +5101,7 @@
     ot_scriptures:
     - Proverbs 16:5
     - Proverbs 16:18
+    - Proverbs 11:2
 - id: EA8
   title: Not Seeking Human Praise
   category: Humility & Pride
@@ -4755,6 +5165,7 @@
     - Luke 18:1-8
     - Matthew 7:7-8
     - Matthew 7:11
+    - Romans 12:12
     ot_scriptures:
     - 1 Kings 8:59
     - Deuteronomy 9:25-26
@@ -4789,6 +5200,9 @@
     - Mark 11:23-24
     - Matthew 21:18-22
     - Matthew 9:27-29
+    - Colossians 2:7
+    - James 1:5-8
+    - Philippians 4:6
     ot_scriptures:
     - 2 Samuel 22:31
     - Deuteronomy 32:20
@@ -4803,6 +5217,7 @@
     - James 4:2
     - Matthew 7:7-8
     - Matthew 7:11
+    - Colossians 4:2
     ot_scriptures:
     - Deuteronomy 9:25-26
     - Joshua 1:8
@@ -4817,6 +5232,9 @@
     - 1 Timothy 2:8
     - Luke 24:50
     - Revelation 10:5-6
+    - 1 Timothy 1:5
+    - 2 Corinthians 7:1
+    - 2 Timothy 2:22
     ot_scriptures:
     - 1 Kings 8:22
     - 1 Kings 8:54
@@ -4840,6 +5258,11 @@
     - 1 Timothy 2:8
     - Ephesians 4:26
     - James 1:20
+    - 2 Corinthians 12:20
+    - Colossians 3:8
+    - Ephesians 4:31
+    - Matthew 5:22
+    - Philippians 2:14
     ot_scriptures:
     - Habakkuk 1:14-16
 - id: FA15
@@ -4881,6 +5304,7 @@
     - John 16:23-26
     - Matthew 18:20
     - Matthew 6:9
+    - John 14:13-31
     ot_scriptures:
     - Deuteronomy 10:8
     - Deuteronomy 18:19
@@ -4911,6 +5335,8 @@
     - Luke 9:28
     - Matthew 18:19
     - Romans 15:30
+    - Hebrews 10:24-25
+    - Matthew 18:19-20
 - id: FA19
   title: Praying Vigilantly
   category: Prayer & Worship1
@@ -4938,6 +5364,9 @@
     - Exodus 20:2
     - Exodus 20:4-6
     - Isaiah 43:11-12
+    - Deuteronomy 10:20-21
+    - Exodus 20:2-6
+    - Isaiah 43:10-12
 - id: FA20
   title: Praying for God’s Kingdom to Come
   category: Prayer & Worship1
@@ -4950,6 +5379,8 @@
     - Mark 1:15
     - Matthew 3:2
     - Matthew 6:10
+    - Matthew 6:9-10
+    - Matthew 6:33
     ot_scriptures:
     - Daniel 2:44
 - id: FA21
@@ -4981,6 +5412,8 @@
     - Matthew 4:4
     - Matthew 6:11
     - Philippians 4:19
+    - Luke 11:1-3
+    - Matthew 6:9-11
     ot_scriptures:
     - Deuteronomy 8:3
     - Deuteronomy 8:16
@@ -5004,6 +5437,8 @@
     - Acts 3:19
     - Luke 23:34
     - Matthew 6:12
+    - Colossians 1:14
+    - Luke 11:1-4
     ot_scriptures:
     - Numbers 14:19-20
     - Psalms 32:5
@@ -5028,6 +5463,9 @@
     - Matthew 26:41
     - Matthew 4:10
     - Matthew 6:13
+    - 2 Peter 2:9
+    - Galatians 6:1
+    - Luke 11:1-4
 - id: FA25
   title: Praying for Protection from the Adversary
   category: Prayer & Worship1
@@ -5042,6 +5480,8 @@
     - Ephesians 6:17
     - Matthew 6:11-13
     - Revelation 12:9
+    - Luke 11:1-4
+    - Matthew 6:9-13
     ot_scriptures:
     - Deuteronomy 20:2-4
     - Proverbs 10:22
@@ -5066,6 +5506,9 @@
     - Matthew 21:21-22
     - Matthew 9:20-22
     - Matthew 9:27-30
+    - James 1:5-8
+    - James 5:14-16
+    - Mark 11:22-23
 - id: FA27
   title: Praying for Our Brother and Our Neighbor
   category: Prayer & Worship1
@@ -5081,6 +5524,8 @@
     - Matthew 5:44
     - Romans 10:1
     - Romans 8:26-27
+    - Ephesians 6:17-18
+    - James 5:16
     ot_scriptures:
     - 1 Samuel 12:23
     - Job 42:10
@@ -5105,6 +5550,7 @@
     - Revelation 14:7
     - Revelation 19:10
     - Revelation 5:13
+    - Philippians 2:10-11
     ot_scriptures:
     - Psalms 150:6
     - Psalms 29:2
@@ -5142,6 +5588,8 @@
     - 2 Thessalonians 1:11
     - Acts 6:4
     - Luke 21:36
+    - Colossians 4:2
+    - Ephesians 6:17-18
     ot_scriptures:
     - 1 Samuel 1:12
     - Psalms 119:164
@@ -5165,6 +5613,9 @@
     - Matthew 5:44
     - Romans 10:1
     - Romans 8:26-27
+    - 1 Timothy 2:1
+    - Ephesians 6:17-18
+    - James 5:16
     ot_scriptures:
     - 1 Samuel 12:23
     - Job 42:10
@@ -5179,6 +5630,16 @@
     - Colossians 1:9
     - Matthew 5:44
     - Romans 8:27
+    - 1 Timothy 2:1-2
+    - 2 Corinthians 1:11
+    - Ephesians 6:17-18
+    - James 5:16
+    - Luke 6:28
+    - Romans 10:1
+    - Romans 8:26-27
+    ot_scriptures:
+    - 1 Samuel 12:23
+    - Job 42:10
 - id: FA34
   title: Praying for Wisdom
   category: Prayer & Worship1
@@ -5208,12 +5669,15 @@
     - James 5:13
     - Matthew 6:5-6
     - Philippians 4:4
+    - 1 Thessalonians 5:16-18
+    - Ephesians 6:18
     ot_scriptures:
     - Deuteronomy 8:10
     - Habakkuk 3:17-19
     - Psalms 30:3-4
     - Psalms 30:6
     - Psalms 34:2
+    - Psalms 30:3-6
 - id: FA37
   title: Calling on Elders to Pray and Anoint with Oil when Sick
   category: Prayer & Worship1
@@ -5256,6 +5720,19 @@
   bible_references:
     nt_scriptures:
     - 1 Timothy 2:2
+    - 1 John 5:16
+    - 1 Timothy 2:1-2
+    - 2 Corinthians 1:11
+    - Colossians 1:9
+    - Ephesians 6:17-18
+    - James 5:16
+    - Luke 6:28
+    - Matthew 5:44
+    - Romans 10:1
+    - Romans 8:26-27
+    ot_scriptures:
+    - 1 Samuel 12:23
+    - Job 42:10
 - id: FA39
   title: Praying in Unison with the Holy Spirit
   category: Prayer & Worship1
@@ -5264,8 +5741,14 @@
     nt_scriptures:
     - 1 Corinthians 14:14-15
     - Galatians 5:16
+    - Ephesians 6:18
+    - Galatians 5:15-16
+    - John 15:13
+    - Jude 1:20
+    - Romans 8:26-27
 - id: FA4
-  title: Praying for Workers to Minister the Existence & Identity of God, & Gather the Harvest
+  title: Praying for Workers to Minister the Existence & Identity of God, & Gather
+    the Harvest
   category: Prayer & Worship1
   commandment_type: Positive
   bible_references:
@@ -5278,6 +5761,7 @@
     - Matthew 9:37-38
     - Revelation 14:15
     - Romans 16:3
+    - Galatians 6:8-10
 - id: FA40
   title: Not Worshiping Created Things
   category: Prayer & Worship1
@@ -5289,6 +5773,8 @@
     - 1 John 5:21
     - Hebrews 1:10-12
     - Romans 1:22-25
+    - Colossians 3:5
+    - Ephesians 5:5
     ot_scriptures:
     - Deuteronomy 17:2-5
     - Deuteronomy 4:19
@@ -5380,6 +5866,7 @@
     - Ephesians 5:20
     - Hebrews 13:15
     - Romans 8:28
+    - Philippians 4:6
     ot_scriptures:
     - 1 Chronicles 16:34
     - Psalms 100:4
@@ -5405,7 +5892,12 @@
   title: Women Dressing Modestly when Praying
   category: Women
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    ot_scriptures:
+    - 1 Samuel 16:7
+    - Deuteronomy 22:5
+    - Proverbs 11:22
+    - Proverbs 31:30
 - id: FB5
   title: Wives Receiving Clarification from their Own Husbands
   category: Women
@@ -5471,6 +5963,9 @@
     - Romans 3:26
     - Romans 3:28
     - Romans 6:15
+    - James 4:8
+    - Romans 3:20-28
+    - Titus 3:1
     ot_scriptures:
     - 1 Samuel 1:27
     - Ezekiel 14:6
@@ -5508,6 +6003,8 @@
     - Hebrews 2:2
     - Matthew 26:28
     - Romans 8:1
+    - Ephesians 4:32
+    - Romans 3:20-28
     ot_scriptures:
     - 2 Chronicles 7:14
     - Daniel 9:9
@@ -5545,6 +6042,7 @@
     - Mark 1:8
     - Matthew 28:17-18
     - Matthew 3:11
+    - Matthew 28:17-19
 - id: GA5
   title: Doing Works Befitting Repentance
   category: Repenting & Seeking Forgiveness of Sin
@@ -5564,8 +6062,15 @@
     - Romans 2:5-6
     - Romans 7:4
     - Titus 2:14
+    - 1 Timothy 6:18-19
+    - Acts 2:38
+    - Hebrews 10:24
+    - Hebrews 13:16
+    - Titus 2:6-8
+    - Titus 3:1
     ot_scriptures:
     - Isaiah 3:10
+    - Psalms 37:3
 - id: GA6
   title: Not Practicing Sin
   category: Repenting & Seeking Forgiveness of Sin
@@ -5575,6 +6080,8 @@
     - 1 John 3:8-9
     - John 8:34
     - Matthew 12:32
+    - Hebrews 10:26
+    - Romans 6:13
     ot_scriptures:
     - Daniel 12:10
     - Isaiah 5:18
@@ -5605,6 +6112,7 @@
     - Hebrews 6:4-6
     - Luke 3:8
     - Luke 9:62
+    - Hebrews 10:26
     ot_scriptures:
     - Hosea 11:8
     - Jeremiah 14:7
@@ -5622,7 +6130,19 @@
   title: Not Drinking Excessively, Being Intoxicated, or Being a User of Drugs
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:9-11
+    - 1 Corinthians 6:9-11
+    - 1 Peter 4:3
+    - 1 Peter 5:8
+    - 1 Thessalonians 5:8
+    - Ephesians 5:18
+    - Galatians 5:21
+    - Luke 21:34
+    - Revelation 22:15
+    - Romans 13:13
+    - Titus 2:3-5
 - id: GB11
   title: Wearing and Employing God’s Armor and Weaponry
   category: Way of Life
@@ -5642,7 +6162,16 @@
   title: Patterning Our Life After the Shlichim, their Disciples, and Yeshua
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 11:1-2
+    - 1 Corinthians 4:16-17
+    - 1 John 2:6
+    - 1 Thessalonians 1:6
+    - 2 Thessalonians 3:7-9
+    - Galatians 1:8-9
+    - Philippians 3:17
+    - Philippians 4:9
 - id: GB15
   title: Not Defiling Our Bodies
   category: Way of Life
@@ -5677,7 +6206,18 @@
   title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 John 4:6
+    - 1 Timothy 1:3-4
+    - 1 Timothy 6:3-5
+    - 1 Timothy 6:20
+    - 2 John 1:9
+    - 2 Thessalonians 2:15
+    - 2 Thessalonians 3:4
+    - 2 Thessalonians 3:6
+    - 2 Timothy 1:13
+    - Galatians 1:8-9
 - id: GB21
   title: Working to Earn Our Living (Not Being Idle)
   category: Way of Life
@@ -5690,6 +6230,10 @@
   bible_references:
     nt_scriptures:
     - Matthew 4:4
+    - 1 Peter 3:11-12
+    - 1 Thessalonians 4:1
+    - Galatians 5:16
+    - Luke 4:4
 - id: GB23
   title: Pursuing That Which Makes for Faith and Upbuilding
   category: Way of Life
@@ -5714,7 +6258,15 @@
   title: Welcoming and Caring for Little Children and Those Pure of Spirit
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - Luke 18:15-17
+    - Mark 10:13-16
+    - Mark 9:36-37
+    - Matthew 18:5
+    - Matthew 18:10
+    - Matthew 18:12-14
+    - Matthew 19:13-15
 - id: GB28
   title: Not Loving as a Mere Outward Show
   category: Way of Life
@@ -5724,17 +6276,37 @@
   title: Doing All Things in a Decent and Orderly Way
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 14:40
+    - 2 Corinthians 12:20-21
+    - 2 Corinthians 13:11
+    - Galatians 5:24-25
+    - Luke 21:34
+    - Romans 13:13
 - id: GB3
   title: Working at Honorable Work and Not Being Idle or Lazy
   category: Way of Life
   commandment_type: Positive & Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 4:12
+    - 1 Timothy 5:13
+    - 2 Thessalonians 3:6-12
+    - Ephesians 4:28
+    - Romans 12:11
+    - Titus 3:1
 - id: GB30
   title: Doing God’s Work Diligently (Not Being Idle)
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:58
+    - 1 Timothy 1:3-4
+    - 1 Timothy 4:15
+    - 2 Corinthians 6:9
+    - Ephesians 2:10
 - id: GB31
   title: Supporting Ourselves and Sharing with Those Who Teach Us
   category: Way of Life
@@ -5754,12 +6326,30 @@
   title: Doing Everything in Love
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 16:13-14
+    - 1 Thessalonians 3:6
+    - 1 Thessalonians 5:8
+    - 1 Timothy 6:11
+    - 2 Timothy 1:7
+    - 2 Timothy 1:13
+    - 2 Timothy 2:22
+    - 2 Timothy 3:10
+    - Ephesians 5:1-2
+    - Titus 2:2
 - id: GB35
   title: Pursuing Shalom in Yeshua
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 13:11
+    - Colossians 3:15
+    - Romans 14:16
+    - Romans 14:19
+    - Romans 16:19
+    - Romans 3:17
 - id: GB36
   title: Not Engaging in Excesses and Self Indulgence
   category: Way of Life
@@ -5769,7 +6359,14 @@
   title: Pursuing Godly and Not Worldly Wisdom
   category: Way of Life
   commandment_type: Positive & Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 3:18-19
+    - 1 Timothy 1:9
+    - 2 Corinthians 1:12
+    - 2 Corinthians 5:16
+    - 2 Timothy 3:15
+    - Colossians 2:8
 - id: GB38
   title: Length of Hair on Men and Women
   category: Way of Life
@@ -5809,7 +6406,19 @@
   title: Exercising Self Control (Discipline)
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 1:13
+    - 1 Peter 4:7
+    - 2 Peter 1:5
+    - 2 Timothy 1:7
+    - 2 Timothy 3:3
+    - James 1:26
+    - James 3:2
+    - Jude 1:19
+    - Titus 2:2
+    - Titus 2:6-8
+    - Titus 2:12
 - id: GB45
   title: Taking Responsibility for Ourselves and Our Actions
   category: Way of Life
@@ -5829,7 +6438,19 @@
   title: Persevering in All Situations
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 2 Peter 1:5
+    - 2 Timothy 3:10
+    - Colossians 1:11
+    - Colossians 3:15
+    - James 1:4
+    - James 1:10
+    - Revelation 13:10
+    - Revelation 14:12
+    - Revelation 2:19
+    - Revelation 3:10
+    - Titus 2:2
 - id: GB49
   title: Not Obligating Ourselves to Worldly Rules and Teachings
   category: Way of Life
@@ -5874,7 +6495,14 @@
   title: Turning Away from Ungodly Speech
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 4:11
+    - 1 Timothy 6:20
+    - 2 Peter 2:18
+    - 2 Timothy 2:16
+    - James 1:21
+    - Jude 1:11
 - id: GB57
   title: Not Being Diverted by Secular Affairs
   category: Way of Life
@@ -5899,7 +6527,33 @@
   title: Not Allowing Passions and Emotions to Lead Us Astray
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:13
+    - 1 Corinthians 6:18
+    - 1 John 2:16
+    - 1 Peter 1:14
+    - 1 Peter 2:11
+    - 1 Peter 4:3
+    - 1 Thessalonians 4:3-5
+    - 2 Peter 1:5-6
+    - 2 Timothy 2:22
+    - 2 Timothy 3:6
+    - 2 Timothy 4:3
+    - Colossians 3:2
+    - Galatians 5:16-18
+    - James 1:14-15
+    - Jude 1:18
+    - Matthew 5:27-30
+    - Romans 13:14
+    - Romans 1:26-27
+    - Titus 2:12
+    - Titus 3:3
+    ot_scriptures:
+    - Ecclesiastes 2:8
+    - Exodus 20:14
+    - Proverbs 16:32
+    - Proverbs 6:25
 - id: GB61
   title: Having a Godly Purpose in Our Life
   category: Way of Life
@@ -5949,7 +6603,10 @@
   title: Living in a Way That is Good
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    ot_scriptures:
+    - Proverbs 15:24
+    - Psalms 16:11
 - id: GB70
   title: Seeking Inner Peace
   category: Way of Life
@@ -5967,6 +6624,15 @@
   bible_references:
     nt_scriptures:
     - 1 John 3:3
+    - 1 Timothy 5:22
+    - 2 Timothy 2:15
+    - Ephesians 4:19
+    - Ephesians 5:3
+    - Ephesians 5:5
+    - Ephesians 5:15
+    - Galatians 5:19
+    - Philippians 1:10-11
+    - Philippians 2:15
 - id: GB9
   title: Using Our Time Well
   category: Way of Life
@@ -6007,6 +6673,7 @@
     - Matthew 24:6
     - Matthew 9:28
     - Revelation 13:4-7
+    - 2 Timothy 1:7
 - id: HA3
   title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
   category: End Times
@@ -6034,6 +6701,7 @@
     - Revelation 1:7
     - Revelation 22:12
     - Romans 13:11
+    - Matthew 9:28
     ot_scriptures:
     - Ezekiel 38:19-23
 - id: HA4
@@ -6049,6 +6717,7 @@
     - 2 John 1:7
     - 2 Thessalonians 2:9
     - 2 Thessalonians 2:11-12
+    - 2 Thessalonians 2:9-12
     ot_scriptures:
     - Daniel 9:27
 - id: HA5
@@ -6073,6 +6742,7 @@
     - Revelation 1:7
     - Revelation 22:12
     - Romans 8:25
+    - John 14:6
     ot_scriptures:
     - Psalms 130:5-6
     - Psalms 25:3
@@ -6098,7 +6768,23 @@
   title: Not Pursuing Torah Observance Legalistically
   category: The Word and Will of God & Messiah
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - Galatians 2:16
+    - Galatians 2:18-19
+    - Galatians 2:21
+    - Galatians 3:2
+    - Galatians 3:5-7
+    - Galatians 3:10-12
+    - Galatians 4:21
+    - Galatians 5:4
+    - Galatians 5:18
+    - Romans 3:20-28
+    - Romans 4:2
+    - Romans 4:5-6
+    - Romans 4:13-14
+    - Romans 7:6
+    - Romans 9:30-32
 - id: HB10
   title: Not Being Weighed Down by Torah Commandments
   category: The Word and Will of God & Messiah
@@ -6218,9 +6904,16 @@
   title: Preserving the Integrity and Not Distorting God’s Word
   category: The Word and Will of God & Messiah
   commandment_type: Positive & Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 2 Corinthians 4:2
+    - Galatians 2:5
+    - Galatians 3:21
+    - Galatians 4:21
+    - Galatians 5:18
 - id: IA1
-  title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
+  title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, &
+    Fornication
   category: Foods & Immoral Acts Prohibited to Gentiles
   commandment_type: Positive
   bible_references:
@@ -6261,6 +6954,7 @@
     - Romans 14:2-4
     - Romans 14:15
     - Romans 14:20-21
+    - Romans 14:1-4
     ot_scriptures:
     - Deuteronomy 12:15-16
     - Deuteronomy 12:21-24
@@ -6304,6 +6998,8 @@
     - Romans 12:14
     - Romans 12:17
     - Romans 12:20
+    - Luke 6:27-29
+    - Matthew 5:44
     ot_scriptures:
     - Deuteronomy 15:3
     - Exodus 22:24
@@ -6324,6 +7020,11 @@
     - Matthew 5:11
     - Matthew 5:40-41
     - Romans 5:3-4
+    - 1 Corinthians 10:13
+    - 1 Corinthians 4:12
+    - Luke 6:27-29
+    - Matthew 5:11-12
+    - Matthew 5:39-42
 - id: JA11
   title: ''
   category: ''
@@ -6371,6 +7072,13 @@
     - Matthew 24:23-25
     - Matthew 7:15-20
     - Romans 16:18
+    - 1 Corinthians 6:9-10
+    - 1 Thessalonians 5:21
+    - 1 Timothy 6:3-5
+    - 2 Thessalonians 2:9-12
+    - Colossians 2:8
+    - Ephesians 6:11-17
+    - Galatians 6:7-9
     ot_scriptures:
     - Genesis 3:1
     - Isaiah 8:19
@@ -6398,6 +7106,8 @@
     - Matthew 14:26-27
     - Philippians 1:28
     - Revelation 2:10
+    - 2 Timothy 1:7
+    - Philippians 1:27-28
     ot_scriptures:
     - Exodus 14:13
     - Genesis 15:1
@@ -6420,6 +7130,7 @@
     - Luke 21:14-15
     - Mark 13:11
     - Matthew 10:18-20
+    - Galatians 2:20
 - id: JA5
   title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
   category: Engaging Our Enemies
@@ -6450,6 +7161,11 @@
     - Matthew 5:38-42
     - Romans 12:19-20
     - Romans 13:4
+    - 1 Peter 3:8-10
+    - 2 Timothy 2:24-26
+    - Luke 6:28-30
+    - Matthew 7:12
+    - Romans 12:12
 - id: JA7
   title: Not Being Surprised When We Are Hated for Our Faith
   category: Engaging Our Enemies
@@ -6479,6 +7195,9 @@
     - Matthew 6:46
     - Romans 12:14
     - Romans 12:18-20
+    - Luke 6:27-31
+    - Matthew 5:39-45
+    - Romans 12:17-20
 - id: JA9
   title: Keeping Our Faith Amidst Persecution
   category: Engaging Our Enemies
@@ -6500,6 +7219,8 @@
     - Matthew 5:11-12
     - Revelation 2:9-10
     - Romans 5:3-4
+    - 1 John 5:3-4
+    - Ephesians 6:11-17
 - id: KA1
   title: Being on Our Guard Against False Messiahs
   category: False Messiahs, Prophets & Teachers
@@ -6515,6 +7236,7 @@
     - Matthew 24:4-5
     - Matthew 24:23-25
     - Revelation 6:2
+    - 2 Thessalonians 2:9-12
 - id: KA2
   title: Being on Our Guard Against False Prophets
   category: False Messiahs, Prophets & Teachers
@@ -6534,6 +7256,9 @@
     - Matthew 7:15-20
     - Revelation 19:20
     - Revelation 20:10
+    - 1 John 4:1-6
+    - 2 Thessalonians 2:1-3
+    - Matthew 4:1-11
     ot_scriptures:
     - Jonah 3:14
 - id: KA3
@@ -6563,11 +7288,17 @@
     - Romans 16:18
     - Titus 1:9-10
     - Titus 1:13
+    - 1 Thessalonians 5:21
+    - 1 Timothy 6:3-5
+    - 2 Thessalonians 2:1-2
+    - Acts 20:28-31
+    - Romans 16:17-18
     ot_scriptures:
     - Deuteronomy 13:1-2
     - Habakkuk 2:18
     - Isaiah 9:14
     - Jeremiah 10:8
+    - Deuteronomy 13:1
 - id: KA32
   title: ''
   category: ''
@@ -6592,6 +7323,7 @@
     - Matthew 7:15-20
     - Revelation 19:20
     - Revelation 20:10
+    - 1 John 4:1-6
     ot_scriptures:
     - Deuteronomy 13:1-6
     - Deuteronomy 18:20
@@ -6646,6 +7378,8 @@
     - Romans 1:1
     - Romans 6:16-23
     - Romans 7:4
+    - Colossians 2:8
+    - Matthew 6:24
     ot_scriptures:
     - Leviticus 25:55
 - id: LA10
@@ -6685,6 +7419,11 @@
     - Mark 7:13
     - Romans 14:2-6
     - Romans 14:9-23
+    - Colossians 2:8
+    - Galatians 2:14-21
+    - Galatians 3:26-29
+    - Romans 14:1-10
+    - Romans 14:13-23
     ot_scriptures:
     - Leviticus 25:55
 - id: LA3
@@ -6699,6 +7438,7 @@
     - Colossians 3:22
     - Ephesians 6:5-7
     - Titus 2:9-10
+    - 2 Peter 2:9
     ot_scriptures:
     - Deuteronomy 28:47-48
     - Exodus 23:5
@@ -6736,8 +7476,15 @@
     - Luke 12:20-21
     - Luke 16:13
     - Matthew 6:19-21
+    - 1 John 2:15
+    - 1 Timothy 6:9-10
+    - Hebrews 13:5
+    - Matthew 6:24
     ot_scriptures:
     - Exodus 34:12-14
+    - Deuteronomy 6:14
+    - Exodus 20:3-5
+    - Joshua 24:14
 - id: LA6
   title: Using Our Enslavement to Serve God but Gaining Freedom If Possible
   category: Slaves & Indentured Servants
@@ -6747,6 +7494,9 @@
     - 1 Corinthians 7:21-22
     ot_scriptures:
     - Deuteronomy 13:5
+    - Deuteronomy 10:20
+    - Deuteronomy 6:13
+    - Exodus 23:25
 - id: LA7
   title: ''
   category: ''
@@ -6783,6 +7533,9 @@
     - Philippians 4:7
     - Philippians 4:19
     - Romans 8:32
+    - Hebrews 13:5
+    - Matthew 6:25-34
+    - Philippians 4:6-7
     ot_scriptures:
     - Malachi 3:10
     - Psalms 23:1
@@ -6805,6 +7558,8 @@
     - Luke 12:4-7
     - Matthew 10:28
     - Romans 8:15
+    - 1 Peter 3:14
+    - 2 Timothy 1:7
     ot_scriptures:
     - 1 Samuel 15:24
     - Proverbs 29:25
@@ -6824,6 +7579,9 @@
     - Philippians 4:7
     - Philippians 4:19
     - Romans 8:32
+    - Hebrews 13:5
+    - Matthew 6:25-34
+    - Philippians 4:6-7
     ot_scriptures:
     - Psalms 34:10
     - Psalms 37:25
@@ -6837,6 +7595,10 @@
     - John 14:27
     - Mark 5:36
     - Matthew 10:28
+    - 1 John 4:18
+    - 2 Thessalonians 2:1-2
+    - 2 Timothy 1:7
+    - Philippians 4:6
     ot_scriptures:
     - Isaiah 35:4
     - Isaiah 4:10
@@ -6859,6 +7621,9 @@
     - Matthew 10:23
     - Matthew 15:14
     - Matthew 7:6
+    - Luke 10:9-11
+    - Matthew 10:11-14
+    - Matthew 15:12-14
 - id: NA10
   title: Ministering Healing as Led by the Holy Spirit
   category: Ministering, Discipling & Teaching
@@ -6970,6 +7735,9 @@
     - Titus 1:9
     - Titus 2:1
     - Titus 2:3-4
+    - 1 Timothy 6:3-5
+    - 2 Timothy 4:2
+    - Matthew 5:19
     ot_scriptures:
     - Deuteronomy 11:19
     - Proverbs 22:6
@@ -7187,6 +7955,9 @@
     ot_scriptures:
     - Deuteronomy 11:18
     - Deuteronomy 4:8-9
+    - Deuteronomy 11:18-19
+    - Deuteronomy 6:6-7
+    - Jeremiah 31:32-33
 - id: NA3
   title: Ministering First to the Jew and Then to the Gentile
   category: Ministering, Discipling & Teaching
@@ -7288,6 +8059,23 @@
     nt_scriptures:
     - Ephesians 6:2
     - Galatians 6:6
+    - 1 Thessalonians 5:12-13
+    - 1 Timothy 5:17
+    - 1 Timothy 6:1
+    - Colossians 3:20
+    - Ephesians 6:1-2
+    - Hebrews 13:7
+    - Hebrews 13:17
+    - Hebrews 13:24
+    - Mark 12:17
+    - Romans 13:1-2
+    - Romans 13:7
+    - Titus 3:1
+    ot_scriptures:
+    - Deuteronomy 21:18-21
+    - Exodus 22:27
+    - Ezekiel 20:12
+    - Leviticus 19:32
 - id: OA4
   title: Being Cautious in Granting S’michah
   category: Spiritual Leadership
@@ -7324,9 +8112,16 @@
   title: Giving to Our Secular Authorities That Which is Theirs
   category: Governing & Governing Authorities
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - Luke 20:25
+    - Mark 12:17
+    - Matthew 22:18-21
+    - Romans 13:7
+    - Titus 3:1
 - id: PA2
-  title: Guarding Against Wrongful Ways of Leaders, Teachers, and Others Who Are in Charge
+  title: Guarding Against Wrongful Ways of Leaders, Teachers, and Others Who Are in
+    Charge
   category: Governing & Governing Authorities
   commandment_type: Positive
   bible_references: {}
@@ -7334,7 +8129,17 @@
   title: Submitting to and Obeying the Authorities Placed Over Us
   category: Governing & Governing Authorities
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 2:13-14
+    - 1 Peter 5:5-6
+    - 2 Peter 2:9-10
+    - Acts 5:29
+    - Jude 1:8
+    - Matthew 23:1-3
+    - Romans 13:1-2
+    - Romans 13:5-6
+    - Titus 3:1
 - id: PA4
   title: Leading by Serving
   category: Governing & Governing Authorities
@@ -7354,7 +8159,44 @@
   title: Preaching, Teaching, & Making Disciples of Yeshua
   category: Evangelizing & Preaching
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 1:17
+    - 1 Corinthians 1:23
+    - 1 Corinthians 1:31
+    - 1 Corinthians 9:16
+    - 1 Corinthians 9:19
+    - 1 Corinthians 9:24-26
+    - 1 Thessalonians 2:2
+    - 1 Thessalonians 2:8-9
+    - 1 Timothy 6:13-14
+    - 2 Corinthians 5:11
+    - 2 Corinthians 5:18-20
+    - 2 Timothy 1:8
+    - 2 Timothy 4:2
+    - 2 Timothy 4:5
+    - Acts 20:20-21
+    - Acts 20:24-25
+    - Acts 26:17-18
+    - Acts 28:28
+    - Acts 5:18-20
+    - Acts 8:25
+    - Acts 8:40
+    - Colossians 1:28
+    - John 20:21
+    - John 4:35-36
+    - Luke 10:3
+    - Luke 12:8
+    - Luke 9:1
+    - Mark 16:15-16
+    - Matthew 10:7-8
+    - Matthew 10:27
+    - Matthew 28:18-20
+    - Matthew 4:19
+    - Philippians 1:18
+    - Philippians 2:10-11
+    - Romans 10:8-11
+    - Romans 10:15-16
 - id: QA2
   title: Boasting About God and Yeshua
   category: Evangelizing & Preaching
@@ -7494,7 +8336,15 @@
   title: Not Judging or Condemning Apart from a Beit Din
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 4:5
+    - James 5:6
+    - Luke 6:37
+    - Matthew 7:1-2
+    - Romans 14:4
+    - Romans 14:10
+    - Romans 14:13
 - id: RA9
   title: Letting Punishment Fit the Offense
   category: Instructing, Correcting, Rebuking & Judging
@@ -7504,7 +8354,13 @@
   title: Fighting the Good Fight of the Faith
   category: Spiritual Warfare
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 1:18-19
+    - 1 Timothy 6:12
+    - 2 Timothy 4:7
+    - Philippians 1:27
+    - Philippians 2:1-2
 - id: SA10
   title: Testing Every Spirit
   category: Spiritual Warfare
@@ -7554,12 +8410,51 @@
   title: Coming to & Believing (Trusting) in Yeshua for Salvation
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:1-2
+    - 1 Thessalonians 4:13-17
+    - 1 Thessalonians 5:9-10
+    - Acts 16:29-31
+    - Acts 2:40
+    - Acts 4:12
+    - Colossians 1:14
+    - John 10:9-10
+    - John 10:27-28
+    - John 11:25-26
+    - John 14:6
+    - John 3:14-16
+    - John 3:18
+    - John 4:13-14
+    - John 5:24
+    - John 6:27
+    - John 6:32-33
+    - John 6:35
+    - John 6:40
+    - John 6:47-51
+    - John 6:53-58
+    - John 6:62-63
+    - John 7:37-38
+    - John 8:12
+    - Luke 13:24
+    - Luke 21:34
+    - Mark 16:15-16
+    - Matthew 7:13-14
+    - Romans 10:8-9
 - id: TA10
   title: Believing that Yeshua was Raised from the Dead
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:3-4
+    - 1 Corinthians 15:20
+    - 2 Corinthians 4:14
+    - Acts 17:2-3
+    - Acts 17:31
+    - Acts 26:22-23
+    - Romans 10:8-9
+    - Romans 1:2-4
 - id: TA11
   title: Believing that Yeshua Died for Our Sins
   category: New Birth, Resurrection & Deliverance /Salvation
@@ -7584,7 +8479,16 @@
   title: Maintaining the Hope of Deliverance /Salvation
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 13:13
+    - 1 Thessalonians 5:9-10
+    - Colossians 1:23
+    - Colossians 1:27
+    - Romans 12:12
+    - Romans 15:4
+    - Romans 15:13
+    - Romans 5:2-4
 - id: TA4
   title: Entering the Kingdom of God Like Innocent Children
   category: New Birth, Resurrection & Deliverance /Salvation
@@ -7599,7 +8503,15 @@
   title: Believing in Resurrection of the Dead
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 15:12
+    - 1 Corinthians 15:21-33
+    - 1 Corinthians 15:52
+    - 2 Corinthians 1:9
+    - 2 Corinthians 4:14
+    - 2 Timothy 2:18
+    - Acts 26:22-23
 - id: TA7
   title: Knowing that Sin is an Impediment to Salvation
   category: New Birth, Resurrection & Deliverance /Salvation
@@ -7624,7 +8536,13 @@
   title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
   category: Tribulation & Adversity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 2 Timothy 2:24
+    - Colossians 1:11
+    - James 1:2-3
+    - Matthew 5:12
+    - Romans 5:2-4
 - id: UA3
   title: Being Encouraged in Our Suffering
   category: Tribulation & Adversity
@@ -7634,7 +8552,16 @@
   title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
   category: Tribulation & Adversity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Thessalonians 3:3-4
+    - 2 Corinthians 12:10
+    - 2 Timothy 1:8
+    - 2 Timothy 2:3
+    - 2 Timothy 2:24
+    - 2 Timothy 3:1
+    - 2 Timothy 4:5
+    - Philippians 1:29
 - id: UA5
   title: Handling Painful Situations in a Godly Way
   category: Tribulation & Adversity
@@ -7644,7 +8571,13 @@
   title: Overcoming Adversity through Faith and Perseverance
   category: Tribulation & Adversity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 2 Peter 1:5
+    - James 1:4
+    - Revelation 13:10
+    - Revelation 14:12
+    - Revelation 2:3
 - id: UA7
   title: Bearing Up Under Undeserved Punishment
   category: Tribulation & Adversity
@@ -7659,7 +8592,27 @@
   title: Not Engaging in Idolatry
   category: Idolatry & the Occult
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:7
+    - 1 Corinthians 10:14
+    - 1 Corinthians 10:20-21
+    - 1 Corinthians 12:1-2
+    - 1 Corinthians 5:9-11
+    - 1 Corinthians 6:9-11
+    - 1 Corinthians 8:4
+    - 1 Corinthians 8:7
+    - 1 Corinthians 8:10
+    - 1 John 5:21
+    - 1 Peter 4:3
+    - 1 Thessalonians 1:9
+    - Colossians 3:5
+    - Ephesians 5:5
+    - Hebrews 1:10-12
+    - Revelation 21:8
+    - Revelation 22:15
+    - Romans 1:22-25
+    - Romans 2:21-24
 - id: VA3
   title: Not Eating Meat Sacrificed to Idols
   category: Idolatry & the Occult
@@ -7679,9 +8632,34 @@
   title: Abstaining from Fornication and Other Acts of Sexual Immorality
   category: Sexual Conduct
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:8
+    - 1 Corinthians 5:1-5
+    - 1 Corinthians 6:9-11
+    - 1 Corinthians 6:18
+    - 1 Peter 4:3
+    - 1 Thessalonians 4:3-5
+    - 1 Timothy 1:10-11
+    - 2 Corinthians 12:20-21
+    - Acts 15:19-20
+    - Acts 15:28-29
+    - Colossians 3:5
+    - Ephesians 5:3
+    - Ephesians 5:5
+    - Galatians 5:19
+    - Galatians 5:21
+    - Hebrews 12:16
+    - Hebrews 13:4
+    - Jude 1:7
+    - Revelation 21:8
+    - Revelation 22:15
+    - Revelation 2:20
+    - Romans 13:13
+    - Romans 1:26-27
 - id: WA2
-  title: Not Lusting After a Person of the Opposite Sex while Either is Married to Another
+  title: Not Lusting After a Person of the Opposite Sex while Either is Married to
+    Another
   category: Sexual Conduct
   commandment_type: Negative
   bible_references: {}
@@ -7694,7 +8672,17 @@
   title: Not Committing Adultery
   category: Sexual Conduct
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 6:9-11
+    - 2 Peter 2:13-14
+    - Hebrews 13:4
+    - Luke 18:20
+    - Matthew 19:18
+    - Matthew 5:27
+    - Revelation 2:22
+    - Romans 13:8-9
+    - Romans 2:21-24
 - id: WA5
   title: Not Engaging in Homosexuality
   category: Sexual Conduct
@@ -7759,7 +8747,20 @@
   title: Treating Gentiles and Jews as Spiritually Equal
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - Acts 26:17-18
+    - Acts 26:22-23
+    - Colossians 3:11
+    - Galatians 3:8-9
+    - Galatians 3:13-14
+    - Galatians 3:28-29
+    - Romans 10:13
+    - Romans 1:16-17
+    - Romans 2:25-27
+    - Romans 3:20-28
+    - Romans 4:9-10
+    - Romans 4:16
 - id: XA8
   title: Gentiles Praising the Lord
   category: Gentiles
@@ -7774,7 +8775,27 @@
   title: Offering Ourselves as Living Sacrifices
   category: Self-Sacrifice
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:24
+    - 1 Corinthians 10:33
+    - 1 John 3:16
+    - Acts 21:12-13
+    - Ephesians 5:1-2
+    - Galatians 5:24-25
+    - Hebrews 13:16
+    - Luke 14:26-27
+    - Luke 14:33
+    - Luke 17:33
+    - Luke 9:23-24
+    - Mark 10:21
+    - Mark 8:34-35
+    - Matthew 10:38-40
+    - Matthew 16:24-25
+    - Philippians 2:4
+    - Philippians 3:8-9
+    - Romans 12:1
+    - Romans 15:1-2
 - id: YA2
   title: Accepting Suffering and Disgrace in Order to Serve Yeshua
   category: Self-Sacrifice
@@ -7794,7 +8815,13 @@
   title: Using Our Spiritual Gifts to Serve Others
   category: Spiritual Gifts
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 12:7-11
+    - 1 Corinthians 12:31
+    - 1 Corinthians 14:23-25
+    - 1 Peter 4:10
+    - Romans 12:6-8
 - id: ZA10
   title: Using Our Spiritual Gifts to Edify the Body
   category: Spiritual Gifts
@@ -7849,7 +8876,14 @@
   title: Seeking, Receiving, and Relying on Holy Spirit Power
   category: Spiritual Gifts
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 2:3-5
+    - 2 Timothy 1:7
+    - Acts 1:8
+    - Luke 24:49
+    - Philippians 4:13
+    - Romans 15:13
 - id: ZA9
   title: Preferring Love Over Spiritual Gifts
   category: Spiritual Gifts
