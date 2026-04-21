@@ -1316,12 +1316,17 @@
   title: Not Grieving the Holy Spirit
   category: Holy Spirit
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 4:30
 - id: AB10
   title: Receiving the Holy Spirit
   category: Holy Spirit
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 2:38
+    - Acts 8:14-17
 - id: AB11
   title: Living by the Holy Spirit and Not by Our Old Nature
   category: Holy Spirit
@@ -1350,37 +1355,57 @@
   title: Conforming Our Mind and Aligning Our Conscience with the Holy Spirit
   category: Holy Spirit
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:5
+    - Romans 14:5
 - id: AB14
   title: Seeking and Pursuing the Things of the Spirit
   category: Holy Spirit
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:1
+    - John 6:27
+    - Romans 8:5-6
 - id: AB15
   title: Being Transformed by the Renewing of Our Mind and Spirit
   category: Holy Spirit
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 4:22-24
+    - Romans 12:2
 - id: AB16
   title: Producing Fruit of the Holy Spirit
   category: Holy Spirit
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 10:18-20
 - id: AB2
   title: Being Filled with the Holy Spirit
   category: Holy Spirit
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:18
 - id: AB3
   title: Not Quenching the Holy Spirit
   category: Holy Spirit
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 5:19
 - id: AB4
   title: Not Resisting or Opposing the Holy Spirit
   category: Holy Spirit
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 7:51
+    - Luke 12:10
+    - Matthew 12:31-32
 - id: AB5
   title: Not lying to the Holy Spirit
   category: Holy Spirit
@@ -1402,7 +1427,11 @@
   title: Being Led by the Holy Spirit
   category: Holy Spirit
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 5:18
+    - Romans 14:5
+    - Romans 8:14
 - id: AB8
   title: Hearing the Holy Spirit
   category: Holy Spirit
@@ -1432,7 +1461,9 @@
   title: Being Bold in the Holy Spirit
   category: Holy Spirit
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 1:7
 - id: BA1
   title: Not Testing or Tempting God, the Holy Spirit, or Yeshua
   category: Relating to God & Yeshua
@@ -2476,8 +2507,7 @@
     - Luke 9:47-48
     - Mark 9:36-37
 - id: BA42
-  title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance
-    of Yeshua
+  title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance of Yeshua
   category: Relating to God & Yeshua
   commandment_type: Positive
   bible_references:
@@ -3025,42 +3055,62 @@
   title: Providing and Caring for Widows & Orphans
   category: Charity, Provision, & Generosity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 6:18
+    - Hebrews 13:16
+    - Romans 12:13
 - id: BB3
   title: Financially Supporting Our Spiritual Leaders, and Those Who Teach and Minister
   category: Charity, Provision, & Generosity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:3
+    - James 1:27
 - id: BB4
   title: Requiring Children to Support Their Widowed Mothers
   category: Charity, Provision, & Generosity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 9:9-14
+    - 1 Timothy 5:17-18
 - id: BB5
   title: Requiring Grandchildren to Support Their Widowed Grandmothers
   category: Charity, Provision, & Generosity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:4
 - id: BB6
   title: Supporting Our Family Financially
   category: Charity, Provision, & Generosity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:4
 - id: BB7
   title: Women Supporting Their Widowed Relatives
   category: Charity, Provision, & Generosity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:8
 - id: BB8
   title: Congregations Supporting Widows Who Are in Need
   category: Charity, Provision, & Generosity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:16
 - id: BB9
   title: Only Giving Support to Virtuous Widows Who Are Over 60 and Not Pursuing Remarriage
   category: Charity, Provision, & Generosity
   commandment_type: Positive & Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:16
 - id: CA1
   title: Not Pursuing and Accumulating Worldly Wealth & Possessions
   category: Prioritization & Acquisition of Wealth & Possessions
@@ -3278,27 +3328,41 @@
   title: Paul on Sex in Marriage
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:1-6
+    - 1 Corinthians 7:8-9
 - id: CB10
   title: Wives Respecting Their Husbands
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:33
 - id: CB11
   title: Children Obeying Their Parents
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:20
+    - Ephesians 6:1
+    - Romans 1:30
 - id: CB12
   title: Fathers Not Irritating Their Children
   category: Marriage & Family
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:21
+    - Ephesians 6:4
 - id: CB13
   title: Raising Up Children with Guidance and Discipline
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 6:4
 - id: CB14
   title: Not Divorcing Except on Biblical Grounds
   category: Marriage & Family
@@ -3314,17 +3378,28 @@
   title: Honoring Our Parents
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 6:2
+    - Luke 18:20
+    - Mark 10:19
+    - Matthew 19:19
 - id: CB16
   title: A Man Leaving His Mother and Father and Uniting with His Wife
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:31
+    - Mark 10:7-9
+    - Matthew 19:5-6
 - id: CB17
   title: Co-Dependence of Husbands and Wives
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 11:11
 - id: CB18
   title: Husbands Leading Their Wives
   category: Marriage & Family
@@ -3334,87 +3409,127 @@
   title: Husbands Being Understanding and Not Treating Their Wives Harshly
   category: Marriage & Family
   commandment_type: Positive & Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:7
+    - Colossians 3:19
 - id: CB2
   title: Widows and Singles Remaining Unmarried Unless Sexually Driven
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:8-9
 - id: CB20
   title: Raising Our Children to Believe in Yeshua
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Mark 9:36-37
 - id: CB21
   title: Not Forbidding Marriage
   category: Marriage & Family
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 4:3
 - id: CB22
   title: Wives Who Leave their Husbands Remaining Single
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:10-13
 - id: CB23
   title: Treating Marriage as Honorable
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 13:4
 - id: CB24
   title: Treating Sex within Marriage as Pure
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 13:4
 - id: CB25
   title: Wives Being Faithful to their Husbands
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 4:4
+    - Revelation 2:10
 - id: CB26
   title: Wives Nurturing the Inner Character of their Heart
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:4
 - id: CB27
   title: Wives Doing What is Right
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 John 3:7
+    - 1 John 3:10-11
+    - 1 Peter 3:6
 - id: CB28
   title: Wives Not Succumbing to Fear
   category: Marriage & Family
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:6
 - id: CB29
   title: Husbands Respecting their Wives
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:7
 - id: CB3
   title: Spouses Not to Separate
   category: Marriage & Family
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:10-13
+    - 1 Corinthians 7:39
 - id: CB4
   title: Having Only One Spouse
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:1-6
 - id: CB5
   title: Allowing an Unbelieving Spouse to Leave
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:15
 - id: CB6
   title: Knowing that Marriage Is for Life
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:10-13
+    - 1 Corinthians 7:39
 - id: CB7
   title: Widows Not Marrying Unbelievers
   category: Marriage & Family
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:39
 - id: CB8
   title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   category: Marriage & Family
@@ -3432,7 +3547,12 @@
   title: Husbands Loving Their Wives
   category: Marriage & Family
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:19
+    - Ephesians 5:25
+    - Ephesians 5:28
+    - Ephesians 5:33
 - id: DA0
   title: Caveat to Section DA
   category: Relating to Brothers & Neighbors
@@ -3656,8 +3776,7 @@
     ot_scriptures:
     - 2 Chronicles 32:6
 - id: DA17
-  title: Staying Away from a Brother Whose Life is Not in Accord with the Teachings
-    and Traditions of the Shl’chim
+  title: Staying Away from a Brother Whose Life is Not in Accord with the Teachings and Traditions of the Shl’chim
   category: Relating to Brothers & Neighbors
   commandment_type: Negative
   bible_references:
@@ -4945,7 +5064,11 @@
   title: Remaining in the Same Condition and Identity as When First Called
   category: Identity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:17-18
+    - 1 Corinthians 7:20
+    - 1 Corinthians 7:24
 - id: DB2
   title: Circumcising on the Eighth Day After Birth
   category: Identity
@@ -5114,7 +5237,9 @@
   title: Prophesying veiled and unveiled
   category: Prophecy
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 11:4-10
 - id: EB2
   title: Not Despising Prophetic Messages
   category: Prophecy
@@ -5124,22 +5249,31 @@
   title: Exercising Control When Prophesying
   category: Prophecy
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:32
 - id: EB4
   title: Believing the Prophets
   category: Prophecy
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 26:27
 - id: EB5
   title: Evaluating Prophecies
   category: Prophecy
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:29
+    - 1 Thessalonians 5:21
 - id: EB6
   title: Prophesying in an Orderly Manner
   category: Prophecy
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:30-31
 - id: EB7
   title: Interpreting Prophecy via the Holy Spirit
   category: Prophecy
@@ -5747,8 +5881,7 @@
     - Jude 1:20
     - Romans 8:26-27
 - id: FA4
-  title: Praying for Workers to Minister the Existence & Identity of God, & Gather
-    the Harvest
+  title: Praying for Workers to Minister the Existence & Identity of God, & Gather the Harvest
   category: Prayer & Worship1
   commandment_type: Positive
   bible_references:
@@ -5877,17 +6010,23 @@
   title: Wives Remaining Silent in Congregation Meetings
   category: Women
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:34-35
 - id: FB2
   title: Women Learning in Peace While Fully Submitted
   category: Women
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 2:11
 - id: FB3
   title: Women Not to Teach or Have Authority Over a Man
   category: Women
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 2:12
 - id: FB4
   title: Women Dressing Modestly when Praying
   category: Women
@@ -5902,27 +6041,37 @@
   title: Wives Receiving Clarification from their Own Husbands
   category: Women
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:34-35
 - id: FB6
   title: Women to Continue in Faith and Love
   category: Women
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 2:15
 - id: FB7
   title: Women Living a Holy and Modest Life
   category: Women
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 2:15
 - id: FB8
   title: Women Teaching Younger Women
   category: Women
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 2:3-5
 - id: FB9
   title: Women Being Homemakers
   category: Women
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 2:3-5
 - id: GA1
   title: See also EA3
   category: Repenting & Seeking Forgiveness of Sin
@@ -6125,7 +6274,10 @@
   title: Not Yoking Ourselves with Unbelievers or Heretics
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 6:14
+    - Ephesians 5:6-7
 - id: GB10
   title: Not Drinking Excessively, Being Intoxicated, or Being a User of Drugs
   category: Way of Life
@@ -6147,17 +6299,24 @@
   title: Wearing and Employing God’s Armor and Weaponry
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 6:11-17
 - id: GB12
   title: Not Being Party to Intrigue or Factions
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 5:21
 - id: GB13
   title: Letting Our Conduct Fit the Level of Our Spiritual Attainment
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 5:14
+    - Philippians 3:16
 - id: GB14
   title: Patterning Our Life After the Shlichim, their Disciples, and Yeshua
   category: Way of Life
@@ -6181,27 +6340,47 @@
   title: Doing Everything in the Name of Yeshua
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:17
+    - Ephesians 5:20
 - id: GB17
   title: Doing Everything in Faith and Unto Yeshua
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:23
+    - Mark 11:22-24
+    - Romans 14:23
 - id: GB18
   title: Living a Good, Quiet, & Peaceful Life
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 2:1-2
+    - 2 Timothy 2:22
+    - Romans 13:13
 - id: GB19
   title: Being Alert and on Guard Against Spiritual Danger
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:8
+    - 1 Thessalonians 5:6
+    - Luke 12:1
 - id: GB2
   title: Examining Ourselves
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 11:23-29
+    - 1 Corinthians 11:31
+    - 2 Corinthians 13:5
+    - Galatians 6:3-4
 - id: GB20
   title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
   category: Way of Life
@@ -6222,7 +6401,9 @@
   title: Working to Earn Our Living (Not Being Idle)
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 4:11
 - id: GB22
   title: Living According to God’s Word and Spirit
   category: Way of Life
@@ -6238,7 +6419,12 @@
   title: Pursuing That Which Makes for Faith and Upbuilding
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 2:7
+    - Romans 14:16
+    - Romans 14:19
+    - Romans 15:1-2
 - id: GB24
   title: Putting Our Cares & Anxieties on God
   category: Way of Life
@@ -6248,7 +6434,9 @@
   title: Aspiring to Be Mature in Our Thoughts
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:20
 - id: GB26
   title: Being Like Children in Regard to Evil
   category: Way of Life
@@ -6271,7 +6459,9 @@
   title: Not Loving as a Mere Outward Show
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 12:9
 - id: GB29
   title: Doing All Things in a Decent and Orderly Way
   category: Way of Life
@@ -6311,17 +6501,26 @@
   title: Supporting Ourselves and Sharing with Those Who Teach Us
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 6:6
 - id: GB32
   title: Not Being Divisive
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Jude 1:19
+    - Romans 16:17
 - id: GB33
   title: Being Content in All Things and All Circumstances
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 13:5
+    - Luke 3:14
+    - Philippians 4:11
 - id: GB34
   title: Doing Everything in Love
   category: Way of Life
@@ -6354,7 +6553,11 @@
   title: Not Engaging in Excesses and Self Indulgence
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:5-7
+    - Matthew 23:25
+    - Romans 13:13
 - id: GB37
   title: Pursuing Godly and Not Worldly Wisdom
   category: Way of Life
@@ -6371,37 +6574,59 @@
   title: Length of Hair on Men and Women
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 11:4-10
+    - 1 Corinthians 11:14-15
 - id: GB39
   title: Seeking the Way Out of Temptation that God Has Provided
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 10:12-13
 - id: GB4
   title: Living Our Lives Worthy of Our Calling in the Lord
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:12
+    - Colossians 1:10
+    - Ephesians 4:1
 - id: GB40
   title: Coming to Our Senses
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 15:34
+    - 2 Timothy 2:26
 - id: GB41
   title: Not Living & Carousing as Do the Pagans
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 3:6
 - id: GB42
   title: Not Losing Courage
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 4:1
+    - 2 Corinthians 4:16
+    - Hebrews 10:35
 - id: GB43
   title: Growing, Utilizing and Standing Firm in God’s Grace
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:12
+    - 2 Corinthians 6:1
+    - 2 Peter 3:18
 - id: GB44
   title: Exercising Self Control (Discipline)
   category: Way of Life
@@ -6423,17 +6648,23 @@
   title: Taking Responsibility for Ourselves and Our Actions
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 6:5
 - id: GB46
   title: Exposing Evil and Deeds of Darkness
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:11
 - id: GB47
   title: Not Relying on Human Qualifications
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Philippians 3:3
 - id: GB48
   title: Persevering in All Situations
   category: Way of Life
@@ -6455,12 +6686,20 @@
   title: Not Obligating Ourselves to Worldly Rules and Teachings
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 2:20-23
+    - James 1:27
 - id: GB5
   title: Living in a Godly Manner and Not as Do the Pagans
   category: Way of Life
   commandment_type: Positive & Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:35
+    - 2 Timothy 3:11-12
+    - Ephesians 4:17
+    - Ephesians 4:22-24
 - id: GB50
   title: Working as for the Lord
   category: Way of Life
@@ -6470,7 +6709,9 @@
   title: Not Putting on a False Front or Having False Motives
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:5
 - id: GB52
   title: Not Doing Shameful Things
   category: Way of Life
@@ -6480,17 +6721,26 @@
   title: Not Opposing Sound Teaching
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:10-11
+    - 1 Timothy 6:5
 - id: GB54
   title: Not Acting in Unbelief
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:13
+    - Titus 2:12
 - id: GB55
   title: Rejecting Godless Fables
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 4:6-7
+    - Hebrews 13:9
 - id: GB56
   title: Turning Away from Ungodly Speech
   category: Way of Life
@@ -6507,22 +6757,30 @@
   title: Not Being Diverted by Secular Affairs
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 2:3
 - id: GB58
   title: Conducting Ourselves with Honor
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 2:21
 - id: GB59
   title: Not Being Headstrong
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 3:4
 - id: GB6
   title: Using Wine Medicinally
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:1-2
 - id: GB60
   title: Not Allowing Passions and Emotions to Lead Us Astray
   category: Way of Life
@@ -6558,32 +6816,44 @@
   title: Having a Godly Purpose in Our Life
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 3:10
 - id: GB62
   title: Not Pursuing Only That Which We Want to Hear
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 4:3
 - id: GB63
   title: Being Serious and Sensible
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 2:2
 - id: GB64
   title: Not Letting Others Look Down on Us
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 2:15
 - id: GB65
   title: Not Being Foolish
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 3:3
 - id: GB66
   title: Not Being Apostate
   category: Way of Life
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 3:12
 - id: GB67
   title: Not Insulting or Defaming Angelic Beings
   category: Way of Life
@@ -6593,12 +6863,17 @@
   title: Accompanying Our Faith with Actions
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 2:14-26
 - id: GB69
   title: Serving as Priests in a Royal Priesthood
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:5
+    - 1 Peter 2:9
 - id: GB7
   title: Living in a Way That is Good
   category: Way of Life
@@ -6611,12 +6886,19 @@
   title: Seeking Inner Peace
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:11-12
+    - 2 Peter 3:14
 - id: GB71
   title: Being Zealous for What is Good
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:13
+    - 2 Corinthians 7:11
+    - 2 Corinthians 9:2
 - id: GB8
   title: Conducting Ourselves Wisely and with Godly Purity
   category: Way of Life
@@ -6637,7 +6919,9 @@
   title: Using Our Time Well
   category: Way of Life
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:16
 - id: HA1
   title: Not Being Deceived as to the Time of Yeshua’s Return
   category: End Times
@@ -6789,92 +7073,132 @@
   title: Not Being Weighed Down by Torah Commandments
   category: The Word and Will of God & Messiah
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 3:24-26
 - id: HB11
   title: Internalizing the Word of God and of Messiah
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:16
 - id: HB12
   title: Not Neglecting the Torah (God’s Teaching)
   category: The Word and Will of God & Messiah
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 4:8
 - id: HB13
   title: Not Speculating About God’s Word
   category: The Word and Will of God & Messiah
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:3-4
 - id: HB14
   title: Using Torah as Torah Itself Intends
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:8
 - id: HB15
   title: Knowing for Whom Torah is Intended
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:9
 - id: HB16
   title: Knowing the Holy Scriptures
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Peter 1:5
+    - 2 Timothy 3:15
 - id: HB17
   title: Believing in the Inspiration of Scripture and Its Usefulness for Equipping
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 3:16-17
 - id: HB18
   title: Learning God’s Word
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 4:3
 - id: HB19
   title: Proclaiming God’s Word
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 4:2
+    - Revelation 20:4
 - id: HB2
   title: Seeking to Understand the Will of God
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:17
 - id: HB20
   title: Not Disregarding the Torah of Moses
   category: The Word and Will of God & Messiah
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 10:28
 - id: HB21
   title: Receiving God’s Implanted Word
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 1:21
 - id: HB22
   title: Being Both a Hearer and Doer of God’s Word
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 1:22-25
+    - James 2:14-26
 - id: HB23
   title: Considering the Torah a Torah of Freedom
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 2:12
 - id: HB24
   title: Thirsting for the Word of God
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:2
 - id: HB25
   title: Submitting to God’s Will and Not to Human Desires
   category: The Word and Will of God & Messiah
   commandment_type: Positive & Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 4:2
 - id: HB3
   title: Not Adhering to Traditions that Conflict with God’s Commandments (Mitzvot)
   category: The Word and Will of God & Messiah
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Mark 7:9-13
+    - Matthew 15:1-3
 - id: HB4
   title: Not Adding or Removing Anything from the Book of Revelation
   category: The Word and Will of God & Messiah
@@ -6884,22 +7208,30 @@
   title: Not Going Beyond What Scripture Teaches
   category: The Word and Will of God & Messiah
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 4:6
 - id: HB6
   title: Keeping Torah in Our Heart
   category: The Word and Will of God & Messiah
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 2:15
 - id: HB7
   title: Not Treating Torah as Having Been Abolished and Replaced by Yeshua
   category: The Word and Will of God & Messiah
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 3:31
 - id: HB8
   title: Not Believing that Yeshua Abolished the Torah or the Prophets
   category: The Word and Will of God & Messiah
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 5:17
 - id: HB9
   title: Preserving the Integrity and Not Distorting God’s Word
   category: The Word and Will of God & Messiah
@@ -6912,8 +7244,7 @@
     - Galatians 4:21
     - Galatians 5:18
 - id: IA1
-  title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, &
-    Fornication
+  title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
   category: Foods & Immoral Acts Prohibited to Gentiles
   commandment_type: Positive
   bible_references:
@@ -8030,27 +8361,39 @@
   title: Attributes & Behaviors Required of Congregational Leaders & Elders
   category: Spiritual Leadership
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 3:1-7
+    - Titus 1:6-9
 - id: OA10
   title: Not Pastoring for Dishonest Gain
   category: Spiritual Leadership
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:1-2
 - id: OA11
   title: Not Being Domineering to Those in Our Care
   category: Spiritual Leadership
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:3
 - id: OA12
   title: Leading by Example
   category: Spiritual Leadership
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:3
 - id: OA2
   title: Attributes & Behaviors Required of Shamashim
   category: Spiritual Leadership
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 3:8-10
+    - 1 Timothy 3:12
 - id: OA3
   title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   category: Spiritual Leadership
@@ -8080,7 +8423,9 @@
   title: Being Cautious in Granting S’michah
   category: Spiritual Leadership
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:22
 - id: OA5
   title: Acknowledging Yeshua as Our Spiritual Leader
   category: Spiritual Leadership
@@ -8092,22 +8437,33 @@
   title: Required Attributes and Behaviors of Leaders’ Wives
   category: Spiritual Leadership
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 3:11
 - id: OA7
   title: Imitating the Faith of Our Spiritual Leaders
   category: Spiritual Leadership
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 13:7
 - id: OA8
   title: Submitting to and Obeying Our Spiritual Leaders
   category: Spiritual Leadership
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:5-6
+    - 2 Peter 2:9-10
+    - Acts 5:29
+    - Hebrews 13:17
 - id: OA9
   title: Spiritual Leaders Pastoring Those in Their Care
   category: Spiritual Leadership
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:1-2
 - id: PA1
   title: Giving to Our Secular Authorities That Which is Theirs
   category: Governing & Governing Authorities
@@ -8120,11 +8476,12 @@
     - Romans 13:7
     - Titus 3:1
 - id: PA2
-  title: Guarding Against Wrongful Ways of Leaders, Teachers, and Others Who Are in
-    Charge
+  title: Guarding Against Wrongful Ways of Leaders, Teachers, and Others Who Are in Charge
   category: Governing & Governing Authorities
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 16:6-10
 - id: PA3
   title: Submitting to and Obeying the Authorities Placed Over Us
   category: Governing & Governing Authorities
@@ -8144,7 +8501,11 @@
   title: Leading by Serving
   category: Governing & Governing Authorities
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 4:1-3
+    - Mark 10:42-45
+    - Matthew 20:25-28
 - id: PA5
   title: Commanding Obedience to God
   category: Governing & Governing Authorities
@@ -8154,7 +8515,10 @@
   title: Honoring Our Secular Authorities
   category: Governing & Governing Authorities
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:17
+    - 2 Peter 2:9-10
 - id: QA1
   title: Preaching, Teaching, & Making Disciples of Yeshua
   category: Evangelizing & Preaching
@@ -8201,137 +8565,211 @@
   title: Boasting About God and Yeshua
   category: Evangelizing & Preaching
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 10:17
+    - 2 Timothy 1:8
+    - Philippians 3:3
 - id: QA3
   title: Knowing the Dangers Involved in Preaching the Good News
   category: Evangelizing & Preaching
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 10:3
 - id: QA4
   title: Proclaiming the Kingdom of God
   category: Evangelizing & Preaching
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 10:9-11
+    - Luke 9:2
 - id: QA5
   title: Preaching in the Synagogue of the Unbeliever
   category: Evangelizing & Preaching
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 19:8
 - id: QA6
   title: Having Courage to Proclaim the Good News
   category: Evangelizing & Preaching
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:2
 - id: RA1
   title: Turning Sinners Away from their Sin
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 6:1-7
+    - 1 Corinthians 6:13
+    - 1 Corinthians 6:15-16
+    - Matthew 18:15-17
 - id: RA10
   title: Rebuking and Exhorting with Patience and Instruction
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 3:13
+    - Luke 17:3
+    - Titus 2:15
 - id: RA11
   title: Pursuing Justice
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 23:23
 - id: RA12
   title: Batei Din Judging Only Believers
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 5:12-13
 - id: RA13
   title: Expelling Evil Doers from the Community of Believers
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 5:12-13
 - id: RA14
   title: Believers Not Adjudicating Disputes in a Court of Unbelievers (See DA14)
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 6:1-7
 - id: RA15
   title: Not Judging One Another Over Food, Festivals, or Other Jewish Practices
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 2:16
 - id: RA16
   title: Confronting and Correcting the Lazy Among Us
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 5:14
 - id: RA17
   title: Not Committing Perjury
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:10-11
 - id: RA18
   title: Not Rebuking an Older Man Sharply
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:1
 - id: RA19
   title: Instructing Widows to Not Be Self-Indulgent
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:5-7
 - id: RA2
   title: Correcting Those Who Teach and Follow False Doctrines
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:3-4
+    - 1 Timothy 6:3-5
+    - Titus 1:13
 - id: RA20
   title: Not Prejudging
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:21
 - id: RA21
   title: Judging Without Prejudice or Partiality
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:21
 - id: RA22
   title: First Warning and Then Banning Divisive Persons from Fellowship
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 3:10-11
 - id: RA23
   title: Receiving God’s Correction and Discipline with a Good Attitude
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 12:5
+    - Hebrews 12:8-9
 - id: RA24
   title: Regarding as Discipline Our Having to Endure Trials
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 12:7
 - id: RA3
   title: Correcting Our Self Before Seeking to Correct Others
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 6:41-42
+    - Matthew 7:3-5
+    - Romans 2:1-3
+    - Romans 2:21-24
 - id: RA4
   title: Correcting One Another with Humility and Gentleness
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Thessalonians 3:14-15
+    - 2 Timothy 2:25
+    - Galatians 6:1
+    - Titus 2:15
 - id: RA5
   title: Not Receiving an Accusation Against a Leader Except by Two or Three Witnesses
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:19
 - id: RA6
   title: Publicly Rebuking Leaders Who Continue to Sin
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:20
 - id: RA7
   title: Judging Rightly and Not Falsely
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive & Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 2:18
+    - James 4:11-12
+    - John 7:24
+    - Romans 2:1-3
 - id: RA8
   title: Not Judging or Condemning Apart from a Beit Din
   category: Instructing, Correcting, Rebuking & Judging
@@ -8349,7 +8787,9 @@
   title: Letting Punishment Fit the Offense
   category: Instructing, Correcting, Rebuking & Judging
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 5:38
 - id: SA1
   title: Fighting the Good Fight of the Faith
   category: Spiritual Warfare
@@ -8365,47 +8805,72 @@
   title: Testing Every Spirit
   category: Spiritual Warfare
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 John 4:1
 - id: SA2
   title: Working Out Our Deliverance with Fear and Trembling
   category: Spiritual Warfare
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Philippians 2:12
 - id: SA3
   title: Expelling Demons
   category: Spiritual Warfare
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 9:1
+    - Matthew 10:7-8
 - id: SA4
   title: Arming Ourselves with Spiritual Weapons
   category: Spiritual Warfare
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 10:3-4
+    - 2 Corinthians 6:7
+    - Romans 13:12
 - id: SA5
   title: Not Allowing Ourselves to be Deceived by the Adversary or Deceiving Spirits
   category: Spiritual Warfare
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 4:1
+    - Revelation 20:7
+    - Titus 3:3
 - id: SA6
   title: Being a Soldier of Yeshua
   category: Spiritual Warfare
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 2:3
 - id: SA7
   title: Not Denying the Power of Faith
   category: Spiritual Warfare
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 3:5
 - id: SA8
   title: Resisting and Opposing the Adversary
   category: Spiritual Warfare
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 1:14
+    - 1 Peter 5:9
+    - James 4:7
 - id: SA9
   title: Arming Ourselves with the Mind of Yeshua
   category: Spiritual Warfare
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 4:1
 - id: TA1
   title: Coming to & Believing (Trusting) in Yeshua for Salvation
   category: New Birth, Resurrection & Deliverance /Salvation
@@ -8459,12 +8924,17 @@
   title: Believing that Yeshua Died for Our Sins
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 5:14-15
+    - Colossians 1:14
 - id: TA12
   title: Being Ready to Give a Reasoned Answer for Our Hope
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:15
 - id: TA13
   title: Being Terrified of Falling Short of Salvation
   category: New Birth, Resurrection & Deliverance /Salvation
@@ -8474,7 +8944,9 @@
   title: Being Born Again of the Spirit
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - John 3:3-8
 - id: TA3
   title: Maintaining the Hope of Deliverance /Salvation
   category: New Birth, Resurrection & Deliverance /Salvation
@@ -8493,12 +8965,20 @@
   title: Entering the Kingdom of God Like Innocent Children
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 18:15-17
+    - Mark 10:13-16
+    - Matthew 18:2-3
 - id: TA5
   title: Embracing and Rejoicing in Our Salvation
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 6:12
+    - Luke 10:20
+    - Romans 12:12
 - id: TA6
   title: Believing in Resurrection of the Dead
   category: New Birth, Resurrection & Deliverance /Salvation
@@ -8516,22 +8996,36 @@
   title: Knowing that Sin is an Impediment to Salvation
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - John 8:21
+    - John 8:34-35
 - id: TA8
   title: Calling on Yeshua’s Name for Salvation
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 2:21
+    - Acts 4:12
+    - Romans 10:8-9
+    - Romans 10:13
 - id: TA9
   title: Enduring Hardships to Enter the Kingdom of God
   category: New Birth, Resurrection & Deliverance /Salvation
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 14:21-22
 - id: UA1
   title: Seeking to Escape from the Coming Tribulation
   category: Tribulation & Adversity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:2
+    - Luke 21:36
+    - Mark 13:14-18
 - id: UA2
   title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
   category: Tribulation & Adversity
@@ -8547,7 +9041,10 @@
   title: Being Encouraged in Our Suffering
   category: Tribulation & Adversity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:2
+    - 2 Corinthians 1:6
 - id: UA4
   title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
   category: Tribulation & Adversity
@@ -8566,7 +9063,10 @@
   title: Handling Painful Situations in a Godly Way
   category: Tribulation & Adversity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 7:9-10
+    - Philippians 1:29
 - id: UA6
   title: Overcoming Adversity through Faith and Perseverance
   category: Tribulation & Adversity
@@ -8582,12 +9082,17 @@
   title: Bearing Up Under Undeserved Punishment
   category: Tribulation & Adversity
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:19-21
 - id: VA1
   title: Separating Ourselves from Idolaters
   category: Idolatry & the Occult
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 5:9-11
+    - 2 Corinthians 6:17
 - id: VA2
   title: Not Engaging in Idolatry
   category: Idolatry & the Occult
@@ -8617,17 +9122,25 @@
   title: Not Eating Meat Sacrificed to Idols
   category: Idolatry & the Occult
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 10:25-29
 - id: VA4
   title: Not Involving Ourselves in the Occult
   category: Idolatry & the Occult
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 5:21
+    - Revelation 21:8
+    - Revelation 22:15
 - id: VA5
   title: Guarding Against False Gods
   category: Idolatry & the Occult
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 John 5:21
 - id: WA1
   title: Abstaining from Fornication and Other Acts of Sexual Immorality
   category: Sexual Conduct
@@ -8658,16 +9171,21 @@
     - Romans 13:13
     - Romans 1:26-27
 - id: WA2
-  title: Not Lusting After a Person of the Opposite Sex while Either is Married to
-    Another
+  title: Not Lusting After a Person of the Opposite Sex while Either is Married to Another
   category: Sexual Conduct
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:5
+    - Matthew 5:28
 - id: WA3
   title: Not Having or Condoning Unnatural Sexual Relations
   category: Sexual Conduct
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 6:9-11
+    - Romans 1:23-28
 - id: WA4
   title: Not Committing Adultery
   category: Sexual Conduct
@@ -8687,62 +9205,98 @@
   title: Not Engaging in Homosexuality
   category: Sexual Conduct
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:10-11
+    - Revelation 22:15
 - id: WA6
   title: Not Teaching to Commit Acts of Sexual Immorality
   category: Sexual Conduct
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Revelation 2:20
 - id: XA1
   title: Gentiles Not Boasting or Speaking Against Jews
   category: Gentiles
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 11:16-18
+    - Romans 8:33
 - id: XA10
   title: Messianic Jews Relating to Gentile Believers as Brothers and Sisters
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 10:45-48
+    - Acts 11:17-18
+    - Acts 15:8-9
+    - Galatians 2:12-13
 - id: XA11
   title: Jews Being a Light and Blessing to the Gentiles
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 13:47
+    - Acts 26:17-18
+    - Galatians 3:8-9
+    - Matthew 5:13-16
 - id: XA12
   title: Gentiles Being Holy
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 26:17-18
 - id: XA13
   title: Not Requiring Gentiles to Live as Jews
   category: Gentiles
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 2:14
 - id: XA2
   title: Gentiles Rejoicing with the Jewish People
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 15:10
 - id: XA3
   title: Gentiles Undergoing B’rit Milah
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 5:2-3
+    - Galatians 5:11
 - id: XA4
   title: Applying Torah to Gentiles
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 15:10
+    - Acts 15:19-20
+    - Acts 15:28-29
+    - Romans 2:25-27
 - id: XA5
   title: Not Placing Obstacles in the Way of Gentiles
   category: Gentiles
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 15:19-20
 - id: XA6
   title: Gentiles Helping Jews in Material Ways
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 15:27
 - id: XA7
   title: Treating Gentiles and Jews as Spiritually Equal
   category: Gentiles
@@ -8765,12 +9319,18 @@
   title: Gentiles Praising the Lord
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:9
+    - James 5:14-15
+    - Romans 15:11
 - id: XA9
   title: Gentiles Obeying Torah
   category: Gentiles
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 15:18
 - id: YA1
   title: Offering Ourselves as Living Sacrifices
   category: Self-Sacrifice
@@ -8800,17 +9360,28 @@
   title: Accepting Suffering and Disgrace in Order to Serve Yeshua
   category: Self-Sacrifice
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 4:12
+    - Acts 5:41
+    - Acts 9:16
+    - Revelation 2:3
 - id: YA3
   title: Continually Offering Sacrifices of Praise to God
   category: Self-Sacrifice
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:9
+    - Hebrews 13:15
+    - James 5:14-15
 - id: YA4
   title: Laying Down Our Life for Our Brother
   category: Self-Sacrifice
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 John 3:16
 - id: ZA1
   title: Using Our Spiritual Gifts to Serve Others
   category: Spiritual Gifts
@@ -8826,52 +9397,76 @@
   title: Using Our Spiritual Gifts to Edify the Body
   category: Spiritual Gifts
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:2-19
+    - 1 Corinthians 14:26
+    - Ephesians 4:11-13
 - id: ZA11
   title: Not Speaking in Tongues When Unbelievers or Uninstructed Persons Are Present
   category: Spiritual Gifts
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:23-25
 - id: ZA12
   title: Not Forbidding the Speaking in Tongues
   category: Spiritual Gifts
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:39
 - id: ZA13
   title: Not Neglecting Our Spiritual Gifts
   category: Spiritual Gifts
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 4:14
 - id: ZA2
   title: Seeking to Interpret One’s Own Utterance in Tongues
   category: Spiritual Gifts
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:2-19
 - id: ZA3
   title: Exercising the Gift of Tongues in Good Order
   category: Spiritual Gifts
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:27
+    - 1 Corinthians 14:40
 - id: ZA4
   title: Seeking the Interpretation of Tongues When Spoken in Public
   category: Spiritual Gifts
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:27
 - id: ZA5
   title: Not to Prophesy in Tongues If There is No One to Interpret
   category: Spiritual Gifts
   commandment_type: Negative
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:28
 - id: ZA6
   title: Seeking the Gift of Prophecy
   category: Spiritual Gifts
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:1
+    - 1 Corinthians 14:39
 - id: ZA7
   title: Determining Our Spiritual Gifts
   category: Spiritual Gifts
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 12:8-30
 - id: ZA8
   title: Seeking, Receiving, and Relying on Holy Spirit Power
   category: Spiritual Gifts
@@ -8888,4 +9483,6 @@
   title: Preferring Love Over Spiritual Gifts
   category: Spiritual Gifts
   commandment_type: Positive
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 13:1-7
