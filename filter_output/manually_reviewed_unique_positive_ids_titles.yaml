@@ -1577,7 +1577,9 @@
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:18
 - id: AB6
   title: Sowing in the Holy Spirit
   manually_review: There is not yet a scripture included, so for now I skip this commandment as unique.
@@ -1601,7 +1603,11 @@
   double_ids:
   - id: AB2
     title: Being Filled with the Holy Spirit
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 5:18
+    - Romans 14:5
+    - Romans 8:14
 - id: AB8
   title: Hearing the Holy Spirit
   manually_review: Together with the double_ids and step 70 this is not unique.
@@ -1639,7 +1645,9 @@
     title: Sowing in the Holy Spirit
   - id: AB7
     title: Being Led by the Holy Spirit
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 1:7
 - id: AB10
   title: Receiving the Holy Spirit
   manually_review: This is the same as AB2.
@@ -1650,7 +1658,10 @@
     title: Being Filled with the Holy Spirit
   - id: AB8
     title: Hearing the Holy Spirit
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 2:38
+    - Acts 8:14-17
 - id: AB13
   title: Conforming Our Mind and Aligning Our Conscience with the Holy Spirit
   manually_review: I think this is the same as AB15.
@@ -1661,7 +1672,10 @@
     title: Being Transformed by the Renewing of Our Mind and Spirit
   - id: AB2
     title: Being Filled with the Holy Spirit
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:5
+    - Romans 14:5
 - id: AB14
   title: Seeking and Pursuing the Things of the Spirit
   manually_review: seeking is implied in AB2 and pursuing is implied in step 70 (together with step 41), so this is not unique.
@@ -1674,7 +1688,11 @@
   double_ids:
   - id: AB2
     title: Being Filled with the Holy Spirit
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:1
+    - John 6:27
+    - Romans 8:5-6
 - id: AB15
   title: Being Transformed by the Renewing of Our Mind and Spirit
   manually_review: It is a unique commandment
@@ -1687,7 +1705,10 @@
     title: Conforming Our Mind and Aligning Our Conscience with the Holy Spirit
   - id: AB14
     title: Seeking and Pursuing the Things of the Spirit
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 4:22-24
+    - Romans 12:2
 - id: AB16
   title: Producing Fruit of the Holy Spirit
   manually_review: Together with the double_ids and the related steps this is not unique.
@@ -1700,7 +1721,9 @@
   double_ids:
   - id: GA3
     title: Producing Fruit of Repentance
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 10:18-20
 - id: B2
   title: Returning a Needed Pledged Item
   manually_review: Although it is a bit different from DA9 or step 54, since we focus on unique items where you can have a good evening together to talk about, I don't think this is unique.
@@ -3466,14 +3489,21 @@
   - step: '26'
     title_en: Share goods with the needy
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 6:18
+    - Hebrews 13:16
+    - Romans 12:13
 - id: BB3
   title: Financially Supporting Our Spiritual Leaders, and Those Who Teach and Minister
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:3
+    - James 1:27
 - id: BB4
   title: Requiring Children to Support Their Widowed Mothers
   manually_review: Since this commandment is only about a specific case, BB6 is more generic and therefore chosen to be unique.
@@ -3486,7 +3516,10 @@
     title: Spiritual Leaders Pastoring Those in Their Care
   - id: OA7
     title: Imitating the Faith of Our Spiritual Leaders
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 9:9-14
+    - 1 Timothy 5:17-18
 - id: BB5
   title: Requiring Grandchildren to Support Their Widowed Grandmothers
   manually_review: Since this commandment is only about a specific case, BB6 is more generic and therefore chosen to be unique.
@@ -3495,7 +3528,9 @@
   double_ids:
   - id: BB3
     title: Financially Supporting Our Spiritual Leaders, and Those Who Teach and Minister
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:4
 - id: BB6
   title: Supporting Our Family Financially
   manually_review: This is a unique commandment which is the overarching commandment for the specific cases of BB4 and BB5. Since those are only for specific groups, this one is more generic and therefore chosen to be unique.
@@ -3508,7 +3543,9 @@
     title: Requiring Grandchildren to Support Their Widowed Grandmothers
   - id: BB7
     title: Women Supporting Their Widowed Relatives
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:4
 - id: BB7
   title: Women Supporting Their Widowed Relatives
   manually_review: I would change this commandment from 'Supporting our Family financially' to 'Supporting our Family'. It then is a bit more generic and will replace the double_ids.
@@ -3521,14 +3558,18 @@
     title: Requiring Grandchildren to Support Their Widowed Grandmothers
   - id: BB7
     title: Women Supporting Their Widowed Relatives
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:8
 - id: BB8
   title: Congregations Supporting Widows Who Are in Need
   manually_review: This is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:16
 - id: C1
   title: Being Fair & Honest in Business
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -3657,14 +3698,19 @@
   unique: false
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:1-6
+    - 1 Corinthians 7:8-9
 - id: CB2
   title: Widows and Singles Remaining Unmarried Unless Sexually Driven
   manually_review: Since it is a very specific case and not really repeated elsewhere, I don't count this as unique.
   unique: false
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:8-9
 - id: CB4
   title: Having Only One Spouse
   manually_review: I would say this is covered in step 23, but since nowadays there are many who do not honor marriage, I think it is good to have this as a separate commandment.
@@ -3675,7 +3721,9 @@
   double_ids:
   - id: CB2
     title: Widows and Singles Remaining Unmarried Unless Sexually Driven
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:1-6
 - id: CB5
   title: Allowing an Unbelieving Spouse to Leave
   manually_review: Since it is a very specific case, I don't count this as unique. It is covered in step 23.
@@ -3684,7 +3732,9 @@
   - step: '23'
     title_en: Honor marriage
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:15
 - id: CB6
   title: Knowing that Marriage Is for Life
   manually_review: I don't count this as unique. It is covered in step 23.
@@ -3693,7 +3743,10 @@
   - step: '23'
     title_en: Honor marriage
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:10-13
+    - 1 Corinthians 7:39
 - id: CB8
   title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   manually_review: It is a unique commandment
@@ -3706,7 +3759,15 @@
     title: Submitting to and Obeying Our Spiritual Leaders
   - id: PA3
     title: Submitting to and Obeying the Authorities Placed Over Us
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 11:3
+    - 1 Peter 3:1
+    - 1 Peter 3:5
+    - Colossians 3:18
+    - Ephesians 5:22
+    - Ephesians 5:24
+    - Titus 2:3-5
 - id: CB9
   title: Husbands Loving Their Wives
   manually_review: It is a unique commandment
@@ -3719,7 +3780,12 @@
     title: Congregations Supporting Widows Who Are in Need
   - id: CB4
     title: Having Only One Spouse
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:19
+    - Ephesians 5:25
+    - Ephesians 5:28
+    - Ephesians 5:33
 - id: CB10
   title: Wives Respecting Their Husbands
   manually_review: It is already implied in CB8
@@ -3732,7 +3798,9 @@
     title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   - id: LA3
     title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:33
 - id: CB11
   title: Children Obeying Their Parents
   manually_review: It is already implied in CB15.
@@ -3745,7 +3813,11 @@
     title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
   - id: PA3
     title: Submitting to and Obeying the Authorities Placed Over Us
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:20
+    - Ephesians 6:1
+    - Romans 1:30
 - id: CB13
   title: Raising Up Children with Guidance and Discipline
   manually_review: It is a unique commandment
@@ -3758,7 +3830,9 @@
     title: Rebuking and Exhorting with Patience and Instruction
   - id: CB11
     title: Children Obeying Their Parents
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 6:4
 - id: CB15
   title: Honoring Our Parents
   manually_review: It is the same as step 63
@@ -3773,7 +3847,12 @@
     title: Children Obeying Their Parents
   - id: OA3
     title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 6:2
+    - Luke 18:20
+    - Mark 10:19
+    - Matthew 19:19
 - id: CB16
   title: A Man Leaving His Mother and Father and Uniting with His Wife
   manually_review: It is a unique commandment
@@ -3782,7 +3861,11 @@
   double_ids:
   - id: CB9
     title: Husbands Loving Their Wives
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:31
+    - Mark 10:7-9
+    - Matthew 19:5-6
 - id: CB17
   title: Co-Dependence of Husbands and Wives
   manually_review: I don't count this as unique. It is covered in step 23.
@@ -3797,7 +3880,9 @@
     title: Wives Respecting Their Husbands
   - id: CB8
     title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 11:11
 - id: CB18
   title: Husbands Leading Their Wives
   manually_review: I dont count this as unique, it is implied in CB9
@@ -3823,14 +3908,18 @@
     title: Praying to God in Yeshua’s Name
   - id: GA2
     title: Seeking Forgiveness of Our Sins in Yeshua
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Mark 9:36-37
 - id: CB22
   title: Wives Who Leave their Husbands Remaining Single
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:10-13
 - id: CB23
   title: Treating Marriage as Honorable
   manually_review: It is covered in step 23.
@@ -3845,7 +3934,9 @@
     title: Husbands Being Understanding and Not Treating Their Wives Harshly
   - id: CB10
     title: Wives Respecting Their Husbands
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 13:4
 - id: CB24
   title: Treating Sex within Marriage as Pure
   manually_review: It should be sufficient to have step 23 as unique, but since there is that many impurity in the world, I think it is good to have this as a separate commandment.
@@ -3858,7 +3949,9 @@
     title: Treating Marriage as Honorable
   - id: WA1
     title: Abstaining from Fornication and Other Acts of Sexual Immorality
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 13:4
 - id: CB25
   title: Wives Being Faithful to their Husbands
   manually_review: It is already implied in CB8.
@@ -3869,7 +3962,10 @@
     title: Wives Respecting Their Husbands
   - id: CB8
     title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 4:4
+    - Revelation 2:10
 - id: CB26
   title: Wives Nurturing the Inner Character of their Heart
   manually_review: I think this is already implied in AA4. It is not only for wives but for everybody.
@@ -3880,7 +3976,9 @@
     title: Seeking to Be Both Inwardly & Outwardly Clean.
   - id: CB25
     title: Wives Being Faithful to their Husbands
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:4
 - id: CB27
   title: Wives Doing What is Right
   manually_review: It is already covered in AA44. It is not only for wives but for everybody.
@@ -3889,7 +3987,11 @@
   double_ids:
   - id: AA44
     title: Knowing & Doing What is Right & Good.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 John 3:7
+    - 1 John 3:10-11
+    - 1 Peter 3:6
 - id: CB29
   title: Husbands Respecting their Wives
   manually_review: It is already implied in CB9.
@@ -3898,7 +4000,9 @@
   double_ids:
   - id: CB9
     title: Husbands Loving Their Wives
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:7
 - id: DA1
   title: Speedily Seeking Reconciliation when Summoned to Court
   manually_review: Although it is a bit different from DA2, since we focus on unique items where you can have a good evening together to talk about, I don't think this is unique.
@@ -4698,7 +4802,11 @@
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 7:17-18
+    - 1 Corinthians 7:20
+    - 1 Corinthians 7:24
 - id: DB2
   title: Circumcising on the Eighth Day After Birth
   manually_review: This is a unique commandment
@@ -4843,7 +4951,9 @@
     title: Seeking the Gift of Prophecy
   - id: KA2
     title: Being on Our Guard Against False Prophets
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 11:4-10
 - id: EB3
   title: Exercising Control When Prophesying
   manually_review: It is a unique element, but I think it should be implied in ZA6.
@@ -4856,7 +4966,9 @@
     title: Prophesying veiled and unveiled
   - id: ZA6
     title: Seeking the Gift of Prophecy
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:32
 - id: EB4
   title: Believing the Prophets
   manually_review: By having faith in God/Messiah, it is already implied to also believe the prophets who are send by Him.
@@ -4871,7 +4983,9 @@
     title: Believing in Resurrection of the Dead
   - id: TA1
     title: Coming to & Believing (Trusting) in Yeshua for Salvation
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 26:27
 - id: EB5
   title: Evaluating Prophecies
   manually_review: This is a unique commandment
@@ -4884,7 +4998,10 @@
     title: Seeking the Gift of Prophecy
   - id: EB3
     title: Exercising Control When Prophesying
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:29
+    - 1 Thessalonians 5:21
 - id: EB6
   title: Prophesying in an Orderly Manner
   manually_review: It is a unique element, but I think it should be implied in ZA6.
@@ -4899,7 +5016,9 @@
     title: Prophesying veiled and unveiled
   - id: FA7
     title: Praying & Prophesying with Head Veiled & Unveiled, Covered & Uncovered
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:30-31
 - id: EB7
   title: Interpreting Prophecy via the Holy Spirit
   manually_review: It is already implied in EB5 and AB8
@@ -5905,7 +6024,9 @@
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:34-35
 - id: FB2
   title: Women Learning in Peace While Fully Submitted
   manually_review: It is implied in other commandments which are not specifically for woman, but it is good to have a positive way of formulating the teaching which Paul instructs us, for woman.
@@ -5916,7 +6037,9 @@
     title: Wives Remaining Silent in Congregation Meetings
   - id: HB18
     title: Learning God’s Word
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 2:11
 - id: FB4
   title: Women Dressing Modestly when Praying
   manually_review: It is a unique commandment.
@@ -5925,7 +6048,15 @@
   double_ids:
   - id: FA15
     title: Women Dressing Modestly and Not Adorning Themselves While in Prayer
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:3-4
+    - 1 Timothy 2:9-10
+    key_ot_scriptures:
+    - 1 Samuel 16:7
+    - Deuteronomy 22:5
+    - Proverbs 11:22
+    - Proverbs 31:30
 - id: FB5
   title: Wives Receiving Clarification from their Own Husbands
   manually_review: This is already implied in FB1 and CB8.
@@ -5936,7 +6067,9 @@
     title: Wives Remaining Silent in Congregation Meetings
   - id: CB8
     title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:34-35
 - id: FB6
   title: Women to Continue in Faith and Love
   manually_review: In this key scripture it is only about woman, but on other scriptures it is broader, so this is not unique.
@@ -5949,7 +6082,9 @@
     title: Praying with Faith and without Doubt
   - id: DA50
     title: Bearing with One Another in Love & with Forgiveness.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 2:15
 - id: FB7
   title: Women Living a Holy and Modest Life
   manually_review: This is already implied in the other double_ids, but more generic and not bound to only woman.
@@ -5964,7 +6099,9 @@
     title: Using Our Speech, Thoughts, Hearts and Actions for That which Is Good and Holy
   - id: AA23
     title: Ridding Ourselves of Unholy Characteristics.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 2:15
 - id: FB8
   title: Women Teaching Younger Women
   manually_review: It is a unique commandment
@@ -5977,14 +6114,18 @@
     title: Women Learning in Peace While Fully Submitted
   - id: FB1
     title: Wives Remaining Silent in Congregation Meetings
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 2:3-5
 - id: FB9
   title: Women Being Homemakers
   manually_review: it is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 2:3-5
 - id: G1
   title: Believing in God
   manually_review: It is the same as step 65, only more specific.
@@ -7254,14 +7395,21 @@
   double_ids:
   - id: AA23
     title: Ridding Ourselves of Unholy Characteristics.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 11:23-29
+    - 1 Corinthians 11:31
+    - 2 Corinthians 13:5
+    - Galatians 6:3-4
 - id: GB6
   title: Using Wine Medicinally
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:1-2
 - id: GB7
   title: Living in a Way That is Good
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7278,7 +7426,14 @@
     title: Using Our Speech, Thoughts, Hearts and Actions for That which Is Good and Holy
   - id: AA23
     title: Ridding Ourselves of Unholy Characteristics.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:12
+    - 1 Peter 4:19
+    - James 3:13
+    key_ot_scriptures:
+    - Proverbs 15:24
+    - Psalms 16:11
 - id: GB8
   title: Conducting Ourselves Wisely and with Godly Purity
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7300,7 +7455,9 @@
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:16
 - id: GB11
   title: Wearing and Employing God’s Armor and Weaponry
   manually_review: It is a unique commandment.
@@ -7309,7 +7466,9 @@
   double_ids:
   - id: SA4
     title: Arming Ourselves with Spiritual Weapons
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 6:11-17
 - id: GB13
   title: Letting Our Conduct Fit the Level of Our Spiritual Attainment
   manually_review: It is a unique commandment
@@ -7320,7 +7479,10 @@
     title: Behaving Properly.
   - id: ZA7
     title: Determining Our Spiritual Gifts
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 5:14
+    - Philippians 3:16
 - id: GB14
   title: Patterning Our Life After the Shlichim, their Disciples, and Yeshua
   manually_review: It is a unique commandment, although I would like to change the original 'Patterning Our Life After the Shlichim, their Disciples, and Yeshua' to 'Walk as Yeshua'
@@ -7329,7 +7491,16 @@
   - step: '28'
     title_en: Therefore you shall be perfect, just as your Father in heaven is perfect
   double_ids: []
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 11:1-2
+    - 1 Corinthians 4:16-17
+    - 1 John 2:6
+    - 1 Thessalonians 1:6
+    - 2 Thessalonians 3:7-9
+    - Galatians 1:8-9
+    - Philippians 3:17
+    - Philippians 4:9
 - id: GB16
   title: Doing Everything in the Name of Yeshua
   manually_review: It is a unique commandment
@@ -7338,7 +7509,10 @@
   - step: '74'
     title_en: We are called to glorify the Name of God in Christ Jesus!
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:17
+    - Ephesians 5:20
 - id: GB17
   title: Doing Everything in Faith and Unto Yeshua
   manually_review: It is a unique commandment
@@ -7347,7 +7521,11 @@
   double_ids:
   - id: GB16
     title: Doing Everything in the Name of Yeshua
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:23
+    - Mark 11:22-24
+    - Romans 14:23
 - id: GB18
   title: Living a Good, Quiet, & Peaceful Life
   manually_review: It is a unique commandment
@@ -7360,7 +7538,11 @@
     title: Living in a Way That is Good
   - id: GB5
     title: Living in a Godly Manner and Not as Do the Pagans
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 2:1-2
+    - 2 Timothy 2:22
+    - Romans 13:13
 - id: GB19
   title: Being Alert and on Guard Against Spiritual Danger
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7375,7 +7557,11 @@
     title: Being on Our Guard Against False Messiahs
   - id: KA3
     title: Being on Our Guard Against and Not Associating with False Teachers
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:8
+    - 1 Thessalonians 5:6
+    - Luke 12:1
 - id: GB20
   title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7388,7 +7574,18 @@
     title: Teaching and Ministering the Words of God & Yeshua
   - id: QA1
     title: Preaching, Teaching, & Making Disciples of Yeshua
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 John 4:6
+    - 1 Timothy 1:3-4
+    - 1 Timothy 6:3-5
+    - 1 Timothy 6:20
+    - 2 John 1:9
+    - 2 Thessalonians 2:15
+    - 2 Thessalonians 3:4
+    - 2 Thessalonians 3:6
+    - 2 Timothy 1:13
+    - Galatians 1:8-9
 - id: GB22
   title: Living According to God’s Word and Spirit
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7414,7 +7611,12 @@
   double_ids:
   - id: GB17
     title: Doing Everything in Faith and Unto Yeshua
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 2:7
+    - Romans 14:16
+    - Romans 14:19
+    - Romans 15:1-2
 - id: GB25
   title: Aspiring to Be Mature in Our Thoughts
   manually_review: Together with the other double_ids, it is already implied.
@@ -7435,7 +7637,9 @@
     title: Seeking to Be Both Inwardly & Outwardly Clean.
   - id: AA23
     title: Ridding Ourselves of Unholy Characteristics.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:20
 - id: GB26
   title: Being Like Children in Regard to Evil
   manually_review: It is the same as step 55
@@ -7457,7 +7661,15 @@
   double_ids:
   - id: BB3
     title: Financially Supporting Our Spiritual Leaders, and Those Who Teach and Minister
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - Luke 18:15-17
+    - Mark 10:13-16
+    - Mark 9:36-37
+    - Matthew 18:5
+    - Matthew 18:10
+    - Matthew 18:12-14
+    - Matthew 19:13-15
 - id: GB29
   title: Doing All Things in a Decent and Orderly Way
   manually_review: It is a unique commandment
@@ -7468,7 +7680,14 @@
     title: Exercising the Gift of Tongues in Good Order
   - id: EB6
     title: Prophesying in an Orderly Manner
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 14:40
+    - 2 Corinthians 12:20-21
+    - 2 Corinthians 13:11
+    - Galatians 5:24-25
+    - Luke 21:34
+    - Romans 13:13
 - id: GB31
   title: Supporting Ourselves and Sharing with Those Who Teach Us
   manually_review: This is already implied in the other double_ids.
@@ -7479,7 +7698,9 @@
     title: Requiring Children to Support Their Widowed Mothers
   - id: BB7
     title: Women Supporting Their Widowed Relatives
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 6:6
 - id: GB33
   title: Being Content in All Things and All Circumstances
   manually_review: This is already implied in the other double_ids and related_steps.
@@ -7496,7 +7717,11 @@
     title: Being Content with Having the Essentials for Living.
   - id: AA8
     title: Guarding Ourselves Against Greed.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 13:5
+    - Luke 3:14
+    - Philippians 4:11
 - id: GB34
   title: Doing Everything in Love
   manually_review: It is a unique commandment
@@ -7505,7 +7730,18 @@
   double_ids:
   - id: ZA9
     title: Preferring Love Over Spiritual Gifts
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 16:13-14
+    - 1 Thessalonians 3:6
+    - 1 Thessalonians 5:8
+    - 1 Timothy 6:11
+    - 2 Timothy 1:7
+    - 2 Timothy 1:13
+    - 2 Timothy 2:22
+    - 2 Timothy 3:10
+    - Ephesians 5:1-2
+    - Titus 2:2
 - id: GB35
   title: Pursuing Shalom in Yeshua
   manually_review: I think it is a result of taking the yoke of Yeshua
@@ -7514,14 +7750,24 @@
   - step: '51'
     title_en: Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls
   double_ids: []
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 2 Corinthians 13:11
+    - Colossians 3:15
+    - Romans 14:16
+    - Romans 14:19
+    - Romans 16:19
+    - Romans 3:17
 - id: GB38
   title: Length of Hair on Men and Women
   manually_review: I think this was very specific to the culture of the time (it is also not replied anywhere else), so I do not think it is unique.
   unique: false
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 11:4-10
+    - 1 Corinthians 11:14-15
 - id: GB39
   title: Seeking the Way Out of Temptation that God Has Provided
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7532,7 +7778,9 @@
   double_ids:
   - id: FA24
     title: Praying for Protection from Temptation
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 10:12-13
 - id: GB40
   title: Coming to Our Senses
   manually_review: Based on the key scriptures and the related double_ids, I think it is already implied.
@@ -7545,14 +7793,21 @@
     title: Fleeing from Sin & Evil.
   - id: GB2
     title: Examining Ourselves
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 15:34
+    - 2 Timothy 2:26
 - id: GB43
   title: Growing, Utilizing and Standing Firm in God’s Grace
   manually_review: It is a unique element
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:12
+    - 2 Corinthians 6:1
+    - 2 Peter 3:18
 - id: GB44
   title: Exercising Self Control (Discipline)
   manually_review: It is a unique commandment
@@ -7561,14 +7816,28 @@
   double_ids:
   - id: RA24
     title: Regarding as Discipline Our Having to Endure Trials
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Peter 1:13
+    - 1 Peter 4:7
+    - 2 Peter 1:5
+    - 2 Timothy 1:7
+    - 2 Timothy 3:3
+    - James 1:26
+    - James 3:2
+    - Jude 1:19
+    - Titus 2:2
+    - Titus 2:6-8
+    - Titus 2:12
 - id: GB45
   title: Taking Responsibility for Ourselves and Our Actions
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 6:5
 - id: GB46
   title: Exposing Evil and Deeds of Darkness
   manually_review: It is a unique commandment
@@ -7579,7 +7848,9 @@
     title: Expelling Evil Doers from the Community of Believers
   - id: SA3
     title: Expelling Demons
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:11
 - id: GB48
   title: Persevering in All Situations
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7590,7 +7861,19 @@
   double_ids:
   - id: AA19
     title: Persevering, Standing Firm, & Growing in Our Faith.
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 2 Peter 1:5
+    - 2 Timothy 3:10
+    - Colossians 1:11
+    - Colossians 3:15
+    - James 1:4
+    - James 1:10
+    - Revelation 13:10
+    - Revelation 14:12
+    - Revelation 2:19
+    - Revelation 3:10
+    - Titus 2:2
 - id: GB55
   title: Rejecting Godless Fables
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7601,7 +7884,10 @@
   double_ids:
   - id: KA2
     title: Being on Our Guard Against False Prophets
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 4:6-7
+    - Hebrews 13:9
 - id: GB58
   title: Conducting Ourselves with Honor
   manually_review: It is already implied in the other double_ids.
@@ -7614,7 +7900,9 @@
     title: Examining Ourselves
   - id: GB31
     title: Supporting Ourselves and Sharing with Those Who Teach Us
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 2:21
 - id: GB61
   title: Having a Godly Purpose in Our Life
   manually_review: Together with the other double_ids, it is already implied.
@@ -7627,7 +7915,9 @@
     title: Devoting Our Lives to God and Yeshua.
   - id: BA6
     title: Offering Our Entire Selves to God.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 3:10
 - id: GB63
   title: Being Serious and Sensible
   manually_review: It is a unique commandment
@@ -7636,14 +7926,18 @@
   double_ids:
   - id: AA53
     title: Having a Sound & Godly Doctrine.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 2:2
 - id: GB68
   title: Accompanying Our Faith with Actions
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 2:14-26
 - id: GB69
   title: Serving as Priests in a Royal Priesthood
   manually_review: It is already implied in the other double_ids
@@ -7658,7 +7952,10 @@
     title: Ministering in a Fatherly Manner
   - id: OA9
     title: Spiritual Leaders Pastoring Those in Their Care
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:5
+    - 1 Peter 2:9
 - id: GB70
   title: Seeking Inner Peace
   manually_review: Based on the key scriptures and the related double_ids and related steps, I think it is already implied.
@@ -7677,7 +7974,10 @@
     title: Living a Good, Quiet, & Peaceful Life
   - id: AA4
     title: Seeking to Be Both Inwardly & Outwardly Clean.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:11-12
+    - 2 Peter 3:14
 - id: GB71
   title: Being Zealous for What is Good
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7690,7 +7990,11 @@
     title: Living in a Way That is Good
   - id: GB23
     title: Pursuing That Which Makes for Faith and Upbuilding
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:13
+    - 2 Corinthians 7:11
+    - 2 Corinthians 9:2
 - id: H1
   title: Having Reverence for God's Sanctuary
   manually_review: It has the same idea as G6, BA23 and step 45.
@@ -7933,7 +8237,9 @@
     title: Praying for God’s Will to Be Done
   - id: AB14
     title: Seeking and Pursuing the Things of the Spirit
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:17
 - id: HB6
   title: Keeping Torah in Our Heart
   manually_review: It can have a unique element, but it is very similar to step 14 and 73
@@ -7944,7 +8250,9 @@
   - step: '73'
     title_en: He that abideth in me, and I in him, the same bringeth forth much fruit
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 2:15
 - id: HB11
   title: Internalizing the Word of God and of Messiah
   manually_review: I count this as the same as AA47.
@@ -7955,14 +8263,18 @@
   double_ids:
   - id: AA47
     title: Seeking and Growing in Godly Knowledge.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 3:16
 - id: HB14
   title: Using Torah as Torah Itself Intends
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:8
 - id: HB15
   title: Knowing for Whom Torah is Intended
   manually_review: It has a unique element, but it is quite obvious so I choose to now not make it unique.
@@ -7971,7 +8283,9 @@
   double_ids:
   - id: XA9
     title: Gentiles Obeying Torah
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:9
 - id: HB16
   title: Knowing the Holy Scriptures
   manually_review: It is implied in step 58
@@ -7986,7 +8300,10 @@
     title: Hearing the Holy Spirit
   - id: AB10
     title: Receiving the Holy Spirit
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Peter 1:5
+    - 2 Timothy 3:15
 - id: HB17
   title: Believing in the Inspiration of Scripture and Its Usefulness for Equipping
   manually_review: It is the same as step 58
@@ -8001,7 +8318,9 @@
     title: Giving Attention to the Reading of Scripture
   - id: HB11
     title: Internalizing the Word of God and of Messiah
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 3:16-17
 - id: HB18
   title: Learning God’s Word
   manually_review: Since AA47 and step 58 are already unique, I don't think it has a unique element.
@@ -8012,7 +8331,9 @@
   double_ids:
   - id: AA47
     title: Seeking and Growing in Godly Knowledge.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 4:3
 - id: HB19
   title: Proclaiming God’s Word
   manually_review: It has a unique element
@@ -8025,7 +8346,10 @@
   double_ids:
   - id: HB9
     title: Preserving the Integrity and Not Distorting God’s Word
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 4:2
+    - Revelation 20:4
 - id: HB21
   title: Receiving God’s Implanted Word
   manually_review: I count this the same as step 58. Recieving is implied in hearing together with keeping.
@@ -8040,7 +8364,9 @@
     title: Learning God’s Word
   - id: NA11
     title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 1:21
 - id: HB22
   title: Being Both a Hearer and Doer of God’s Word
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -8051,7 +8377,10 @@
   double_ids:
   - id: HB18
     title: Learning God’s Word
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 1:22-25
+    - James 2:14-26
 - id: HB23
   title: Considering the Torah a Torah of Freedom
   manually_review: It is a unique commandment
@@ -8060,7 +8389,9 @@
   - step: '45'
     title_en: We are to reverently and lovingly fear God
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - James 2:12
 - id: HB24
   title: Thirsting for the Word of God
   manually_review: Together with the other double_ids and related_steps, it is already implied.
@@ -8075,7 +8406,9 @@
     title: Internalizing the Word of God and of Messiah
   - id: HB18
     title: Learning God’s Word
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:2
 - id: I6
   title: Destroying Idolatry
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -9421,7 +9754,10 @@
   double_ids:
   - id: OA2
     title: Attributes & Behaviors Required of Shamashim
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 3:1-7
+    - Titus 1:6-9
 - id: OA2
   title: Attributes & Behaviors Required of Shamashim
   manually_review: I would say that OA1 is the same, just add Shamashim to it.
@@ -9430,7 +9766,10 @@
   double_ids:
   - id: OA1
     title: Attributes & Behaviors Required of Congregational Leaders & Elders
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 3:8-10
+    - 1 Timothy 3:12
 - id: OA3
   title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   manually_review: It is a unique commandment
@@ -9449,7 +9788,9 @@
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:22
 - id: OA5
   title: Acknowledging Yeshua as Our Spiritual Leader
   manually_review: It is already implied in FA28.
@@ -9471,7 +9812,9 @@
     title: Attributes & Behaviors Required of Congregational Leaders & Elders
   - id: OA2
     title: Attributes & Behaviors Required of Shamashim
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 3:11
 - id: OA7
   title: Imitating the Faith of Our Spiritual Leaders
   manually_review: It is a unique commandment, however if we and our leaders all follow BA17 it will be implied anyway.
@@ -9482,7 +9825,9 @@
     title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   - id: BA17
     title: Imitating God and Yeshua.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 13:7
 - id: OA8
   title: Submitting to and Obeying Our Spiritual Leaders
   manually_review: I think that this is already implied in OA3.
@@ -9491,7 +9836,12 @@
   double_ids:
   - id: OA3
     title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:5-6
+    - 2 Peter 2:9-10
+    - Acts 5:29
+    - Hebrews 13:17
 - id: OA9
   title: Spiritual Leaders Pastoring Those in Their Care
   manually_review: It is a unique commandment.
@@ -9504,7 +9854,9 @@
     title: Imitating the Faith of Our Spiritual Leaders
   - id: OA8
     title: Submitting to and Obeying Our Spiritual Leaders
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:1-2
 - id: OA12
   title: Leading by Example
   manually_review: It is a unique commandment. Great that this comes from Peter.
@@ -9513,7 +9865,9 @@
   double_ids:
   - id: OA7
     title: Imitating the Faith of Our Spiritual Leaders
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 5:3
 - id: P1
   title: The Priesthood of Israel & of Believers in Yeshua
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -9578,7 +9932,13 @@
   double_ids:
   - id: OA8
     title: Submitting to and Obeying Our Spiritual Leaders
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - Luke 20:25
+    - Mark 12:17
+    - Matthew 22:18-21
+    - Romans 13:7
+    - Titus 3:1
 - id: PA2
   title: Guarding Against Wrongful Ways of Leaders, Teachers, and Others Who Are in Charge
   manually_review: It is based on the same key scripture as step 40, so this is not unique.
@@ -9593,7 +9953,9 @@
     title: Being on Our Guard Against and Not Associating with False Teachers
   - id: EA7
     title: Being Wary of Prideful Teachers
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 16:6-10
 - id: PA3
   title: Submitting to and Obeying the Authorities Placed Over Us
   manually_review: It is the same as A23 which is already unique.
@@ -9604,7 +9966,17 @@
     title: Being Subject to Governing Authorities
   - id: PA1
     title: Giving to Our Secular Authorities That Which is Theirs
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Peter 2:13-14
+    - 1 Peter 5:5-6
+    - 2 Peter 2:9-10
+    - Acts 5:29
+    - Jude 1:8
+    - Matthew 23:1-3
+    - Romans 13:1-2
+    - Romans 13:5-6
+    - Titus 3:1
 - id: PA4
   title: Leading by Serving
   manually_review: Together with OA12 and step 64 this is not unique.
@@ -9615,7 +9987,11 @@
   double_ids:
   - id: OA12
     title: Leading by Example
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 4:1-3
+    - Mark 10:42-45
+    - Matthew 20:25-28
 - id: PA5
   title: Commanding Obedience to God
   manually_review: There is not yet any bible reference to support an actual commanding obedience, so I think this is now not unique.
@@ -9641,7 +10017,10 @@
     title: Giving to Our Secular Authorities That Which is Theirs
   - id: PA3
     title: Submitting to and Obeying the Authorities Placed Over Us
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:17
+    - 2 Peter 2:9-10
 - id: QA1
   title: Preaching, Teaching, & Making Disciples of Yeshua
   manually_review: It is the same as step 76, the great commission, together with step 8 this is not unique.
@@ -9658,7 +10037,44 @@
     title: Teaching Godliness
   - id: NA18
     title: Ministering as Ambassadors of Yeshua
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 1:17
+    - 1 Corinthians 1:23
+    - 1 Corinthians 1:31
+    - 1 Corinthians 9:16
+    - 1 Corinthians 9:19
+    - 1 Corinthians 9:24-26
+    - 1 Thessalonians 2:2
+    - 1 Thessalonians 2:8-9
+    - 1 Timothy 6:13-14
+    - 2 Corinthians 5:11
+    - 2 Corinthians 5:18-20
+    - 2 Timothy 1:8
+    - 2 Timothy 4:2
+    - 2 Timothy 4:5
+    - Acts 20:20-21
+    - Acts 20:24-25
+    - Acts 26:17-18
+    - Acts 28:28
+    - Acts 5:18-20
+    - Acts 8:25
+    - Acts 8:40
+    - Colossians 1:28
+    - John 20:21
+    - John 4:35-36
+    - Luke 10:3
+    - Luke 12:8
+    - Luke 9:1
+    - Mark 16:15-16
+    - Matthew 10:7-8
+    - Matthew 10:27
+    - Matthew 28:18-20
+    - Matthew 4:19
+    - Philippians 1:18
+    - Philippians 2:10-11
+    - Romans 10:8-11
+    - Romans 10:15-16
 - id: QA2
   title: Boasting About God and Yeshua
   manually_review: It is the same but differently described as step 50
@@ -9667,7 +10083,11 @@
   - step: '50'
     title_en: Blessed is he who does not offend Me
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 10:17
+    - 2 Timothy 1:8
+    - Philippians 3:3
 - id: QA3
   title: Knowing the Dangers Involved in Preaching the Good News
   manually_review: I think the related step already implies this, so it is not unique.
@@ -9678,7 +10098,9 @@
   double_ids:
   - id: JA5
     title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 10:3
 - id: QA4
   title: Proclaiming the Kingdom of God
   manually_review: I think the Kingdom of God is already implied in the gospel, however, it is good to have an explicit commandment about the Kingdom of God to talk about what that is exactly.
@@ -9687,7 +10109,10 @@
   - step: '8'
     title_en: Go into all the world and preach the gospel to every creature
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 10:9-11
+    - Luke 9:2
 - id: QA5
   title: Preaching in the Synagogue of the Unbeliever
   manually_review: This is already implied in step 8. The place where to preach is not an actual command but bound to a culture.
@@ -9698,7 +10123,9 @@
   double_ids:
   - id: NA16
     title: Giving Attention to the Reading of Scripture
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 19:8
 - id: QA6
   title: Having Courage to Proclaim the Good News
   manually_review: Together with the related steps this is not unique.
@@ -9713,7 +10140,9 @@
   double_ids:
   - id: QA3
     title: Knowing the Dangers Involved in Preaching the Good News
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:2
 - id: R1
   title: Listening to and Heeding God's Voice
   manually_review: Is has the same idea as step 41 and step 58.
@@ -9889,7 +10318,12 @@
     title: Publicly Rebuking Leaders Who Continue to Sin
   - id: GA1
     title: See also EA3
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 6:1-7
+    - 1 Corinthians 6:13
+    - 1 Corinthians 6:15-16
+    - Matthew 18:15-17
 - id: RA2
   title: Correcting Those Who Teach and Follow False Doctrines
   manually_review: It is implied within step 35, but since it is based on different key scriptures, I think it is unique enough.
@@ -9900,7 +10334,11 @@
   double_ids:
   - id: KA2
     title: Being on Our Guard Against False Prophets
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 1:3-4
+    - 1 Timothy 6:3-5
+    - Titus 1:13
 - id: RA3
   title: Correcting Our Self Before Seeking to Correct Others
   manually_review: It is the same as step 35
@@ -9911,7 +10349,12 @@
   double_ids:
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 6:41-42
+    - Matthew 7:3-5
+    - Romans 2:1-3
+    - Romans 2:21-24
 - id: RA4
   title: Correcting One Another with Humility and Gentleness
   manually_review: It is implied in RA2, although it would be better to integrate this into RA2. We always need to be humble and gentle, so I dont think this is a new commandment.
@@ -9922,7 +10365,12 @@
     title: Bearing with One Another in Love & with Forgiveness.
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Thessalonians 3:14-15
+    - 2 Timothy 2:25
+    - Galatians 6:1
+    - Titus 2:15
 - id: RA6
   title: Publicly Rebuking Leaders Who Continue to Sin
   manually_review: It is a unique commandment
@@ -9933,7 +10381,9 @@
     title: Submitting to and Obeying Our Spiritual Leaders
   - id: PA2
     title: Guarding Against Wrongful Ways of Leaders, Teachers, and Others Who Are in Charge
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:20
 - id: RA9
   title: Letting Punishment Fit the Offense
   manually_review: It is based on the same key scripture as step 25 but differently described. Therefore this is not unique.
@@ -9942,7 +10392,9 @@
   - step: '25'
     title_en: Whosoever shall smite thee on thy right cheek, turn to him the other also
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 5:38
 - id: RA10
   title: Rebuking and Exhorting with Patience and Instruction
   manually_review: We always need to be patient, so I dont think this is a new commandment. It is already implied in RA4.
@@ -9957,7 +10409,11 @@
     title: Correcting One Another with Humility and Gentleness
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 3:13
+    - Luke 17:3
+    - Titus 2:15
 - id: RA11
   title: Pursuing Justice
   manually_review: Justice is something different than righteousness. Therefore I think this is a unique commandment.
@@ -9972,7 +10428,9 @@
     title: God's Law of Justice
   - id: BA9
     title: Believing in God’s Evenhanded Justice.
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 23:23
 - id: RA13
   title: Expelling Evil Doers from the Community of Believers
   manually_review: It is a unique commandment
@@ -9981,7 +10439,9 @@
   double_ids:
   - id: RA6
     title: Publicly Rebuking Leaders Who Continue to Sin
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 5:12-13
 - id: RA16
   title: Confronting and Correcting the Lazy Among Us
   manually_review: It is a unique commandment
@@ -9990,7 +10450,9 @@
   double_ids:
   - id: RA3
     title: Correcting Our Self Before Seeking to Correct Others
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 5:14
 - id: RA21
   title: Judging Without Prejudice or Partiality
   manually_review: It is already implied in RA11
@@ -10001,7 +10463,9 @@
     title: Pursuing Justice
   - id: RA7
     title: Judging Rightly and Not Falsely
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 5:21
 - id: RA22
   title: First Warning and Then Banning Divisive Persons from Fellowship
   manually_review: I think this is already implied in RA13
@@ -10010,14 +10474,19 @@
   double_ids:
   - id: RA13
     title: Expelling Evil Doers from the Community of Believers
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Titus 3:10-11
 - id: RA23
   title: Receiving God’s Correction and Discipline with a Good Attitude
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 12:5
+    - Hebrews 12:8-9
 - id: RA24
   title: Regarding as Discipline Our Having to Endure Trials
   manually_review: I think this is already implied in RA23
@@ -10028,7 +10497,9 @@
     title: Receiving God’s Correction and Discipline with a Good Attitude
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Hebrews 12:7
 - id: SA1
   title: Fighting the Good Fight of the Faith
   manually_review: It is a unique commandment
@@ -10037,7 +10508,13 @@
   double_ids:
   - id: OA7
     title: Imitating the Faith of Our Spiritual Leaders
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Timothy 1:18-19
+    - 1 Timothy 6:12
+    - 2 Timothy 4:7
+    - Philippians 1:27
+    - Philippians 2:1-2
 - id: SA2
   title: Working Out Our Deliverance with Fear and Trembling
   manually_review: I think this can be understood quite wrong, since we cannot earn salvation, it is pure grace by what Yeshua did for us. There is no other scripture to support this, so I think this should be more understood as step 4, Therefore bear fruits worthy of repentance
@@ -10046,7 +10523,9 @@
   - step: '4'
     title_en: Therefore bear fruits worthy of repentance
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Philippians 2:12
 - id: SA3
   title: Expelling Demons
   manually_review: It is a unique commandment
@@ -10055,7 +10534,10 @@
   double_ids:
   - id: RA13
     title: Expelling Evil Doers from the Community of Believers
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 9:1
+    - Matthew 10:7-8
 - id: SA4
   title: Arming Ourselves with Spiritual Weapons
   manually_review: It is already implied in GB11
@@ -10064,7 +10546,11 @@
   double_ids:
   - id: GB11
     title: Wearing and Employing God’s Armor and Weaponry
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 10:3-4
+    - 2 Corinthians 6:7
+    - Romans 13:12
 - id: SA6
   title: Being a Soldier of Yeshua
   manually_review: Something to be is not an actual command, the command in de key scripture is to endure due to persecution. So step 16 is already covering this.
@@ -10073,7 +10559,9 @@
   - step: '16'
     title_en: 'Blessed are they which are persecuted for righteousness'' sake: for theirs is the kingdom of heaven.'
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Timothy 2:3
 - id: SA8
   title: Resisting and Opposing the Adversary
   manually_review: There is not yet an explicit commandment of this, so this is unique.
@@ -10086,7 +10574,11 @@
     title: Fighting the Good Fight of the Faith
   - id: JA5
     title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 1:14
+    - 1 Peter 5:9
+    - James 4:7
 - id: SA9
   title: Arming Ourselves with the Mind of Yeshua
   manually_review: I think this is already covered in AB15 and SA4.
@@ -10097,7 +10589,9 @@
     title: Being Transformed by the Renewing of Our Mind and Spirit
   - id: SA4
     title: Arming Ourselves with Spiritual Weapons
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 4:1
 - id: SA10
   title: Testing Every Spirit
   manually_review: It has the same idea as step 40.
@@ -10108,7 +10602,9 @@
   double_ids:
   - id: R4
     title: Testing the Spirit
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 John 4:1
 - id: TA1
   title: Coming to & Believing (Trusting) in Yeshua for Salvation
   manually_review: It is implied in step 1 and BA28 which is based on the key scripture John 3:16.
@@ -10123,7 +10619,37 @@
     title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
   - id: GA2
     title: Seeking Forgiveness of Our Sins in Yeshua
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 15:1-2
+    - 1 Thessalonians 4:13-17
+    - 1 Thessalonians 5:9-10
+    - Acts 16:29-31
+    - Acts 2:40
+    - Acts 4:12
+    - Colossians 1:14
+    - John 10:9-10
+    - John 10:27-28
+    - John 11:25-26
+    - John 14:6
+    - John 3:14-16
+    - John 3:18
+    - John 4:13-14
+    - John 5:24
+    - John 6:27
+    - John 6:32-33
+    - John 6:35
+    - John 6:40
+    - John 6:47-51
+    - John 6:53-58
+    - John 6:62-63
+    - John 7:37-38
+    - John 8:12
+    - Luke 13:24
+    - Luke 21:34
+    - Mark 16:15-16
+    - Matthew 7:13-14
+    - Romans 10:8-9
 - id: TA2
   title: Being Born Again of the Spirit
   manually_review: This is more a result of your conversion and immersion, so I think this is not unique.
@@ -10136,7 +10662,9 @@
     title: Being Transformed by the Renewing of Our Mind and Spirit
   - id: GA4
     title: Being Immersed in the Name of Yeshua
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - John 3:3-8
 - id: TA3
   title: Maintaining the Hope of Deliverance /Salvation
   manually_review: It is already covered together with the double_ids and step 1 which is based on the key scripture John 3:16.
@@ -10157,7 +10685,16 @@
     title: Working Out Our Deliverance with Fear and Trembling
   - id: TA1
     title: Coming to & Believing (Trusting) in Yeshua for Salvation
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 13:13
+    - 1 Thessalonians 5:9-10
+    - Colossians 1:23
+    - Colossians 1:27
+    - Romans 12:12
+    - Romans 15:4
+    - Romans 15:13
+    - Romans 5:2-4
 - id: TA4
   title: Entering the Kingdom of God Like Innocent Children
   manually_review: It is the same as step 55.
@@ -10166,7 +10703,11 @@
   - step: '55'
     title_en: Unless you are converted and become as little children, you will by no means enter the kingdom of heaven
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Luke 18:15-17
+    - Mark 10:13-16
+    - Matthew 18:2-3
 - id: TA5
   title: Embracing and Rejoicing in Our Salvation
   manually_review: Together with step 1 and 17 this is not unique.
@@ -10181,14 +10722,26 @@
     title: Coming to & Believing (Trusting) in Yeshua for Salvation
   - id: TA3
     title: Maintaining the Hope of Deliverance /Salvation
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 6:12
+    - Luke 10:20
+    - Romans 12:12
 - id: TA6
   title: Believing in Resurrection of the Dead
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 15:12
+    - 1 Corinthians 15:21-33
+    - 1 Corinthians 15:52
+    - 2 Corinthians 1:9
+    - 2 Corinthians 4:14
+    - 2 Timothy 2:18
+    - Acts 26:22-23
 - id: TA7
   title: Knowing that Sin is an Impediment to Salvation
   manually_review: This can be understood wrongfully, since we are not saved by works but by grace through faith. However, sin can hinder our relationship with God (which is already covered in other commandments like RA25). Therefore I think this is not unique.
@@ -10197,7 +10750,10 @@
   double_ids:
   - id: RA25
     title: Turning Sinners Away from their Sin
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - John 8:21
+    - John 8:34-35
 - id: TA8
   title: Calling on Yeshua’s Name for Salvation
   manually_review: It is implied in step 1 which is based on the key scripture John 3:16.
@@ -10212,7 +10768,12 @@
     title: Believing that Yeshua Died for Our Sins.
   - id: TA1
     title: Coming to & Believing (Trusting) in Yeshua for Salvation
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 2:21
+    - Acts 4:12
+    - Romans 10:8-9
+    - Romans 10:13
 - id: TA9
   title: Enduring Hardships to Enter the Kingdom of God
   manually_review: It is already implied in step 16.
@@ -10221,7 +10782,9 @@
   - step: '16'
     title_en: 'Blessed are they which are persecuted for righteousness'' sake: for theirs is the kingdom of heaven.'
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 14:21-22
 - id: TA10
   title: Believing that Yeshua was Raised from the Dead
   manually_review: By believing that Yeshua died for our sins it is implied that He also was raised from the Dead, otherwise there was no salvation. Together with TA6 which already is unique, this one I don't count as unique.
@@ -10234,7 +10797,16 @@
     title: Believing in Resurrection of the Dead
   - id: TA1
     title: Coming to & Believing (Trusting) in Yeshua for Salvation
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 15:3-4
+    - 1 Corinthians 15:20
+    - 2 Corinthians 4:14
+    - Acts 17:2-3
+    - Acts 17:31
+    - Acts 26:22-23
+    - Romans 10:8-9
+    - Romans 1:2-4
 - id: TA11
   title: Believing that Yeshua Died for Our Sins
   manually_review: It is the same as BA28
@@ -10249,7 +10821,10 @@
     title: Coming to & Believing (Trusting) in Yeshua for Salvation
   - id: GA2
     title: Seeking Forgiveness of Our Sins in Yeshua
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 5:14-15
+    - Colossians 1:14
 - id: TA12
   title: Being Ready to Give a Reasoned Answer for Our Hope
   manually_review: Together with the double_ids and steps this is not unique.
@@ -10262,7 +10837,9 @@
   double_ids:
   - id: QA6
     title: Having Courage to Proclaim the Good News
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 3:15
 - id: TA13
   title: Being Terrified of Falling Short of Salvation
   manually_review: By our own we are not saved, only by believing in the grace that Yeshua died for our sins. But being terrified I don't think is the right attitude. There is also not a scripture inlcuded. Therefore I think this is not unique.
@@ -10292,7 +10869,11 @@
     title: Enduring Hardships to Enter the Kingdom of God
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:2
+    - Luke 21:36
+    - Mark 13:14-18
 - id: UA2
   title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
   manually_review: Together with step 16 and 17 this is not unique.
@@ -10307,7 +10888,13 @@
     title: Keeping Our Faith Amidst Persecution
   - id: RA24
     title: Regarding as Discipline Our Having to Endure Trials
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 2 Timothy 2:24
+    - Colossians 1:11
+    - James 1:2-3
+    - Matthew 5:12
+    - Romans 5:2-4
 - id: UA3
   title: Being Encouraged in Our Suffering
   manually_review: Together with UA2 and step 16 this is not unique.
@@ -10320,7 +10907,10 @@
     title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:2
+    - 2 Corinthians 1:6
 - id: UA4
   title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
   manually_review: This is already implied in step 16.
@@ -10335,7 +10925,16 @@
     title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Thessalonians 3:3-4
+    - 2 Corinthians 12:10
+    - 2 Timothy 1:8
+    - 2 Timothy 2:3
+    - 2 Timothy 2:24
+    - 2 Timothy 3:1
+    - 2 Timothy 4:5
+    - Philippians 1:29
 - id: UA5
   title: Handling Painful Situations in a Godly Way
   manually_review: I think this is already implied in the related steps.
@@ -10352,7 +10951,10 @@
     title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
   - id: NA25
     title: Teaching Godliness
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 7:9-10
+    - Philippians 1:29
 - id: UA6
   title: Overcoming Adversity through Faith and Perseverance
   manually_review: This is implied to be the same as step 65, together with AA19 and AA31, this is not unique.
@@ -10367,7 +10969,13 @@
     title: Persevering, Standing Firm, & Growing in Our Faith.
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 2 Peter 1:5
+    - James 1:4
+    - Revelation 13:10
+    - Revelation 14:12
+    - Revelation 2:3
 - id: UA7
   title: Bearing Up Under Undeserved Punishment
   manually_review: It is already implied in step 16.
@@ -10378,7 +10986,9 @@
   double_ids:
   - id: UA4
     title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:19-21
 - id: VA1
   title: Separating Ourselves from Idolaters
   manually_review: It is a unique commandment
@@ -10391,7 +11001,10 @@
     title: Not Teaching, Permitting Others to Teach, or Giving Ourselves to, False Doctrines
   - id: RA25
     title: Turning Sinners Away from their Sin
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 5:9-11
+    - 2 Corinthians 6:17
 - id: VA5
   title: Guarding Against False Gods
   manually_review: Since John says this in his last sentence of his letter, it seems to summarize and be important, so I think this is unique.
@@ -10406,7 +11019,9 @@
     title: Being on Our Guard Against False Messiahs
   - id: KA3
     title: Being on Our Guard Against and Not Associating with False Teachers
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 John 5:21
 - id: W1
   title: Studying, Hearing & Teaching Torah & Torah -Obedience
   manually_review: It is the same as step 20.
@@ -10439,14 +11054,21 @@
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 15:10
 - id: XA4
   title: Applying Torah to Gentiles
   manually_review: It is a unique commandment.
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 15:10
+    - Acts 15:19-20
+    - Acts 15:28-29
+    - Romans 2:25-27
 - id: XA6
   title: Gentiles Helping Jews in Material Ways
   manually_review: It is a unique commandment
@@ -10455,14 +11077,29 @@
   double_ids:
   - id: XA2
     title: Gentiles Rejoicing with the Jewish People
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 15:27
 - id: XA7
   title: Treating Gentiles and Jews as Spiritually Equal
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - Acts 26:17-18
+    - Acts 26:22-23
+    - Colossians 3:11
+    - Galatians 3:8-9
+    - Galatians 3:13-14
+    - Galatians 3:28-29
+    - Romans 10:13
+    - Romans 1:16-17
+    - Romans 2:25-27
+    - Romans 3:20-28
+    - Romans 4:9-10
+    - Romans 4:16
 - id: XA8
   title: Gentiles Praising the Lord
   manually_review: It is not unique and also not only for gentiles. It is already implied in step 5 and 74.
@@ -10473,7 +11110,11 @@
   - step: '5'
     title_en: You shall worship the LORD your God, and Him only you shall serve
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:9
+    - James 5:14-15
+    - Romans 15:11
 - id: XA9
   title: Gentiles Obeying Torah
   manually_review: It is the same as step 20.
@@ -10482,7 +11123,9 @@
   - step: '20'
     title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Romans 15:18
 - id: XA10
   title: Messianic Jews Relating to Gentile Believers as Brothers and Sisters
   manually_review: It is the same as XA7
@@ -10491,7 +11134,12 @@
   double_ids:
   - id: XA7
     title: Treating Gentiles and Jews as Spiritually Equal
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 10:45-48
+    - Acts 11:17-18
+    - Acts 15:8-9
+    - Galatians 2:12-13
 - id: XA11
   title: Jews Being a Light and Blessing to the Gentiles
   manually_review: It is already a commandment for both Jews and Gentiles, so it is not unique.
@@ -10500,7 +11148,12 @@
   - step: '19'
     title_en: Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 13:47
+    - Acts 26:17-18
+    - Galatians 3:8-9
+    - Matthew 5:13-16
 - id: XA12
   title: Gentiles Being Holy
   manually_review: It is already a commandment for both Jews and Gentiles, so it is not unique.
@@ -10511,7 +11164,9 @@
   - step: '28'
     title_en: Therefore you shall be perfect, just as your Father in heaven is perfect
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - Acts 26:17-18
 - id: Y1
   title: Seudat Ha-Adon
   manually_review: It is the same as step 71.
@@ -10688,7 +11343,27 @@
   - step: '53'
     title_en: Do the will of the Father
   double_ids: []
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 10:24
+    - 1 Corinthians 10:33
+    - 1 John 3:16
+    - Acts 21:12-13
+    - Ephesians 5:1-2
+    - Galatians 5:24-25
+    - Hebrews 13:16
+    - Luke 14:26-27
+    - Luke 14:33
+    - Luke 17:33
+    - Luke 9:23-24
+    - Mark 10:21
+    - Mark 8:34-35
+    - Matthew 10:38-40
+    - Matthew 16:24-25
+    - Philippians 2:4
+    - Philippians 3:8-9
+    - Romans 12:1
+    - Romans 15:1-2
 - id: YA2
   title: Accepting Suffering and Disgrace in Order to Serve Yeshua
   manually_review: It is already implied in step 16
@@ -10697,7 +11372,12 @@
   - step: '16'
     title_en: 'Blessed are they which are persecuted for righteousness'' sake: for theirs is the kingdom of heaven.'
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 4:12
+    - Acts 5:41
+    - Acts 9:16
+    - Revelation 2:3
 - id: YA3
   title: Continually Offering Sacrifices of Praise to God
   manually_review: It is not unique.
@@ -10710,7 +11390,11 @@
   double_ids:
   - id: YA1
     title: Offering Ourselves as Living Sacrifices
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Peter 2:9
+    - Hebrews 13:15
+    - James 5:14-15
 - id: YA4
   title: Laying Down Our Life for Our Brother
   manually_review: It is a unique commandment
@@ -10719,7 +11403,9 @@
   - step: '43'
     title_en: Be moved with inner compassion with the people around you
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 John 3:16
 - id: ZA1
   title: Using Our Spiritual Gifts to Serve Others
   manually_review: It is already implied in step 69
@@ -10728,7 +11414,13 @@
   - step: '69'
     title_en: Use your talents to honor the Father
   double_ids: []
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 12:7-11
+    - 1 Corinthians 12:31
+    - 1 Corinthians 14:23-25
+    - 1 Peter 4:10
+    - Romans 12:6-8
 - id: ZA2
   title: Seeking to Interpret One’s Own Utterance in Tongues
   manually_review: It is unique, but I would like to combine this with ZA3.
@@ -10737,7 +11429,9 @@
   double_ids:
   - id: ZA3
     title: Exercising the Gift of Tongues in Good Order
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:2-19
 - id: ZA3
   title: Exercising the Gift of Tongues in Good Order
   manually_review: It is a unique element, but it is implied in GB29
@@ -10750,7 +11444,10 @@
     title: Seeking to Interpret One’s Own Utterance in Tongues
   - id: ZA1
     title: Using Our Spiritual Gifts to Serve Others
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:27
+    - 1 Corinthians 14:40
 - id: ZA4
   title: Seeking the Interpretation of Tongues When Spoken in Public
   manually_review: It is unique, but I would like to combine this with ZA3.
@@ -10761,14 +11458,19 @@
     title: Seeking to Interpret One’s Own Utterance in Tongues
   - id: ZA3
     title: Exercising the Gift of Tongues in Good Order
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:27
 - id: ZA6
   title: Seeking the Gift of Prophecy
   manually_review: It is a unique commandment
   unique: true
   related_steps: []
   double_ids: []
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:1
+    - 1 Corinthians 14:39
 - id: ZA7
   title: Determining Our Spiritual Gifts
   manually_review: It is already implied in step 69
@@ -10779,7 +11481,9 @@
   double_ids:
   - id: ZA1
     title: Using Our Spiritual Gifts to Serve Others
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 12:8-30
 - id: ZA8
   title: Seeking, Receiving, and Relying on Holy Spirit Power
   manually_review: It is implied in step 70.
@@ -10790,7 +11494,14 @@
   double_ids:
   - id: FA39
     title: Praying in Unison with the Holy Spirit
-  bible_references: {}
+  bible_references:
+    supportive_nt_scriptures:
+    - 1 Corinthians 2:3-5
+    - 2 Timothy 1:7
+    - Acts 1:8
+    - Luke 24:49
+    - Philippians 4:13
+    - Romans 15:13
 - id: ZA9
   title: Preferring Love Over Spiritual Gifts
   manually_review: It is already implied in GB34
@@ -10801,7 +11512,9 @@
     title: Doing Everything in Love
   - id: ZA1
     title: Using Our Spiritual Gifts to Serve Others
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 13:1-7
 - id: ZA10
   title: Using Our Spiritual Gifts to Edify the Body
   manually_review: It is already implied in step 69.
@@ -10812,4 +11525,8 @@
   double_ids:
   - id: ZA1
     title: Using Our Spiritual Gifts to Serve Others
-  bible_references: {}
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:2-19
+    - 1 Corinthians 14:26
+    - Ephesians 4:11-13
