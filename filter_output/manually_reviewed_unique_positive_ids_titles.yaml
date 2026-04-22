@@ -11530,3 +11530,1075 @@
     - 1 Corinthians 14:2-19
     - 1 Corinthians 14:26
     - Ephesians 4:11-13
+- id: B6
+  title: Gleanings and Part of Life-Sustaining Commodities Left for the Poor & Disadvantaged
+  manually_review: I would consider B5 as the same commandment.
+  unique: false
+  related_steps:
+  - step: '26'
+    title_en: Share goods with the needy
+  - step: '29'
+    title_en: Be generous (and fasten and pray) in secret
+  double_ids:
+  - id: B5
+    title: Setting Aside Part of Our Increase for the Poor
+  bible_references:
+    key_nt_scriptures:
+    - 1 Timothy 6:17-19
+    key_ot_scriptures:
+    - Leviticus 19:9-10
+    - Leviticus 23:22
+    - Deuteronomy 24:19-22
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D1
+  title: Resting from Work & Assembling on the Weekly Sabbath
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 12:1-8
+    - Hebrews 4:2-11
+    key_ot_scriptures:
+    - Genesis 2:2-3
+    - Exodus 20:8-11
+    - Exodus 23:12
+    - Exodus 31:12-17
+    - Exodus 34:21
+    - Exodus 35:1-3
+    - Leviticus 19:1-3
+    - Leviticus 23:3
+    - Numbers 28:9-10
+    - Deuteronomy 5:12-15
+    - Isaiah 56:1-7
+    - Isaiah 58:13-14
+    supportive_nt_scriptures:
+    - Matthew 12:9-13
+    - Mark 2:23-28
+    - Mark 3:1-5
+    - Luke 6:6-10
+    - Luke 13:10-17
+    - Luke 14:1-6
+    - John 5:8-17
+    - John 7:22-24
+    supportive_ot_scriptures:
+    - Isaiah 66:23-24
+- id: D10
+  title: Observing the Feast of Unleavened Bread by Eating Matzah on Each of Its Seven Days
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 26:17-19
+    - Mark 14:12-16
+    - Luke 22:7-13
+    - John 2:23
+    - John 6:4
+    - John 11:55
+    - 1 Corinthians 5:6-8
+    - Galatians 5:7-9
+    key_ot_scriptures:
+    - Exodus 12:15-20
+    - Exodus 12:42-49
+    - Exodus 13:5-7
+    - Exodus 23:15
+    - Leviticus 23:5-6
+    - Numbers 28:17
+    - Deuteronomy 16:2-3
+    - Deuteronomy 16:8
+    - Exodus 12:33-34
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D11
+  title: Ceremonially Recounting What God Did for Us When We Left Egypt
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 2:13-15
+    - Hebrews 8:9
+    key_ot_scriptures:
+    - Exodus 12:15-20
+    - Exodus 12:25-27
+    - Exodus 12:41-49
+    - Exodus 13:3-8
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D12
+  title: Blowing the Shofar on Special Days & As an Alarm in War
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 14:8
+    - Revelation 8:1-2
+    key_ot_scriptures:
+    - Leviticus 23:23-25
+    - Leviticus 25:8-12
+    - Numbers 10:1-10
+    - Numbers 29:1-5
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures:
+    - Joshua 6:4-20
+    - 1 Kings 1:34, 39
+    - Ezekiel 33:1-6
+    - Joel 2:1, 15
+    - Psalm 81:3-5(2-4)
+    - Psalm 150:3
+- id: D13
+  title: Afflicting Our Souls & Repenting on Yom Kippur
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - 2 Corinthians 5:21
+    - Hebrews 9:6-10:20
+    - 1 Peter 1:18-19
+    - 1 Peter 2:24-25
+    key_ot_scriptures:
+    - Leviticus 6:18-23(25-30)
+    - Leviticus 16:1-34
+    - Leviticus 22:21
+    - Leviticus 23:27-29
+    - Numbers 28:31
+    - Numbers 29:7-8
+    supportive_nt_scriptures:
+    - Matthew 20:28
+    - John 1:29
+    - 1 Corinthians 5:7
+    supportive_ot_scriptures:
+    - Isaiah 53:4-12
+- id: D14
+  title: Rejoicing at the Festivals of Shavuot , Sukkot , & Sh'mini Atzeret
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Philippians 4:4
+    - 1 Thessalonians 5:16
+    key_ot_scriptures:
+    - Leviticus 23:34-36
+    - Leviticus 23:39-40
+    - Numbers 28:26-27
+    - Numbers 29:12-39
+    - Deuteronomy 16:10-11
+    - Deuteronomy 16:13-15
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D15
+  title: Living in a Sukkah during the Feast of Sukkot
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - John 7:1-3
+    key_ot_scriptures:
+    - Leviticus 23:42-43
+    - Nehemiah 8:14-17
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D16
+  title: Taking Up the Four Species on Sukkot
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - John 7:1-3
+    key_ot_scriptures:
+    - Leviticus 23:39-40
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D17
+  title: Public Reading of the Torah during Sukkot in the Sabbatical Year
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - John 7:1-3
+    key_ot_scriptures:
+    - Deuteronomy 31:10-13
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D18
+  title: Cancelling Loans & Resting Our Land in the Sabbatical Year
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 6:25-31
+    key_ot_scriptures:
+    - Exodus 23:10-11
+    - Exodus 34:21
+    - Leviticus 25:1-2
+    - Leviticus 25:3-4
+    - Leviticus 25:5-7
+    - Leviticus 25:20-22
+    - Deuteronomy 15:1
+    - Deuteronomy 15:2
+    - Deuteronomy 15:3
+    - Deuteronomy 15:4-6
+    - Deuteronomy 15:7-11
+    supportive_nt_scriptures:
+    - Luke 12:22-31
+    - 2 Corinthians 9:10-12
+    supportive_ot_scriptures:
+    - Proverbs 11:24-25
+- id: D19
+  title: Resting & Returning Ownership of Our Land in the Jubilee Year
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 6:25-31
+    key_ot_scriptures:
+    - Exodus 13:12
+    - Exodus 34:19
+    - Leviticus 25:4-5
+    - Leviticus 25:8
+    - Leviticus 25:9
+    - Leviticus 25:10
+    - Leviticus 25:11
+    - Leviticus 25:12
+    - Leviticus 25:13-17
+    - Leviticus 25:23
+    - Leviticus 25:24-28
+    - Leviticus 25:29-31
+    supportive_nt_scriptures:
+    - Luke 4:16-19
+    - Luke 12:22-31
+    supportive_ot_scriptures:
+    - Isaiah 61:1-2
+    - Proverbs 11:24-25
+    - Leviticus 25:5
+- id: D20
+  title: Determining Occurrence of the New Moon
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Colossians 2:16
+    key_ot_scriptures:
+    - Exodus 12:2-3
+    - Exodus 13:10
+    - Exodus 34:22
+    - Leviticus 23:4
+    - Numbers 11:20
+    - Numbers 11:21
+    - Numbers 28:11
+    - Deuteronomy 16:1
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D3
+  title: Keeping the Sabbath Day Holy
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Mark 1:21-22
+    - Mark 2:24-28
+    - Luke 4:16-21
+    - Acts 17:1-3
+    key_ot_scriptures:
+    - Exodus 20:8
+    - Exodus 31:14-15
+    - Exodus 35:1-2
+    - Deuteronomy 5:12
+    - Isaiah 56:1-7
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D4
+  title: Resting from Work & Assembling on God's Annual Sabbaths
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional), however I would say that it should be under the same umbrella as D1.
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 26:26-28
+    - Mark 14:12-25
+    - Luke 22:7-20
+    - John 2:13
+    - 1 Corinthians 5:7-8
+    - 1 Corinthians 5:7-8
+    - Luke 24:49
+    - Acts 1:3-5
+    - Acts 2:1-5
+    - Matthew 3:11
+    - Matthew 4:17
+    - Mark 1:3-4
+    - John 1:23
+    - Acts 3:19
+    - Romans 12:1
+    - Hebrews 10:11-14
+    - John 7:1-3
+    key_ot_scriptures:
+    - Exodus 12:3
+    - Exodus 12:16
+    - Exodus 23:14-17
+    - Leviticus 23:5-7
+    - Numbers 28:17-18
+    - Deuteronomy 16:16a
+    - Exodus 12:16
+    - Exodus 23:14-17
+    - Leviticus 23:8
+    - Numbers 28:25
+    - Deuteronomy 16:16a
+    - Exodus 23:14-17
+    - Leviticus 23:10, 15-16
+    - Leviticus 23:21
+    - Numbers 28:26
+    - Deuteronomy 16:9-10
+    - Deuteronomy 16:16a
+    - Leviticus 23:24-25
+    - Numbers 29:1
+    - Leviticus 16:1-34
+    - Leviticus 23:27-32
+    - Numbers 29:7
+    - Exodus 23:14-17
+    - Leviticus 23:34-39
+    - Numbers 29:12
+    - Deuteronomy 16:16a
+    - Exodus 23:14-17
+    - Leviticus 23:34-39
+    - Numbers 29:35
+    - Deuteronomy 16:16a
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D5
+  title: Counting to Shavuot & Waving Two Loaves
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Acts 2:1-21
+    key_ot_scriptures:
+    - Leviticus 23:9-21
+    - Numbers 28:26
+    - Deuteronomy 16:9-10
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D6
+  title: Keeping Our Home & Domain Free of Leaven & Chametz from Passover through the Feast of Unleavened Bread
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 26:17-19
+    - Mark 14:12-16
+    - Luke 22:7-13
+    - John 2:23
+    - John 6:4
+    - John 11:55
+    - 1 Corinthians 5:6-8
+    - Galatians 5:7-9
+    key_ot_scriptures:
+    - Exodus 12:15
+    - Exodus 12:19
+    - Exodus 12:33-34
+    - Exodus 12:42-49
+    - Exodus 13:7
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: D8
+  title: Observing Passover with Matzah & Bitter Herbs
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 26:17-19
+    - Matthew 26:26
+    - Mark 14:12-16
+    - Luke 22:7-13
+    - John 2:23
+    - John 6:4
+    - John 11:55
+    - 1 Corinthians 5:6-8
+    - Galatians 5:7-9
+    - Hebrews 9:13-14
+    key_ot_scriptures:
+    - Exodus 12:3-8
+    - Exodus 12:18
+    - Exodus 12:42-49
+    - Leviticus 22:21
+    - Leviticus 23:5-8
+    - Numbers 28:31
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures:
+    - Exodus 12:33-34
+    - Numbers 9:10-11
+    - Deuteronomy 16:1-2
+- id: E2
+  title: Performing & Receiving B'rit Milah
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Romans 2:25-3:2
+    - Colossians 2:8-12
+    key_ot_scriptures:
+    - Genesis 12:1-3
+    - Genesis 15:18-21
+    - Genesis 17:1-8
+    - Leviticus 12:3
+    - Exodus 12:41-49
+    supportive_nt_scriptures:
+    - Acts 15:1-20
+    - Galatians 5:11
+    - Acts 16:1-3
+    - 1 Corinthians 7:18-20
+    - Romans 2:25-29
+    - Romans 11:13-18
+    - Colossians 2:11-13
+    supportive_ot_scriptures:
+    - Genesis 22:14-18
+    - Exodus 19:5-6
+    - Genesis 17:9-14
+    - Genesis 17:22-27
+    - Genesis 17:18-21
+    - Genesis 28:10-15
+    - Exodus 12:49
+    - Leviticus 24:22
+    - Numbers 15:14-16
+    - Numbers 15:28-29
+- id: E3
+  title: Commemorating Pidyon HaBen
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles forbidden)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Luke 2:22-32
+    key_ot_scriptures:
+    - Exodus 13:1-2
+    - Exodus 13:10-15
+    - Exodus 22:28-29(29-30)
+    - Exodus 34:19-20
+    - Numbers 3:40-51
+    - Numbers 18:15-17
+    - Deuteronomy 14:22-23
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: E4
+  title: Being a Kingdom of Priests, a Holy Nation, Proclaimers of the Good News, & a Light to the Gentiles
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 28:16-20
+    - Mark 16:14-16
+    - Acts 1:3-8
+    - Acts 13:46-48
+    - Acts 26:19-23
+    - Romans 3:1-2
+    - Galatians 3:6-9
+    key_ot_scriptures:
+    - Genesis 17:4-16
+    - Exodus 19:1-8
+    - Leviticus 12:2-3
+    - Deuteronomy 23:8(7)-9(8)
+    - Isaiah 42:6-7
+    - Isaiah 49:5-6
+    - Isaiah 60:1-3
+    supportive_nt_scriptures:
+    - Matthew 10:5-8
+    supportive_ot_scriptures:
+    - Genesis 12:2-3
+    - Genesis 13:14-17
+    - Genesis 17:1-8
+    - Genesis 17:18-21
+    - Genesis 26:1-5
+    - Genesis 28:10-15
+    - Leviticus 19:33-34
+    - Isaiah 2:1-4
+    - Isaiah 19:24-25
+- id: E6
+  title: Tzitzit , Tefillin , & Mezuzot
+  manually_review: It is a unique commandment (for Jews mandatory, for Gentiles forbidden)
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 23:5
+    - Mark 6:56
+    key_ot_scriptures:
+    - Exodus 13:9
+    - Exodus 13:16
+    - Numbers 15:38-40
+    - Deuteronomy 4:9-10
+    - Deuteronomy 6:4-9
+    - Deuteronomy 11:13-21
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: E7
+  title: Tithes, Offerings, & Tz'dakah
+  manually_review: It is an expension on step 26.
+  unique: true
+  related_steps:
+  - step: '26'
+    title_en: Share goods with the needy
+  - step: '29'
+    title_en: Be generous (and fasten and pray) in secret
+  double_ids:
+  - id: B4
+    title: Giving Financial Help to Persons in Need
+  - id: B5
+    title: Setting Aside Part of Our Increase for the Poor
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 23:23
+    - Luke 12:33
+    - 1 Corinthians 16:1-3
+    key_ot_scriptures:
+    - Exodus 30:13-14
+    - Leviticus 27:30-33
+    - Numbers 18:20-32
+    - Deuteronomy 14:22-29
+    - Deuteronomy 15:7-11
+    - Deuteronomy 16:16-17
+    - Deuteronomy 18:3-5
+    - Deuteronomy 26:12-13
+    - Proverbs 3:9-10
+    supportive_nt_scriptures:
+    - Luke 11:42
+    - Hebrews 7:1-11
+    - Matthew 5:23-24
+    - Mark 12:41-44
+    - Luke 6:38
+    - Luke 21:1-4
+    - 2 Corinthians 8:8-15
+    - 2 Corinthians 9:1-7
+    - Matthew 6:1-4
+    - Matthew 25:32-46
+    - Acts 11:27-30
+    - Acts 20:33-35
+    - Romans 12:13
+    - 1 Corinthians 9:13-14
+    - Philippians 4:15-18
+    supportive_ot_scriptures:
+    - Genesis 14:18-20
+    - Genesis 28:13-22
+    - Malachi 3:1-18
+    - Nehemiah 10:36(35)-40(39)
+    - Nehemiah 12:43-47
+    - Genesis 4:1-8
+    - Genesis 28:20-22
+    - Exodus 25:1-2
+    - Psalm 50:7-15
+    - Proverbs 11:24
+    - Psalm 37:21
+    - Proverbs 21:13
+    - Proverbs 31:9
+    - Proverbs 31:20
+- id: F4
+  title: Withholding Food, Clothing, or Marital Rights from Our Wife
+  manually_review: It is unique because it is focused on the specific issue of withholding food, clothing, or marital rights from one's wife, which is a distinct commandment with specific biblical references. It addresses a particular aspect of marital responsibility and care that is not covered by other commandments in the list.
+  unique: true
+  related_steps: []
+  double_ids:
+  - id: CB29
+    title: Husbands Respecting their Wives
+  - id: BB7
+    title: Women Supporting Their Widowed Relatives
+  bible_references:
+    key_nt_scriptures:
+    - Ephesians 5:25-33
+    - 1 Timothy 5:8
+    - 1 Peter 3:7
+    key_ot_scriptures:
+    - Exodus 21:7-11
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: L1
+  title: Occupying the Land of Israel
+  manually_review: It is a unique commandment for Jews only
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Acts 13:18-19
+    key_ot_scriptures:
+    - Genesis 12:1-7
+    - Genesis 15:7
+    - Genesis 15:18-21
+    - Genesis 26:3
+    - Genesis 28:13
+    - Exodus 6:3-4
+    - Exodus 6:8
+    - Exodus 23:20
+    - Exodus 23:30-31
+    - Exodus 29:42-46
+    - Deuteronomy 1:6-8
+    - Deuteronomy 8:1
+    - Deuteronomy 19:8-9
+    - Deuteronomy 30:15-20
+    - Deuteronomy 34:4-5
+    supportive_nt_scriptures:
+    - Matthew 5:5
+    - Acts 7:2-7
+    - Ephesians 6:2-3
+    - Hebrews 11:8-9
+    supportive_ot_scriptures:
+    - Ezekiel 37:16-21
+    - Zechariah 1:9-17
+    - Zechariah 2:1-13(1:18-2:9)
+    - Psalm 122:6-9
+    - Numbers 34:1-13
+    - Ezekiel 47:13-23
+    - Surah Yunus"Jonah" 10:93
+- id: M1
+  title: Pursuing Righteousness & Doing What Is Right
+  manually_review: It is allready covered by the other step and double_ids
+  unique: false
+  related_steps:
+  - step: '12'
+    title_en: 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled'
+  double_ids:
+  - id: AA3
+    title: Pursuing Righteousness & Living Righteously.
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 5:6
+    - Matthew 5:10
+    - Matthew 5:20
+    - Matthew 6:33
+    - Matthew 13:43
+    - Luke 2:25
+    - Luke 6:33
+    key_ot_scriptures:
+    - Genesis 6:9
+    - Genesis 18:19
+    - Exodus 15:25b-26
+    - Deuteronomy 6:17-18
+    - Deuteronomy 6:25
+    - Deuteronomy 12:28
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: M7
+  title: Pursuing Economic Equity through Our Institutions
+  manually_review: It is a unique commandment focused on pursuing economic equity through our institutions, which is distinct from other commandments in the list.
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - James 1:27
+    key_ot_scriptures:
+    - Exodus 21:2-6
+    - Exodus 23:10-12
+    - Leviticus 25:2-34
+    - Deuteronomy 15:1-18
+    supportive_nt_scriptures:
+    - Matthew 25:14-30
+    - Matthew 26:11a
+    - 1 Timothy 6:17-19
+    supportive_ot_scriptures:
+    - Deuteronomy 8:17-18
+    - 1 Samuel 2:7
+    - Ezekiel 46:16-18
+    - Haggai 2:6-8
+    - Psalm 24:1-2
+    - Psalm 50:10-12
+    - Proverbs 22:2
+- id: N10
+  title: Kidnapping
+  manually_review: It is a unique commandment but not positive.
+  unique: false
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Romans 13:9
+    key_ot_scriptures:
+    - Exodus 21:16
+    - Leviticus 25:42
+    - Deuteronomy 24:7
+    - Exodus 20:13
+    supportive_nt_scriptures:
+    - Matthew 19:17-19
+    - Ephesians 4:28
+    - Romans 13:9
+    supportive_ot_scriptures:
+    - Leviticus 19:11
+    - Deuteronomy 5:18(21)
+    - Genesis 14:11-14
+    - Genesis 37:23-25
+    - Genesis 40:15
+- id: P2
+  title: Cohanim to Bless God's People
+  manually_review: It is a unique commandment for Cohanim only.
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 16:19
+    key_ot_scriptures:
+    - Numbers 6:22-27
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: P4
+  title: The Priesthood of Believers & Entering God's Most Holy Place
+  manually_review: It is a unique commandment for Cohanim only.
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 27:46-54
+    - Hebrews 7:8-27
+    - Hebrews 9:6-14
+    - 1 Peter 2:4-10
+    - Hebrews 10:15-22
+    key_ot_scriptures:
+    - Leviticus 16:2-22 & 34
+    supportive_nt_scriptures:
+    - Hebrews 8:6-13
+    supportive_ot_scriptures:
+    - Exodus 26:31-35
+- id: W2
+  title: Remembering and Walking in Awareness of God's Word
+  manually_review: It is already covered by the other step and double_ids
+  unique: false
+  related_steps: []
+  double_ids:
+  - id: G2
+    title: Acknowledging and not Denying Belief in God and in Yeshua
+  - id: E6
+    title: Tzitzit , Tefillin , & Mezuzot
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:13
+    key_ot_scriptures:
+    - Exodus 13:5-10
+    - Exodus 13:11-16
+    - Numbers 15:38-40
+    - Deuteronomy 6:4-9
+    - Deuteronomy 11:18-20
+    supportive_nt_scriptures:
+    - Matthew 23:5
+    - Mark 6:56
+    supportive_ot_scriptures: []
+- id: GB24
+  title: Putting Our Cares & Anxieties on God
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references: {}
+- id: GB4
+  title: Living Our Lives Worthy of Our Calling in the Lord
+  manually_review: It has a unique element in it
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 2:12
+    - Colossians 1:10
+    - Ephesians 4:1
+- id: GB50
+  title: Working as for the Lord
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references: {}
+- id: GB56
+  title: Turning Away from Ungodly Speech
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps: []
+  double_ids:
+  - id: HB21
+    title: Receiving God’s Implanted Word
+  bible_references:
+    nt_scriptures:
+    - 1 Peter 4:11
+    - 1 Timothy 6:20
+    - 2 Peter 2:18
+    - 2 Timothy 2:16
+    - James 1:21
+    - Jude 1:11
+- id: NA10
+  title: Ministering Healing as Led by the Holy Spirit
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps:
+  - step: '8'
+    title_en: Go into all the world and preach the gospel to every creature
+  double_ids:
+  - id: AB7
+    title: Being Led by the Holy Spirit
+  - id: QA4
+    title: Proclaiming the Kingdom of God
+  - id: NA8
+    title: Confessing Our Sins to One Another
+  bible_references:
+    nt_scriptures:
+    - Luke 10:9-11
+    - Luke 9:2
+    - Matthew 10:7-8
+- id: NA11
+  title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    nt_scriptures:
+    - Luke 9:49-50
+- id: NA12
+  title: Being Peacemakers
+  manually_review: It is the same as step 15
+  unique: false
+  related_steps:
+  - step: '15'
+    title_en: 'Blessed are the peacemakers: for they shall be called the children of God'
+  double_ids: []
+  bible_references:
+    nt_scriptures:
+    - James 3:18
+    - Matthew 10:11-14
+- id: NA15
+  title: Teaching and Ministering the Words of God & Yeshua
+  manually_review: It looks like it is already covered by the other step and double_ids, but I think it is unique enough to be its own step because of the specific focus on teaching and ministering the words of God and Yeshua, which is a distinct aspect of discipleship and ministry that may not be fully captured by the other related steps and double_ids.
+  unique: true
+  related_steps:
+  - step: '58'
+    title_en: Blessed are they that hear the word of God, and keep it
+  - step: '20'
+    title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
+  double_ids:
+  - id: AA53
+    title: Having a Sound & Godly Doctrine.
+  - id: BA47
+    title: Acquiring and Growing in Knowledge of God.
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 12:28
+    - 1 John 1:3
+    - 1 Peter 1:10-11
+    - 1 Peter 1:25
+    - 1 Timothy 2:7
+    - 1 Timothy 4:11
+    - 1 Timothy 4:13
+    - 1 Timothy 4:16
+    - 2 Timothy 1:11
+    - 2 Timothy 2:2
+    - 2 Timothy 2:8
+    - 2 Timothy 3:16-17
+    - 2 Timothy 4:1-2
+    - Acts 18:9-11
+    - Acts 2:42
+    - Acts 5:42
+    - Ephesians 4:11
+    - Matthew 28:20
+    - Romans 12:7
+    - Titus 1:9
+    - Titus 2:1
+    - Titus 2:3-4
+    - 1 Timothy 6:3-5
+    - 2 Timothy 4:2
+    - Matthew 5:19
+    ot_scriptures:
+    - Deuteronomy 11:19
+    - Proverbs 22:6
+    - Proverbs 6:20
+    - Psalms 34:12
+- id: NA16
+  title: Giving Attention to the Reading of Scripture
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    nt_scriptures:
+    - 1 Timothy 4:13
+    - 2 Corinthians 3:14-15
+    - Acts 13:15
+    - Acts 13:27
+    - Acts 15:21
+    - Acts 8:28
+    - Acts 8:30
+    - Luke 10:26
+    - Luke 4:16
+    - Luke 6:3
+    - Mark 12:10
+    - Mark 12:26
+    - Mark 2:25
+    - Matthew 12:3
+    - Matthew 12:5
+    - Matthew 19:4
+    - Matthew 21:16
+    - Matthew 21:42
+    - Matthew 22:31
+    - Revelation 1:3
+    - Romans 10:17
+    - Romans 15:4
+    ot_scriptures:
+    - 2 Kings 22:8
+    - 2 Kings 22:10
+    - 2 Kings 23:2
+    - Deuteronomy 17:19
+    - Deuteronomy 31:11
+    - Exodus 24:7
+    - Habakkuk 2:2
+    - Jeremiah 36:6
+    - Jeremiah 36:8
+    - Jeremiah 36:10
+    - Jeremiah 36:13
+    - Jeremiah 36:15
+    - Jeremiah 36:21
+    - Jeremiah 51:61
+    - Joshua 8:34
+    - Nehemiah 13:1
+    - Nehemiah 8:1-3
+    - Nehemiah 8:8
+    - Nehemiah 8:18
+    - Nehemiah 9:3
+    - Psalms 119:11
+- id: NA18
+  title: Ministering as Ambassadors of Yeshua
+  manually_review: It has a unique element in it to be ambassadors
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 5:18-20
+    - 2 Corinthians 5:18-20
+    - Acts 1:8
+    - Ephesians 6:19-20
+    - John 20:21
+- id: NA20
+  title: Ministering to the Poor, the Weak, & the Timid
+  manually_review: Since the Messiah emphasizes ministering to the poor, the weak, and the timid, this step is unique in that it focuses on these groups of people.
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    nt_scriptures:
+    - Galatians 2:10
+    - Luke 14:12-14
+    - Luke 3:11
+    - Luke 4:18
+    - Luke 6:20-21
+    - Luke 7:22
+    - Matthew 12:33
+    - Matthew 25:31-46
+    ot_scriptures:
+    - Deuteronomy 15:6-10
+    - Isaiah 25:4
+    - Isaiah 58:10
+    - Proverbs 31:8-9
+    - Psalms 35:10
+    - Psalms 56:4
+- id: NA9
+  title: Ministering to, Caring for & Protecting Those for Whom Leaders Have Responsibility
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps:
+  - step: '75'
+    title_en: ''
+  double_ids: []
+  bible_references:
+    nt_scriptures:
+    - Acts 20:28
+    - Acts 20:31-32
+    - Matthew 10:42
+    - Matthew 18:10
+- id: RA12
+  title: Batei Din Judging Only Believers
+  manually_review: Step 35 already meantions 'thy brothers', so I think this is already implied
+  unique: false
+  related_steps:
+  - step: '35'
+    title_en: First cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye
+  double_ids:
+  - id: RA13
+    title: Expelling Evil Doers from the Community of Believers
+  bible_references:
+    key_nt_scriptures:
+    - 1 Corinthians 5:12-13
+- id: WA1
+  title: Abstaining from Fornication and Other Acts of Sexual Immorality
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 10:8
+    - 1 Corinthians 5:1-5
+    - 1 Corinthians 6:9-11
+    - 1 Corinthians 6:18
+    - 1 Peter 4:3
+    - 1 Thessalonians 4:3-5
+    - 1 Timothy 1:10-11
+    - 2 Corinthians 12:20-21
+    - Acts 15:19-20
+    - Acts 15:28-29
+    - Colossians 3:5
+    - Ephesians 5:3
+    - Ephesians 5:5
+    - Galatians 5:19
+    - Galatians 5:21
+    - Hebrews 12:16
+    - Hebrews 13:4
+    - Jude 1:7
+    - Revelation 21:8
+    - Revelation 22:15
+    - Revelation 2:20
+    - Romans 13:13
+    - Romans 1:26-27
+- id: XA3
+  title: Gentiles Undergoing B’rit Milah
+  manually_review: It is already covered in E2. See commentary of E2 by Rabbi Rudolph.
+  unique: false
+  related_steps: []
+  double_ids:
+  - id: E2
+    title: Performing & Receiving B'rit Milah
+  bible_references:
+    key_nt_scriptures:
+    - Galatians 5:2-3
+    - Galatians 5:11
