@@ -2,46 +2,79 @@
   title: Aspiring to Godliness and Holiness.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA2
   title: Behaving Properly.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA3
   title: Pursuing Righteousness & Living Righteously.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA4
   title: Seeking to Be Both Inwardly & Outwardly Clean.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA5
   title: Modeling Ourselves on the Perfection of God.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA6
   title: Keeping Our Minds from Causing Our Bodies to Sin.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA7
   title: Seeking God’s Kingdom.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA8
   title: Guarding Ourselves Against Greed.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA9
   title: Letting God’s Light That Is in Us Shine.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA10
   title: Having Godly Compassion.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA11
   title: Renouncing Worldly Pleasures.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA12
   title: Not Being Contaminated by the World and Worldly Standards.
   commandment_type: Negative
@@ -50,14 +83,23 @@
   title: Fleeing from Sin & Evil.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA14
   title: Being Patient.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA15
   title: Keeping Free from, and Purifying Ourselves from Things that Defile.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA16
   title: Not Contemplating How to Gratify Sinful Desires.
   commandment_type: Negative
@@ -70,14 +112,23 @@
   title: Replacing Our Old Nature with a New Nature.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA19
   title: Persevering, Standing Firm, & Growing in Our Faith.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA20
   title: Being Gentle.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA21
   title: Not Being Lukewarm in Our Faith.
   commandment_type: Negative
@@ -86,18 +137,30 @@
   title: Speaking Only That Which is Holy and Beneficial.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA23
   title: Ridding Ourselves of Unholy Characteristics.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA24
   title: Being Tenderhearted.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA25
   title: Focusing Our Thoughts on Things that Are Godly.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA26
   title: Not Touching That Which is Unclean.
   commandment_type: Negative
@@ -106,6 +169,9 @@
   title: Being Thankful and Grateful to God.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA28
   title: Not Being Unappeasable.
   commandment_type: Negative
@@ -114,18 +180,30 @@
   title: Being Joyful in All Circumstances.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA30
   title: Being Honest and a Teller of Truth.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA31
   title: Being Steadfast in Our Faith and Our Thinking.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA32
   title: Being Faithful, Trustworthy and Loyal.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA33
   title: Guarding Against Hypocrites & Not Being a Hypocrite.
   commandment_type: Negative
@@ -134,6 +212,9 @@
   title: Keeping Our Promises.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA35
   title: Not Harboring Selfish Ambition.
   commandment_type: Negative
@@ -154,6 +235,9 @@
   title: Fleeing Lustful Passions.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA40
   title: Not Treating as Unclean That Which God Has Made Clean.
   commandment_type: Negative
@@ -162,6 +246,9 @@
   title: Comparing That Which is Taught Us to What We Read in Scripture.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA42
   title: Embracing and Not Suppressing Godly Truth.
   commandment_type: Positive & Negative
@@ -174,10 +261,16 @@
   title: Knowing & Doing What is Right & Good.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA45
   title: Being Circumcised in Our Heart.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA46
   title: Not Doing Wrong in Order to Accomplish Something Good.
   commandment_type: Negative
@@ -186,6 +279,9 @@
   title: Seeking and Growing in Godly Knowledge.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA48
   title: Not Pursuing Righteousness through Our Own Power.
   commandment_type: Negative
@@ -202,6 +298,9 @@
   title: Aspiring to Be Blameless.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA52
   title: Not Being Rebellious towards God’s Authority.
   commandment_type: Negative
@@ -210,10 +309,16 @@
   title: Having a Sound & Godly Doctrine.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA54
   title: Distinguishing between Good and Evil.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA55
   title: Not Being Double-Minded.
   commandment_type: Negative
@@ -222,18 +327,30 @@
   title: Being Quick to Listen and Slow to Speak.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA57
   title: Being Open to Reason.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA58
   title: Letting Our “Yes” be “Yes” & Our “No” be “No”.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA59
   title: Keeping a Clear Conscience.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA60
   title: Not Allowing Anger to Cause Us to Sin.
   commandment_type: Negative
@@ -242,6 +359,9 @@
   title: Hating Ungodly Vices.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA62
   title: Not Being Cowardly.
   commandment_type: Negative
@@ -254,6 +374,9 @@
   title: Being Slow to Anger.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AA65
   title: Not Holding Onto or Prolonging Anger.
   commandment_type: Negative
@@ -266,14 +389,23 @@
   title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA3
   title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua.'
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA4
   title: Trusting (Having Faith /Believing) in God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA5
   title: Not Denying Our Belief and Faith in God & Yeshua.
   commandment_type: Negative
@@ -282,98 +414,170 @@
   title: Offering Our Entire Selves to God.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA7
   title: Praising God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA8
   title: Pleasing God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA9
   title: Believing in God’s Evenhanded Justice.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA10
   title: Obeying the Commandments of God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA11
   title: Honoring God & Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA12
   title: Lifting Up Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA13
   title: Hearing the Words & Voice of God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA14
   title: Knowing God through Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA15
   title: Serving God & Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA16
   title: Devoting Our Lives to God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA17
   title: Imitating God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA18
   title: Being Reconciled to God in Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA19
   title: Seeking Our Reward from God in Heaven.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA20
   title: Listening to, Believing, and Obeying the Good News of Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA21
   title: Loving God & Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA22
   title: Knowing that God is One – Both Singular & Composite
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA23
   title: Fearing and Revering God & Messiah.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA24
   title: Presenting Ourselves to God as Worthy of Approval.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA25
   title: Putting God and Yeshua Before All Things and All Persons.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA26
   title: Being Yeshua’s Witness.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA27
   title: Receiving Yeshua’s Love and Kindness.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA28
   title: Believing that Yeshua Died for Our Sins.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA29
   title: Having a Close Personal Relationship with God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA30
   title: Not Lying to God.
   commandment_type: Negative
@@ -386,10 +590,16 @@
   title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA33
   title: Glorifying God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA34
   title: Not Dishonoring God.
   commandment_type: Negative
@@ -402,6 +612,9 @@
   title: Embracing Yeshua’s Sacrifice for Forgiveness, Righteousness, and Redemption.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA37
   title: Not Contradicting or Rebuking God.
   commandment_type: Negative
@@ -410,62 +623,107 @@
   title: Knowing the Compassion of God and Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA39
   title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA40
   title: Receiving and Following God and Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA41
   title: Welcoming Yeshua by Welcoming Children.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA42
   title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance of Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA43
   title: Knowing that God is Triune.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA44
   title: Relying on God.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA45
   title: Knowing Yeshua as Lord and Messiah.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA46
   title: Remaining Rooted in Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA47
   title: Acquiring and Growing in Knowledge of God.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA48
   title: Rejoicing in and with Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA49
   title: Living Along with Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA50
   title: Believing that Yeshua was Sent for All of Humanity.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA51
   title: Knowing Yeshua as the One Mediator Between God and Man.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA52
   title: Setting Our Hope on God.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA53
   title: Not Attributing Our Temptations to God.
   commandment_type: Negative
@@ -474,26 +732,44 @@
   title: Submitting to God.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA55
   title: Humbling Ourselves before God.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA56
   title: Acknowledging the Holiness of Yeshua.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA57
   title: Coming to Yeshua for Spiritual Rest.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA58
   title: Standing Firm in Union with the Lord.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA59
   title: Remembering that Yeshua was Raised from the Dead.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA60
   title: Not Being Ashamed of Yeshua & His Teachings.
   commandment_type: Negative
@@ -502,10 +778,16 @@
   title: Continuing to Make Our Being Called & Chosen a Certainty.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA62
   title: Seeking Rest and Refreshment in God.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: CA1
   title: Not Pursuing and Accumulating Worldly Wealth & Possessions.
   commandment_type: Negative
@@ -514,14 +796,23 @@
   title: Putting Yeshua Ahead of Worldly Wealth.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: CA3
   title: Storing Up Wealth in Heaven.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: CA4
   title: Being Content with Having the Essentials for Living.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: CA5
   title: Not Using Religion to Acquire Riches.
   commandment_type: Negative
@@ -546,10 +837,16 @@
   title: Speedily Seeking Reconciliation when Summoned to Court
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA2
   title: Seeking Reconciliation with Our Brother
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA3
   title: Not Harming Our Neighbor.
   commandment_type: Negative
@@ -562,26 +859,44 @@
   title: Serving One Another.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA6
   title: Showing Respect for One Another.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA7
   title: Being Sensitive to Each Other’s Needs.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA8
   title: Befriending Persons Who Are Humble.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA9
   title: Giving to Our Neighbor That Which Is Owed Him.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA10
   title: Living in Peace with Our Neighbors.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA11
   title: Bearing the Weaknesses of Those Who Are Not Strong
   commandment_type: Negative
@@ -590,6 +905,9 @@
   title: Being Good, Kind, & Generous to One Another.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA13
   title: Not Associating with Persons Who Would Deceive Us or Lead Us Astray.
   commandment_type: Negative
@@ -598,14 +916,23 @@
   title: Submitting to One Another.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA15
   title: Being Likeminded and in Unity with the Brethren.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA16
   title: Encouraging One Another.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA17
   title: Staying Away from a Brother Whose Life is Not in Accord with the Teachings and Traditions of the Shl’chim .
   commandment_type: Negative
@@ -638,6 +965,9 @@
   title: Loving Our Brother & Neighbor.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA25
   title: Not Defrauding Our Neighbor.
   commandment_type: Negative
@@ -670,6 +1000,9 @@
   title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA33
   title: Not Looking Down on a Brother.
   commandment_type: Negative
@@ -686,10 +1019,16 @@
   title: Forgiving Those Who Sin Against Us.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA37
   title: Empathizing with the Imprisoned & Mistreated.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA38
   title: Not Engaging in Rivalry.
   commandment_type: Negative
@@ -706,6 +1045,9 @@
   title: Being Friends with Brothers & Friendly to Outsiders.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA42
   title: Not Engaging in Fruitless or Stupid Controversies or Discussions.
   commandment_type: Negative
@@ -726,6 +1068,9 @@
   title: Comforting Our Neighbor.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA47
   title: Not Deceiving Our Neighbor.
   commandment_type: Negative
@@ -738,10 +1083,16 @@
   title: Bearing One Another’s Burdens.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA50
   title: Bearing with One Another in Love & with Forgiveness.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA51
   title: Not Provoking Our Neighbor.
   commandment_type: Negative
@@ -750,10 +1101,16 @@
   title: Behaving Wisely Toward Outsiders.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA53
   title: Rescuing Our Neighbor.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA54
   title: Not Flattering One Another.
   commandment_type: Negative
@@ -762,14 +1119,23 @@
   title: Guarding Against Scoffers.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA56
   title: Minding Our Own Business.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA57
   title: Living Quietly So as to Gain Our Neighbor’s Respect.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA58
   title: Living So as Not to Be Financially Dependent on Others.
   commandment_type: Negative
@@ -782,10 +1148,16 @@
   title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA61
   title: Exhorting One Another to Love & Good Deeds.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA62
   title: Not Neglecting to Assemble with the Brethren.
   commandment_type: Negative
@@ -814,6 +1186,9 @@
   title: Welcoming & Being Hospitable to Our Brother and Neighbor.
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A1
   title: Being Unequally Yoked in Matters of Godly Importance
   commandment_type: Negative
@@ -822,6 +1197,9 @@
   title: Ritual Purification, Cleanness, Separation & Health
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A11
   title: Wine & Drunkenness
   commandment_type: Negative
@@ -830,14 +1208,23 @@
   title: Being Born Again from Above
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A13
   title: Being Pure in Heart
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A14
   title: Aspiring to God's Perfection & Holiness
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A15
   title: Doing Religious Things in Order to Be Seen
   commandment_type: Negative
@@ -850,10 +1237,16 @@
   title: Being Humble & Not Prideful
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A18
   title: Being Good Stewards of Our Spiritual Gifts According to the Grace Given Us
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A19
   title: Assembling with the Brethren
   commandment_type: Negative
@@ -862,6 +1255,9 @@
   title: Walking in God's Ways
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A20
   title: Living by God's Words & Not by Bread Alone
   commandment_type: Negative
@@ -870,6 +1266,9 @@
   title: Fleeing from Love of Money and Pursuing Godly Virtues
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A22
   title: Allowing Wordly Attractions to Ensnare Us
   commandment_type: Negative
@@ -878,14 +1277,23 @@
   title: Being Subject to Governing Authorities
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A24
   title: Being Clean of Spirit as Well as of Body
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A3
   title: Being Good Stewards
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A4
   title: Keeping Vows Made to God
   commandment_type: Negative
@@ -894,6 +1302,9 @@
   title: Swearing Oaths Only in God's Name
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A6
   title: Using God's Name Lightly or Falsely
   commandment_type: Negative
@@ -902,6 +1313,9 @@
   title: Confessing, Repenting, and Making Restitution for Our Sins
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: A8
   title: Succumbing to Fear, Worry & Anxiety
   commandment_type: Negative
@@ -918,6 +1332,9 @@
   title: Returning a Needed Pledged Item
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: B3
   title: Eating and Otherwise Partaking of the Produce of Our Work
   commandment_type: Negative
@@ -926,10 +1343,16 @@
   title: Giving Financial Help to Persons in Need
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: B5
   title: Setting Aside Part of Our Increase for the Poor
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: B6
   title: Gleanings and Part of Life-Sustaining Commodities Left for the Poor & Disadvantaged
   commandment_type: Positive
@@ -938,10 +1361,16 @@
   title: Being Fair & Honest in Business
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: C2
   title: Paying an Employee His Wage on the Day He Labors or When Due
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: C3
   title: Cancelling Loans & Not Refusing to Make Loans In & Near the Sabbatical Year
   commandment_type: Negative
@@ -1034,6 +1463,9 @@
   title: Preserving & Disseminating God's Word
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: E2
   title: Performing & Receiving B'rit Milah
   commandment_type: Positive
@@ -1058,22 +1490,37 @@
   title: Tithes, Offerings, & Tz'dakah
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMn GFm
+    group: All
 - id: E8
   title: Being Fruitful & Multiplying in Number & in Fruitfulness
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm KMm KFm JFm GMm GFm
+    group: All
 - id: F1
   title: Honoring and Revering Our Father and Mother
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm KMm KFm JFm GMm GFm
+    group: All
 - id: F2
   title: The Covenant Laws of Marriage
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm KMm KFm JFm GMm GFm
+    group: All
 - id: F3
   title: Divorce & Remarriage
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm KMm KFm JFm GMm GFm
+    group: All
 - id: F4
   title: Withholding Food, Clothing, or Marital Rights from Our Wife
   commandment_type: Positive
@@ -1086,6 +1533,9 @@
   title: Believing in God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G10
   title: Approaching God While Unrepentant
   commandment_type: Negative
@@ -1094,18 +1544,30 @@
   title: Being Thankful to God and Blessing Him in All Things
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G12
   title: Having Faith in God & Trusting Him in All Things
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G13
   title: Dedicating Ourselves to God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G14
   title: Knowing God by His Observing His Creation
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G15
   title: Blaspheming God vs. Receiving Messiah & the Holy Spirit
   commandment_type: Negative
@@ -1114,34 +1576,58 @@
   title: Putting God First
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G17
   title: Being Continuous, Persistent & Fervent in Prayer
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G18
   title: Waiting on God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G19
   title: Praying in Faith & Having Faith for That Which We Pray
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm KMm KFm JFm GMm GFm
+    group: All
 - id: G2
   title: Acknowledging and not Denying Belief in God and in Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G20
   title: Knowing God & Who He Is
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G3
   title: Knowing that God is Echad & Triune
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G4
   title: Loving God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm GMm GFm KMm KFm
+    group: All
 - id: G5
   title: Testing God's Promises and Warnings
   commandment_type: Negative
@@ -1150,6 +1636,9 @@
   title: Fearing God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G7
   title: Treating God as Holy by Proclaiming Him Holy, Being Holy and by Not Profaning His Name
   commandment_type: Negative
@@ -1158,18 +1647,30 @@
   title: Serving, Worshiping, Praising, & Praying to God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: G9
   title: Clinging to God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: H1
   title: Having Reverence for God's Sanctuary
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: H2
   title: Modeling God's Holiness by Our Appearance & by What We Wear
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: H3
   title: Preserving Things That Belong to God and That are Holy
   commandment_type: Negative
@@ -1178,6 +1679,9 @@
   title: Using Our Speech, Thoughts, Hearts and Actions for That which Is Good and Holy
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: H5
   title: Conducting Sacrifices Outside of the Holy Temple
   commandment_type: Negative
@@ -1194,6 +1698,9 @@
   title: Dying to Self
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: I1
   title: Practicing Idolatry
   commandment_type: Negative
@@ -1218,6 +1725,9 @@
   title: Destroying Idolatry
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: I7
   title: Listening to Those Who Would Lead Us Toward Idolatry
   commandment_type: Negative
@@ -1234,10 +1744,16 @@
   title: Applying the Mosaic Law in a Manner Consistent with New Covenant Realities
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: J2
   title: God's Law of Justice
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: J3
   title: Injury & Damages
   commandment_type: Negative
@@ -1246,10 +1762,16 @@
   title: Law of Inheritance
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: J5
   title: Appointing Elders to Lead, Pray, Teach, Judge & Make Halachah
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: K1
   title: Creatures We Are Allowed to Eat and Forbidden to Eat
   commandment_type: Negative
@@ -1290,10 +1812,16 @@
   title: Pursuing Righteousness & Doing What Is Right
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: M10
   title: Biblical Principles of War
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: M11
   title: Resisting Temptation to Sin
   commandment_type: Negative
@@ -1302,6 +1830,9 @@
   title: Keeping Our Promises
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: M3
   title: Telling the Truth
   commandment_type: Negative
@@ -1322,10 +1853,16 @@
   title: Pursuing Economic Equity through Our Institutions
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: M8
   title: Being Humane in Our Dominion over God's Creatures
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: M9
   title: Coveting or Planning to Acquire Another's Property
   commandment_type: Negative
@@ -1334,14 +1871,23 @@
   title: Loving Our Neighbor, the Stranger, and Even Our Enemy
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N10
   title: Kidnapping
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N11
   title: Being Hospitable
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N12
   title: Judging Our Neighbor
   commandment_type: Negative
@@ -1350,6 +1896,9 @@
   title: Repenting of Our Own Sin before Seeking to Correct Our Neighbor
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N14
   title: Serving Our Neighbor
   commandment_type: Negative
@@ -1358,6 +1907,9 @@
   title: Pursuing Peace with Our Neighbor
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N16
   title: Nursing Anger Toward Our Neighbor
   commandment_type: Negative
@@ -1370,6 +1922,9 @@
   title: Being Compassionate & Merciful Toward Our Neighbor
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N2
   title: Wronging One Another through Our Speech
   commandment_type: Negative
@@ -1378,10 +1933,16 @@
   title: Helping Our Neighbor Who Is In Need
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N4
   title: Forgiving Our Neighbor
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N5
   title: Resolving Disputes, Correcting, Reconciling With & Bringing Discipline to Brother Believers
   commandment_type: Negative
@@ -1394,22 +1955,37 @@
   title: Taking Reasonable Steps to Keep Ourselves and Others Safe
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N8
   title: Giving Respect & Honor to Persons of Advanced Age
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: N9
   title: Helping a Person Who Needs Rescue
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: O1
   title: Being Salt for the Earth & a Light for the World
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: O2
   title: Ackowledging & Utilizing Our Spiritual Authority
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: O3
   title: Preaching the Word of God to Those Who Are Closed to It
   commandment_type: Negative
@@ -1418,6 +1994,9 @@
   title: Implementing the "Great Commission" Proclaimed by Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: O5
   title: Casting Demons Out of Persons Unable to Maintain Deliverance
   commandment_type: Negative
@@ -1426,18 +2005,30 @@
   title: The Priesthood of Israel & of Believers in Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: P2
   title: Cohanim to Bless God's People
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMo JFo KMo KFo GMo GFo
+    group: All
 - id: P3
   title: Regarding God's Priests as Holy
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: P4
   title: The Priesthood of Believers & Entering God's Most Holy Place
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
 - id: P5
   title: Priests Marrying Persons Likely to Compromise Their Holiness
   commandment_type: Negative
@@ -1454,10 +2045,16 @@
   title: Listening to and Heeding God's Voice
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: R2
   title: Receiving the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: R3
   title: Coming Against the Holy Spirit
   commandment_type: Negative
@@ -1466,6 +2063,9 @@
   title: Testing the Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: S1
   title: Engaging in Homosexuality
   commandment_type: Negative
@@ -1506,6 +2106,9 @@
   title: Studying, Hearing & Teaching Torah & Torah -Obedience
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: W10
   title: Attending to Both the Lesser & the Weightier Matters of Torah
   commandment_type: null
@@ -1514,6 +2117,9 @@
   title: Remembering and Walking in Awareness of God's Word
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: ''
+    group: All
 - id: W3
   title: Prophesying Falsely
   commandment_type: null
@@ -1546,18 +2152,30 @@
   title: Seudat Ha-Adon
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: Y2
   title: Abiding in Yeshua in Order to Bear Fruit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: Y3
   title: Trusting in Yeshua & Believing that He is Our Messiah Sent by God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: Y4
   title: Expecting & Accepting Persecution on Account of Our Faith in Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: Y5
   title: Denying Yeshua for Fear of Man
   commandment_type: Negative
@@ -1566,10 +2184,16 @@
   title: Following Yeshua & Putting Him Before of All Else
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: Y7
   title: Acknowledging God as Our Supreme Father, & Yeshua as Our Supreme Rabbi, Teacher, & Leader
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: Y8
   title: Coming to Yeshua for Spiritual Rest
   commandment_type: null
@@ -1590,6 +2214,9 @@
   title: Receiving the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AB11
   title: Living by the Holy Spirit and Not by Our Old Nature
   commandment_type: Positive & Negative
@@ -1602,22 +2229,37 @@
   title: Conforming Our Mind and Aligning Our Conscience with the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AB14
   title: Seeking and Pursuing the Things of the Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AB15
   title: Being Transformed by the Renewing of Our Mind and Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AB16
   title: Producing Fruit of the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AB2
   title: Being Filled with the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AB3
   title: Not Quenching the Holy Spirit
   commandment_type: Negative
@@ -1634,18 +2276,30 @@
   title: Sowing in the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AB7
   title: Being Led by the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AB8
   title: Hearing the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: AB9
   title: Being Bold in the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BA68
   title: ''
   commandment_type: ''
@@ -1654,34 +2308,58 @@
   title: Giving Tzedakah to the Poor & to Our Brother Who is in Need
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BB2
   title: Providing and Caring for Widows & Orphans
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: All
 - id: BB3
   title: Financially Supporting Our Spiritual Leaders, and Those Who Teach and Minister
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BB4
   title: Requiring Children to Support Their Widowed Mothers
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BB5
   title: Requiring Grandchildren to Support Their Widowed Grandmothers
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BB6
   title: Supporting Our Family Financially
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BB7
   title: Women Supporting Their Widowed Relatives
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: All
 - id: BB8
   title: Congregations Supporting Widows Who Are in Need
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: BB9
   title: Only Giving Support to Virtuous Widows Who Are Over 60 and Not Pursuing Remarriage
   commandment_type: Positive & Negative
@@ -1698,6 +2376,9 @@
   title: Children Obeying Their Parents
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: CB12
   title: Fathers Not Irritating Their Children
   commandment_type: Negative
@@ -1714,10 +2395,16 @@
   title: Honoring Our Parents
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: CB16
   title: A Man Leaving His Mother and Father and Uniting with His Wife
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFi KMm KFi GMm GFi
+    group: All
 - id: CB17
   title: Co-Dependence of Husbands and Wives
   commandment_type: Positive
@@ -1746,6 +2433,9 @@
   title: Wives Who Leave their Husbands Remaining Single
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: All
 - id: CB23
   title: Treating Marriage as Honorable
   commandment_type: Positive
@@ -1814,18 +2504,30 @@
   title: Remaining in the Same Condition and Identity as When First Called
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DB2
   title: Circumcising on the Eighth Day After Birth
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMo KFo GMu GFu
+    group: All
 - id: DB3
   title: Identifying as Children of God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DB4
   title: Embracing Jewish Identity and Responsibility
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMp GFp
+    group: All
 - id: EA1
   title: Not Boasting or Thinking of Ourselves as Great or Unduly Important
   commandment_type: Negative
@@ -1854,6 +2556,9 @@
   title: Being Wary of Prideful Teachers
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: EA8
   title: Not Seeking Human Praise
   commandment_type: Negative
@@ -1862,6 +2567,9 @@
   title: Prophesying veiled and unveiled
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: EB2
   title: Not Despising Prophetic Messages
   commandment_type: Negative
@@ -1870,42 +2578,72 @@
   title: Exercising Control When Prophesying
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: EB4
   title: Believing the Prophets
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: EB5
   title: Evaluating Prophecies
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: EB6
   title: Prophesying in an Orderly Manner
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: EB7
   title: Interpreting Prophecy via the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA1
   title: Being Persistent, Steadfast, & Alert in Our Prayers & Petitions
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA10
   title: Praying in the Spirit for All Human Beings & Especially for God’s People
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA11
   title: Petitioning God in Faith and with Thanksgiving
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA12
   title: Praying Regularly and Continually
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA13
   title: Praying with Lifted Holy Hands
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA14
   title: Not Becoming Angry or Arguing While in Prayer
   commandment_type: Negative
@@ -1918,62 +2656,107 @@
   title: Worshiping God in Spirit and in Truth
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA17
   title: Praying to God in Yeshua’s Name
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA18
   title: Praying Together with Others
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA19
   title: Praying Vigilantly
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA2
   title: Worshiping the One True God and No Other
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA20
   title: Praying for God’s Kingdom to Come
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA21
   title: Praying for God’s Will to Be Done
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA22
   title: Praying for Daily Provisions
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA23
   title: Praying for God’s Forgiveness
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA24
   title: Praying for Protection from Temptation
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA25
   title: Praying for Protection from the Adversary
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA26
   title: Praying with Faith and without Doubt
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA27
   title: Praying for Our Brother and Our Neighbor
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA28
   title: Worshiping Yeshua as Adonai
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA29
   title: Worshiping God with Gratitude
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA3
   title: Not Praying Lengthy and Repetitious Prayers as Do the Heathens
   commandment_type: Negative
@@ -1982,14 +2765,23 @@
   title: Praying Often, Persistently, and Fervently
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA31
   title: Praying for the Good News to Be Spread Quickly
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA32
   title: Praying for All Humanity
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA33
   title: ''
   commandment_type: ''
@@ -1998,30 +2790,51 @@
   title: Praying for Wisdom
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA35
   title: Praying with Right Motives
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA36
   title: Praying in Times of Both Joy & Affliction
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA37
   title: Calling on Elders to Pray and Anoint with Oil when Sick
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA38
   title: Praying for One Another
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA39
   title: Praying in Unison with the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFi KMm KFi GMm GFi
+    group: All
 - id: FA4
   title: Praying for Workers to Minister the Existence & Identity of God, & Gather the Harvest
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA40
   title: Not Worshiping Created Things
   commandment_type: Negative
@@ -2030,22 +2843,37 @@
   title: Praying for Our Enemies
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA6
   title: Praying that God’s Name Be Kept Holy
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA7
   title: Praying & Prophesying with Head Veiled & Unveiled, Covered & Uncovered
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FA8
   title: Worshiping with Psalms, Songs and Music
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFi KMm KFi GMm GFi
+    group: All
 - id: FA9
   title: Giving Thanks in Everything
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: FB1
   title: Wives Remaining Silent in Congregation Meetings
   commandment_type: Positive
@@ -2054,6 +2882,9 @@
   title: Women Learning in Peace While Fully Submitted
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: All
 - id: FB3
   title: Women Not to Teach or Have Authority Over a Man
   commandment_type: Negative
@@ -2062,6 +2893,9 @@
   title: Women Dressing Modestly when Praying
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: All
 - id: FB5
   title: Wives Receiving Clarification from their Own Husbands
   commandment_type: Positive
@@ -2070,22 +2904,37 @@
   title: Women to Continue in Faith and Love
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: All
 - id: FB7
   title: Women Living a Holy and Modest Life
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: All
 - id: FB8
   title: Women Teaching Younger Women
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: All
 - id: FB9
   title: Women Being Homemakers
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: All
 - id: GA1
   title: Repenting of Our Sins and Turning to God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GA10
   title: ''
   commandment_type: ''
@@ -2094,18 +2943,30 @@
   title: Seeking Forgiveness of Our Sins in Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GA3
   title: Producing Fruit of Repentance
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GA4
   title: Being Immersed in the Name of Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GA5
   title: Doing Works Befitting Repentance
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GA6
   title: Not Practicing Sin
   commandment_type: Negative
@@ -2130,6 +2991,9 @@
   title: Wearing and Employing God’s Armor and Weaponry
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB12
   title: Not Being Party to Intrigue or Factions
   commandment_type: Negative
@@ -2138,10 +3002,16 @@
   title: Letting Our Conduct Fit the Level of Our Spiritual Attainment
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB14
   title: Patterning Our Life After the Shlichim, their Disciples, and Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB15
   title: Not Defiling Our Bodies
   commandment_type: Negative
@@ -2150,26 +3020,44 @@
   title: Doing Everything in the Name of Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB17
   title: Doing Everything in Faith and Unto Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB18
   title: Living a Good, Quiet, & Peaceful Life
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB19
   title: Being Alert and on Guard Against Spiritual Danger
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB2
   title: Examining Ourselves
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB20
   title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB21
   title: Working to Earn Our Living (Not Being Idle)
   commandment_type: Negative
@@ -2178,26 +3066,44 @@
   title: Living According to God’s Word and Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB23
   title: Pursuing That Which Makes for Faith and Upbuilding
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB24
   title: Putting Our Cares & Anxieties on God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB25
   title: Aspiring to Be Mature in Our Thoughts
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB26
   title: Being Like Children in Regard to Evil
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB27
   title: Welcoming and Caring for Little Children and Those Pure of Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB28
   title: Not Loving as a Mere Outward Show
   commandment_type: Negative
@@ -2206,6 +3112,9 @@
   title: Doing All Things in a Decent and Orderly Way
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB3
   title: Working at Honorable Work and Not Being Idle or Lazy
   commandment_type: Positive & Negative
@@ -2218,6 +3127,9 @@
   title: Supporting Ourselves and Sharing with Those Who Teach Us
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB32
   title: Not Being Divisive
   commandment_type: Negative
@@ -2226,14 +3138,23 @@
   title: Being Content in All Things and All Circumstances
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB34
   title: Doing Everything in Love
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB35
   title: Pursuing Shalom in Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB36
   title: Not Engaging in Excesses and Self Indulgence
   commandment_type: Negative
@@ -2246,18 +3167,30 @@
   title: Length of Hair on Men and Women
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB39
   title: Seeking the Way Out of Temptation that God Has Provided
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB4
   title: Living Our Lives Worthy of Our Calling in the Lord
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB40
   title: Coming to Our Senses
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB41
   title: Not Living & Carousing as Do the Pagans
   commandment_type: Negative
@@ -2270,18 +3203,30 @@
   title: Growing, Utilizing and Standing Firm in God’s Grace
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB44
   title: Exercising Self Control (Discipline)
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB45
   title: Taking Responsibility for Ourselves and Our Actions
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB46
   title: Exposing Evil and Deeds of Darkness
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB47
   title: Not Relying on Human Qualifications
   commandment_type: Negative
@@ -2290,6 +3235,9 @@
   title: Persevering in All Situations
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB49
   title: Not Obligating Ourselves to Worldly Rules and Teachings
   commandment_type: Negative
@@ -2302,6 +3250,9 @@
   title: Working as for the Lord
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB51
   title: Not Putting on a False Front or Having False Motives
   commandment_type: Negative
@@ -2322,10 +3273,16 @@
   title: Rejecting Godless Fables
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB56
   title: Turning Away from Ungodly Speech
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB57
   title: Not Being Diverted by Secular Affairs
   commandment_type: Negative
@@ -2334,6 +3291,9 @@
   title: Conducting Ourselves with Honor
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB59
   title: Not Being Headstrong
   commandment_type: Negative
@@ -2342,6 +3302,9 @@
   title: Using Wine Medicinally
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB60
   title: Not Allowing Passions and Emotions to Lead Us Astray
   commandment_type: Negative
@@ -2350,6 +3313,9 @@
   title: Having a Godly Purpose in Our Life
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB62
   title: Not Pursuing Only That Which We Want to Hear
   commandment_type: Negative
@@ -2358,6 +3324,9 @@
   title: Being Serious and Sensible
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB64
   title: Not Letting Others Look Down on Us
   commandment_type: Negative
@@ -2378,30 +3347,51 @@
   title: Accompanying Our Faith with Actions
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB69
   title: Serving as Priests in a Royal Priesthood
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB7
   title: Living in a Way That is Good
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB70
   title: Seeking Inner Peace
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB71
   title: Being Zealous for What is Good
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB8
   title: Conducting Ourselves Wisely and with Godly Purity
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB9
   title: Using Our Time Well
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HA1
   title: Not Being Deceived as to the Time of Yeshua’s Return
   commandment_type: Negative
@@ -2414,6 +3404,9 @@
   title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HA4
   title: Not Being Deceived by (or Follow) the “Man of Sin” (Anti-Messiah)
   commandment_type: Negative
@@ -2422,6 +3415,9 @@
   title: Patiently Awaiting Yeshua’s Return
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HA6
   title: Not Worshiping the Beast or Receiving His Mark
   commandment_type: Negative
@@ -2438,6 +3434,9 @@
   title: Internalizing the Word of God and of Messiah
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB12
   title: Not Neglecting the Torah (God’s Teaching)
   commandment_type: Negative
@@ -2450,30 +3449,51 @@
   title: Using Torah as Torah Itself Intends
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB15
   title: Knowing for Whom Torah is Intended
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB16
   title: Knowing the Holy Scriptures
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB17
   title: Believing in the Inspiration of Scripture and Its Usefulness for Equipping
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB18
   title: Learning God’s Word
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB19
   title: Proclaiming God’s Word
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB2
   title: Seeking to Understand the Will of God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB20
   title: Not Disregarding the Torah of Moses
   commandment_type: Negative
@@ -2482,18 +3502,30 @@
   title: Receiving God’s Implanted Word
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB22
   title: Being Both a Hearer and Doer of God’s Word
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB23
   title: Considering the Torah a Torah of Freedom
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB24
   title: Thirsting for the Word of God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB25
   title: Submitting to God’s Will and Not to Human Desires
   commandment_type: Positive & Negative
@@ -2514,6 +3546,9 @@
   title: Keeping Torah in Our Heart
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: HB7
   title: Not Treating Torah as Having Been Abolished and Replaced by Yeshua
   commandment_type: Negative
@@ -2530,6 +3565,9 @@
   title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFi KMi KFi GMm GFm
+    group: All
 - id: IA2
   title: Not Arguing, Judging, or Causing a Brother to Stumble Over Prohibited Foods
   commandment_type: Negative
@@ -2550,6 +3588,9 @@
   title: Allowing Ourselves to Be Abused within Reason
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFi KMm KFi GMm GFi
+    group: All
 - id: JA11
   title: ''
   commandment_type: ''
@@ -2562,6 +3603,9 @@
   title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: JA3
   title: Not Fearing Those Who Would Oppose, Persecute or Harm Us
   commandment_type: Negative
@@ -2574,10 +3618,16 @@
   title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: JA6
   title: Offering the Other Cheek
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: JA7
   title: Not Being Surprised When We Are Hated for Our Faith
   commandment_type: Negative
@@ -2586,18 +3636,30 @@
   title: Blessing Our Enemies and Expecting Nothing in Return
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: JA9
   title: Keeping Our Faith Amidst Persecution
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: KA1
   title: Being on Our Guard Against False Messiahs
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: KA2
   title: Being on Our Guard Against False Prophets
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: KA3
   title: Being on Our Guard Against and Not Associating with False Teachers
   commandment_type: Positive & Negative
@@ -2682,18 +3744,30 @@
   title: Ministering Healing as Led by the Holy Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA11
   title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA12
   title: Being Peacemakers
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA13
   title: Eating What is Offered When Traveling for Ministry
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA14
   title: ''
   commandment_type: ''
@@ -2702,38 +3776,65 @@
   title: Teaching and Ministering the Words of God & Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA16
   title: Giving Attention to the Reading of Scripture
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA17
   title: Identifying with Those to Whom We Minister
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA18
   title: Ministering as Ambassadors of Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA19
   title: Preaching Reconciliation with God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA2
   title: Relying on Hospitality & the Support of Others When We Travel for Ministry
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA20
   title: Ministering to the Poor, the Weak, & the Timid
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA21
   title: Ministering with the Wisdom of Messiah
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA22
   title: Ministering in a Fatherly Manner
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA23
   title: Not Teaching, Permitting Others to Teach, or Giving Ourselves to, False Doctrines
   commandment_type: Negative
@@ -2742,14 +3843,23 @@
   title: Teaching Obedience to God’s Mitzvot
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA25
   title: Teaching Godliness
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA3
   title: Ministering First to the Jew and Then to the Gentile
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA4
   title: Not Asking Payment for Ministering the Word of God
   commandment_type: Negative
@@ -2758,22 +3868,37 @@
   title: Teaching Both in Public and in Private
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA6
   title: Teaching Those Who Teach Others
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA7
   title: Using the Tanakh to Show that Yeshua is Mashiach
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA8
   title: Confessing Our Sins to One Another
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: NA9
   title: Ministering to, Caring for & Protecting Those for Whom Leaders Have Responsibility
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: OA1
   title: Attributes & Behaviors Required of Congregational Leaders & Elders
   commandment_type: Positive
@@ -2790,6 +3915,9 @@
   title: Leading by Example
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: OA2
   title: Attributes & Behaviors Required of Shamashim
   commandment_type: Positive
@@ -2798,98 +3926,170 @@
   title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: OA4
   title: Being Cautious in Granting S’michah
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: OA5
   title: Acknowledging Yeshua as Our Spiritual Leader
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: OA6
   title: Required Attributes and Behaviors of Leaders’ Wives
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFi KMm KFi GMm GFi
+    group: All
 - id: OA7
   title: Imitating the Faith of Our Spiritual Leaders
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: OA8
   title: Submitting to and Obeying Our Spiritual Leaders
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: OA9
   title: Spiritual Leaders Pastoring Those in Their Care
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: PA1
   title: Giving to Our Secular Authorities That Which is Theirs
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: PA2
   title: Guarding Against Wrongful Ways of Leaders, Teachers, and Others Who Are in Charge
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: PA3
   title: Submitting to and Obeying the Authorities Placed Over Us
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: PA4
   title: Leading by Serving
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: PA5
   title: Commanding Obedience to God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: PA6
   title: Honoring Our Secular Authorities
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: QA1
   title: Preaching, Teaching, & Making Disciples of Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: QA2
   title: Boasting About God and Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: QA3
   title: Knowing the Dangers Involved in Preaching the Good News
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: QA4
   title: Proclaiming the Kingdom of God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: QA5
   title: Preaching in the Synagogue of the Unbeliever
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: QA6
   title: Having Courage to Proclaim the Good News
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA1
   title: Turning Sinners Away from their Sin
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA10
   title: Rebuking and Exhorting with Patience and Instruction
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA11
   title: Pursuing Justice
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA12
   title: Batei Din Judging Only Believers
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMi KFi GMi GFi
+    group: All
 - id: RA13
   title: Expelling Evil Doers from the Community of Believers
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA14
   title: Believers Not Adjudicating Disputes in a Court of Unbelievers (See DA14)
   commandment_type: Negative
@@ -2902,6 +4102,9 @@
   title: Confronting and Correcting the Lazy Among Us
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA17
   title: Not Committing Perjury
   commandment_type: Negative
@@ -2918,6 +4121,9 @@
   title: Correcting Those Who Teach and Follow False Doctrines
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA20
   title: Not Prejudging
   commandment_type: Negative
@@ -2926,26 +4132,44 @@
   title: Judging Without Prejudice or Partiality
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA22
   title: First Warning and Then Banning Divisive Persons from Fellowship
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA23
   title: Receiving God’s Correction and Discipline with a Good Attitude
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA24
   title: Regarding as Discipline Our Having to Endure Trials
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA3
   title: Correcting Our Self Before Seeking to Correct Others
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA4
   title: Correcting One Another with Humility and Gentleness
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA5
   title: Not Receiving an Accusation Against a Leader Except by Two or Three Witnesses
   commandment_type: Negative
@@ -2954,6 +4178,9 @@
   title: Publicly Rebuking Leaders Who Continue to Sin
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: RA7
   title: Judging Rightly and Not Falsely
   commandment_type: Positive & Negative
@@ -2966,26 +4193,44 @@
   title: Letting Punishment Fit the Offense
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: SA1
   title: Fighting the Good Fight of the Faith
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: SA10
   title: Testing Every Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: SA2
   title: Working Out Our Deliverance with Fear and Trembling
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: SA3
   title: Expelling Demons
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: SA4
   title: Arming Ourselves with Spiritual Weapons
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: SA5
   title: Not Allowing Ourselves to be Deceived by the Adversary or Deceiving Spirits
   commandment_type: Negative
@@ -2994,6 +4239,9 @@
   title: Being a Soldier of Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: SA7
   title: Not Denying the Power of Faith
   commandment_type: Negative
@@ -3002,94 +4250,163 @@
   title: Resisting and Opposing the Adversary
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: SA9
   title: Arming Ourselves with the Mind of Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA1
   title: Coming to & Believing (Trusting) in Yeshua for Salvation
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA10
   title: Believing that Yeshua was Raised from the Dead
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA11
   title: Believing that Yeshua Died for Our Sins
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA12
   title: Being Ready to Give a Reasoned Answer for Our Hope
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA13
   title: Being Terrified of Falling Short of Salvation
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA2
   title: Being Born Again of the Spirit
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA3
   title: Maintaining the Hope of Deliverance /Salvation
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA4
   title: Entering the Kingdom of God Like Innocent Children
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA5
   title: Embracing and Rejoicing in Our Salvation
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA6
   title: Believing in Resurrection of the Dead
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA7
   title: Knowing that Sin is an Impediment to Salvation
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA8
   title: Calling on Yeshua’s Name for Salvation
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: TA9
   title: Enduring Hardships to Enter the Kingdom of God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: UA1
   title: Seeking to Escape from the Coming Tribulation
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: UA2
   title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: UA3
   title: Being Encouraged in Our Suffering
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: UA4
   title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: UA5
   title: Handling Painful Situations in a Godly Way
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: UA6
   title: Overcoming Adversity through Faith and Perseverance
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: UA7
   title: Bearing Up Under Undeserved Punishment
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: VA1
   title: Separating Ourselves from Idolaters
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: VA2
   title: Not Engaging in Idolatry
   commandment_type: Negative
@@ -3106,10 +4423,16 @@
   title: Guarding Against False Gods
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: WA1
   title: Abstaining from Fornication and Other Acts of Sexual Immorality
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: WA2
   title: Not Lusting After a Person of the Opposite Sex while Either is Married to Another
   commandment_type: Negative
@@ -3138,14 +4461,23 @@
   title: Messianic Jews Relating to Gentile Believers as Brothers and Sisters
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMi GFi
+    group: All
 - id: XA11
   title: Jews Being a Light and Blessing to the Gentiles
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMi GFi
+    group: All
 - id: XA12
   title: Gentiles Being Holy
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFi KMi KFi GMm GFm
+    group: All
 - id: XA13
   title: Not Requiring Gentiles to Live as Jews
   commandment_type: Negative
@@ -3154,14 +4486,23 @@
   title: Gentiles Rejoicing with the Jewish People
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFi KMi KFi GMm GFm
+    group: All
 - id: XA3
   title: Gentiles Undergoing B’rit Milah
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFi KMi KFi GMm GFi
+    group: All
 - id: XA4
   title: Applying Torah to Gentiles
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFi KMi KFi GMm GFm
+    group: All
 - id: XA5
   title: Not Placing Obstacles in the Way of Gentiles
   commandment_type: Negative
@@ -3170,42 +4511,72 @@
   title: Gentiles Helping Jews in Material Ways
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFi KMi KFi GMm GFm
+    group: All
 - id: XA7
   title: Treating Gentiles and Jews as Spiritually Equal
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: XA8
   title: Gentiles Praising the Lord
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFi KMi KFi GMm GFm
+    group: All
 - id: XA9
   title: Gentiles Obeying Torah
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMi JFi KMi KFi GMm GFm
+    group: All
 - id: YA1
   title: Offering Ourselves as Living Sacrifices
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: YA2
   title: Accepting Suffering and Disgrace in Order to Serve Yeshua
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: YA3
   title: Continually Offering Sacrifices of Praise to God
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: YA4
   title: Laying Down Our Life for Our Brother
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: ZA1
   title: Using Our Spiritual Gifts to Serve Others
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: ZA10
   title: Using Our Spiritual Gifts to Edify the Body
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: ZA11
   title: Not Speaking in Tongues When Unbelievers or Uninstructed Persons Are Present
   commandment_type: Negative
@@ -3222,14 +4593,23 @@
   title: Seeking to Interpret One’s Own Utterance in Tongues
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: ZA3
   title: Exercising the Gift of Tongues in Good Order
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: ZA4
   title: Seeking the Interpretation of Tongues When Spoken in Public
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: ZA5
   title: Not to Prophesy in Tongues If There is No One to Interpret
   commandment_type: Negative
@@ -3238,15 +4618,27 @@
   title: Seeking the Gift of Prophecy
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: ZA7
   title: Determining Our Spiritual Gifts
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: ZA8
   title: Seeking, Receiving, and Relying on Holy Spirit Power
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: ZA9
   title: Preferring Love Over Spiritual Gifts
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
