@@ -41,7 +41,9 @@
   - MN180
   - MN181
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A10
@@ -133,7 +135,9 @@
   meir:
   - MN193
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A11
@@ -180,7 +184,9 @@
   - RN73
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: A12
@@ -214,7 +220,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A012.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A13
@@ -250,7 +258,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A013.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: A14
@@ -281,7 +291,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A014.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A15
@@ -306,7 +318,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A015.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A16
@@ -334,7 +348,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A016.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: A17
@@ -422,7 +438,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A017.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A18
@@ -472,7 +490,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A018.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A19
@@ -535,7 +555,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A019.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A2
@@ -574,7 +596,9 @@
   meir:
   - MP6
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A20
@@ -605,7 +629,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A020.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: A21
@@ -696,7 +722,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A021.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A22
@@ -738,7 +766,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A022.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A23
@@ -763,7 +793,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A023.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A24
@@ -793,7 +825,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A024.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: A3
@@ -833,7 +867,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/A003.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: A4
@@ -881,7 +917,9 @@
   - MP39
   - MP39
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A5
@@ -924,7 +962,9 @@
   meir:
   - MN30
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A6
@@ -968,7 +1008,9 @@
   - MN155
   - MN22
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A7
@@ -1023,7 +1065,9 @@
   - MP32
   - MP33
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A8
@@ -1091,7 +1135,9 @@
   meir:
   - MN72
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: A9
@@ -1131,7 +1177,9 @@
   - MP30
   - MP31
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: B1
@@ -1185,7 +1233,9 @@
   - MN55
   - MN55
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: B2
@@ -1217,7 +1267,9 @@
   - MP63
   - MN61
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: B3
@@ -1244,7 +1296,9 @@
   meir:
   - MP65
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: B4
@@ -1294,7 +1348,9 @@
   - MP38
   - MP38
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: B5
@@ -1332,7 +1388,9 @@
   - MP4
   - ML6
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: B6
@@ -1366,7 +1424,9 @@
   - ML6
   - ML5
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: C1
@@ -1416,7 +1476,9 @@
   - MN47
   - MN84
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: C2
@@ -1446,7 +1508,9 @@
   - MN38
   - MP66
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: C3
@@ -1487,7 +1551,9 @@
   - MN57
   - MN56
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: C4
@@ -1533,7 +1599,9 @@
   - MN59
   - MN60
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D1
@@ -1592,7 +1660,9 @@
   - MN6
   - MP20
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D10
@@ -1634,7 +1704,9 @@
   - RP128
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D11
@@ -1670,7 +1742,9 @@
   - MP22
   - MP24
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D12
@@ -1711,7 +1785,9 @@
   meir:
   - MP30
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D13
@@ -1759,7 +1835,9 @@
   meir:
   - MP32
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: D14
@@ -1796,7 +1874,9 @@
   meir:
   - MP21
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D15
@@ -1824,7 +1904,9 @@
   meir:
   - MP35
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D16
@@ -1852,7 +1934,9 @@
   meir:
   - MP36
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D17
@@ -1878,7 +1962,9 @@
   - RP16
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D18
@@ -1937,7 +2023,9 @@
   - MN57
   - MN56
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D19
@@ -1993,7 +2081,9 @@
   - RP139
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D2
@@ -2020,7 +2110,9 @@
   meir:
   - MN7
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D20
@@ -2058,7 +2150,9 @@
   - RP153
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: D3
@@ -2093,7 +2187,9 @@
   meir:
   - MP19
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D4
@@ -2195,7 +2291,9 @@
   - MP34
   - MP37
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D5
@@ -2227,7 +2325,9 @@
   meir:
   - MP26
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D6
@@ -2273,7 +2373,9 @@
   - MN3
   - MN2
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D7
@@ -2320,7 +2422,9 @@
   - MN4
   - MN104
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D8
@@ -2374,7 +2478,9 @@
   meir:
   - MP23
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: D9
@@ -2414,7 +2520,9 @@
   - RP61
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMn GFn
+  ncla:
+  - code: JMm JFm KMm KFm GMn GFn
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: E1
@@ -2456,7 +2564,9 @@
   - MP8
   - MP12
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: E2
@@ -2508,7 +2618,9 @@
   - MP47
   - MP47
   chinuch: []
-  ncla: JMm JFm KMo KFo GMu GFu
+  ncla:
+  - code: JMm JFm KMo KFo GMu GFu
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: E3
@@ -2549,7 +2661,9 @@
   - MP55
   - MP54
   chinuch: []
-  ncla: JMm JFu KMi KFi GMi GFi
+  ncla:
+  - code: JMm JFu KMi KFi GMi GFi
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: E4
@@ -2602,7 +2716,9 @@
   - MP47
   - MP47
   chinuch: []
-  ncla: JMm JFm KMm KFm GMu GFu
+  ncla:
+  - code: JMm JFm KMm KFm GMu GFu
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: E5
@@ -2646,7 +2762,11 @@
   - RN54
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMi JFi KMn KFn GMp GFp
+    group: Persons Converting
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Persons Receiving Converts
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: E6
@@ -2692,7 +2812,9 @@
   - MP8
   - MP12
   chinuch: []
-  ncla: JMm JFm KMo KFo GMn GFn
+  ncla:
+  - code: JMm JFm KMo KFo GMn GFn
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: E7
@@ -2766,7 +2888,9 @@
   - ML14
   - ML17
   chinuch: []
-  ncla: JMm JFm KMm KFm GMn GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMn GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: E8
@@ -2807,7 +2931,9 @@
   - MP43
   - MN42
   chinuch: []
-  ncla: JMm KMm KFm JFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: F1
@@ -2857,7 +2983,9 @@
   - MP42
   - MP17
   chinuch: []
-  ncla: JMm KMm KFm JFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: F2
@@ -2964,7 +3092,9 @@
   - MP139
   - MP140
   chinuch: []
-  ncla: JMm KMm KFm JFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: F3
@@ -3058,7 +3188,9 @@
   meir:
   - MN134
   chinuch: []
-  ncla: JMm KMm KFm JFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: F4
@@ -3086,7 +3218,11 @@
   meir:
   - MN42
   chinuch: []
-  ncla: JMm JFm KMm JFm GMm GFm
+  ncla:
+  - code: JMm JFi KMm KFi GMm GFi
+    group: Ancient Understanding
+  - code: JMm JFm KMm GMm GFm
+    group: Modern Understanding
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: F5
@@ -3114,7 +3250,9 @@
   ncla_deviation: true
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/F005.php
-  ncla: JMm KMm KFm JFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G1
@@ -3149,7 +3287,9 @@
   meir:
   - MP1
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: G10
@@ -3181,7 +3321,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/G010.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: G11
@@ -3255,7 +3397,9 @@
   meir:
   - MP13
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G12
@@ -3444,7 +3588,9 @@
   - MP34
   - MP37
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: G13
@@ -3515,7 +3661,9 @@
   - RP93
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: G14
@@ -3558,7 +3706,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/G014.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: G15
@@ -3732,7 +3882,9 @@
   - RN60
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G16
@@ -3768,7 +3920,9 @@
   meir:
   - MN8
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G17
@@ -3805,7 +3959,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/G017.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G18
@@ -3862,7 +4018,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/G018.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G19
@@ -3889,7 +4047,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/G019.php
-  ncla: JMm KMm KFm JFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G2
@@ -3940,7 +4100,9 @@
   - MP16
   - MP12
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: G20
@@ -4389,7 +4551,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/G020.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: G3
@@ -4418,7 +4582,9 @@
   meir:
   - MP2
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: G4
@@ -4450,7 +4616,9 @@
   meir:
   - MP3
   chinuch: []
-  ncla: JMm JFm GMm GFm KMm KFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G5
@@ -4479,7 +4647,9 @@
   - RN64
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G6
@@ -4538,7 +4708,9 @@
   - MP4
   - MP4
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G7
@@ -4583,7 +4755,9 @@
   meir:
   - MP5
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G8
@@ -4668,7 +4842,9 @@
   - MP7
   - MP7
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: G9
@@ -4699,7 +4875,9 @@
   meir:
   - MP16
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: H1
@@ -4731,7 +4909,9 @@
   - MP18
   - MP18
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: H2
@@ -4784,7 +4964,9 @@
   - MN178
   - MN181
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: H3
@@ -4820,7 +5002,9 @@
   - MN157
   - MN191
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: H4
@@ -4880,7 +5064,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/H004.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: H5
@@ -4913,7 +5099,9 @@
   - RP90
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: H6
@@ -4943,7 +5131,9 @@
   - RN365
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: H7
@@ -4971,7 +5161,9 @@
   meir:
   - MN143
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: H8
@@ -5034,7 +5226,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/H008.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: I1
@@ -5115,7 +5309,9 @@
   - MN161
   - MN11
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: I2
@@ -5184,7 +5380,9 @@
   - MN165
   - MN170
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: I3
@@ -5234,7 +5432,9 @@
   - MN18
   - MN18
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: I4
@@ -5264,7 +5464,9 @@
   - MN14
   - MN23
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: I5
@@ -5331,7 +5533,9 @@
   - MP26
   - MN162
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: I6
@@ -5395,7 +5599,9 @@
   - MP76
   - MP77
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: I7
@@ -5435,7 +5641,9 @@
   - MN22
   - MN192
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: I8
@@ -5471,7 +5679,9 @@
   meir:
   - MN19
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: I9
@@ -5534,7 +5744,9 @@
   - MP179
   - MN181
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: J1
@@ -5582,7 +5794,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/J001.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: J2
@@ -5723,7 +5937,9 @@
   - MN43
   - MN74
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: J3
@@ -5810,7 +6026,9 @@
   - MN30
   - MN48
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: J4
@@ -5869,7 +6087,9 @@
   meir:
   - MP73
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: J5
@@ -5918,7 +6138,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/J005.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: K1
@@ -5980,7 +6202,9 @@
   - MN100
   - MN96
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: K2
@@ -6015,7 +6239,9 @@
   - MN91
   - MN92
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: K3
@@ -6044,7 +6270,11 @@
   meir:
   - MN88
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: generally
+  - code: JMm JFm KMm KFm GMo GFo
+    group: regarding fat
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: K4
@@ -6086,7 +6316,9 @@
   meir:
   - MN89
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: K5
@@ -6118,7 +6350,9 @@
   meir:
   - MN1
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: K6
@@ -6168,7 +6402,11 @@
   - MN90
   - MN86
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Abstention from eating blood
+  - code: JMm JFm KMm KFm GMr GFr
+    group: Other requirements of the Mitzvah
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: L1
@@ -6215,7 +6453,9 @@
   ncla_deviation: true
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/L001.php
-  ncla: JMm JFm KMu KFu GMu GFu
+  ncla:
+  - code: JMm JFm KMu KFu GMu GFu
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: L2
@@ -6250,7 +6490,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/L002.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: L3
@@ -6301,7 +6543,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/L003.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: M1
@@ -6334,7 +6578,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/M001.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: M10
@@ -6382,7 +6628,9 @@
   meir:
   - MN191
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: M11
@@ -6420,7 +6668,9 @@
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/M011.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: M2
@@ -6455,7 +6705,9 @@
   - MP39
   - MP39
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: M3
@@ -6519,7 +6771,9 @@
   - MN85
   - MN84
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: M4
@@ -6553,7 +6807,9 @@
   - MP69
   - MN182
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: M5
@@ -6599,7 +6855,9 @@
   meir:
   - MN32
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: M6
@@ -6652,7 +6910,9 @@
   - MN35
   - MN85
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: M7
@@ -6696,7 +6956,9 @@
   - MP56
   - MP57
   chinuch: []
-  ncla: JMm JFm KMm KFm GMo GFo
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: M8
@@ -6762,7 +7024,9 @@
   - MN180
   - MN188
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: M9
@@ -6797,7 +7061,9 @@
   - MP41
   - MN41
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N1
@@ -6876,12 +7142,14 @@
   - MP61
   - MP69
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N10
   commandment: We are prohibited from kidnapping anyone for any reason.
-  commandment_type: Negative
+  commandment_type: Positive
   commentary_rudolph: Kidnapping (abduction) is essentially stealing a person. Coveting a person such as a servant or another man's wife is a state of mind that precedes the act of stealing or kidnapping. The Scriptures speak for themselves regarding the wrongfulness of kidnapping Israelites and all others as well.
   classical_commentators: The mitzvot of Maimonides, Meir, and HaChinuch prohibit the kidnapping of Israelites only, and consider kidnapping to be stealing.
   commentary_juster: There is a special case of kidnapping - kidnapping for ransom - where it is not the person who is desired, but a reward for the return of the person. The reward sought might be monetary or something else, such as the release of a prisoner. In addition, there is the kidnapping of children, again for reward, but also for people who simply want a child and take someone else's. This was the case in Solomon's famous decision of the woman who lost her own baby and wanted to steal the other's. Both of these are serious crimes and require serious penalties.
@@ -6915,7 +7183,9 @@
   meir:
   - MN33
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N11
@@ -6994,7 +7264,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/N011.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N12
@@ -7070,7 +7342,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/N012.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N13
@@ -7094,7 +7368,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/N013.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N14
@@ -7134,7 +7410,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/N014.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: N15
@@ -7163,7 +7441,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/N015.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N16
@@ -7208,7 +7488,9 @@
   meir:
   - MP60
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N17
@@ -7233,7 +7515,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/N017.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: N18
@@ -7310,7 +7594,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/N018.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N2
@@ -7408,7 +7694,9 @@
   - MN79
   - MN48
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N3
@@ -7465,7 +7753,9 @@
   - MP60
   - MP71
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N4
@@ -7504,7 +7794,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/N004.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N5
@@ -7582,7 +7874,9 @@
   meir:
   - MP72
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N6
@@ -7618,7 +7912,9 @@
   meir:
   - MN51
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N7
@@ -7651,7 +7947,9 @@
   meir:
   - MP75
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N8
@@ -7690,7 +7988,9 @@
   meir:
   - MP17
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: N9
@@ -7725,7 +8025,9 @@
   - RP247
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: O1
@@ -7754,7 +8056,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/O001.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: O2
@@ -7800,7 +8104,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/O002.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: O3
@@ -7830,7 +8136,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/O003.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: O4
@@ -7872,7 +8180,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/O004.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: O5
@@ -7907,7 +8217,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/O005.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: P1
@@ -7953,7 +8265,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/P001.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: P2
@@ -7981,7 +8295,13 @@
   meir:
   - MP58
   chinuch: []
-  ncla: JMo JFo KMo KFo GMo GFo
+  ncla:
+  - code: JMo JFo KMo KFo GMo GFo
+    group: Believers in Yeshua
+  - code: JMo JFi KMi KFi GMi GFi
+    group: Cohen Levitical unbelievers in Yeshua
+  - code: JMo JFi KMi KFi GMi GFi
+    group: Non- Cohen Levitical unbelievers in Yeshua
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: P3
@@ -8014,7 +8334,9 @@
   meir:
   - MP50
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: P4
@@ -8046,7 +8368,9 @@
   - RN68
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMr GFr
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: P5
@@ -8085,7 +8409,9 @@
   - MP140
   - MP50
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: P6
@@ -8122,7 +8448,9 @@
   - RN75
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: P7
@@ -8153,7 +8481,11 @@
   - MP59
   - MN141
   chinuch: []
-  ncla: JMi JFi KMi KFi GMi GFi
+  ncla:
+  - code: JMm JFi KMi KFi GMi GFi
+    group: Cohanim Levitical
+  - code: JMi JFi KMi KFi GMi GFi
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: R1
@@ -8201,7 +8533,9 @@
   - RP172
   meir: []
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: R2
@@ -8306,7 +8640,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/R002.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: R3
@@ -8340,7 +8676,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/R003.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: R4
@@ -8370,7 +8708,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/R004.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: S1
@@ -8421,7 +8761,9 @@
   - MN114
   - MN116
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: S2
@@ -8466,7 +8808,9 @@
   meir:
   - MN110
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: S3
@@ -8528,7 +8872,9 @@
   meir:
   - MN124
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: S4
@@ -8595,7 +8941,9 @@
   meir:
   - MN133
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: S5
@@ -8632,7 +8980,9 @@
   meir:
   - MN121
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: S6
@@ -8703,7 +9053,9 @@
   meir:
   - MN133
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: S7
@@ -8743,7 +9095,9 @@
   meir:
   - MN117
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: S8
@@ -8772,7 +9126,9 @@
   meir:
   - MN132
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: S9
@@ -8796,7 +9152,9 @@
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/S009.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: W1
@@ -8841,7 +9199,9 @@
   - MP11
   - MP11
   chinuch: []
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: W10
@@ -8975,7 +9335,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/Y001.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: Y2
@@ -9010,7 +9372,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/Y002.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: Y3
@@ -9056,7 +9420,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/Y003.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: Y4
@@ -9080,7 +9446,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/Y004.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
 - id: Y5
@@ -9105,7 +9473,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/Y005.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: Y6
@@ -9135,7 +9505,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/Y006.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: Y7
@@ -9155,7 +9527,9 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/Y007.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
 - id: Y8
@@ -9198,6 +9572,8 @@
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/Z001.php
-  ncla: JMm JFm KMm KFm GMm GFm
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
