@@ -586,6 +586,7 @@
     - Genesis 6:9
     - Deuteronomy 6:25
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA2
   title: Behaving Properly.
   manually_review: It is a unique commandment.
@@ -604,6 +605,7 @@
     - Psalms 15:1-2
     - Psalms 39:2(1)
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA3
   title: Pursuing Righteousness & Living Righteously.
   manually_review: Hunger and thirst after righteousness, pursue righteousness, live righteously, I think these are the same.
@@ -640,6 +642,7 @@
     - Psalms 11:7
     - Proverbs 10:31
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA4
   title: Seeking to Be Both Inwardly & Outwardly Clean.
   manually_review: Of cource perfection is inward and outward, but I think to strive to inwardly and outwardly cleanness is more explicit and therefore unique.
@@ -671,6 +674,7 @@
     - Isaiah 1:16
     - Ezekiel 36:25
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA5
   title: Modeling Ourselves on the Perfection of God.
   manually_review: Obviously the same
@@ -693,6 +697,7 @@
     - Leviticus 20:7-8
     - Ecclesiastes 7:20
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA6
   title: Keeping Our Minds from Causing Our Bodies to Sin.
   manually_review: Almost the same, but together with AA59, I choose AA59 to be unique and therefore this one not unique.
@@ -721,6 +726,7 @@
     supportive_ot_scriptures:
     - Isaiah 55:7-8
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA7
   title: Seeking God’s Kingdom.
   manually_review: Obviously the same as step 34
@@ -746,6 +752,7 @@
     - Daniel 3:32(4:2)-33(4:3)
     - Daniel 4:31(34)
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA8
   title: Guarding Ourselves Against Greed.
   manually_review: Obviously the same
@@ -770,6 +777,7 @@
     - Psalms 10:3
     - Proverbs 28:16
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA9
   title: Letting God’s Light That Is in Us Shine
   manually_review: Obviously the same
@@ -789,6 +797,7 @@
     - Isaiah 49:5-6
     - Isaiah 60:1-3
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA10
   title: Having Godly Compassion
   manually_review: Since Yeshua gave this commandment as an example, it is godly and thefore the same
@@ -819,6 +828,7 @@
     - Daniel 4:24
     - Zechariah 7:9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA11
   title: Renouncing Worldly Pleasures
   manually_review: It is a virtue to renounce worldly pleasures. Worldly pleasure don't have to be a sin, but it can like it says compete with our godly responsibilities.
@@ -838,6 +848,7 @@
     - Proverbs 15:23
     - Proverbs 21:17
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA13
   title: Fleeing from Sin & Evil.
   manually_review: Good to have an explicit positive commandment to flee from sin and evil.
@@ -872,6 +883,7 @@
     supportive_ot_scriptures:
     - Genesis 39:11-12
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA14
   title: Being Patient.
   manually_review: Patience is definately a unique virtue.
@@ -898,6 +910,7 @@
     - Lamentations 3:25-26
     - Micah 7:7
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA15
   title: Keeping Free from, and Purifying Ourselves from Things that Defile.
   manually_review: Purify ourselves or being pure in heart is the same. I first thought it is the same as AA13, but it is good to have an explicit positive commandment to flee from sin and evil.
@@ -926,6 +939,7 @@
     - James 3:17
     supportive_ot_scriptures: []
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA18
   title: Replacing Our Old Nature with a New Nature.
   manually_review: Since AB15 is already unique and it is almost the same, I choose this one to be not unique.
@@ -952,6 +966,7 @@
     supportive_ot_scriptures:
     - Ezekiel 36:26-27
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA19
   title: Persevering, Standing Firm, & Growing in Our Faith.
   manually_review: We do have the step 42 to be strong and courageous, but this is more about growing in our faith.
@@ -986,6 +1001,7 @@
     - Isaiah 26:3-4
     - Jeremiah 17:7-8
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA20
   title: Being Gentle
   manually_review: Gentileness is a unique virtue
@@ -1005,6 +1021,7 @@
     - Proverbs 15:1
     - Proverbs 25:15
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA22
   title: Speaking Only That Which is Holy and Beneficial.
   manually_review: It has the same purse, together with AA1, this is not unique.
@@ -1039,6 +1056,7 @@
     - Proverbs 15:4
     - Proverbs 21:23
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA23
   title: Ridding Ourselves of Unholy Characteristics
   manually_review: It is the same as AA4.
@@ -1058,6 +1076,7 @@
     - Ezekiel 45:9
     - Genesis 13:6
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA24
   title: Being Tenderhearted
   manually_review: We are tenderhearted when we are meek. I think this is the same.
@@ -1076,6 +1095,7 @@
     ot_scriptures:
     - 2 Kings 22:19
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA25
   title: Focusing Our Thoughts on Things Godly
   manually_review: Didn't have an explicit commandment about focusing our thoughts yet.
@@ -1103,6 +1123,7 @@
     - Psalms 139:23
     - Psalms 19:15
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA27
   title: Being Thankful and Grateful to God
   manually_review: This is the same.
@@ -1143,6 +1164,7 @@
     - Psalms 97:12
     - Psalms 9:2
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA29
   title: Being Joyful in All Circumstances.
   manually_review: Joy is a unique virtue, howover, implied step 17 is the same.
@@ -1171,6 +1193,7 @@
     - Psalms 47:2(1)
     - Habakkuk 3:18
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA30
   title: Being Honest and a Teller of Truth.
   manually_review: You can keep your word but still not be honest. This is a unique virtue.
@@ -1209,6 +1232,7 @@
     - Proverbs 19:9
     - Proverbs 20:10
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA31
   title: Being Steadfast in Our Faith and Our Thinking
   manually_review: This is implied to be the same as step 65, together with AA19, this is not unique.
@@ -1231,6 +1255,7 @@
     - Psalms 62:9
     - Psalms 71:5-6
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA32
   title: Being Faithful, Trustworthy and Loyal
   manually_review: I think this is the same umbrella as step 24.
@@ -1275,6 +1300,7 @@
     - Psalms 50:5
     - Psalms 97:10
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA34
   title: Keeping Our Promises.
   manually_review: It is the same umbrella as step 24.
@@ -1302,6 +1328,7 @@
     - Ecclesiastes 5:3(4)-4(5)
     - Ecclesiastes 5:5(6)
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA39
   title: Fleeing Lustful Passions
   manually_review: Together with step 22,23 and AA13 this is not unique.
@@ -1328,6 +1355,7 @@
     - Exodus 20:14
     - Proverbs 6:23-29
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA41
   title: Comparing That Which is Taught Us to What We Read in Scripture.
   manually_review: This is not yet an explicit step.
@@ -1346,6 +1374,7 @@
     - Exodus 15:26
     - Deuteronomy 27:10
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA44
   title: Knowing and Doing What is Right and Good
   manually_review: This is not yet an explicit step.
@@ -1405,6 +1434,7 @@
     - Psalms 37:3
     - Psalms 37:27
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA45
   title: Being Circumcised in Our Heart.
   manually_review: A beautiful summary when you read the comment of Rabbi Rudulph on this commandment. It is a unique commandment.
@@ -1422,6 +1452,7 @@
     - Deuteronomy 30:5-6
     - Jeremiah 4:4
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA47
   title: Seeking and Growing in Godly Knowledge.
   manually_review: It has the same purse as step 58. I think it is the same as AA53 and BA47
@@ -1452,6 +1483,7 @@
     - Proverbs 18:15
     - Proverbs 20:15
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA51
   title: Aspiring to Be Blameless.
   manually_review: This is the same as step 28, together with AA4 this is not unique.
@@ -1484,6 +1516,7 @@
     - Psalms 119:1
     - Proverbs 2:7
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA53
   title: Having a Sound & Godly Doctrine
   manually_review: I think it is unique so far.
@@ -1500,6 +1533,7 @@
     - Proverbs 20:7
     - Psalms 25:21
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA54
   title: Distinguishing between Good and Evil.
   manually_review: Distinhuish is something different than AA13 and AA44.
@@ -1521,6 +1555,7 @@
     - Psalms 37:27
     - Amos 5:14-15
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA56
   title: Being Quick to Listen and Slow to Speak
   manually_review: It is a unique virtue.
@@ -1545,6 +1580,7 @@
     - Proverbs 21:23
     - Proverbs 29:11
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA57
   title: Being Open to Reason
   manually_review: We cannot have a full understanding of God and His ways, we need each other to grow in our understanding. We need to be open to reason.
@@ -1559,6 +1595,7 @@
     ot_scriptures:
     - Isaiah 1:18
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA58
   title: Letting Our “Yes” be “Yes” and Our “No” be “No”
   manually_review: This is the same as step 24.
@@ -1576,6 +1613,7 @@
     - James 1:7-8
     - Matthew 6:24
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA59
   title: Keeping a Clear Conscience.
   manually_review: It is a unique virtue, though it is very similar to AA6.
@@ -1599,6 +1637,7 @@
     supportive_ot_scriptures:
     - 1 Kings 8:37-39
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA61
   title: Hating Ungodly Vices
   manually_review: It is a unique commandment.
@@ -1619,6 +1658,7 @@
     - Ezekiel 16:25-26
     - Proverbs 31:4-5
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AA64
   title: Being Slow to Anger
   manually_review: It is the same as step 21.
@@ -1638,6 +1678,7 @@
     - Proverbs 19:11
     - Psalms 4:4
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB2
   title: Being Filled with the Holy Spirit
   manually_review: It is a unique commandment
@@ -1647,6 +1688,8 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:18
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB6
   title: Sowing in the Holy Spirit
   manually_review: There is not yet a scripture included, so for now I skip this commandment as unique.
@@ -1660,6 +1703,8 @@
   - id: FA10
     title: Praying in the Spirit for All Human Beings & Especially for God’s People
   bible_references: {}
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB7
   title: Being Led by the Holy Spirit
   manually_review: It is the same as step 70.
@@ -1675,6 +1720,8 @@
     - Galatians 5:18
     - Romans 14:5
     - Romans 8:14
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB8
   title: Hearing the Holy Spirit
   manually_review: Together with the double_ids and step 70 this is not unique.
@@ -1696,6 +1743,8 @@
   bible_references:
     nt_scriptures:
     - Matthew 17:5
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB9
   title: Being Bold in the Holy Spirit
   manually_review: Togtether with the double_ids and steps this is not unique.
@@ -1715,6 +1764,8 @@
   bible_references:
     key_nt_scriptures:
     - 2 Timothy 1:7
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB10
   title: Receiving the Holy Spirit
   manually_review: This is the same as AB2.
@@ -1729,6 +1780,8 @@
     key_nt_scriptures:
     - Acts 2:38
     - Acts 8:14-17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB13
   title: Conforming Our Mind and Aligning Our Conscience with the Holy Spirit
   manually_review: I think this is the same as AB15.
@@ -1743,6 +1796,8 @@
     key_nt_scriptures:
     - 1 Timothy 1:5
     - Romans 14:5
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB14
   title: Seeking and Pursuing the Things of the Spirit
   manually_review: seeking is implied in AB2 and pursuing is implied in step 70 (together with step 41), so this is not unique.
@@ -1760,6 +1815,8 @@
     - 1 Corinthians 14:1
     - John 6:27
     - Romans 8:5-6
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB15
   title: Being Transformed by the Renewing of Our Mind and Spirit
   manually_review: It is a unique commandment
@@ -1776,6 +1833,8 @@
     key_nt_scriptures:
     - Ephesians 4:22-24
     - Romans 12:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: AB16
   title: Producing Fruit of the Holy Spirit
   manually_review: Together with the double_ids and the related steps this is not unique.
@@ -1791,6 +1850,8 @@
   bible_references:
     key_nt_scriptures:
     - Matthew 10:18-20
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: B2
   title: Returning a Needed Pledged Item
   manually_review: Although it is a bit different from DA9 or step 54, since we focus on unique items where you can have a good evening together to talk about, I don't think this is unique.
@@ -1897,6 +1958,7 @@
     - Isaiah 40:31
     - Phi 1:20
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA3
   title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua.'
   manually_review: It is based on the same key scripture but differently described.
@@ -1939,6 +2001,7 @@
     - Isaiah 61:1-2
     - Ezekiel 11:19
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA4
   title: Trusting (Having Faith /Believing) in God and Yeshua
   manually_review: It is the same as step 65, this is not unique.
@@ -2049,6 +2112,7 @@
     - Psalms 37:5
     - Psalms 4:6
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA6
   title: Offering Our Entire Selves to God
   manually_review: It is based on the same supportive scripture but differently described. To offer our entire selves is the same as step 48.
@@ -2068,6 +2132,7 @@
     - Romans 12:1
     - Romans 6:22
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA7
   title: Praising God and Yeshua.
   manually_review: Together with step 5 and 74 this is not unique.
@@ -2099,6 +2164,7 @@
     - Psalms 117:1
     - Psalms 135:2-3
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA8
   title: Pleasing God and Yeshua
   manually_review: Together with step 5 and 74 this is not unique.
@@ -2137,6 +2203,7 @@
     - Psalms 149:4
     - Psalms 69:31
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA9
   title: Believing in God’s Evenhanded Justice.
   manually_review: Rabbi Rudolph is a retired judge himself. We need to handover all our judgments to God.
@@ -2162,6 +2229,7 @@
     - Isaiah 30:18
     - Isaiah 61:8
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA10
   title: Obeying the Commandments of God and Yeshua
   manually_review: Together with step 20 and 41 this is not unique.
@@ -2234,6 +2302,7 @@
     - Exodus 15:26
     - Numbers 15:28-40
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA11
   title: Honoring God & Yeshua.
   manually_review: Together with the double_ids and step 69 this is not unique.
@@ -2266,6 +2335,7 @@
     - Proverbs 3:9
     - Isaiah 24:14-15
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA12
   title: Lifting Up Yeshua.
   manually_review: It is a unique commandment from John 3:14 and John 8:28, not yet an explicit step (however it is implied in step 74).
@@ -2281,6 +2351,7 @@
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA13
   title: Hearing the Words & Voice of God and Yeshua
   manually_review: It is the same as step 41, together with step 58 this is not unique.
@@ -2322,6 +2393,7 @@
     - Exodus 23:21-22
     - Numbers 12:6-8
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA14
   title: Knowing God through Yeshua.
   manually_review: I choose to make G20 unique and therefore BA14 not unique.
@@ -2350,6 +2422,7 @@
     - Isaiah 43:10
     - Jeremiah 31:32(33):33(34)
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA15
   title: Serving God and Yeshua
   manually_review: Since BA14 already covers to know both God and Yeshua, this is then the same as step 5.
@@ -2387,6 +2460,7 @@
     - Malachi 3:18
     - Psalms 2:11
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA16
   title: Devoting Our Lives to God and Yeshua
   manually_review: Together with step 48, 66, 69, 74, I don't think this is unique. It is already implied.
@@ -2425,6 +2499,7 @@
     - 2 Chronicles 16:9
     - Deuteronomy 6:5
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA17
   title: Imitating God and Yeshua
   manually_review: It is already implied in step 41 and 2 and in id GB14
@@ -2462,6 +2537,7 @@
     - Exodus 7:1
     - Genesis 1:26-27
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA18
   title: Being Reconciled to God in Yeshua.
   manually_review: It is the same as step 1.
@@ -2479,6 +2555,7 @@
     - Ephesians 2:16
     supportive_ot_scriptures: []
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA19
   title: Seeking Our Reward from God in Heaven.
   manually_review: It is the same as step 17 together with step 33.
@@ -2507,6 +2584,7 @@
     supportive_ot_scriptures:
     - Daniel 12:13
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA20
   title: Listening to, Believing, and Obeying the Good News of Yeshua.
   manually_review: It is not unique, it is the same as step 41. Believing is covered in step 1.
@@ -2532,6 +2610,7 @@
     - 2 Thessalonians 2:14
     supportive_ot_scriptures: []
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA21
   title: Loving God and Yeshua
   manually_review: It is the same as step 66, together with step 47 this is not unique.
@@ -2574,6 +2653,7 @@
     - Deuteronomy 7:9
     - Exodus 20:5-6
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA22
   title: Knowing that God is One – Both Singular & Composite
   manually_review: It is a unique commandment, it is not yet an explicit step. However it is implied in step 54.
@@ -2622,6 +2702,7 @@
     - Psalms 86:10
     - Zechariah 14:9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA23
   title: Fearing and Revering God & Messiah
   manually_review: It is the same as step 45.
@@ -2686,6 +2767,7 @@
     - Psalms 34:11
     - Psalms 86:11
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA24
   title: Presenting Ourselves to God as Worthy of Approval.
   manually_review: I consider this the same as step 4.
@@ -2703,6 +2785,7 @@
     - 2 Corinthians 10:17-18
     supportive_ot_scriptures: []
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA25
   title: Putting God and Yeshua Before All Things and All Persons
   manually_review: It is the same as step 47, however it is more explicit.
@@ -2730,6 +2813,7 @@
     - Exodus 20:3
     - Proverbs 3:9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA26
   title: Being Yeshua’s Witness.
   manually_review: It has the same purse as step 46, together with step 8 this is not unique.
@@ -2751,6 +2835,7 @@
     - Revelation 12:17
     supportive_ot_scriptures: []
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA27
   title: Receiving Yeshua’s Love and Kindness
   manually_review: It is a unique commandment to recieve the love of Yeshua. Although you don't have to do much about it you have to open yourselve.
@@ -2773,6 +2858,7 @@
     - Matthew 22:37-39
     - Romans 8:35-37
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA28
   title: Believing that Yeshua Died for Our Sins
   manually_review: It is implied in step 1 which is based on the key scripture John 3:16, but since it is the core of everything we count this as unique.
@@ -2825,6 +2911,7 @@
     - Leviticus 4:2-3
     - Leviticus 4:13-14
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA29
   title: Having a Close Personal Relationship with God and Yeshua
   manually_review: Beautiful to have it as a unique commandment.
@@ -2853,6 +2940,7 @@
     - Hosea 8:2
     - Jeremiah 31:30
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA32
   title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   manually_review: It is implied in step 1, but it is good to have an explicit commandment.
@@ -2888,6 +2976,7 @@
     - Psalms 2:7
     - Psalms 89:27
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA33
   title: Glorifying God and Yeshua
   manually_review: It is the same as step 74 and also BA8.
@@ -2929,6 +3018,7 @@
     - Psalms 34:2
     - Psalms 95:2
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA36
   title: Embracing Yeshua’s Sacrifice for Forgiveness, Righteousness, and Redemption
   manually_review: It is implied in step 1 since that is based on John 3:16, together with BA28 I don't think it is unique.
@@ -2970,6 +3060,7 @@
     - Psalms 27:1
     - Psalms 49:8
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA38
   title: Knowing the Compassion of God and Yeshua
   manually_review: Although 'knowing' is not in step 43, I think its better to not only know but to be moved with inner compassion. Therefore I don't think it is unique.
@@ -2999,6 +3090,7 @@
     - Psalms 78:38
     - Psalms 86:15
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA39
   title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings
   manually_review: It is the same as BA27, which is already unique.
@@ -3028,6 +3120,7 @@
     - Numbers 6:22-27
     - Psalms 145:9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA40
   title: Receiving and Following God and Yeshua
   manually_review: It is the same as step 3, together with step 48 this is not unique.
@@ -3076,6 +3169,7 @@
     - Numbers 14:24
     - Numbers 32:11-12
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA41
   title: Welcoming Yeshua by Welcoming Children.
   manually_review: It is the same as step 56.
@@ -3092,6 +3186,7 @@
     - Matthew 18:6
     supportive_ot_scriptures: []
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA42
   title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance of Yeshua
   manually_review: It is the same as step 71.
@@ -3116,6 +3211,7 @@
     ot_scriptures:
     - Genesis 14:18-20
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA43
   title: Knowing that God is Triune
   manually_review: Although you can combine this with BA22, Since the oneness will start in the Shema, and knowing God as triune is very important, therefore it is good to have an explicit separate
@@ -3167,6 +3263,7 @@
     - Isaiah 63:10-11
     - Psalms 51:13
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA44
   title: Relying on God
   manually_review: I think it is the same as step 65.
@@ -3189,6 +3286,7 @@
     - Psalms 44:7
     - Psalms 49:7
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA45
   title: Knowing Yeshua as Lord and Messiah
   manually_review: It is the same as BA32.
@@ -3210,6 +3308,7 @@
     - John 20:28
     - Romans 10:9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA46
   title: Remaining Rooted in Yeshua.
   manually_review: It is based on the same key scripture text as step 73, but differently described.
@@ -3234,6 +3333,7 @@
     - Isaiah 37:31
     - Jeremiah 17:7-8
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA47
   title: Acquiring and Growing in Knowledge of God
   manually_review: Since AA47 is already unique, I think this is the same.
@@ -3262,6 +3362,7 @@
     - Isaiah 37:20
     - Joshua 4:23-24
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA48
   title: Rejoicing in and with Yeshua
   manually_review: It is the same as step 17.
@@ -3287,6 +3388,7 @@
     - Romans 5:1
     - Romans 8:35
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA49
   title: Living Along with Yeshua
   manually_review: I don't think this is a real unique commandment from the key scriptures. 1 Thes 5 there is no real commandment to live along with Yeshua. And in John 15 I already derived step 73.
@@ -3301,6 +3403,7 @@
     - John 15:4-7
     - John 15:10
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA50
   title: Believing that Yeshua was Sent for All of Humanity
   manually_review: It is implied in step 1, together with BA28 this is not unique.
@@ -3320,6 +3423,7 @@
     - Matthew 28:16-20
     - Romans 10:9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA51
   title: Knowing Yeshua as the One Mediator Between God and Man
   manually_review: There can only be one Messiah, In BA32 we already have a commandment of believing Yeshua as the Messiah. I think the Messiah is implied to be the One and only Mediator, therefore I don't think this is unique.
@@ -3339,6 +3443,7 @@
     - Hebrews 8:6
     - Hebrews 9:15
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA52
   title: Setting Our Hope on God
   manually_review: Since faith, hope and love are three separate virtues, it is good to have this as a unique commandment.
@@ -3372,6 +3477,7 @@
     - Psalms 39:8
     - Psalms 42:6
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA54
   title: Submitting to God
   manually_review: It is implied in step 9.
@@ -3409,6 +3515,7 @@
     - Exodus 10:3
     - Numbers 15:38-40
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA55
   title: Humbling Ourselves before God.
   manually_review: It looks like step 45 to fear God, but it is not the same. It is a unique commandment.
@@ -3432,6 +3539,7 @@
     - Ezra 8:21
     - Daniel 10:12
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA56
   title: Acknowledging the Holiness of Yeshua
   manually_review: I think this is the same as BA32. When you recognize Yeshua as Son of God, deity, you also acknowledge His Holiness.
@@ -3449,6 +3557,7 @@
     - Mark 1:24
     - Matthew 3:16-17
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA57
   title: Coming to Yeshua for Spiritual Rest
   manually_review: It is based on the same key scripture as step 51, but differently described, so this is the same.
@@ -3479,6 +3588,7 @@
     - Micah 4:1
     - Micah 6:6
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA58
   title: Standing Firm in Union with the Lord.
   manually_review: Standing firm is already a commandment in AA19. To abide is already in step 73 and BA3, therefore I don't think this is unique.
@@ -3509,6 +3619,7 @@
     - 2 Samuel 23:5
     - Daniel 11:32
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA59
   title: Remembering that Yeshua was Raised from the Dead.
   manually_review: Although it is implied in the related commandments, it is good to specifically think and talk about what it means to use that Yeashua raised from the dead.
@@ -3543,6 +3654,7 @@
     - 1 Kings 17:17-22
     - 2 Kings 13:20-21
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA61
   title: Continuing to Make Our Being Called & Chosen a Certainty
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -3571,6 +3683,7 @@
     - Isaiah 41:4
     - Isaiah 41:8-9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BA62
   title: Seeking Rest and Refreshment in God
   manually_review: Since God, Yeshua and the Holy Spirit are one, I think this is the same as BA2.
@@ -3594,6 +3707,7 @@
     - Exodus 31:15
     - Exodus 33:14
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BB1
   title: Giving Tzedakah to the Poor & to Our Brother Who is in Need
   manually_review: Together with the related_steps this is not unique.
@@ -3607,6 +3721,8 @@
   bible_references:
     nt_scriptures:
     - Luke 6:38
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BB2
   title: Providing and Caring for Widows & Orphans
   manually_review: This is the same as step 26
@@ -3620,6 +3736,8 @@
     - 1 Timothy 6:18
     - Hebrews 13:16
     - Romans 12:13
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: false
 - id: BB3
   title: Financially Supporting Our Spiritual Leaders, and Those Who Teach and Minister
   manually_review: It is a unique commandment
@@ -3630,6 +3748,8 @@
     key_nt_scriptures:
     - 1 Timothy 5:3
     - James 1:27
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BB4
   title: Requiring Children to Support Their Widowed Mothers
   manually_review: Since this commandment is only about a specific case, BB6 is more generic and therefore chosen to be unique.
@@ -3646,6 +3766,8 @@
     key_nt_scriptures:
     - 1 Corinthians 9:9-14
     - 1 Timothy 5:17-18
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BB5
   title: Requiring Grandchildren to Support Their Widowed Grandmothers
   manually_review: Since this commandment is only about a specific case, BB6 is more generic and therefore chosen to be unique.
@@ -3657,6 +3779,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BB6
   title: Supporting Our Family Financially
   manually_review: This is a unique commandment which is the overarching commandment for the specific cases of BB4 and BB5. Since those are only for specific groups, this one is more generic and therefore chosen to be unique.
@@ -3672,6 +3796,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: BB7
   title: Women Supporting Their Widowed Relatives
   manually_review: I would change this commandment from 'Supporting our Family financially' to 'Supporting our Family'. It then is a bit more generic and will replace the double_ids.
@@ -3687,6 +3813,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:8
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: false
 - id: BB8
   title: Congregations Supporting Widows Who Are in Need
   manually_review: This is a unique commandment
@@ -3696,6 +3824,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:16
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: C1
   title: Being Fair & Honest in Business
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -3757,6 +3887,7 @@
     ot_scriptures:
     - Exodus 20:3
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: CA3
   title: Storing up Wealth in Heaven
   manually_review: It is based on the same key scripture as step 33, but differently described.
@@ -3793,6 +3924,7 @@
     - Proverbs 22:1
     - Psalms 62:11
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: CA4
   title: Being Content with Having the Essentials for Living
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -3825,6 +3957,7 @@
     - Proverbs 28:6
     - Proverbs 30:8
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: CB1
   title: Paul on Sex in Marriage
   manually_review: This is not a commandment, probably a category.
@@ -3835,6 +3968,8 @@
     key_nt_scriptures:
     - 1 Corinthians 7:1-6
     - 1 Corinthians 7:8-9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB2
   title: Widows and Singles Remaining Unmarried Unless Sexually Driven
   manually_review: Since it is a very specific case and not really repeated elsewhere, I don't count this as unique.
@@ -3844,6 +3979,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:8-9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB4
   title: Having Only One Spouse
   manually_review: I would say this is covered in step 23, but since nowadays there are many who do not honor marriage, I think it is good to have this as a separate commandment.
@@ -3857,6 +3994,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:1-6
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB5
   title: Allowing an Unbelieving Spouse to Leave
   manually_review: Since it is a very specific case, I don't count this as unique. It is covered in step 23.
@@ -3868,6 +4007,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:15
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB6
   title: Knowing that Marriage Is for Life
   manually_review: I don't count this as unique. It is covered in step 23.
@@ -3880,6 +4021,8 @@
     key_nt_scriptures:
     - 1 Corinthians 7:10-13
     - 1 Corinthians 7:39
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB8
   title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   manually_review: It is a unique commandment
@@ -3901,6 +4044,8 @@
     - Ephesians 5:22
     - Ephesians 5:24
     - Titus 2:3-5
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: true
 - id: CB9
   title: Husbands Loving Their Wives
   manually_review: It is a unique commandment
@@ -3919,6 +4064,8 @@
     - Ephesians 5:25
     - Ephesians 5:28
     - Ephesians 5:33
+  ncla: JMm JFi KMm KFi GMm GFi
+  ncla_deviation: true
 - id: CB10
   title: Wives Respecting Their Husbands
   manually_review: It is already implied in CB8
@@ -3934,6 +4081,8 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:33
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: true
 - id: CB11
   title: Children Obeying Their Parents
   manually_review: It is already implied in CB15.
@@ -3951,6 +4100,8 @@
     - Colossians 3:20
     - Ephesians 6:1
     - Romans 1:30
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: CB13
   title: Raising Up Children with Guidance and Discipline
   manually_review: It is a unique commandment
@@ -3966,6 +4117,8 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 6:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB15
   title: Honoring Our Parents
   manually_review: It is the same as step 63
@@ -3986,6 +4139,8 @@
     - Luke 18:20
     - Mark 10:19
     - Matthew 19:19
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: CB16
   title: A Man Leaving His Mother and Father and Uniting with His Wife
   manually_review: It is a unique commandment
@@ -3999,6 +4154,8 @@
     - Ephesians 5:31
     - Mark 10:7-9
     - Matthew 19:5-6
+  ncla: JMm JFi KMm KFi GMm GFi
+  ncla_deviation: false
 - id: CB17
   title: Co-Dependence of Husbands and Wives
   manually_review: I don't count this as unique. It is covered in step 23.
@@ -4016,6 +4173,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 11:11
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB18
   title: Husbands Leading Their Wives
   manually_review: I dont count this as unique, it is implied in CB9
@@ -4029,6 +4188,8 @@
   - id: CB17
     title: Co-Dependence of Husbands and Wives
   bible_references: {}
+  ncla: JMm JFi KMm KFi GMm GFi
+  ncla_deviation: true
 - id: CB20
   title: Raising Our Children to Believe in Yeshua
   manually_review: This should be implied in CB13.
@@ -4044,6 +4205,8 @@
   bible_references:
     key_nt_scriptures:
     - Mark 9:36-37
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB22
   title: Wives Who Leave their Husbands Remaining Single
   manually_review: It is a unique commandment
@@ -4053,6 +4216,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:10-13
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: false
 - id: CB23
   title: Treating Marriage as Honorable
   manually_review: It is covered in step 23.
@@ -4070,6 +4235,8 @@
   bible_references:
     key_nt_scriptures:
     - Hebrews 13:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB24
   title: Treating Sex within Marriage as Pure
   manually_review: It should be sufficient to have step 23 as unique, but since there is that many impurity in the world, I think it is good to have this as a separate commandment.
@@ -4085,6 +4252,8 @@
   bible_references:
     key_nt_scriptures:
     - Hebrews 13:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: CB25
   title: Wives Being Faithful to their Husbands
   manually_review: It is already implied in CB8.
@@ -4099,6 +4268,8 @@
     key_nt_scriptures:
     - James 4:4
     - Revelation 2:10
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: true
 - id: CB26
   title: Wives Nurturing the Inner Character of their Heart
   manually_review: I think this is already implied in AA4. It is not only for wives but for everybody.
@@ -4112,6 +4283,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 3:4
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: true
 - id: CB27
   title: Wives Doing What is Right
   manually_review: It is already covered in AA44. It is not only for wives but for everybody.
@@ -4125,6 +4298,8 @@
     - 1 John 3:7
     - 1 John 3:10-11
     - 1 Peter 3:6
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: true
 - id: CB29
   title: Husbands Respecting their Wives
   manually_review: It is already implied in CB9.
@@ -4136,6 +4311,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 3:7
+  ncla: JMm JFi KMm KFi GMm GFi
+  ncla_deviation: true
 - id: DA1
   title: Speedily Seeking Reconciliation when Summoned to Court
   manually_review: Although it is a bit different from DA2, since we focus on unique items where you can have a good evening together to talk about, I don't think this is unique.
@@ -4156,6 +4333,7 @@
     ot_scriptures:
     - Deuteronomy 5:29
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA2
   title: Seeking Reconciliation with Our Brother
   manually_review: It is the same as step 21.
@@ -4188,6 +4366,7 @@
     - Proverbs 19:11
     - Micah 6:8
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA5
   title: Serving One Another
   manually_review: It is the same as step 64
@@ -4209,6 +4388,7 @@
     - Isaiah 1:17
     - Proverbs 31:8-9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA6
   title: Showing Respect for One Another.
   manually_review: It has too much overlap with the listed double_ids.
@@ -4241,6 +4421,7 @@
     - Genesis 43:28
     - Leviticus 19:32
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA7
   title: Being Sensitive to Each Other’s Needs
   manually_review: It is the same as step 26.
@@ -4264,6 +4445,7 @@
     - Isaiah 61:1
     - Zechariah 7:9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA8
   title: Befriending Persons Who Are Humble.
   manually_review: I think this is not a literal commandment from the key scripture Rom 12:16?
@@ -4278,6 +4460,7 @@
     supportive_ot_scriptures:
     - Proverbs 22:24
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA9
   title: Giving to Our Neighbor That Which Is Owed Him.
   manually_review: Give to the emperor is not literal, I think it is broader than only the government, it is about giving to our neighbor what is owed him. Therefore, this is not unique, it is the same as step 54.
@@ -4310,6 +4493,7 @@
     - Psalms 37:21
     - Proverbs 3:27-28
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA10
   title: Living in Peace with Our Neighbors
   manually_review: It is the same as step 18, together with DA2 and step 21 this is not unique.
@@ -4342,6 +4526,7 @@
     - Proverbs 16:7
     - Psalms 37:11
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA12
   title: Being Good, Kind, & Generous to One Another
   manually_review: Together with all these related steps and double_ids this is not unique.
@@ -4398,6 +4583,7 @@
     - Proverbs 19:17
     - Zechariah 7:10
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA14
   title: Submitting to One Another.
   manually_review: Although it looks like step 64 togehter with 70, it has a unique commandment from Eph 5:21, which is not yet an explicit step
@@ -4422,6 +4608,7 @@
     - Genesis 3:16
     - Genesis 16:9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA15
   title: Being Likeminded and in Unity with the Brethren
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -4459,6 +4646,7 @@
     - Judges 20:11
     - Psalms 133:1
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA16
   title: Encouraging One Another
   manually_review: It is the same as step 72.
@@ -4488,6 +4676,7 @@
     - Romans 14:19
     - Titus 2:15
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA24
   title: Loving Our Brother and Neighbor
   manually_review: It is the same as step 67.
@@ -4541,6 +4730,7 @@
     - Proverbs 27:6
     - Proverbs 27:9
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA32
   title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows
   manually_review: It is the same as step 43, but differently described.
@@ -4569,6 +4759,7 @@
     - Job 2:11
     - Psalms 34:19
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA36
   title: Forgiving Those Who Sin Against Us
   manually_review: This is the same as step 31.
@@ -4601,6 +4792,7 @@
     - Leviticus 19:17
     - Leviticus 19:22
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA37
   title: Empathizing with the Imprisoned & Mistreated
   manually_review: It is a unique commandment, it is not yet an explicit step (however you can say that it is under the umbrella of step 43)
@@ -4627,6 +4819,7 @@
     - Psalms 146:7
     - Psalms 69:34
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA41
   title: Being Friends with Brothers & Friendly to Outsiders
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -4657,6 +4850,7 @@
     - Proverbs 17:17
     - Proverbs 18:24
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA46
   title: Comforting Our Neighbor
   manually_review: You can be tenderhearted without actively comforting, but true comfort often flows from a tender heart.
@@ -4680,6 +4874,7 @@
     - Isaiah 1:3-4
     - Job 2:11
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA49
   title: Bearing One Another’s Burdens
   manually_review: I think it has the same idea as DA11.
@@ -4707,6 +4902,7 @@
     - Psalms 55:23
     - Psalms 68:20
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA50
   title: Bearing with One Another in Love & with Forgiveness
   manually_review: It is the same as DA11.
@@ -4723,6 +4919,7 @@
     - Mark 11:25-26
     - Romans 14:1
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA52
   title: Behaving Wisely Toward Outsiders
   manually_review: Behaving wisely is something unique that is not yet an explicit step. The next verse in Colossions 4:6 is about being like salt, which is already a commandment in step 18, but being wisely is not yet spoken about.
@@ -4739,6 +4936,7 @@
     - Deuteronomy 23:21
     - Exodus 12:43-49
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA53
   title: Rescuing Our Neighbor
   manually_review: It is the same as N3, which is better described, therefore this is not unique.
@@ -4765,6 +4963,7 @@
     - Proverbs 24:11-12
     - Psalms 82:4
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA55
   title: Guarding Against Scoffers
   manually_review: It looks a bit like step 40, however I think it is different. It is a unique commandment.
@@ -4796,6 +4995,7 @@
     - Psalms 1:1
     - Psalms 73:8
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA56
   title: Minding Our Own Business
   manually_review: However GB21 is not yet covered, that is better described. I think the purse of to mind our own business is in the same sentence and covers the same idea as to work for our own living. Therefore this is not unique.
@@ -4813,6 +5013,7 @@
     ot_scriptures:
     - Proverbs 26:17
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA57
   title: Living Quietly So as to Gain Our Neighbor’s Respect.
   manually_review: It has the same idea as step 11, together with DA32 this is not unique.
@@ -4842,6 +5043,7 @@
     - Proverbs 17:28
     - Proverbs 29:11
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA60
   title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -4861,6 +5063,7 @@
     - Leviticus 19:32
     - Proverbs 23:22
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA61
   title: Exhorting One Another to Love & Good Deeds
   manually_review: Although this is similar to DA16, to exhort another to love and good deeds is a unique virtue.
@@ -4899,6 +5102,7 @@
     - Deuteronomy 3:28
     - Joshua 15:10
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DA68
   title: Welcoming & Being Hospitable to Our Brother & Neighbor
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -4957,6 +5161,7 @@
     - Judges 19:16-21
     - Leviticus 19:33-34
   ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DB1
   title: Remaining in the Same Condition and Identity as When First Called
   manually_review: It is an important unique commandment
@@ -4968,6 +5173,8 @@
     - 1 Corinthians 7:17-18
     - 1 Corinthians 7:20
     - 1 Corinthians 7:24
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DB2
   title: Circumcising on the Eighth Day After Birth
   manually_review: This is a unique commandment
@@ -4977,6 +5184,8 @@
   bible_references:
     nt_scriptures:
     - Acts 7:8
+  ncla: JMm JFm KMo KFo GMu GFu
+  ncla_deviation: false
 - id: DB3
   title: Identifying as Children of God
   manually_review: This is a unique commandment
@@ -4986,6 +5195,8 @@
   bible_references:
     nt_scriptures:
     - Acts 17:29
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: DB4
   title: Embracing Jewish Identity and Responsibility
   manually_review: This is a unique commandment
@@ -5001,6 +5212,8 @@
   bible_references:
     nt_scriptures:
     - Romans 3:1-2
+  ncla: JMm JFm KMm KFm GMp GFp
+  ncla_deviation: false
 - id: E1
   title: Preserving & Disseminating God's Word
   manually_review: It is the same as step 58, together with step 20 and 8 this is not unique.
@@ -5106,6 +5319,8 @@
     ot_scriptures:
     - Proverbs 16:5
     - Proverbs 16:18
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: EB1
   title: Prophesying veiled and unveiled
   manually_review: I think this commandment was very specific to the culture of the time, it is also not repeated elsewhere in the Bible, so I do not think it is unique.
@@ -5121,6 +5336,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 11:4-10
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: EB3
   title: Exercising Control When Prophesying
   manually_review: It is a unique element, but I think it should be implied in ZA6.
@@ -5136,6 +5353,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:32
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: EB4
   title: Believing the Prophets
   manually_review: By having faith in God/Messiah, it is already implied to also believe the prophets who are send by Him.
@@ -5153,6 +5372,8 @@
   bible_references:
     key_nt_scriptures:
     - Acts 26:27
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: EB5
   title: Evaluating Prophecies
   manually_review: This is a unique commandment
@@ -5169,6 +5390,8 @@
     key_nt_scriptures:
     - 1 Corinthians 14:29
     - 1 Thessalonians 5:21
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: EB6
   title: Prophesying in an Orderly Manner
   manually_review: It is a unique element, but I think it should be implied in ZA6.
@@ -5186,6 +5409,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:30-31
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: EB7
   title: Interpreting Prophecy via the Holy Spirit
   manually_review: It is already implied in EB5 and AB8
@@ -5199,6 +5424,8 @@
   bible_references:
     nt_scriptures:
     - 1 Thessalonians 5:20
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: F1
   title: Honoring and Revering Our Father and Mother
   manually_review: It is the same as step 63.
@@ -5392,6 +5619,8 @@
     - Psalms 37:7
     - Psalms 40:2
     - Psalms 88:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA2
   title: Worshiping the One True God and No Other
   manually_review: Is is the same as step 5.
@@ -5416,6 +5645,8 @@
     - Exodus 20:2
     - Exodus 20:4-6
     - Isaiah 43:11-12
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA4
   title: Praying for Workers to Minister the Existence & Identity of God, & Gather the Harvest
   manually_review: It is the same as step 6.
@@ -5434,6 +5665,8 @@
     - Matthew 9:37-38
     - Revelation 14:15
     - Romans 16:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA5
   title: Praying for Our Enemies
   manually_review: It is the same as step 27.
@@ -5445,6 +5678,8 @@
   bible_references:
     nt_scriptures:
     - Matthew 5:44
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA6
   title: Praying that God’s Name Be Kept Holy
   manually_review: It is based on the same key scripture as step 30.
@@ -5463,6 +5698,8 @@
     - Exodus 15:11
     - Isaiah 57:15
     - Psalms 96:9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA7
   title: Praying & Prophesying with Head Veiled & Unveiled, Covered & Uncovered
   manually_review: I think this commandment was very specific to the culture of the time, it is also not repeated elsewhere in the Bible, so I do not think it is unique.
@@ -5475,6 +5712,8 @@
     - 1 Timothy 2:9
     ot_scriptures:
     - Deuteronomy 22:5
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA8
   title: Worshiping with Psalms, Songs and Music
   manually_review: It Is a unique commandment.
@@ -5516,6 +5755,8 @@
     - Psalms 68:5
     - Psalms 71:23
     - Psalms 87:7
+  ncla: JMm JFi KMm KFi GMm GFi
+  ncla_deviation: false
 - id: FA9
   title: Giving Thanks in Everything
   manually_review: It is the same as step 62
@@ -5540,6 +5781,8 @@
     - Psalms 30:13
     - Psalms 69:31
     - Psalms 92:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA10
   title: Praying in the Spirit for All Human Beings & Especially for God’s People
   manually_review: It is not unique, there are quite some other commandments and steps that are similar.
@@ -5561,6 +5804,8 @@
     - James 5:16
     ot_scriptures:
     - Job 42:8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA11
   title: Petitioning God in Faith and with Thanksgiving
   manually_review: It is a unique commandment
@@ -5584,6 +5829,8 @@
     ot_scriptures:
     - 2 Samuel 22:31
     - Deuteronomy 32:20
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA12
   title: Praying Regularly and Continually
   manually_review: We already have quite some commandments about praying, but doing it regularly and continually is a unique commandment.
@@ -5607,6 +5854,8 @@
     - Deuteronomy 9:25-26
     - Joshua 1:8
     - Psalms 88:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA13
   title: Praying with Lifted Holy Hands
   manually_review: I think this is not a generic commandment but more specific to the culture of the time, so I do not think it is unique.
@@ -5639,6 +5888,8 @@
     - Psalms 141:2
     - Psalms 28:2
     - Psalms 63:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA16
   title: Worshiping God in Spirit and in Truth
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -5660,6 +5911,8 @@
     ot_scriptures:
     - Psalms 145:18
     - Psalms 95:6
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA17
   title: Praying to God in Yeshua’s Name
   manually_review: It is not unique, it is the same as step 30 since the Father and Yeshua are one.
@@ -5690,6 +5943,8 @@
     - Exodus 33:19
     - Exodus 34:5
     - Psalms 118:26
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA18
   title: Praying Together with Others
   manually_review: It is a unique commandment.
@@ -5717,6 +5972,8 @@
     - Luke 9:28
     - Matthew 18:19
     - Romans 15:30
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA19
   title: Praying Vigilantly
   manually_review: I think this is under the same umbrella as FA1 and FA12.
@@ -5730,6 +5987,8 @@
   bible_references:
     nt_scriptures:
     - Ephesians 6:17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA20
   title: Praying for God’s Kingdom to Come
   manually_review: I dont think we need to specify all things to pray for. Together with step 30 and 34 this is not unique.
@@ -5750,6 +6009,8 @@
     - Matthew 6:10
     ot_scriptures:
     - Daniel 2:44
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA21
   title: Praying for God’s Will to Be Done
   manually_review: It is the same as step 30.
@@ -5773,6 +6034,8 @@
     - Matthew 6:10
     ot_scriptures:
     - 2 Samuel 10:12
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA22
   title: Praying for Daily Provisions
   manually_review: I dont think we need to specify all things to pray for. Together with step 34 this is not unique.
@@ -5807,6 +6070,8 @@
     - Numbers 11:31-32
     - Psalms 105:40
     - Psalms 78:23-25
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA23
   title: Praying for God’s Forgiveness
   manually_review: I dont think we need to specify all things to pray for. Together with step 31 this is not unique.
@@ -5831,6 +6096,8 @@
     ot_scriptures:
     - Numbers 14:19-20
     - Psalms 32:5
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA24
   title: Praying for Protection from Temptation
   manually_review: I dont think we need to specify all things to pray for. Together with step 22 this is not unique.
@@ -5860,6 +6127,8 @@
     - Matthew 26:41
     - Matthew 4:10
     - Matthew 6:13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA25
   title: Praying for Protection from the Adversary
   manually_review: I dont think we need to specify all things to pray for. Together with GB19 this is not unique.
@@ -5887,6 +6156,8 @@
     - Psalms 46:2
     - Psalms 5:12
     - Psalms 91:1-3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA26
   title: Praying with Faith and without Doubt
   manually_review: I dont think we need to specify all things to pray for. Together with step 30 this is not unique.
@@ -5908,6 +6179,8 @@
     - Matthew 21:21-22
     - Matthew 9:20-22
     - Matthew 9:27-30
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA27
   title: Praying for Our Brother and Our Neighbor
   manually_review: I dont think we need to specify all things to pray for. Together with step 27 and 43 this is not unique.
@@ -5936,6 +6209,8 @@
     ot_scriptures:
     - 1 Samuel 12:23
     - Job 42:10
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA28
   title: Worshiping Yeshua as Adonai
   manually_review: Since we already have a commandment to know that God is triune, and also have commandments to worship, this is not unique.
@@ -5975,6 +6250,8 @@
     - Psalms 150:6
     - Psalms 29:2
     - Psalms 95:6
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA29
   title: Worshiping God with Gratitude
   manually_review: Since we already have multiple commandments to worship God, and also have a commandment to give thanks, this is not unique.
@@ -5996,6 +6273,8 @@
     ot_scriptures:
     - Psalms 136:1
     - Psalms 50:23
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA30
   title: Praying Often, Persistently, and Fervently
   manually_review: I think this is the same as FA12.
@@ -6015,6 +6294,8 @@
     ot_scriptures:
     - 1 Samuel 1:12
     - Psalms 119:164
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA31
   title: Praying for the Good News to Be Spread Quickly
   manually_review: Of course this is important, but I dont think we need to specify all things to pray for. Together with step 6 and 8 this is not unique.
@@ -6034,6 +6315,8 @@
   bible_references:
     nt_scriptures:
     - 2 Thessalonians 3:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA32
   title: Praying for All Humanity
   manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
@@ -6058,6 +6341,8 @@
     ot_scriptures:
     - 1 Samuel 12:23
     - Job 42:10
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA34
   title: Praying for Wisdom
   manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
@@ -6079,6 +6364,8 @@
     - 2 Chronicles 1:9-10
     - Daniel 2:23
     - Psalms 51:8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA35
   title: Praying with Right Motives
   manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
@@ -6097,6 +6384,8 @@
     nt_scriptures:
     - James 4:3
     - Matthew 6:7-8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA36
   title: Praying in Times of Both Joy & Affliction
   manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
@@ -6121,6 +6410,8 @@
     - Psalms 30:3-4
     - Psalms 30:6
     - Psalms 34:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA37
   title: Calling on Elders to Pray and Anoint with Oil when Sick
   manually_review: This is a unique commandment, it is not yet an explicit step.
@@ -6158,6 +6449,8 @@
     - Psalms 147:3
     - Psalms 30:3
     - Psalms 41:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA38
   title: Praying for One Another
   manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
@@ -6173,6 +6466,8 @@
   bible_references:
     nt_scriptures:
     - 1 Timothy 2:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: FA39
   title: Praying in Unison with the Holy Spirit
   manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
@@ -6191,6 +6486,8 @@
     nt_scriptures:
     - 1 Corinthians 14:14-15
     - Galatians 5:16
+  ncla: JMm JFi KMm KFi GMm GFi
+  ncla_deviation: false
 - id: FB1
   title: Wives Remaining Silent in Congregation Meetings
   manually_review: The way the title is formulated it can be interpreted that woman cannnot speak at all. Both key scriptures are in te context of giving teaching in the congregation. The next commandment, FB2, is better formulated, I therefore changed the title from 'Wives Remaining Silent in Congregation Meetings' to "Honoring Women’s Role in Learning and Orderly Worship". For a study on this topic see 'Man and Woman in Christ' - Stephen Clark.
@@ -6200,6 +6497,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:34-35
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: true
 - id: FB2
   title: Women Learning in Peace While Fully Submitted
   manually_review: It is implied in other commandments which are not specifically for woman, but it is good to have a positive way of formulating the teaching which Paul instructs us, for woman.
@@ -6213,6 +6512,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 2:11
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: false
 - id: FB4
   title: Women Dressing Modestly when Praying
   manually_review: It is a unique commandment.
@@ -6230,6 +6531,8 @@
     - Deuteronomy 22:5
     - Proverbs 11:22
     - Proverbs 31:30
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: false
 - id: FB5
   title: Wives Receiving Clarification from their Own Husbands
   manually_review: This is already implied in FB1 and CB8.
@@ -6243,6 +6546,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:34-35
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: true
 - id: FB6
   title: Women to Continue in Faith and Love
   manually_review: In this key scripture it is only about woman, but on other scriptures it is broader, so this is not unique.
@@ -6258,6 +6563,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 2:15
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: false
 - id: FB7
   title: Women Living a Holy and Modest Life
   manually_review: This is already implied in the other double_ids, but more generic and not bound to only woman.
@@ -6275,6 +6582,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 2:15
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: false
 - id: FB8
   title: Women Teaching Younger Women
   manually_review: It is a unique commandment
@@ -6290,6 +6599,8 @@
   bible_references:
     key_nt_scriptures:
     - Titus 2:3-5
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: false
 - id: FB9
   title: Women Being Homemakers
   manually_review: it is a unique commandment
@@ -6299,6 +6610,8 @@
   bible_references:
     key_nt_scriptures:
     - Titus 2:3-5
+  ncla: JMi JFm KMi KFm GMi GFm
+  ncla_deviation: false
 - id: G1
   title: Believing in God
   manually_review: It is the same as step 65, only more specific.
@@ -7439,7 +7752,7 @@
   ncla: JMm JFm KMm KFm GMm GFm
   ncla_deviation: false
 - id: GA1
-  title: See also EA3
+  title: Repenting of Our Sins and Turning to God
   manually_review: Since the Hebrew word for repent (teshuvah) goes very deep, I think this is unique as it emphasizes the turning aspect of repentance, which is important to highlight.
   unique: true
   related_steps:
@@ -7493,6 +7806,8 @@
     - Proverbs 1:23
     - Psalms 7:13
     - Psalms 9:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GA2
   title: Seeking Forgiveness of Our Sins in Yeshua
   manually_review: It is implied in step 1 since that is based on John 3:16, together with BA28 I don't think it is unique.
@@ -7524,6 +7839,8 @@
     - 2 Chronicles 7:14
     - Daniel 9:9
     - Psalms 130:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GA3
   title: Producing Fruit of Repentance
   manually_review: It is the same as step 4.
@@ -7546,6 +7863,8 @@
     - Leviticus 24:18-21
     - Leviticus 5:16
     - Numbers 5:6-8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GA4
   title: Being Immersed in the Name of Yeshua
   manually_review: Since there is no other Name than the Name of Yeshua this is implied in step 2.
@@ -7565,6 +7884,8 @@
     - Mark 1:8
     - Matthew 28:17-18
     - Matthew 3:11
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GA5
   title: Doing Works Befitting Repentance
   manually_review: It is the same as step 4.
@@ -7592,6 +7913,8 @@
     - Titus 2:14
     ot_scriptures:
     - Isaiah 3:10
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB2
   title: Examining Ourselves
   manually_review: It is a unique commandment
@@ -7606,6 +7929,8 @@
     - 1 Corinthians 11:31
     - 2 Corinthians 13:5
     - Galatians 6:3-4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB6
   title: Using Wine Medicinally
   manually_review: It is a unique commandment
@@ -7615,6 +7940,8 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:1-2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB7
   title: Living in a Way That is Good
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7639,6 +7966,8 @@
     key_ot_scriptures:
     - Proverbs 15:24
     - Psalms 16:11
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB8
   title: Conducting Ourselves Wisely and with Godly Purity
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7654,6 +7983,8 @@
   bible_references:
     nt_scriptures:
     - 1 John 3:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB9
   title: Using Our Time Well
   manually_review: It is a unique commandment
@@ -7663,6 +7994,8 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:16
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB11
   title: Wearing and Employing God’s Armor and Weaponry
   manually_review: It is a unique commandment.
@@ -7674,6 +8007,8 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 6:11-17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB13
   title: Letting Our Conduct Fit the Level of Our Spiritual Attainment
   manually_review: It is a unique commandment
@@ -7688,6 +8023,8 @@
     key_nt_scriptures:
     - 1 Thessalonians 5:14
     - Philippians 3:16
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB14
   title: Patterning Our Life After the Shlichim, their Disciples, and Yeshua
   manually_review: It is a unique commandment, although I would like to change the original 'Patterning Our Life After the Shlichim, their Disciples, and Yeshua' to 'Walk as Yeshua'
@@ -7706,6 +8043,8 @@
     - Galatians 1:8-9
     - Philippians 3:17
     - Philippians 4:9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB16
   title: Doing Everything in the Name of Yeshua
   manually_review: It is a unique commandment
@@ -7718,6 +8057,8 @@
     key_nt_scriptures:
     - Colossians 3:17
     - Ephesians 5:20
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB17
   title: Doing Everything in Faith and Unto Yeshua
   manually_review: It is a unique commandment
@@ -7731,6 +8072,8 @@
     - Colossians 3:23
     - Mark 11:22-24
     - Romans 14:23
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB18
   title: Living a Good, Quiet, & Peaceful Life
   manually_review: It is a unique commandment
@@ -7748,6 +8091,8 @@
     - 1 Timothy 2:1-2
     - 2 Timothy 2:22
     - Romans 13:13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB19
   title: Being Alert and on Guard Against Spiritual Danger
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7767,6 +8112,8 @@
     - 1 Peter 5:8
     - 1 Thessalonians 5:6
     - Luke 12:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB20
   title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7791,6 +8138,8 @@
     - 2 Thessalonians 3:6
     - 2 Timothy 1:13
     - Galatians 1:8-9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB22
   title: Living According to God’s Word and Spirit
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7808,6 +8157,8 @@
   bible_references:
     nt_scriptures:
     - Matthew 4:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB23
   title: Pursuing That Which Makes for Faith and Upbuilding
   manually_review: It is a unique commandment
@@ -7822,6 +8173,8 @@
     - Romans 14:16
     - Romans 14:19
     - Romans 15:1-2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB25
   title: Aspiring to Be Mature in Our Thoughts
   manually_review: Together with the other double_ids, it is already implied.
@@ -7845,6 +8198,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:20
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB26
   title: Being Like Children in Regard to Evil
   manually_review: It is the same as step 55
@@ -7856,6 +8211,8 @@
   - id: TA4
     title: Entering the Kingdom of God Like Innocent Children
   bible_references: {}
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB27
   title: Welcoming and Caring for Little Children and Those Pure of Spirit
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7875,6 +8232,8 @@
     - Matthew 18:10
     - Matthew 18:12-14
     - Matthew 19:13-15
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB29
   title: Doing All Things in a Decent and Orderly Way
   manually_review: It is a unique commandment
@@ -7893,6 +8252,8 @@
     - Galatians 5:24-25
     - Luke 21:34
     - Romans 13:13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB31
   title: Supporting Ourselves and Sharing with Those Who Teach Us
   manually_review: This is already implied in the other double_ids.
@@ -7906,6 +8267,8 @@
   bible_references:
     key_nt_scriptures:
     - Galatians 6:6
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB33
   title: Being Content in All Things and All Circumstances
   manually_review: This is already implied in the other double_ids and related_steps.
@@ -7927,6 +8290,8 @@
     - Hebrews 13:5
     - Luke 3:14
     - Philippians 4:11
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB34
   title: Doing Everything in Love
   manually_review: It is a unique commandment
@@ -7947,6 +8312,8 @@
     - 2 Timothy 3:10
     - Ephesians 5:1-2
     - Titus 2:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB35
   title: Pursuing Shalom in Yeshua
   manually_review: I think it is a result of taking the yoke of Yeshua
@@ -7963,6 +8330,8 @@
     - Romans 14:19
     - Romans 16:19
     - Romans 3:17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB38
   title: Length of Hair on Men and Women
   manually_review: I think this was very specific to the culture of the time (it is also not replied anywhere else), so I do not think it is unique.
@@ -7973,6 +8342,8 @@
     key_nt_scriptures:
     - 1 Corinthians 11:4-10
     - 1 Corinthians 11:14-15
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB39
   title: Seeking the Way Out of Temptation that God Has Provided
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -7986,6 +8357,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 10:12-13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB40
   title: Coming to Our Senses
   manually_review: Based on the key scriptures and the related double_ids, I think it is already implied.
@@ -8002,6 +8375,8 @@
     key_nt_scriptures:
     - 1 Corinthians 15:34
     - 2 Timothy 2:26
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB43
   title: Growing, Utilizing and Standing Firm in God’s Grace
   manually_review: It is a unique element
@@ -8013,6 +8388,8 @@
     - 1 Peter 5:12
     - 2 Corinthians 6:1
     - 2 Peter 3:18
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB44
   title: Exercising Self Control (Discipline)
   manually_review: It is a unique commandment
@@ -8034,6 +8411,8 @@
     - Titus 2:2
     - Titus 2:6-8
     - Titus 2:12
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB45
   title: Taking Responsibility for Ourselves and Our Actions
   manually_review: It is a unique commandment
@@ -8043,6 +8422,8 @@
   bible_references:
     key_nt_scriptures:
     - Galatians 6:5
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB46
   title: Exposing Evil and Deeds of Darkness
   manually_review: It is a unique commandment
@@ -8056,6 +8437,8 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:11
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB48
   title: Persevering in All Situations
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -8079,6 +8462,8 @@
     - Revelation 2:19
     - Revelation 3:10
     - Titus 2:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB55
   title: Rejecting Godless Fables
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -8093,6 +8478,8 @@
     key_nt_scriptures:
     - 1 Timothy 4:6-7
     - Hebrews 13:9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB58
   title: Conducting Ourselves with Honor
   manually_review: It is already implied in the other double_ids.
@@ -8108,6 +8495,8 @@
   bible_references:
     key_nt_scriptures:
     - 2 Timothy 2:21
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB61
   title: Having a Godly Purpose in Our Life
   manually_review: Together with the other double_ids, it is already implied.
@@ -8123,6 +8512,8 @@
   bible_references:
     key_nt_scriptures:
     - 2 Timothy 3:10
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB63
   title: Being Serious and Sensible
   manually_review: It is a unique commandment
@@ -8134,6 +8525,8 @@
   bible_references:
     key_nt_scriptures:
     - Titus 2:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB68
   title: Accompanying Our Faith with Actions
   manually_review: It is a unique commandment
@@ -8143,6 +8536,8 @@
   bible_references:
     key_nt_scriptures:
     - James 2:14-26
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB69
   title: Serving as Priests in a Royal Priesthood
   manually_review: It is already implied in the other double_ids
@@ -8161,6 +8556,8 @@
     key_nt_scriptures:
     - 1 Peter 2:5
     - 1 Peter 2:9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB70
   title: Seeking Inner Peace
   manually_review: Based on the key scriptures and the related double_ids and related steps, I think it is already implied.
@@ -8183,6 +8580,8 @@
     key_nt_scriptures:
     - 1 Peter 3:11-12
     - 2 Peter 3:14
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB71
   title: Being Zealous for What is Good
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -8200,6 +8599,8 @@
     - 1 Peter 3:13
     - 2 Corinthians 7:11
     - 2 Corinthians 9:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: H1
   title: Having Reverence for God's Sanctuary
   manually_review: It has the same idea as G6, BA23 and step 45.
@@ -8402,6 +8803,8 @@
     - Romans 13:11
     ot_scriptures:
     - Ezekiel 38:19-23
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HA5
   title: Patiently Awaiting Yeshua’s Return
   manually_review: I think this is implied in step 68 and HA3.
@@ -8438,6 +8841,8 @@
     - Psalms 39:8
     - Psalms 40:2
     - Psalms 62:6
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB2
   title: Seeking to Understand the Will of God
   manually_review: Together with the other double_ids and related_steps, it is already implied.
@@ -8453,6 +8858,8 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB6
   title: Keeping Torah in Our Heart
   manually_review: It can have a unique element, but it is very similar to step 14 and 73
@@ -8466,6 +8873,8 @@
   bible_references:
     key_nt_scriptures:
     - Romans 2:15
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB11
   title: Internalizing the Word of God and of Messiah
   manually_review: I count this as the same as AA47.
@@ -8479,6 +8888,8 @@
   bible_references:
     key_nt_scriptures:
     - Colossians 3:16
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB14
   title: Using Torah as Torah Itself Intends
   manually_review: It is a unique commandment
@@ -8488,6 +8899,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 1:8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB15
   title: Knowing for Whom Torah is Intended
   manually_review: It has a unique element, but it is quite obvious so I choose to now not make it unique.
@@ -8499,6 +8912,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 1:9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB16
   title: Knowing the Holy Scriptures
   manually_review: It is implied in step 58
@@ -8517,6 +8932,8 @@
     key_nt_scriptures:
     - 2 Peter 1:5
     - 2 Timothy 3:15
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB17
   title: Believing in the Inspiration of Scripture and Its Usefulness for Equipping
   manually_review: It is the same as step 58
@@ -8534,6 +8951,8 @@
   bible_references:
     key_nt_scriptures:
     - 2 Timothy 3:16-17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB18
   title: Learning God’s Word
   manually_review: Since AA47 and step 58 are already unique, I don't think it has a unique element.
@@ -8547,6 +8966,8 @@
   bible_references:
     key_nt_scriptures:
     - 2 Timothy 4:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB19
   title: Proclaiming God’s Word
   manually_review: It has a unique element
@@ -8563,6 +8984,8 @@
     key_nt_scriptures:
     - 2 Timothy 4:2
     - Revelation 20:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB21
   title: Receiving God’s Implanted Word
   manually_review: I count this the same as step 58. Recieving is implied in hearing together with keeping.
@@ -8580,6 +9003,8 @@
   bible_references:
     key_nt_scriptures:
     - James 1:21
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB22
   title: Being Both a Hearer and Doer of God’s Word
   manually_review: It is already implied in the other double_ids and related_steps.
@@ -8594,6 +9019,8 @@
     key_nt_scriptures:
     - James 1:22-25
     - James 2:14-26
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB23
   title: Considering the Torah a Torah of Freedom
   manually_review: It is a unique commandment
@@ -8605,6 +9032,8 @@
   bible_references:
     key_nt_scriptures:
     - James 2:12
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: HB24
   title: Thirsting for the Word of God
   manually_review: Together with the other double_ids and related_steps, it is already implied.
@@ -8622,6 +9051,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 2:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: I6
   title: Destroying Idolatry
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -8695,6 +9126,8 @@
     - Leviticus 20:24-26
     - Leviticus 3:16-17
     - Leviticus 7:22-27
+  ncla: JMi JFi KMi KFi GMm GFm
+  ncla_deviation: false
 - id: J1
   title: Applying the Mosaic Law in a Manner Consistent with New Covenant Realities
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -8931,6 +9364,8 @@
     - Genesis 3:1
     - Isaiah 8:19
     - Proverbs 22:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: JA5
   title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
   manually_review: It is the same as step 44.
@@ -8951,6 +9386,8 @@
     - Proverbs 11:30
     - Proverbs 14:16
     - Proverbs 29:9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: JA6
   title: Offering the Other Cheek
   manually_review: It is the same as step 25
@@ -8971,6 +9408,8 @@
     - Matthew 5:38-42
     - Romans 12:19-20
     - Romans 13:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: JA8
   title: Blessing Our Enemies and Expecting Nothing in Return
   manually_review: It is the same as step 27.
@@ -8994,6 +9433,8 @@
     - Matthew 6:46
     - Romans 12:14
     - Romans 12:18-20
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: JA9
   title: Keeping Our Faith Amidst Persecution
   manually_review: It is the same as step 16.
@@ -9019,6 +9460,8 @@
     - Matthew 5:11-12
     - Revelation 2:9-10
     - Romans 5:3-4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: JA10
   title: Allowing Ourselves to Be Abused within Reason
   manually_review: It has the same idea as step 25
@@ -9041,6 +9484,8 @@
     - Matthew 5:11
     - Matthew 5:40-41
     - Romans 5:3-4
+  ncla: JMm JFi KMm KFi GMm GFi
+  ncla_deviation: false
 - id: KA1
   title: Being on Our Guard Against False Messiahs
   manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with the related step and double_ids it is not unique.
@@ -9066,6 +9511,8 @@
     - Matthew 24:4-5
     - Matthew 24:23-25
     - Revelation 6:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: KA2
   title: Being on Our Guard Against False Prophets
   manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with the related step and double_ids it is not unique.
@@ -9099,6 +9546,8 @@
     - Revelation 20:10
     ot_scriptures:
     - Jonah 3:14
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: LA3
   title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
   manually_review: It is a unique commandment.
@@ -9119,6 +9568,8 @@
     - Joshua 22:5
     - Joshua 24:15
     - Psalms 2:11
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: LA4
   title: Masters Treating Their Slaves & Bondservants Justly & Fairly
   manually_review: It is a unique commandment.
@@ -9144,6 +9595,8 @@
     - Exodus 23:12
     - Exodus 24:22
     - Exodus 25:44-46
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: LA6
   title: Using Our Enslavement to Serve God but Gaining Freedom If Possible
   manually_review: It is a unique commandment.
@@ -9155,6 +9608,8 @@
     - 1 Corinthians 7:21-22
     ot_scriptures:
     - Deuteronomy 13:5
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: M2
   title: Keeping Our Promises
   manually_review: It is the same as AA34 and step 24.
@@ -9661,6 +10116,8 @@
     - Matthew 10:9-14
     ot_scriptures:
     - Deuteronomy 25:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA3
   title: Ministering First to the Jew and Then to the Gentile
   manually_review: I think this commandment was only specific to the apostles and their ministry. Therefore it is not unique.
@@ -9682,6 +10139,8 @@
     - Exodus 9:6
     - Genesis 17:5
     - Isaiah 60:2-3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA5
   title: Teaching Both in Public and in Private
   manually_review: This is already implied in the related step.
@@ -9697,6 +10156,8 @@
   bible_references:
     nt_scriptures:
     - Acts 20:20-21
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA6
   title: Teaching Those Who Teach Others
   manually_review: This is already implied in the related step and ids.
@@ -9710,6 +10171,8 @@
   bible_references:
     nt_scriptures:
     - 2 Timothy 2:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA7
   title: Using the Tanakh to Show that Yeshua is Mashiach
   manually_review: This is a unique commandment
@@ -9720,6 +10183,8 @@
     nt_scriptures:
     - Acts 18:28
     - Acts 28:23
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA8
   title: Confessing Our Sins to One Another
   manually_review: It is the same as NA27
@@ -9729,6 +10194,8 @@
   bible_references:
     nt_scriptures:
     - Matthew 10:7-8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA13
   title: Eating What is Offered When Traveling for Ministry
   manually_review: I think it falls under the the same commandment as NA2.
@@ -9768,6 +10235,8 @@
     - Leviticus 17:15
     - Leviticus 20:25-26
     - Leviticus 3:17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA17
   title: Identifying with Those to Whom We Minister
   manually_review: It is a unique commandment.
@@ -9792,6 +10261,8 @@
     - Matthew 11:19
     - Matthew 9:10-13
     - Romans 14:22-23
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA19
   title: Preaching Reconciliation with God
   manually_review: It is already implied in step 8.
@@ -9808,6 +10279,8 @@
     - Romans 5:11
     ot_scriptures:
     - Isaiah 59:1-3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA21
   title: Ministering with the Wisdom of Messiah
   manually_review: It is already implied in step 44.
@@ -9832,6 +10305,8 @@
     - Job 12:13
     - Peo 16:16
     - Proverbs 3:13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA22
   title: Ministering in a Fatherly Manner
   manually_review: The way how to minister is not an actual command. Therefore this commandment is already implied in step 20.
@@ -9852,6 +10327,8 @@
     ot_scriptures:
     - Proverbs 1:8
     - Proverbs 3:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA24
   title: Teaching Obedience to God’s Mitzvot
   manually_review: It is already implied in step 20.
@@ -9870,6 +10347,8 @@
     ot_scriptures:
     - Proverbs 3:1-2
     - Psalms 28:9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA25
   title: Teaching Godliness
   manually_review: Together with step 20 and 28 this is already implied.
@@ -9890,6 +10369,8 @@
     ot_scriptures:
     - Deuteronomy 11:18
     - Deuteronomy 4:8-9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: O1
   title: Being Salt for the Earth & a Light for the World
   manually_review: It is the same as step 18 and 19.
@@ -10013,6 +10494,8 @@
     key_nt_scriptures:
     - 1 Timothy 3:1-7
     - Titus 1:6-9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: OA2
   title: Attributes & Behaviors Required of Shamashim
   manually_review: I would say that OA1 is the same, just add Shamashim to it.
@@ -10025,6 +10508,8 @@
     key_nt_scriptures:
     - 1 Timothy 3:8-10
     - 1 Timothy 3:12
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: true
 - id: OA3
   title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   manually_review: It is a unique commandment
@@ -10037,6 +10522,8 @@
     nt_scriptures:
     - Ephesians 6:2
     - Galatians 6:6
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: OA4
   title: Being Cautious in Granting S’michah
   manually_review: It is a unique commandment.
@@ -10046,6 +10533,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:22
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: OA5
   title: Acknowledging Yeshua as Our Spiritual Leader
   manually_review: It is already implied in FA28.
@@ -10057,6 +10546,8 @@
   bible_references:
     nt_scriptures:
     - 1 Corinthians 11:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: OA6
   title: Required Attributes and Behaviors of Leaders’ Wives
   manually_review: I would say that OA1 is the same, just add the leaders wives (and children) to it.
@@ -10070,6 +10561,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 3:11
+  ncla: JMm JFi KMm KFi GMm GFi
+  ncla_deviation: false
 - id: OA7
   title: Imitating the Faith of Our Spiritual Leaders
   manually_review: It is a unique commandment, however if we and our leaders all follow BA17 it will be implied anyway.
@@ -10083,6 +10576,8 @@
   bible_references:
     key_nt_scriptures:
     - Hebrews 13:7
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: OA8
   title: Submitting to and Obeying Our Spiritual Leaders
   manually_review: I think that this is already implied in OA3.
@@ -10097,6 +10592,8 @@
     - 2 Peter 2:9-10
     - Acts 5:29
     - Hebrews 13:17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: OA9
   title: Spiritual Leaders Pastoring Those in Their Care
   manually_review: It is a unique commandment.
@@ -10112,6 +10609,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 5:1-2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: OA12
   title: Leading by Example
   manually_review: It is a unique commandment. Great that this comes from Peter.
@@ -10123,6 +10622,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 5:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: P1
   title: The Priesthood of Israel & of Believers in Yeshua
   manually_review: It is a unique commandment, it is not yet an explicit step.
@@ -10198,6 +10699,8 @@
     - Matthew 22:18-21
     - Romans 13:7
     - Titus 3:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: PA2
   title: Guarding Against Wrongful Ways of Leaders, Teachers, and Others Who Are in Charge
   manually_review: It is based on the same key scripture as step 40, so this is not unique.
@@ -10215,6 +10718,8 @@
   bible_references:
     key_nt_scriptures:
     - Matthew 16:6-10
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: PA3
   title: Submitting to and Obeying the Authorities Placed Over Us
   manually_review: It is the same as A23 which is already unique.
@@ -10236,6 +10741,8 @@
     - Romans 13:1-2
     - Romans 13:5-6
     - Titus 3:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: PA4
   title: Leading by Serving
   manually_review: Together with OA12 and step 64 this is not unique.
@@ -10251,6 +10758,8 @@
     - 1 Corinthians 4:1-3
     - Mark 10:42-45
     - Matthew 20:25-28
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: PA5
   title: Commanding Obedience to God
   manually_review: There is not yet any bible reference to support an actual commanding obedience, so I think this is now not unique.
@@ -10260,10 +10769,12 @@
   - id: NA24
     title: Teaching Obedience to God’s Mitzvot
   - id: GA1
-    title: See also EA3
+    title: Repenting of Our Sins and Turning to God
   - id: NA19
     title: Preaching Reconciliation with God
   bible_references: {}
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: PA6
   title: Honoring Our Secular Authorities
   manually_review: Since A23 is already unique, I think when we are subjected to the authorities, we also honor them implicitly.
@@ -10280,6 +10791,8 @@
     key_nt_scriptures:
     - 1 Peter 2:17
     - 2 Peter 2:9-10
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: QA1
   title: Preaching, Teaching, & Making Disciples of Yeshua
   manually_review: It is the same as step 76, the great commission, together with step 8 this is not unique.
@@ -10334,6 +10847,8 @@
     - Philippians 2:10-11
     - Romans 10:8-11
     - Romans 10:15-16
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: QA2
   title: Boasting About God and Yeshua
   manually_review: It is the same but differently described as step 50
@@ -10347,6 +10862,8 @@
     - 2 Corinthians 10:17
     - 2 Timothy 1:8
     - Philippians 3:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: QA3
   title: Knowing the Dangers Involved in Preaching the Good News
   manually_review: I think the related step already implies this, so it is not unique.
@@ -10360,6 +10877,8 @@
   bible_references:
     key_nt_scriptures:
     - Luke 10:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: QA4
   title: Proclaiming the Kingdom of God
   manually_review: I think the Kingdom of God is already implied in the gospel, however, it is good to have an explicit commandment about the Kingdom of God to talk about what that is exactly.
@@ -10372,6 +10891,8 @@
     key_nt_scriptures:
     - Luke 10:9-11
     - Luke 9:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: QA5
   title: Preaching in the Synagogue of the Unbeliever
   manually_review: This is already implied in step 8. The place where to preach is not an actual command but bound to a culture.
@@ -10385,6 +10906,8 @@
   bible_references:
     key_nt_scriptures:
     - Acts 19:8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: QA6
   title: Having Courage to Proclaim the Good News
   manually_review: Together with the related steps this is not unique.
@@ -10402,6 +10925,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Thessalonians 2:2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: R1
   title: Listening to and Heeding God's Voice
   manually_review: Is has the same idea as step 41 and step 58.
@@ -10582,13 +11107,15 @@
   - id: RA6
     title: Publicly Rebuking Leaders Who Continue to Sin
   - id: GA1
-    title: See also EA3
+    title: Repenting of Our Sins and Turning to God
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 6:1-7
     - 1 Corinthians 6:13
     - 1 Corinthians 6:15-16
     - Matthew 18:15-17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA2
   title: Correcting Those Who Teach and Follow False Doctrines
   manually_review: It is implied within step 35, but since it is based on different key scriptures, I think it is unique enough.
@@ -10604,6 +11131,8 @@
     - 1 Timothy 1:3-4
     - 1 Timothy 6:3-5
     - Titus 1:13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA3
   title: Correcting Our Self Before Seeking to Correct Others
   manually_review: It is the same as step 35
@@ -10620,6 +11149,8 @@
     - Matthew 7:3-5
     - Romans 2:1-3
     - Romans 2:21-24
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA4
   title: Correcting One Another with Humility and Gentleness
   manually_review: It is implied in RA2, although it would be better to integrate this into RA2. We always need to be humble and gentle, so I dont think this is a new commandment.
@@ -10636,6 +11167,8 @@
     - 2 Timothy 2:25
     - Galatians 6:1
     - Titus 2:15
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA6
   title: Publicly Rebuking Leaders Who Continue to Sin
   manually_review: It is a unique commandment
@@ -10649,6 +11182,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:20
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA9
   title: Letting Punishment Fit the Offense
   manually_review: It is based on the same key scripture as step 25 but differently described. Therefore this is not unique.
@@ -10660,6 +11195,8 @@
   bible_references:
     key_nt_scriptures:
     - Matthew 5:38
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA10
   title: Rebuking and Exhorting with Patience and Instruction
   manually_review: We always need to be patient, so I dont think this is a new commandment. It is already implied in RA4.
@@ -10679,6 +11216,8 @@
     - Hebrews 3:13
     - Luke 17:3
     - Titus 2:15
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA11
   title: Pursuing Justice
   manually_review: Justice is something different than righteousness. Therefore I think this is a unique commandment.
@@ -10696,6 +11235,8 @@
   bible_references:
     key_nt_scriptures:
     - Matthew 23:23
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA13
   title: Expelling Evil Doers from the Community of Believers
   manually_review: It is a unique commandment
@@ -10707,6 +11248,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 5:12-13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA16
   title: Confronting and Correcting the Lazy Among Us
   manually_review: It is a unique commandment
@@ -10718,6 +11261,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Thessalonians 5:14
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA21
   title: Judging Without Prejudice or Partiality
   manually_review: It is already implied in RA11
@@ -10731,6 +11276,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:21
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA22
   title: First Warning and Then Banning Divisive Persons from Fellowship
   manually_review: I think this is already implied in RA13
@@ -10742,6 +11289,8 @@
   bible_references:
     key_nt_scriptures:
     - Titus 3:10-11
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA23
   title: Receiving God’s Correction and Discipline with a Good Attitude
   manually_review: It is a unique commandment
@@ -10752,6 +11301,8 @@
     key_nt_scriptures:
     - Hebrews 12:5
     - Hebrews 12:8-9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA24
   title: Regarding as Discipline Our Having to Endure Trials
   manually_review: I think this is already implied in RA23
@@ -10765,6 +11316,8 @@
   bible_references:
     key_nt_scriptures:
     - Hebrews 12:7
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: SA1
   title: Fighting the Good Fight of the Faith
   manually_review: It is a unique commandment
@@ -10780,6 +11333,8 @@
     - 2 Timothy 4:7
     - Philippians 1:27
     - Philippians 2:1-2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: SA2
   title: Working Out Our Deliverance with Fear and Trembling
   manually_review: I think this can be understood quite wrong, since we cannot earn salvation, it is pure grace by what Yeshua did for us. There is no other scripture to support this, so I think this should be more understood as step 4, Therefore bear fruits worthy of repentance
@@ -10791,6 +11346,8 @@
   bible_references:
     key_nt_scriptures:
     - Philippians 2:12
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: SA3
   title: Expelling Demons
   manually_review: It is a unique commandment
@@ -10803,6 +11360,8 @@
     key_nt_scriptures:
     - Luke 9:1
     - Matthew 10:7-8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: SA4
   title: Arming Ourselves with Spiritual Weapons
   manually_review: It is already implied in GB11
@@ -10816,6 +11375,8 @@
     - 2 Corinthians 10:3-4
     - 2 Corinthians 6:7
     - Romans 13:12
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: SA6
   title: Being a Soldier of Yeshua
   manually_review: Something to be is not an actual command, the command in de key scripture is to endure due to persecution. So step 16 is already covering this.
@@ -10827,6 +11388,8 @@
   bible_references:
     key_nt_scriptures:
     - 2 Timothy 2:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: SA8
   title: Resisting and Opposing the Adversary
   manually_review: There is not yet an explicit commandment of this, so this is unique.
@@ -10844,6 +11407,8 @@
     - 1 Peter 1:14
     - 1 Peter 5:9
     - James 4:7
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: SA9
   title: Arming Ourselves with the Mind of Yeshua
   manually_review: I think this is already covered in AB15 and SA4.
@@ -10857,6 +11422,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 4:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: SA10
   title: Testing Every Spirit
   manually_review: It has the same idea as step 40.
@@ -10870,6 +11437,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 John 4:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA1
   title: Coming to & Believing (Trusting) in Yeshua for Salvation
   manually_review: It is implied in step 1 and BA28 which is based on the key scripture John 3:16.
@@ -10915,6 +11484,8 @@
     - Mark 16:15-16
     - Matthew 7:13-14
     - Romans 10:8-9
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA2
   title: Being Born Again of the Spirit
   manually_review: This is more a result of your conversion and immersion, so I think this is not unique.
@@ -10930,6 +11501,8 @@
   bible_references:
     key_nt_scriptures:
     - John 3:3-8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA3
   title: Maintaining the Hope of Deliverance /Salvation
   manually_review: It is already covered together with the double_ids and step 1 which is based on the key scripture John 3:16.
@@ -10960,6 +11533,8 @@
     - Romans 15:4
     - Romans 15:13
     - Romans 5:2-4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA4
   title: Entering the Kingdom of God Like Innocent Children
   manually_review: It is the same as step 55.
@@ -10973,6 +11548,8 @@
     - Luke 18:15-17
     - Mark 10:13-16
     - Matthew 18:2-3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA5
   title: Embracing and Rejoicing in Our Salvation
   manually_review: Together with step 1 and 17 this is not unique.
@@ -10992,6 +11569,8 @@
     - 1 Timothy 6:12
     - Luke 10:20
     - Romans 12:12
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA6
   title: Believing in Resurrection of the Dead
   manually_review: It is a unique commandment
@@ -11007,6 +11586,8 @@
     - 2 Corinthians 4:14
     - 2 Timothy 2:18
     - Acts 26:22-23
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA7
   title: Knowing that Sin is an Impediment to Salvation
   manually_review: This can be understood wrongfully, since we are not saved by works but by grace through faith. However, sin can hinder our relationship with God (which is already covered in other commandments like RA25). Therefore I think this is not unique.
@@ -11019,6 +11600,8 @@
     key_nt_scriptures:
     - John 8:21
     - John 8:34-35
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA8
   title: Calling on Yeshua’s Name for Salvation
   manually_review: It is implied in step 1 which is based on the key scripture John 3:16.
@@ -11039,6 +11622,8 @@
     - Acts 4:12
     - Romans 10:8-9
     - Romans 10:13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA9
   title: Enduring Hardships to Enter the Kingdom of God
   manually_review: It is already implied in step 16.
@@ -11050,6 +11635,8 @@
   bible_references:
     key_nt_scriptures:
     - Acts 14:21-22
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA10
   title: Believing that Yeshua was Raised from the Dead
   manually_review: By believing that Yeshua died for our sins it is implied that He also was raised from the Dead, otherwise there was no salvation. Together with TA6 which already is unique, this one I don't count as unique.
@@ -11072,6 +11659,8 @@
     - Acts 26:22-23
     - Romans 10:8-9
     - Romans 1:2-4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA11
   title: Believing that Yeshua Died for Our Sins
   manually_review: It is the same as BA28
@@ -11090,6 +11679,8 @@
     key_nt_scriptures:
     - 2 Corinthians 5:14-15
     - Colossians 1:14
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA12
   title: Being Ready to Give a Reasoned Answer for Our Hope
   manually_review: Together with the double_ids and steps this is not unique.
@@ -11105,6 +11696,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 3:15
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: TA13
   title: Being Terrified of Falling Short of Salvation
   manually_review: By our own we are not saved, only by believing in the grace that Yeshua died for our sins. But being terrified I don't think is the right attitude. There is also not a scripture inlcuded. Therefore I think this is not unique.
@@ -11120,6 +11713,8 @@
   - id: TA5
     title: Embracing and Rejoicing in Our Salvation
   bible_references: {}
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: UA1
   title: Seeking to Escape from the Coming Tribulation
   manually_review: It is a very specific commandment, I think this is already implied in step 68, together with step 16 this is not unique.
@@ -11139,6 +11734,8 @@
     - 1 Thessalonians 2:2
     - Luke 21:36
     - Mark 13:14-18
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: UA2
   title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
   manually_review: Together with step 16 and 17 this is not unique.
@@ -11160,6 +11757,8 @@
     - James 1:2-3
     - Matthew 5:12
     - Romans 5:2-4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: UA3
   title: Being Encouraged in Our Suffering
   manually_review: Together with UA2 and step 16 this is not unique.
@@ -11176,6 +11775,8 @@
     key_nt_scriptures:
     - 1 Thessalonians 2:2
     - 2 Corinthians 1:6
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: UA4
   title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
   manually_review: This is already implied in step 16.
@@ -11200,6 +11801,8 @@
     - 2 Timothy 3:1
     - 2 Timothy 4:5
     - Philippians 1:29
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: UA5
   title: Handling Painful Situations in a Godly Way
   manually_review: I think this is already implied in the related steps.
@@ -11220,6 +11823,8 @@
     key_nt_scriptures:
     - 2 Corinthians 7:9-10
     - Philippians 1:29
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: UA6
   title: Overcoming Adversity through Faith and Perseverance
   manually_review: This is implied to be the same as step 65, together with AA19 and AA31, this is not unique.
@@ -11241,6 +11846,8 @@
     - Revelation 13:10
     - Revelation 14:12
     - Revelation 2:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: UA7
   title: Bearing Up Under Undeserved Punishment
   manually_review: It is already implied in step 16.
@@ -11254,6 +11861,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 2:19-21
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: VA1
   title: Separating Ourselves from Idolaters
   manually_review: It is a unique commandment
@@ -11270,6 +11879,8 @@
     key_nt_scriptures:
     - 1 Corinthians 5:9-11
     - 2 Corinthians 6:17
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: VA5
   title: Guarding Against False Gods
   manually_review: Since John says this in his last sentence of his letter, it seems to summarize and be important, so I think this is unique.
@@ -11287,6 +11898,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 John 5:21
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: W1
   title: Studying, Hearing & Teaching Torah & Torah -Obedience
   manually_review: It is the same as step 20.
@@ -11324,6 +11937,8 @@
   bible_references:
     key_nt_scriptures:
     - Romans 15:10
+  ncla: JMi JFi KMi KFi GMm GFm
+  ncla_deviation: false
 - id: XA4
   title: Applying Torah to Gentiles
   manually_review: It is a unique commandment.
@@ -11336,6 +11951,8 @@
     - Acts 15:19-20
     - Acts 15:28-29
     - Romans 2:25-27
+  ncla: JMi JFi KMi KFi GMm GFm
+  ncla_deviation: false
 - id: XA6
   title: Gentiles Helping Jews in Material Ways
   manually_review: It is a unique commandment
@@ -11347,6 +11964,8 @@
   bible_references:
     key_nt_scriptures:
     - Romans 15:27
+  ncla: JMi JFi KMi KFi GMm GFm
+  ncla_deviation: false
 - id: XA7
   title: Treating Gentiles and Jews as Spiritually Equal
   manually_review: It is a unique commandment
@@ -11367,6 +11986,8 @@
     - Romans 3:20-28
     - Romans 4:9-10
     - Romans 4:16
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: XA8
   title: Gentiles Praising the Lord
   manually_review: It is not unique and also not only for gentiles. It is already implied in step 5 and 74.
@@ -11382,6 +12003,8 @@
     - 1 Peter 2:9
     - James 5:14-15
     - Romans 15:11
+  ncla: JMi JFi KMi KFi GMm GFm
+  ncla_deviation: false
 - id: XA9
   title: Gentiles Obeying Torah
   manually_review: It is the same as step 20.
@@ -11393,6 +12016,8 @@
   bible_references:
     key_nt_scriptures:
     - Romans 15:18
+  ncla: JMi JFi KMi KFi GMm GFm
+  ncla_deviation: false
 - id: XA10
   title: Messianic Jews Relating to Gentile Believers as Brothers and Sisters
   manually_review: It is the same as XA7
@@ -11407,6 +12032,8 @@
     - Acts 11:17-18
     - Acts 15:8-9
     - Galatians 2:12-13
+  ncla: JMm JFm KMm KFm GMi GFi
+  ncla_deviation: false
 - id: XA11
   title: Jews Being a Light and Blessing to the Gentiles
   manually_review: It is already a commandment for both Jews and Gentiles, so it is not unique.
@@ -11421,6 +12048,8 @@
     - Acts 26:17-18
     - Galatians 3:8-9
     - Matthew 5:13-16
+  ncla: JMm JFm KMm KFm GMi GFi
+  ncla_deviation: false
 - id: XA12
   title: Gentiles Being Holy
   manually_review: It is already a commandment for both Jews and Gentiles, so it is not unique.
@@ -11434,6 +12063,8 @@
   bible_references:
     key_nt_scriptures:
     - Acts 26:17-18
+  ncla: JMi JFi KMi KFi GMm GFm
+  ncla_deviation: false
 - id: Y1
   title: Seudat Ha-Adon
   manually_review: It is the same as step 71.
@@ -11643,6 +12274,8 @@
     - Philippians 3:8-9
     - Romans 12:1
     - Romans 15:1-2
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: YA2
   title: Accepting Suffering and Disgrace in Order to Serve Yeshua
   manually_review: It is already implied in step 16
@@ -11657,6 +12290,8 @@
     - Acts 5:41
     - Acts 9:16
     - Revelation 2:3
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: YA3
   title: Continually Offering Sacrifices of Praise to God
   manually_review: It is not unique.
@@ -11674,6 +12309,8 @@
     - 1 Peter 2:9
     - Hebrews 13:15
     - James 5:14-15
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: YA4
   title: Laying Down Our Life for Our Brother
   manually_review: It is a unique commandment
@@ -11685,6 +12322,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 John 3:16
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: ZA1
   title: Using Our Spiritual Gifts to Serve Others
   manually_review: It is already implied in step 69
@@ -11700,6 +12339,8 @@
     - 1 Corinthians 14:23-25
     - 1 Peter 4:10
     - Romans 12:6-8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: ZA2
   title: Seeking to Interpret One’s Own Utterance in Tongues
   manually_review: It is unique, but I would like to combine this with ZA3.
@@ -11711,6 +12352,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:2-19
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: ZA3
   title: Exercising the Gift of Tongues in Good Order
   manually_review: It is a unique element, but it is implied in GB29
@@ -11727,6 +12370,8 @@
     key_nt_scriptures:
     - 1 Corinthians 14:27
     - 1 Corinthians 14:40
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: ZA4
   title: Seeking the Interpretation of Tongues When Spoken in Public
   manually_review: It is unique, but I would like to combine this with ZA3.
@@ -11740,6 +12385,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:27
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: ZA6
   title: Seeking the Gift of Prophecy
   manually_review: It is a unique commandment
@@ -11750,6 +12397,8 @@
     key_nt_scriptures:
     - 1 Corinthians 14:1
     - 1 Corinthians 14:39
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: ZA7
   title: Determining Our Spiritual Gifts
   manually_review: It is already implied in step 69
@@ -11763,6 +12412,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 12:8-30
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: ZA8
   title: Seeking, Receiving, and Relying on Holy Spirit Power
   manually_review: It is implied in step 70.
@@ -11781,6 +12432,8 @@
     - Luke 24:49
     - Philippians 4:13
     - Romans 15:13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: ZA9
   title: Preferring Love Over Spiritual Gifts
   manually_review: It is already implied in GB34
@@ -11794,6 +12447,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 13:1-7
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: ZA10
   title: Using Our Spiritual Gifts to Edify the Body
   manually_review: It is already implied in step 69.
@@ -11809,6 +12464,8 @@
     - 1 Corinthians 14:2-19
     - 1 Corinthians 14:26
     - Ephesians 4:11-13
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: B6
   title: Gleanings and Part of Life-Sustaining Commodities Left for the Poor & Disadvantaged
   manually_review: I would consider B5 as the same commandment.
@@ -12665,6 +13322,8 @@
   related_steps: []
   double_ids: []
   bible_references: {}
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB4
   title: Living Our Lives Worthy of Our Calling in the Lord
   manually_review: It has a unique element in it
@@ -12676,6 +13335,8 @@
     - 1 Thessalonians 2:12
     - Colossians 1:10
     - Ephesians 4:1
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB50
   title: Working as for the Lord
   manually_review: It is a unique commandment
@@ -12683,6 +13344,8 @@
   related_steps: []
   double_ids: []
   bible_references: {}
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: GB56
   title: Turning Away from Ungodly Speech
   manually_review: It is a unique commandment
@@ -12699,6 +13362,8 @@
     - 2 Timothy 2:16
     - James 1:21
     - Jude 1:11
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA10
   title: Ministering Healing as Led by the Holy Spirit
   manually_review: It is a unique commandment
@@ -12718,6 +13383,8 @@
     - Luke 10:9-11
     - Luke 9:2
     - Matthew 10:7-8
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA11
   title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
   manually_review: It is a unique commandment
@@ -12727,6 +13394,8 @@
   bible_references:
     nt_scriptures:
     - Luke 9:49-50
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA12
   title: Being Peacemakers
   manually_review: It is the same as step 15
@@ -12739,6 +13408,8 @@
     nt_scriptures:
     - James 3:18
     - Matthew 10:11-14
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA15
   title: Teaching and Ministering the Words of God & Yeshua
   manually_review: It looks like it is already covered by the other step and double_ids, but I think it is unique enough to be its own step because of the specific focus on teaching and ministering the words of God and Yeshua, which is a distinct aspect of discipleship and ministry that may not be fully captured by the other related steps and double_ids.
@@ -12785,6 +13456,8 @@
     - Proverbs 22:6
     - Proverbs 6:20
     - Psalms 34:12
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA16
   title: Giving Attention to the Reading of Scripture
   manually_review: It is a unique commandment
@@ -12837,6 +13510,8 @@
     - Nehemiah 8:18
     - Nehemiah 9:3
     - Psalms 119:11
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA18
   title: Ministering as Ambassadors of Yeshua
   manually_review: It has a unique element in it to be ambassadors
@@ -12850,6 +13525,8 @@
     - Acts 1:8
     - Ephesians 6:19-20
     - John 20:21
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA20
   title: Ministering to the Poor, the Weak, & the Timid
   manually_review: Since the Messiah emphasizes ministering to the poor, the weak, and the timid, this step is unique in that it focuses on these groups of people.
@@ -12873,6 +13550,8 @@
     - Proverbs 31:8-9
     - Psalms 35:10
     - Psalms 56:4
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: NA9
   title: Ministering to, Caring for & Protecting Those for Whom Leaders Have Responsibility
   manually_review: It is a unique commandment
@@ -12887,6 +13566,8 @@
     - Acts 20:31-32
     - Matthew 10:42
     - Matthew 18:10
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: RA12
   title: Batei Din Judging Only Believers
   manually_review: Step 35 already meantions 'thy brothers', so I think this is already implied
@@ -12900,6 +13581,8 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 5:12-13
+  ncla: JMm JFm KMi KFi GMi GFi
+  ncla_deviation: false
 - id: WA1
   title: Abstaining from Fornication and Other Acts of Sexual Immorality
   manually_review: It is a unique commandment
@@ -12931,6 +13614,8 @@
     - Revelation 2:20
     - Romans 13:13
     - Romans 1:26-27
+  ncla: JMm JFm KMm KFm GMm GFm
+  ncla_deviation: false
 - id: XA3
   title: Gentiles Undergoing B’rit Milah
   manually_review: It is already covered in E2. See commentary of E2 by Rabbi Rudolph.
@@ -12943,3 +13628,5 @@
     key_nt_scriptures:
     - Galatians 5:2-3
     - Galatians 5:11
+  ncla: JMi JFi KMi KFi GMm GFi
+  ncla_deviation: false
