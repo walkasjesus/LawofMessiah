@@ -4101,8 +4101,9 @@
     key_nt_scriptures:
     - 1 Corinthians 7:1-6
     - 1 Corinthians 7:8-9
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Married
 - id: CB2
   title: Widows and Singles Remaining Unmarried Unless Sexually Driven
   manually_review: Since it is a very specific case and not really repeated elsewhere, I don't count this as unique.
@@ -4112,8 +4113,11 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:8-9
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Widows
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Singles
 - id: CB4
   title: Having Only One Spouse
   manually_review: I would say this is covered in step 23, but since nowadays there are many who do not honor marriage, I think it is good to have this as a separate commandment.
@@ -4127,8 +4131,9 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:1-6
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Married
 - id: CB5
   title: Allowing an Unbelieving Spouse to Leave
   manually_review: Since it is a very specific case, I don't count this as unique. It is covered in step 23.
@@ -4140,8 +4145,9 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:15
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Married
 - id: CB6
   title: Knowing that Marriage Is for Life
   manually_review: I don't count this as unique. It is covered in step 23.
@@ -4154,8 +4160,9 @@
     key_nt_scriptures:
     - 1 Corinthians 7:10-13
     - 1 Corinthians 7:39
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Married
 - id: CB8
   title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   manually_review: It is a unique commandment
@@ -4177,8 +4184,9 @@
     - Ephesians 5:22
     - Ephesians 5:24
     - Titus 2:3-5
-  ncla: JMi JFm KMi KFm GMi GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: Wives
 - id: CB9
   title: Husbands Loving Their Wives
   manually_review: It is a unique commandment
@@ -4197,8 +4205,9 @@
     - Ephesians 5:25
     - Ephesians 5:28
     - Ephesians 5:33
-  ncla: JMm JFi KMm KFi GMm GFi
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFi KMm KFi GMm GFi
+    group: Husbands
 - id: CB10
   title: Wives Respecting Their Husbands
   manually_review: It is already implied in CB8
@@ -4214,8 +4223,9 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:33
-  ncla: JMi JFm KMi KFm GMi GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: Wives
 - id: CB11
   title: Children Obeying Their Parents
   manually_review: It is already implied in CB15.
@@ -4251,8 +4261,9 @@
   bible_references:
     key_nt_scriptures:
     - Ephesians 6:4
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Parents
 - id: CB15
   title: Honoring Our Parents
   manually_review: It is the same as step 63
@@ -4309,8 +4320,9 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 11:11
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Married
 - id: CB18
   title: Husbands Leading Their Wives
   manually_review: I dont count this as unique, it is implied in CB9
@@ -4324,8 +4336,9 @@
   - id: CB17
     title: Co-Dependence of Husbands and Wives
   bible_references: {}
-  ncla: JMm JFi KMm KFi GMm GFi
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFi KMm KFi GMm GFi
+    group: Husbands
 - id: CB20
   title: Raising Our Children to Believe in Yeshua
   manually_review: This should be implied in CB13.
@@ -4341,8 +4354,9 @@
   bible_references:
     key_nt_scriptures:
     - Mark 9:36-37
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Parents
 - id: CB22
   title: Wives Who Leave their Husbands Remaining Single
   manually_review: It is a unique commandment
@@ -4372,8 +4386,9 @@
   bible_references:
     key_nt_scriptures:
     - Hebrews 13:4
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Married
 - id: CB24
   title: Treating Sex within Marriage as Pure
   manually_review: It should be sufficient to have step 23 as unique, but since there is that many impurity in the world, I think it is good to have this as a separate commandment.
@@ -4389,8 +4404,9 @@
   bible_references:
     key_nt_scriptures:
     - Hebrews 13:4
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Married
 - id: CB25
   title: Wives Being Faithful to their Husbands
   manually_review: It is already implied in CB8.
@@ -4405,8 +4421,9 @@
     key_nt_scriptures:
     - James 4:4
     - Revelation 2:10
-  ncla: JMi JFm KMi KFm GMi GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: Wives
 - id: CB26
   title: Wives Nurturing the Inner Character of their Heart
   manually_review: I think this is already implied in AA4. It is not only for wives but for everybody.
@@ -4420,8 +4437,9 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 3:4
-  ncla: JMi JFm KMi KFm GMi GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: Wives
 - id: CB27
   title: Wives Doing What is Right
   manually_review: It is already covered in AA44. It is not only for wives but for everybody.
@@ -4435,8 +4453,9 @@
     - 1 John 3:7
     - 1 John 3:10-11
     - 1 Peter 3:6
-  ncla: JMi JFm KMi KFm GMi GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: Wives
 - id: CB29
   title: Husbands Respecting their Wives
   manually_review: It is already implied in CB9.
@@ -4448,8 +4467,9 @@
   bible_references:
     key_nt_scriptures:
     - 1 Peter 3:7
-  ncla: JMm JFi KMm KFi GMm GFi
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFi KMm KFi GMm GFi
+    group: Husbands
 - id: DA1
   title: Speedily Seeking Reconciliation when Summoned to Court
   manually_review: Although it is a bit different from DA2, since we focus on unique items where you can have a good evening together to talk about, I don't think this is unique.
@@ -6713,8 +6733,9 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:34-35
-  ncla: JMi JFm KMi KFm GMi GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: Wives
 - id: FB2
   title: Women Learning in Peace While Fully Submitted
   manually_review: It is implied in other commandments which are not specifically for woman, but it is good to have a positive way of formulating the teaching which Paul instructs us, for woman.
@@ -6764,8 +6785,9 @@
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:34-35
-  ncla: JMi JFm KMi KFm GMi GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMi JFm KMi KFm GMi GFm
+    group: Wives
 - id: FB6
   title: Women to Continue in Faith and Love
   manually_review: In this key scripture it is only about woman, but on other scriptures it is broader, so this is not unique.
@@ -9883,8 +9905,9 @@
     - Joshua 22:5
     - Joshua 24:15
     - Psalms 2:11
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Servants
 - id: LA4
   title: Masters Treating Their Slaves & Bondservants Justly & Fairly
   manually_review: It is a unique commandment.
@@ -9910,8 +9933,9 @@
     - Exodus 23:12
     - Exodus 24:22
     - Exodus 25:44-46
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Masters
 - id: LA6
   title: Using Our Enslavement to Serve God but Gaining Freedom If Possible
   manually_review: It is a unique commandment.
@@ -9923,8 +9947,9 @@
     - 1 Corinthians 7:21-22
     ot_scriptures:
     - Deuteronomy 13:5
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: M2
   title: Keeping Our Promises
   manually_review: It is the same as AA34 and step 24.
@@ -10838,8 +10863,9 @@
     key_nt_scriptures:
     - 1 Timothy 3:1-7
     - Titus 1:6-9
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Leaders
 - id: OA2
   title: Attributes & Behaviors Required of Shamashim
   manually_review: I would say that OA1 is the same, just add Shamashim to it.
@@ -10852,8 +10878,9 @@
     key_nt_scriptures:
     - 1 Timothy 3:8-10
     - 1 Timothy 3:12
-  ncla: JMm JFm KMm KFm GMm GFm
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Deacons
 - id: OA3
   title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   manually_review: It is a unique commandment
