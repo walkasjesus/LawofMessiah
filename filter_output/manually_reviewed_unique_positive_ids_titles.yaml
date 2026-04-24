@@ -12956,8 +12956,9 @@
     - Deuteronomy 24:19-22
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMr GFr
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
 - id: D1
   title: Resting from Work & Assembling on the Weekly Sabbath
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -12992,8 +12993,9 @@
     - John 7:22-24
     supportive_ot_scriptures:
     - Isaiah 66:23-24
-  ncla: JMm JFm KMm KFm GMr GFr
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
 - id: D10
   title: Observing the Feast of Unleavened Bread by Eating Matzah on Each of Its Seven Days
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13022,8 +13024,9 @@
     - Exodus 12:33-34
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D11
   title: Ceremonially Recounting What God Did for Us When We Left Egypt
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13041,8 +13044,9 @@
     - Exodus 13:3-8
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMr GFr
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
 - id: D12
   title: Blowing the Shofar on Special Days & As an Alarm in War
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13066,8 +13070,9 @@
     - Joel 2:1, 15
     - Psalm 81:3-5(2-4)
     - Psalm 150:3
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D13
   title: Afflicting Our Souls & Repenting on Yom Kippur
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13093,8 +13098,9 @@
     - 1 Corinthians 5:7
     supportive_ot_scriptures:
     - Isaiah 53:4-12
-  ncla: JMm JFm KMm KFm GMr GFr
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
 - id: D14
   title: Rejoicing at the Festivals of Shavuot , Sukkot , & Sh'mini Atzeret
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13114,8 +13120,9 @@
     - Deuteronomy 16:13-15
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D15
   title: Living in a Sukkah during the Feast of Sukkot
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13130,8 +13137,9 @@
     - Nehemiah 8:14-17
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D16
   title: Taking Up the Four Species on Sukkot
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13145,8 +13153,9 @@
     - Leviticus 23:39-40
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D17
   title: Public Reading of the Torah during Sukkot in the Sabbatical Year
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13160,8 +13169,9 @@
     - Deuteronomy 31:10-13
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D18
   title: Cancelling Loans & Resting Our Land in the Sabbatical Year
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13188,8 +13198,9 @@
     - 2 Corinthians 9:10-12
     supportive_ot_scriptures:
     - Proverbs 11:24-25
-  ncla: JMm JFm KMm KFm GMr GFr
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
 - id: D19
   title: Resting & Returning Ownership of Our Land in the Jubilee Year
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13219,8 +13230,9 @@
     - Isaiah 61:1-2
     - Proverbs 11:24-25
     - Leviticus 25:5
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D20
   title: Determining Occurrence of the New Moon
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13241,8 +13253,9 @@
     - Deuteronomy 16:1
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D3
   title: Keeping the Sabbath Day Holy
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13263,8 +13276,9 @@
     - Isaiah 56:1-7
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMr GFr
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
 - id: D4
   title: Resting from Work & Assembling on God's Annual Sabbaths
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional), however I would say that it should be under the same umbrella as D1.
@@ -13323,8 +13337,9 @@
     - Deuteronomy 16:16a
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D5
   title: Counting to Shavuot & Waving Two Loaves
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13340,8 +13355,9 @@
     - Deuteronomy 16:9-10
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D6
   title: Keeping Our Home & Domain Free of Leaven & Chametz from Passover through the Feast of Unleavened Bread
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13366,8 +13382,9 @@
     - Exodus 13:7
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: D8
   title: Observing Passover with Matzah & Bitter Herbs
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13398,8 +13415,9 @@
     - Exodus 12:33-34
     - Numbers 9:10-11
     - Deuteronomy 16:1-2
-  ncla: JMm JFm KMm KFm GMo GFo
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMo GFo
+    group: All
 - id: E2
   title: Performing & Receiving B'rit Milah
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
@@ -13435,8 +13453,9 @@
     - Leviticus 24:22
     - Numbers 15:14-16
     - Numbers 15:28-29
-  ncla: JMm JFm KMo KFo GMu GFu
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMo KFo GMu GFu
+    group: All
 - id: E3
   title: Commemorating Pidyon HaBen
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles forbidden)
@@ -13456,8 +13475,9 @@
     - Deuteronomy 14:22-23
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFu KMi KFi GMi GFi
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFu KMi KFi GMi GFi
+    group: All
 - id: E4
   title: Being a Kingdom of Priests, a Holy Nation, Proclaimers of the Good News, & a Light to the Gentiles
   manually_review: It is a unique commandment
@@ -13493,8 +13513,9 @@
     - Leviticus 19:33-34
     - Isaiah 2:1-4
     - Isaiah 19:24-25
-  ncla: JMm JFm KMm KFm GMu GFu
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMm KFm GMu GFu
+    group: All
 - id: E6
   title: Tzitzit , Tefillin , & Mezuzot
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles forbidden)
@@ -13514,8 +13535,9 @@
     - Deuteronomy 11:13-21
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
-  ncla: JMm JFm KMo KFo GMn GFn
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMo KFo GMn GFn
+    group: All
 - id: E7
   title: Tithes, Offerings, & Tz'dakah
   manually_review: It is an expension on step 26.
@@ -13638,8 +13660,9 @@
     - Numbers 34:1-13
     - Ezekiel 47:13-23
     - Surah Yunus"Jonah" 10:93
-  ncla: JMm JFm KMu KFu GMu GFu
-  ncla_deviation: true
+  ncla:
+  - code: JMm JFm KMu KFu GMu GFu
+    group: All
 - id: M1
   title: Pursuing Righteousness & Doing What Is Right
   manually_review: It is allready covered by the other step and double_ids
