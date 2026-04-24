@@ -2950,13 +2950,6 @@
     - Exodus 31:15
     - Exodus 33:14
     - Psalms 51:12
-- id: BA68
-  title: ''
-  category: ''
-  commandment_type: ''
-  bible_references:
-    nt_scriptures:
-    - 1 Thessalonians 1:3
 - id: BA7
   title: Praising God and Yeshua
   category: Relating to God & Yeshua
@@ -5004,9 +4997,9 @@
     - Judges 19:16-21
     - Leviticus 19:33-34
 - id: DA69
-  title: ''
-  category: ''
-  commandment_type: ''
+  title: Exhorting One Another to Love & Good Deeds
+  category: Relating to Brothers & Neighbors
+  commandment_type: Positive
   bible_references:
     ot_scriptures:
     - Deuteronomy 6:1-2
@@ -5753,27 +5746,6 @@
     ot_scriptures:
     - 1 Samuel 12:23
     - Job 42:10
-- id: FA33
-  title: ''
-  category: ''
-  commandment_type: ''
-  bible_references:
-    nt_scriptures:
-    - 1 John 5:16
-    - 1 Timothy 2:2
-    - Colossians 1:9
-    - Matthew 5:44
-    - Romans 8:27
-    - 1 Timothy 2:1-2
-    - 2 Corinthians 1:11
-    - Ephesians 6:17-18
-    - James 5:16
-    - Luke 6:28
-    - Romans 10:1
-    - Romans 8:26-27
-    ot_scriptures:
-    - 1 Samuel 12:23
-    - Job 42:10
 - id: FA34
   title: Praying for Wisdom
   category: Prayer & Worship1
@@ -6124,13 +6096,6 @@
     - Proverbs 1:23
     - Psalms 7:13
     - Psalms 9:3
-- id: GA10
-  title: ''
-  category: ''
-  commandment_type: ''
-  bible_references:
-    nt_scriptures:
-    - 1 Corinthians 15:34
 - id: GA2
   title: Seeking Forgiveness of Our Sins in Yeshua
   category: Repenting & Seeking Forgiveness of Sin
@@ -7357,20 +7322,13 @@
     - Matthew 5:11-12
     - Matthew 5:39-42
 - id: JA11
-  title: ''
-  category: ''
-  commandment_type: ''
+  title: Keeping the Faith Amidst Persecution
+  category: Engaging Our Enemies
+  commandment_type: Positive
   bible_references:
     nt_scriptures:
     - 1 Timothy 1:18
     - 2 Timothy 4:7
-- id: JA14
-  title: ''
-  category: ''
-  commandment_type: ''
-  bible_references:
-    nt_scriptures:
-    - 1 John 3:13
 - id: JA2
   title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
   category: Engaging Our Enemies
@@ -7630,13 +7588,6 @@
     - Isaiah 9:14
     - Jeremiah 10:8
     - Deuteronomy 13:1
-- id: KA32
-  title: ''
-  category: ''
-  commandment_type: ''
-  bible_references:
-    nt_scriptures:
-    - Titus 1:11-12
 - id: KA4
   title: Not Prophesying Falsely
   category: False Messiahs, Prophets & Teachers
@@ -7714,16 +7665,16 @@
     ot_scriptures:
     - Leviticus 25:55
 - id: LA10
-  title: ''
-  category: ''
-  commandment_type: ''
+  title: Servants Not Stealing from Their Masters
+  category: Slaves & Indentured Servants
+  commandment_type: Negative
   bible_references:
     nt_scriptures:
     - Titus 2:9-10
 - id: LA11
-  title: ''
-  category: ''
-  commandment_type: ''
+  title: Servants Being Faithful to Their Masters
+  category: Slaves & Indentured Servants
+  commandment_type: Positive
   bible_references:
     nt_scriptures:
     - Titus 2:10
@@ -7829,23 +7780,23 @@
     - Deuteronomy 6:13
     - Exodus 23:25
 - id: LA7
-  title: ''
-  category: ''
-  commandment_type: ''
+  title: Indentured Servants Working Willingly
+  category: Slaves & Indentured Servants
+  commandment_type: Positive
   bible_references:
     nt_scriptures:
     - Ephesians 6:5-6
 - id: LA8
-  title: ''
-  category: ''
-  commandment_type: ''
+  title: Treating Indentured Servants and Freemen as Spiritually Equal
+  category: Slaves & Indentured Servants
+  commandment_type: Positive
   bible_references:
     nt_scriptures:
     - Colossians 3:11
 - id: LA9
-  title: ''
-  category: ''
-  commandment_type: ''
+  title: Servants Not Using Familiarity to Justify Disrespecting Their Masters
+  category: Slaves & Indentured Servants
+  commandment_type: Negative
   bible_references:
     nt_scriptures:
     - 1 Timothy 6:1-2
@@ -8012,32 +7963,6 @@
     - Leviticus 17:15
     - Leviticus 20:25-26
     - Leviticus 3:17
-- id: NA14
-  title: ''
-  category: ''
-  commandment_type: ''
-  bible_references:
-    nt_scriptures:
-    - 1 Corinthians 12:28
-    - 1 Timothy 3:2
-    - 1 Timothy 4:11
-    - 2 Timothy 1:11
-    - 2 Timothy 2:2
-    - 2 Timothy 2:23
-    - 2 Timothy 4:2
-    - Acts 20:20
-    - Acts 2:42
-    - Acts 5:42
-    - Colossians 1:28
-    - Ephesians 6:4
-    - James 3:1
-    - Matthew 28:20
-    - Titus 2:1
-    - Titus 3:5
-    - Titus 3:7-8
-    ot_scriptures:
-    - Deuteronomy 11:18-19
-    - Proverbs 22:6
 - id: NA15
   title: Teaching and Ministering the Words of God & Yeshua
   category: Ministering, Discipling & Teaching
