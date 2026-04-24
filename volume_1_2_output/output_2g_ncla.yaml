@@ -878,7 +878,53 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
 - id: W002
-  ncla: null
+  ncla:
+  - code: JMo JFn KMo KFn GMn GFn
+    group: "T'fillin"
+  - code: JMr JFr KMr KFr GMo GFo
+    group: M'zuzot
+  - code: JMr JFo KMr KFo GMn GFn
+    group: Tzitziyot
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: W003
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: W004
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: W005
+  ncla:
+  - code: JMm JFm KMm KFm GMr GFr
+    group: All
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: W006
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: W007
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: W008
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: W009
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: W010
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
 - id: Y001
   ncla:
@@ -911,6 +957,16 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
 - id: Y007
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: Y008
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
+- id: Y009
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All

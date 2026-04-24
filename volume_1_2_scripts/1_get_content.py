@@ -199,6 +199,14 @@ urls = [
     "https://tikkunamerica.org/halachah/S009.php",
     "https://tikkunamerica.org/halachah/W001.php",
     "https://tikkunamerica.org/halachah/W002.php",
+    "https://tikkunamerica.org/halachah/W003.php",
+    "https://tikkunamerica.org/halachah/W004.php",
+    "https://tikkunamerica.org/halachah/W005.php",
+    "https://tikkunamerica.org/halachah/W006.php",
+    "https://tikkunamerica.org/halachah/W007.php",
+    "https://tikkunamerica.org/halachah/W008.php",
+    "https://tikkunamerica.org/halachah/W009.php",
+    "https://tikkunamerica.org/halachah/W010.php",
     "https://tikkunamerica.org/halachah/Y001.php",
     "https://tikkunamerica.org/halachah/Y002.php",
     "https://tikkunamerica.org/halachah/Y003.php",
@@ -206,6 +214,8 @@ urls = [
     "https://tikkunamerica.org/halachah/Y005.php",
     "https://tikkunamerica.org/halachah/Y006.php",
     "https://tikkunamerica.org/halachah/Y007.php",
+    "https://tikkunamerica.org/halachah/Y008.php",
+    "https://tikkunamerica.org/halachah/Y009.php",
     "https://tikkunamerica.org/halachah/Z001.php"
 ]
 
