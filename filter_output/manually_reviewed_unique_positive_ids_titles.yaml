@@ -13540,7 +13540,7 @@
     group: All
 - id: E7
   title: Tithes, Offerings, & Tz'dakah
-  manually_review: It is an expension on step 26.
+  manually_review: Since there is a difference between giving to the poor and our tithes, offerings, & charitable giving, it is good to have this as explicit commandment.
   unique: true
   related_steps:
   - step: '26'
@@ -13548,10 +13548,10 @@
   - step: '29'
     title_en: Be generous (and fasten and pray) in secret
   double_ids:
-  - id: B4
-    title: Giving Financial Help to Persons in Need
   - id: B5
     title: Setting Aside Part of Our Increase for the Poor
+  - id: B4
+    title: Giving Financial Help to Persons in Need
   bible_references:
     key_nt_scriptures:
     - Matthew 23:23
@@ -13869,18 +13869,10 @@
     group: All
 - id: NA10
   title: Ministering Healing as Led by the Holy Spirit
-  manually_review: It is a unique commandment
+  manually_review: It is a unique commandment.
   unique: true
-  related_steps:
-  - step: '8'
-    title_en: Go into all the world and preach the gospel to every creature
-  double_ids:
-  - id: AB7
-    title: Being Led by the Holy Spirit
-  - id: QA4
-    title: Proclaiming the Kingdom of God
-  - id: NA8
-    title: Confessing Our Sins to One Another
+  related_steps: []
+  double_ids: []
   bible_references:
     nt_scriptures:
     - Luke 10:9-11
@@ -13891,9 +13883,11 @@
     group: All
 - id: NA11
   title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
-  manually_review: It is a unique commandment
+  manually_review: It looks like step 49 but the key scripture is a different context. Therefore it is unique.
   unique: true
-  related_steps: []
+  related_steps:
+  - step: '49'
+    title_en: Receive him whom I will send
   double_ids: []
   bible_references:
     nt_scriptures:
@@ -13918,18 +13912,12 @@
     group: All
 - id: NA15
   title: Teaching and Ministering the Words of God & Yeshua
-  manually_review: It looks like it is already covered by the other step and double_ids, but I think it is unique enough to be its own step because of the specific focus on teaching and ministering the words of God and Yeshua, which is a distinct aspect of discipleship and ministry that may not be fully captured by the other related steps and double_ids.
-  unique: true
+  manually_review: It is the same as step 20.
+  unique: false
   related_steps:
-  - step: '58'
-    title_en: Blessed are they that hear the word of God, and keep it
   - step: '20'
     title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
-  double_ids:
-  - id: AA53
-    title: Having a Sound & Godly Doctrine.
-  - id: BA47
-    title: Acquiring and Growing in Knowledge of God.
+  double_ids: []
   bible_references:
     nt_scriptures:
     - 1 Corinthians 12:28
@@ -13967,7 +13955,7 @@
     group: All
 - id: NA16
   title: Giving Attention to the Reading of Scripture
-  manually_review: It is a unique commandment
+  manually_review: It is also stated indirect in 2 Cor 3:14 and in Acts 13:15, so we count this as a new unique commandment.
   unique: true
   related_steps: []
   double_ids: []
@@ -14022,10 +14010,18 @@
     group: All
 - id: NA18
   title: Ministering as Ambassadors of Yeshua
-  manually_review: It has a unique element in it to be ambassadors
-  unique: true
-  related_steps: []
-  double_ids: []
+  manually_review: Together with the related steps and commandments this is not unique.
+  unique: false
+  related_steps:
+  - step: '20'
+    title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
+  - step: '8'
+    title_en: Go into all the world and preach the gospel to every creature
+  - step: '50'
+    title_en: Blessed is he who does not offend Me
+  double_ids:
+  - id: NA15
+    title: Teaching and Ministering the Words of God & Yeshua
   bible_references:
     nt_scriptures:
     - 1 Corinthians 5:18-20
@@ -14038,10 +14034,16 @@
     group: All
 - id: NA20
   title: Ministering to the Poor, the Weak, & the Timid
-  manually_review: Since the Messiah emphasizes ministering to the poor, the weak, and the timid, this step is unique in that it focuses on these groups of people.
-  unique: true
-  related_steps: []
-  double_ids: []
+  manually_review: Step 20 doesn't limit to a specific group only, but to all, so this falls under that same commandment.
+  unique: false
+  related_steps:
+  - step: '20'
+    title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
+  double_ids:
+  - id: NA3
+    title: Ministering First to the Jew and Then to the Gentile
+  - id: NA15
+    title: Teaching and Ministering the Words of God & Yeshua
   bible_references:
     nt_scriptures:
     - Galatians 2:10
@@ -14068,7 +14070,7 @@
   unique: true
   related_steps:
   - step: '75'
-    title_en: ''
+    title_en: Feed My sheep
   double_ids: []
   bible_references:
     nt_scriptures:
@@ -14144,3 +14146,120 @@
   ncla:
   - code: JMi JFi KMi KFi GMm GFi
     group: All
+- id: W4
+  title: Testing Everything that is Spoken in God's Name
+  manually_review: It looks like step 40 but it is more about positive prophets and therefore unique.
+  unique: true
+  related_steps:
+  - step: '40'
+    title_en: Beware of false prophets
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Acts 17:11
+    - 1 Thessalonians 5:19-22
+    - 1 John 4:1-3
+    key_ot_scriptures:
+    - Deuteronomy 13:2-4(1-3)
+    - Deuteronomy 18:21-22
+    supportive_nt_scriptures:
+    - 1 Corinthians 14:29-33
+    - 1 Corinthians 14:37-38
+    supportive_ot_scriptures: []
+- id: W5
+  title: Writing, Teaching & Learning the Song of Moses
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Revelation 15:1-3
+    key_ot_scriptures:
+    - Deuteronomy 31:9
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: W6
+  title: Adding to, or Subtracting from, the Written Word of God
+  manually_review: It is a unique commandment
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Revelation 22:18-19
+    key_ot_scriptures:
+    - Exodus 13:1(12:32)
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: W8
+  title: Obeying the Mitzvot of Adonai & Yeshua
+  manually_review: ''
+  unique: false
+  related_steps:
+  - step: '20'
+    title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - John 14:15
+    key_ot_scriptures:
+    - Deuteronomy 6:17
+    supportive_nt_scriptures: []
+    supportive_ot_scriptures: []
+- id: W10
+  title: Attending to Both the Lesser & the Weightier Matters of Torah
+  manually_review: It has a unique element in it.
+  unique: true
+  related_steps: []
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 23:23-24
+    key_ot_scriptures: []
+    supportive_nt_scriptures:
+    - Mark 12:29-33
+    - Luke 11:42
+    supportive_ot_scriptures:
+    - Hosea 6:6
+    - Proverbs 21:3
+- id: Y8
+  title: Coming to Yeshua for Spiritual Rest
+  manually_review: ''
+  unique: false
+  related_steps: []
+  double_ids:
+  - id: BA2
+    title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit.
+  bible_references:
+    key_nt_scriptures:
+    - Matthew 11:28-30
+    key_ot_scriptures: []
+    supportive_nt_scriptures:
+    - John 14:27
+    - Hebrews 4:1-11
+    supportive_ot_scriptures:
+    - Exodus 33:14
+    - Psalm 23:2-3
+- id: Y9
+  title: Obeying the Commandments & Teachings of Yeshua
+  manually_review: ''
+  unique: false
+  related_steps:
+  - step: '20'
+    title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
+  - step: '41'
+    title_en: Listen to Jesus, understand and obey
+  double_ids: []
+  bible_references:
+    key_nt_scriptures:
+    - John 14:15
+    - John 8:51
+    - Luke 6:46-49
+    key_ot_scriptures: []
+    supportive_nt_scriptures:
+    - Matthew 7:24-26
+    - Matthew 17:4-5
+    - John 14:21-24
+    - John 15:10
+    supportive_ot_scriptures: []
