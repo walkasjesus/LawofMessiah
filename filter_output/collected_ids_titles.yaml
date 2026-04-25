@@ -1063,7 +1063,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: DA17
-  title: Staying Away from a Brother Whose Life is Not in Accord with the Teachings and Traditions of the Shl’chim 
+  title: Staying Away from a Brother Whose Life is Not in Accord with the Teachings and Traditions of the Shl’chim
   commandment_type: Negative
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   ncla:
@@ -2659,8 +2659,12 @@
   commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
   ncla:
-  - code: ''
-    group: All
+  - code: JMo JFn KMo KFn GMn GFn
+    group: T'fillin
+  - code: JMr JFr KMr KFr GMo GFo
+    group: M'zuzot
+  - code: JMr JFo KMr KFo GMn GFn
+    group: Tzitziyot
 - id: W3
   title: Prophesying Falsely
   commandment_type: Negative
@@ -5589,3 +5593,52 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
+- id: DA69
+  title: Exhorting One Another to Love & Good Deeds
+  commandment_type: Positive
+  source: Appendix_Full.yaml
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+- id: JA11
+  title: Keeping the Faith Amidst Persecution
+  commandment_type: Positive
+  source: Appendix_Full.yaml
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+- id: LA7
+  title: Indentured Servants Working Willingly
+  commandment_type: Positive
+  source: Appendix_Full.yaml
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Servants
+- id: LA8
+  title: Treating Indentured Servants and Freemen as Spiritually Equal
+  commandment_type: Positive
+  source: Appendix_Full.yaml
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+- id: LA9
+  title: Servants Not Using Familiarity to Justify Disrespecting Their Masters
+  commandment_type: Negative
+  source: Appendix_Full.yaml
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Servants
+- id: LA10
+  title: Servants Not Stealing from Their Masters
+  commandment_type: Negative
+  source: Appendix_Full.yaml
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Servants
+- id: LA11
+  title: Servants Being Faithful to Their Masters
+  commandment_type: Positive
+  source: Appendix_Full.yaml
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: Servants
