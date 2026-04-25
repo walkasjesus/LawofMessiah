@@ -40,6 +40,8 @@ Table of contents of this GIT Repository:
     Description: "Stores the output of scripts in the `filter_scripts/` directory. These files contain filtered commandments based on specific criteria."
    - File name: **filter_output/manually_reviewed_unique_positive_ids_titles.yaml**
       Description: "Curated manual review file for uniqueness decisions on positive commandments. It stores review flags, related-step mappings, duplicate links, and carried metadata (such as title, bible references, and ncla) used by incremental review workflows."
+   - File name: **filter_output/manually_added_ncla_collected_ids_titles.yaml**
+      Description: "Backup snapshot of the original committed `filter_output/collected_ids_titles.yaml`, used to recover NCLA blocks when they were manually carried over during review iterations."
 
 ## Goal of this GIT project
 
@@ -244,7 +246,13 @@ The comparison report uses loose title normalization when checking equality so p
    > NOTE: When checking `filter_unique` is True, it can take a while. Please be aware that this filter will never be perfect. It can be used as a starting point for further manual review.
 
 2. **collect_ids_titles_from_inputs.py**
-   Collects IDs, titles, commandment type, source, and NCLA from `Law_of_Messiah_nt.yaml`, `Law_of_Messiah_ot.yaml`, and `volume_3_output/appendix_output/Appendix_Full.yaml`, then writes a consolidated list to `filter_output/collected_ids_titles.yaml`.
+   Builds a consolidated commandment list from `Law_of_Messiah_nt.yaml`, `Law_of_Messiah_ot.yaml`, and `volume_3_output/appendix_output/Appendix_Full.yaml` and writes it to `filter_output/collected_ids_titles.yaml`.
+
+   Current behavior:
+   - Keeps full commandment rows for each unique ID (all known fields from the source row, not only id/title).
+   - Adds a normalized `source` label per row.
+   - Enriches matching IDs from `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` with `unique`, `related_steps`, and `double_ids`.
+   - Ignores the `manually_review` note field from the manual review file when writing output.
 
 #### Manually Reviewed File
 

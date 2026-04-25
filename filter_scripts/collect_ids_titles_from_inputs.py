@@ -20,6 +20,9 @@ INPUTS = [
 ]
 
 OUTPUT_PATH = ROOT / "filter_output" / "collected_ids_titles.yaml"
+MANUAL_REVIEW_PATH = (
+    ROOT / "filter_output" / "manually_reviewed_unique_positive_ids_titles.yaml"
+)
 
 
 def load_yaml(path: Path):
@@ -36,9 +39,33 @@ def to_items(data):
     return []
 
 
+def build_manual_review_lookup(path: Path):
+    if not path.exists():
+        return {}
+
+    review_data = load_yaml(path)
+    lookup = {}
+    for row in to_items(review_data):
+        if not isinstance(row, dict):
+            continue
+
+        row_id = row.get("id")
+        if not row_id:
+            continue
+
+        lookup[row_id] = {
+            "unique": row.get("unique"),
+            "related_steps": row.get("related_steps", []),
+            "double_ids": row.get("double_ids", []),
+        }
+
+    return lookup
+
+
 def main():
     seen_ids = set()
     out = []
+    manual_review_by_id = build_manual_review_lookup(MANUAL_REVIEW_PATH)
 
     for path, source_name in INPUTS:
         data = load_yaml(path)
@@ -51,14 +78,14 @@ def main():
                 continue
 
             seen_ids.add(row_id)
-            out.append(
-                {
-                    "id": row_id,
-                    "title": row.get("title", ""),
-                    "commandment_type": row.get("commandment_type"),
-                    "source": source_name,
-                }
-            )
+            row_out = dict(row)
+            row_out["source"] = source_name
+
+            manual_review = manual_review_by_id.get(row_id)
+            if manual_review:
+                row_out.update(manual_review)
+
+            out.append(row_out)
 
     OUTPUT_PATH.write_text(
         yaml.dump(out, default_flow_style=False, allow_unicode=True, sort_keys=False, width=1000),
