@@ -17,8 +17,7 @@ def id_sort_key(id_value):
 # Function to merge YAML files
 def merge_yaml_files(output_dir):
     merged_data = defaultdict(lambda: defaultdict(list))
-    # output_2g_ncla.yaml is the raw extraction; output_2g_ncla_revised.yaml supersedes it.
-    skip_files = {"output_3_dict.yaml", "merged_output.yaml", "output_2g_ncla.yaml"}
+    skip_files = {"output_3_dict.yaml", "merged_output.yaml"}
 
     try:
         with open(output_file_path, "r", encoding="utf-8") as existing_file:
