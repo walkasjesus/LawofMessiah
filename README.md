@@ -2,7 +2,7 @@
 
 ## Intro
 
-This repository contains the structured content and scripts for processing the commandments (*mitzvot*) derived from the Bible, as presented in the book series *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph and Daniel C. Juster. The goal of this project is to make the commandments more accessible by organizing them into structured formats (e.g., YAML) and providing tools for filtering and, searching, and studying them.
+This repository contains the structured content and scripts for processing the commandments (*mitzvot*) derived from the Bible, as presented in the book series *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph and Daniel C. Juster. The goal of this project is to make the commandments more accessible by organizing them into structured formats (e.g., YAML) and providing tools for filtering, searching, and studying them.
 
 ## Attribution
 
@@ -38,6 +38,8 @@ Table of contents of this GIT Repository:
     Description: "Contains scripts for filtering commandments based on various criteria, such as category, scripture references, or commandment type."
   - Folder name: **filter_output**
     Description: "Stores the output of scripts in the `filter_scripts/` directory. These files contain filtered commandments based on specific criteria."
+   - File name: **filter_output/manually_reviewed_unique_positive_ids_titles.yaml**
+      Description: "Curated manual review file for uniqueness decisions on positive commandments. It stores review flags, related-step mappings, duplicate links, and carried metadata (such as title, bible references, and ncla) used by incremental review workflows."
 
 ## Goal of this GIT project
 
@@ -240,3 +242,15 @@ The comparison report uses loose title normalization when checking equality so p
    Allows filtering commandments based on custom criteria defined by the user. Output: `filter_output/filtered_commandments.yaml`.
 
    > NOTE: When checking `filter_unique` is True, it can take a while. Please be aware that this filter will never be perfect. It can be used as a starting point for further manual review.
+
+2. **collect_ids_titles_from_inputs.py**
+   Collects IDs, titles, commandment type, source, and NCLA from `Law_of_Messiah_nt.yaml`, `Law_of_Messiah_ot.yaml`, and `volume_3_output/appendix_output/Appendix_Full.yaml`, then writes a consolidated list to `filter_output/collected_ids_titles.yaml`.
+
+#### Manually Reviewed File
+
+`filter_output/manually_reviewed_unique_positive_ids_titles.yaml` is the working review artifact for unique-positive-commandment reconciliation.
+
+- It is intentionally human-curated and not a pure scrape output.
+- It tracks manual decisions (`manually_review`, `unique`) and linking fields (`related_steps`, `double_ids`).
+- It preserves commandment context fields used during follow-up review/export steps (title, references, and NCLA when available).
+- It should be treated as a review-state file in the pipeline, not as a replacement for `Law_of_Messiah_ot.yaml` or `Law_of_Messiah_nt.yaml`.
