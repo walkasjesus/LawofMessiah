@@ -7,7 +7,7 @@
     title_en: Do the will of the Father
   double_ids:
   - id: BA17
-    title: Imitating God and Yeshua.
+    title: Imitating God and Yeshua
   bible_references:
     key_nt_scriptures:
     - Luke 9:23
@@ -104,7 +104,7 @@
     title_en: Don’t be angry at your brother without a cause. If you will be, reconcile as quickly as possible
   double_ids:
   - id: DA36
-    title: Forgiving Those Who Sin Against Us.
+    title: Forgiving Those Who Sin Against Us
   bible_references:
     key_nt_scriptures:
     - Acts 3:19
@@ -146,11 +146,11 @@
   related_steps: []
   double_ids:
   - id: AA15
-    title: Keeping Free from, and Purifying Ourselves from Things that Defile.
+    title: Keeping Free from, and Purifying Ourselves from Things that Defile
   - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin.
+    title: Keeping Our Minds from Causing Our Bodies to Sin
   - id: AA13
-    title: Fleeing from Sin & Evil.
+    title: Fleeing from Sin & Evil
   bible_references:
     key_nt_scriptures:
     - 2 Corinthians 6:17-18
@@ -209,7 +209,7 @@
     title_en: Get baptized
   double_ids:
   - id: AA45
-    title: Being Circumcised in Our Heart.
+    title: Being Circumcised in Our Heart
   bible_references:
     key_nt_scriptures:
     - John 3:1-16
@@ -240,9 +240,9 @@
     title_en: 'Blessed are the pure in heart: for they shall see God'
   double_ids:
   - id: AA3
-    title: Pursuing Righteousness & Living Righteously.
+    title: Pursuing Righteousness & Living Righteously
   - id: AA1
-    title: Aspiring to Godliness and Holiness.
+    title: Aspiring to Godliness and Holiness
   bible_references:
     key_nt_scriptures:
     - Philippians 4:8
@@ -276,11 +276,11 @@
     title_en: Therefore you shall be perfect, just as your Father in heaven is perfect
   double_ids:
   - id: AA1
-    title: Aspiring to Godliness and Holiness.
+    title: Aspiring to Godliness and Holiness
   - id: AA51
-    title: Aspiring to Be Blameless.
+    title: Aspiring to Be Blameless
   - id: AA5
-    title: Modeling Ourselves on the Perfection of God.
+    title: Modeling Ourselves on the Perfection of God
   bible_references:
     key_nt_scriptures:
     - 1 Peter 1:15-16
@@ -545,9 +545,9 @@
   related_steps: []
   double_ids:
   - id: AA4
-    title: Seeking to Be Both Inwardly & Outwardly Clean.
+    title: Seeking to Be Both Inwardly & Outwardly Clean
   - id: BA24
-    title: Presenting Ourselves to God as Worthy of Approval.
+    title: Presenting Ourselves to God as Worthy of Approval
   - id: A13
     title: Being Pure in Heart
   bible_references:
@@ -570,7 +570,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA1
-  title: Aspiring to Godliness and Holiness.
+  title: Aspiring to Godliness and Holiness
   manually_review: Aspire Godliness, Holiness, Perfection, I think this is the same.
   unique: false
   related_steps:
@@ -602,7 +602,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA2
-  title: Behaving Properly.
+  title: Behaving Properly
   manually_review: It is a unique commandment.
   unique: true
   related_steps: []
@@ -622,7 +622,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA3
-  title: Pursuing Righteousness & Living Righteously.
+  title: Pursuing Righteousness & Living Righteously
   manually_review: Hunger and thirst after righteousness, pursue righteousness, live righteously, I think these are the same.
   unique: false
   related_steps:
@@ -660,7 +660,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA4
-  title: Seeking to Be Both Inwardly & Outwardly Clean.
+  title: Seeking to Be Both Inwardly & Outwardly Clean
   manually_review: Of cource perfection is inward and outward, but I think to strive to inwardly and outwardly cleanness is more explicit and therefore unique.
   unique: true
   related_steps:
@@ -668,7 +668,7 @@
     title_en: Therefore you shall be perfect, just as your Father in heaven is perfect
   double_ids:
   - id: AA23
-    title: Ridding Ourselves of Unholy Characteristics.
+    title: Ridding Ourselves of Unholy Characteristics
   bible_references:
     key_nt_scriptures:
     - John 13:10
@@ -693,7 +693,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA5
-  title: Modeling Ourselves on the Perfection of God.
+  title: Modeling Ourselves on the Perfection of God
   manually_review: Obviously the same
   unique: false
   related_steps:
@@ -701,7 +701,7 @@
     title_en: Therefore you shall be perfect, just as your Father in heaven is perfect
   double_ids:
   - id: AA1
-    title: Aspiring to Godliness and Holiness.
+    title: Aspiring to Godliness and Holiness
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:1-2
@@ -717,7 +717,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA6
-  title: Keeping Our Minds from Causing Our Bodies to Sin.
+  title: Keeping Our Minds from Causing Our Bodies to Sin
   manually_review: Almost the same, but together with AA59, I choose AA59 to be unique and therefore this one not unique.
   unique: false
   related_steps:
@@ -725,7 +725,7 @@
     title_en: Eliminate any cause of temptation
   double_ids:
   - id: AA59
-    title: Keeping a Clear Conscience.
+    title: Keeping a Clear Conscience
   bible_references:
     key_nt_scriptures:
     - Romans 6:12-13
@@ -747,7 +747,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA7
-  title: Seeking God’s Kingdom.
+  title: Seeking God’s Kingdom
   manually_review: Obviously the same as step 34
   unique: false
   related_steps:
@@ -774,7 +774,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA8
-  title: Guarding Ourselves Against Greed.
+  title: Guarding Ourselves Against Greed
   manually_review: Obviously the same
   unique: false
   related_steps:
@@ -874,13 +874,13 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA13
-  title: Fleeing from Sin & Evil.
+  title: Fleeing from Sin & Evil
   manually_review: Good to have an explicit positive commandment to flee from sin and evil.
   unique: true
   related_steps: []
   double_ids:
   - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin.
+    title: Keeping Our Minds from Causing Our Bodies to Sin
   bible_references:
     key_nt_scriptures:
     - Romans 12:9
@@ -910,7 +910,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA14
-  title: Being Patient.
+  title: Being Patient
   manually_review: Patience is definately a unique virtue.
   unique: true
   related_steps: []
@@ -938,7 +938,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA15
-  title: Keeping Free from, and Purifying Ourselves from Things that Defile.
+  title: Keeping Free from, and Purifying Ourselves from Things that Defile
   manually_review: Purify ourselves or being pure in heart is the same. I first thought it is the same as AA13, but it is good to have an explicit positive commandment to flee from sin and evil.
   unique: false
   related_steps:
@@ -946,9 +946,9 @@
     title_en: 'Blessed are the pure in heart: for they shall see God'
   double_ids:
   - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin.
+    title: Keeping Our Minds from Causing Our Bodies to Sin
   - id: AA23
-    title: Ridding Ourselves of Unholy Characteristics.
+    title: Ridding Ourselves of Unholy Characteristics
   bible_references:
     key_nt_scriptures:
     - 2 Corinthians 7:1
@@ -968,7 +968,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA18
-  title: Replacing Our Old Nature with a New Nature.
+  title: Replacing Our Old Nature with a New Nature
   manually_review: Since AB15 is already unique and it is almost the same, I choose this one to be not unique.
   unique: false
   related_steps: []
@@ -996,7 +996,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA19
-  title: Persevering, Standing Firm, & Growing in Our Faith.
+  title: Persevering, Standing Firm, & Growing in Our Faith
   manually_review: We do have the step 42 to be strong and courageous, but this is more about growing in our faith.
   unique: true
   related_steps: []
@@ -1053,7 +1053,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA22
-  title: Speaking Only That Which is Holy and Beneficial.
+  title: Speaking Only That Which is Holy and Beneficial
   manually_review: It has the same purse, together with AA1, this is not unique.
   unique: false
   related_steps:
@@ -1095,7 +1095,7 @@
   related_steps: []
   double_ids:
   - id: AA4
-    title: Seeking to Be Both Inwardly & Outwardly Clean.
+    title: Seeking to Be Both Inwardly & Outwardly Clean
   bible_references:
     nt_scriptures:
     - Ephesians 4:25
@@ -1118,7 +1118,7 @@
     title_en: 'Blessed are the meek: for they shall inherit the earth'
   double_ids:
   - id: AA20
-    title: Being Gentle.
+    title: Being Gentle
   bible_references:
     nt_scriptures:
     - 1 Peter 3:8
@@ -1130,7 +1130,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA25
-  title: Focusing Our Thoughts on Things Godly
+  title: Focusing Our Thoughts on Things that Are Godly
   manually_review: Didn't have an explicit commandment about focusing our thoughts yet.
   unique: true
   related_steps: []
@@ -1201,7 +1201,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA29
-  title: Being Joyful in All Circumstances.
+  title: Being Joyful in All Circumstances
   manually_review: Joy is a unique virtue, howover, implied step 17 is the same.
   unique: false
   related_steps:
@@ -1231,7 +1231,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA30
-  title: Being Honest and a Teller of Truth.
+  title: Being Honest and a Teller of Truth
   manually_review: You can keep your word but still not be honest. This is a unique virtue.
   unique: true
   related_steps:
@@ -1279,7 +1279,7 @@
     title_en: Have faith in God
   double_ids:
   - id: AA19
-    title: Persevering, Standing Firm, & Growing in Our Faith.
+    title: Persevering, Standing Firm, & Growing in Our Faith
   bible_references:
     nt_scriptures:
     - 2 Thessalonians 2:2
@@ -1341,7 +1341,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA34
-  title: Keeping Our Promises.
+  title: Keeping Our Promises
   manually_review: It is the same umbrella as step 24.
   unique: false
   related_steps:
@@ -1349,7 +1349,7 @@
     title_en: Keep your word
   double_ids:
   - id: AA32
-    title: Being Faithful, Trustworthy and Loyal.
+    title: Being Faithful, Trustworthy and Loyal
   bible_references:
     key_nt_scriptures:
     - Matthew 5:33
@@ -1380,9 +1380,9 @@
     title_en: Honor marriage
   double_ids:
   - id: AA13
-    title: Fleeing from Sin & Evil.
+    title: Fleeing from Sin & Evil
   - id: AA25
-    title: Focusing Our Thoughts on Things that Are Godly.
+    title: Focusing Our Thoughts on Things that Are Godly
   bible_references:
     nt_scriptures:
     - 1 Peter 4:2-3
@@ -1398,7 +1398,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA41
-  title: Comparing That Which is Taught Us to What We Read in Scripture.
+  title: Comparing That Which is Taught Us to What We Read in Scripture
   manually_review: This is not yet an explicit step.
   unique: true
   related_steps: []
@@ -1418,7 +1418,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA44
-  title: Knowing and Doing What is Right and Good
+  title: Knowing & Doing What is Right & Good
   manually_review: This is not yet an explicit step.
   unique: true
   related_steps:
@@ -1479,7 +1479,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA45
-  title: Being Circumcised in Our Heart.
+  title: Being Circumcised in Our Heart
   manually_review: A beautiful summary when you read the comment of Rabbi Rudulph on this commandment. It is a unique commandment.
   unique: true
   related_steps: []
@@ -1498,7 +1498,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA47
-  title: Seeking and Growing in Godly Knowledge.
+  title: Seeking and Growing in Godly Knowledge
   manually_review: It has the same purse as step 58. I think it is the same as AA53 and BA47
   unique: true
   related_steps:
@@ -1506,9 +1506,9 @@
     title_en: Blessed are they that hear the word of God, and keep it
   double_ids:
   - id: AA53
-    title: Having a Sound & Godly Doctrine.
+    title: Having a Sound & Godly Doctrine
   - id: BA47
-    title: Acquiring and Growing in Knowledge of God.
+    title: Acquiring and Growing in Knowledge of God
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 6:20
@@ -1530,7 +1530,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA51
-  title: Aspiring to Be Blameless.
+  title: Aspiring to Be Blameless
   manually_review: This is the same as step 28, together with AA4 this is not unique.
   unique: false
   related_steps:
@@ -1538,9 +1538,9 @@
     title_en: Therefore you shall be perfect, just as your Father in heaven is perfect
   double_ids:
   - id: AA1
-    title: Aspiring to Godliness and Holiness.
+    title: Aspiring to Godliness and Holiness
   - id: AA4
-    title: Seeking to Be Both Inwardly & Outwardly Clean.
+    title: Seeking to Be Both Inwardly & Outwardly Clean
   bible_references:
     key_nt_scriptures:
     - Philippians 2:14-15
@@ -1582,15 +1582,15 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA54
-  title: Distinguishing between Good and Evil.
+  title: Distinguishing between Good and Evil
   manually_review: Distinhuish is something different than AA13 and AA44.
   unique: true
   related_steps: []
   double_ids:
   - id: AA13
-    title: Fleeing from Sin & Evil.
+    title: Fleeing from Sin & Evil
   - id: AA44
-    title: Knowing & Doing What is Right & Good.
+    title: Knowing & Doing What is Right & Good
   bible_references:
     key_nt_scriptures:
     - Hebrews 5:14
@@ -1611,11 +1611,11 @@
   related_steps: []
   double_ids:
   - id: AA22
-    title: Speaking Only That Which is Holy and Beneficial.
+    title: Speaking Only That Which is Holy and Beneficial
   - id: AA20
-    title: Being Gentle.
+    title: Being Gentle
   - id: AA14
-    title: Being Patient.
+    title: Being Patient
   bible_references:
     nt_scriptures:
     - James 1:19
@@ -1647,7 +1647,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA58
-  title: Letting Our “Yes” be “Yes” and Our “No” be “No”
+  title: Letting Our “Yes” be “Yes” & Our “No” be “No”
   manually_review: This is the same as step 24.
   unique: false
   related_steps:
@@ -1666,15 +1666,15 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: AA59
-  title: Keeping a Clear Conscience.
+  title: Keeping a Clear Conscience
   manually_review: It is a unique virtue, though it is very similar to AA6.
   unique: true
   related_steps: []
   double_ids:
   - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin.
+    title: Keeping Our Minds from Causing Our Bodies to Sin
   - id: AA25
-    title: Focusing Our Thoughts on Things that Are Godly.
+    title: Focusing Our Thoughts on Things that Are Godly
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 1:5
@@ -1721,9 +1721,9 @@
     title_en: Don’t be angry at your brother without a cause. If you will be, reconcile as quickly as possible
   double_ids:
   - id: AA56
-    title: Being Quick to Listen and Slow to Speak.
+    title: Being Quick to Listen and Slow to Speak
   - id: AA20
-    title: Being Gentle.
+    title: Being Gentle
   bible_references:
     nt_scriptures:
     - 2 Corinthians 12:20-21
@@ -1925,7 +1925,7 @@
     title_en: Give to the emperor what is from the emperor, and to God what is from God
   double_ids:
   - id: DA9
-    title: Giving to Our Neighbor That Which Is Owed Him.
+    title: Giving to Our Neighbor That Which Is Owed Him
   bible_references:
     key_nt_scriptures:
     - Ephesians 4:31-32
@@ -2028,7 +2028,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA3
-  title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua.'
+  title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua'
   manually_review: It is based on the same key scripture but differently described.
   unique: false
   related_steps:
@@ -2205,7 +2205,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA7
-  title: Praising God and Yeshua.
+  title: Praising God and Yeshua
   manually_review: Together with step 5 and 74 this is not unique.
   unique: false
   related_steps:
@@ -2248,9 +2248,9 @@
     title_en: We are called to glorify the Name of God in Christ Jesus!
   double_ids:
   - id: BA7
-    title: Praising God and Yeshua.
+    title: Praising God and Yeshua
   - id: AA7
-    title: Seeking God’s Kingdom.
+    title: Seeking God’s Kingdom
   bible_references:
     nt_scriptures:
     - 1 John 3:22
@@ -2278,7 +2278,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA9
-  title: Believing in God’s Evenhanded Justice.
+  title: Believing in God’s Evenhanded Justice
   manually_review: Rabbi Rudolph is a retired judge himself. We need to handover all our judgments to God.
   unique: true
   related_steps: []
@@ -2379,7 +2379,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA11
-  title: Honoring God & Yeshua.
+  title: Honoring God & Yeshua
   manually_review: Together with the double_ids and step 69 this is not unique.
   unique: false
   related_steps:
@@ -2387,11 +2387,11 @@
     title_en: Use your talents to honor the Father
   double_ids:
   - id: BA7
-    title: Praising God and Yeshua.
+    title: Praising God and Yeshua
   - id: BA8
-    title: Pleasing God and Yeshua.
+    title: Pleasing God and Yeshua
   - id: BA10
-    title: Obeying the Commandments of God and Yeshua.
+    title: Obeying the Commandments of God and Yeshua
   bible_references:
     key_nt_scriptures:
     - John 5:22-23
@@ -2413,7 +2413,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA12
-  title: Lifting Up Yeshua.
+  title: Lifting Up Yeshua
   manually_review: It is a unique commandment from John 3:14 and John 8:28, not yet an explicit step (however it is implied in step 74).
   unique: true
   related_steps:
@@ -2440,7 +2440,7 @@
     title_en: Blessed are they that hear the word of God, and keep it
   double_ids:
   - id: BA10
-    title: Obeying the Commandments of God and Yeshua.
+    title: Obeying the Commandments of God and Yeshua
   bible_references:
     nt_scriptures:
     - 1 Thessalonians 5:21
@@ -2473,7 +2473,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA14
-  title: Knowing God through Yeshua.
+  title: Knowing God through Yeshua
   manually_review: I choose to make G20 unique and therefore BA14 not unique.
   unique: false
   related_steps: []
@@ -2481,9 +2481,9 @@
   - id: G20
     title: Knowing God & Who He Is
   - id: BA11
-    title: Honoring God & Yeshua.
+    title: Honoring God & Yeshua
   - id: BA7
-    title: Praising God and Yeshua.
+    title: Praising God and Yeshua
   bible_references:
     key_nt_scriptures:
     - John 8:19
@@ -2503,7 +2503,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA15
-  title: Serving God and Yeshua
+  title: Serving God & Yeshua
   manually_review: Since BA14 already covers to know both God and Yeshua, this is then the same as step 5.
   unique: false
   related_steps:
@@ -2511,11 +2511,11 @@
     title_en: You shall worship the LORD your God, and Him only you shall serve
   double_ids:
   - id: BA8
-    title: Pleasing God and Yeshua.
+    title: Pleasing God and Yeshua
   - id: BA11
-    title: Honoring God & Yeshua.
+    title: Honoring God & Yeshua
   - id: BA7
-    title: Praising God and Yeshua.
+    title: Praising God and Yeshua
   bible_references:
     nt_scriptures:
     - 1 Corinthians 4:1
@@ -2556,11 +2556,11 @@
     title_en: We are called to glorify the Name of God in Christ Jesus!
   double_ids:
   - id: BA11
-    title: Honoring God & Yeshua.
+    title: Honoring God & Yeshua
   - id: BA8
-    title: Pleasing God and Yeshua.
+    title: Pleasing God and Yeshua
   - id: BA15
-    title: Serving God & Yeshua.
+    title: Serving God & Yeshua
   bible_references:
     nt_scriptures:
     - 1 Corinthians 7:35
@@ -2594,11 +2594,11 @@
   - id: GB14
     title: Patterning Our Life After the Shlichim, their Disciples, and Yeshua
   - id: BA11
-    title: Honoring God & Yeshua.
+    title: Honoring God & Yeshua
   - id: BA8
-    title: Pleasing God and Yeshua.
+    title: Pleasing God and Yeshua
   - id: BA7
-    title: Praising God and Yeshua.
+    title: Praising God and Yeshua
   bible_references:
     nt_scriptures:
     - 1 Corinthians 11:1
@@ -2621,7 +2621,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA18
-  title: Being Reconciled to God in Yeshua.
+  title: Being Reconciled to God in Yeshua
   manually_review: It is the same as step 1.
   unique: false
   related_steps:
@@ -2640,7 +2640,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA19
-  title: Seeking Our Reward from God in Heaven.
+  title: Seeking Our Reward from God in Heaven
   manually_review: It is the same as step 17 together with step 33.
   unique: false
   related_steps:
@@ -2650,7 +2650,7 @@
     title_en: Lay up for yourselves treasures in heaven
   double_ids:
   - id: BA8
-    title: Pleasing God and Yeshua.
+    title: Pleasing God and Yeshua
   bible_references:
     key_nt_scriptures:
     - Matthew 5:12
@@ -2670,7 +2670,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA20
-  title: Listening to, Believing, and Obeying the Good News of Yeshua.
+  title: Listening to, Believing, and Obeying the Good News of Yeshua
   manually_review: It is not unique, it is the same as step 41. Believing is covered in step 1.
   unique: false
   related_steps:
@@ -2680,7 +2680,7 @@
     title_en: Repent and believe the gospel
   double_ids:
   - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua.
+    title: Trusting (Having Faith /Believing) in God and Yeshua
   bible_references:
     key_nt_scriptures:
     - Mark 1:14-15
@@ -2697,7 +2697,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA21
-  title: Loving God and Yeshua
+  title: Loving God & Yeshua
   manually_review: It is the same as step 66, together with step 47 this is not unique.
   unique: false
   related_steps:
@@ -2747,7 +2747,7 @@
   related_steps: []
   double_ids:
   - id: BA43
-    title: Knowing that God is Triune.
+    title: Knowing that God is Triune
   bible_references:
     nt_scriptures:
     - 1 Corinthians 8:4
@@ -2857,7 +2857,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA24
-  title: Presenting Ourselves to God as Worthy of Approval.
+  title: Presenting Ourselves to God as Worthy of Approval
   manually_review: I consider this the same as step 4.
   unique: false
   related_steps:
@@ -2865,7 +2865,7 @@
     title_en: Therefore bear fruits worthy of repentance
   double_ids:
   - id: BA6
-    title: Offering Our Entire Selves to God.
+    title: Offering Our Entire Selves to God
   bible_references:
     key_nt_scriptures:
     - 2 Timothy 2:15
@@ -2905,7 +2905,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA26
-  title: Being Yeshua’s Witness.
+  title: Being Yeshua’s Witness
   manually_review: It has the same purse as step 46, together with step 8 this is not unique.
   unique: false
   related_steps:
@@ -2960,7 +2960,7 @@
     title_en: Repent and believe the gospel
   double_ids:
   - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua.
+    title: Trusting (Having Faith /Believing) in God and Yeshua
   bible_references:
     nt_scriptures:
     - 1 Corinthians 15:3
@@ -3081,7 +3081,7 @@
     title_en: We are called to glorify the Name of God in Christ Jesus!
   double_ids:
   - id: BA8
-    title: Pleasing God and Yeshua.
+    title: Pleasing God and Yeshua
   bible_references:
     nt_scriptures:
     - 1 Corinthians 10:31
@@ -3124,7 +3124,7 @@
     title_en: Repent and believe the gospel
   double_ids:
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   bible_references:
     nt_scriptures:
     - 1 Corinthians 10:16
@@ -3196,7 +3196,7 @@
   related_steps: []
   double_ids:
   - id: BA27
-    title: Receiving Yeshua’s Love and Kindness.
+    title: Receiving Yeshua’s Love and Kindness
   bible_references:
     nt_scriptures:
     - 1 Corinthians 1:4
@@ -3231,9 +3231,9 @@
     title_en: Follow Me
   double_ids:
   - id: BA15
-    title: Serving God & Yeshua.
+    title: Serving God & Yeshua
   - id: BA39
-    title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings.
+    title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings
   bible_references:
     nt_scriptures:
     - 1 Corinthians 3:4
@@ -3271,7 +3271,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA41
-  title: Welcoming Yeshua by Welcoming Children.
+  title: Welcoming Yeshua by Welcoming Children
   manually_review: It is the same as step 56.
   unique: false
   related_steps:
@@ -3398,9 +3398,9 @@
   related_steps: []
   double_ids:
   - id: BA32
-    title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
+    title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: BA14
-    title: Knowing God through Yeshua.
+    title: Knowing God through Yeshua
   bible_references:
     nt_scriptures:
     - 1 John 2:22-23
@@ -3415,7 +3415,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA46
-  title: Remaining Rooted in Yeshua.
+  title: Remaining Rooted in Yeshua
   manually_review: It is based on the same key scripture text as step 73, but differently described.
   unique: false
   related_steps:
@@ -3449,11 +3449,11 @@
     title_en: Blessed are they that hear the word of God, and keep it
   double_ids:
   - id: AA53
-    title: Having a Sound & Godly Doctrine.
+    title: Having a Sound & Godly Doctrine
   - id: BA47
-    title: Acquiring and Growing in Knowledge of God.
+    title: Acquiring and Growing in Knowledge of God
   - id: AA47
-    title: Seeking and Growing in Godly Knowledge.
+    title: Seeking and Growing in Godly Knowledge
   bible_references:
     nt_scriptures:
     - 1 Corinthians 15:34
@@ -3522,7 +3522,7 @@
     title_en: Repent and believe the gospel
   double_ids:
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   bible_references:
     nt_scriptures:
     - 1 Corinthians 1:21
@@ -3541,9 +3541,9 @@
   related_steps: []
   double_ids:
   - id: BA32
-    title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
+    title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: BA45
-    title: Knowing Yeshua as Lord and Messiah.
+    title: Knowing Yeshua as Lord and Messiah
   bible_references:
     nt_scriptures:
     - 1 Timothy 2:6
@@ -3564,7 +3564,7 @@
     title_en: Have faith in God
   double_ids:
   - id: BA44
-    title: Relying on God.
+    title: Relying on God
   bible_references:
     nt_scriptures:
     - 1 Peter 3:5
@@ -3599,9 +3599,9 @@
     title_en: Blessed are the poor in spirit, for theirs is the kingdom of heaven
   double_ids:
   - id: BA44
-    title: Relying on God.
+    title: Relying on God
   - id: BA52
-    title: Setting Our Hope on God.
+    title: Setting Our Hope on God
   bible_references:
     nt_scriptures:
     - 1 John 5:3-4
@@ -3630,7 +3630,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA55
-  title: Humbling Ourselves before God.
+  title: Humbling Ourselves before God
   manually_review: It looks like step 45 to fear God, but it is not the same. It is a unique commandment.
   unique: true
   related_steps:
@@ -3661,7 +3661,7 @@
   related_steps: []
   double_ids:
   - id: BA32
-    title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
+    title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   bible_references:
     nt_scriptures:
     - Acts 4:27-30
@@ -3682,7 +3682,7 @@
     title_en: Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls
   double_ids:
   - id: BA2
-    title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit.
+    title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   bible_references:
     nt_scriptures:
     - 1 Peter 2:4
@@ -3706,7 +3706,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA58
-  title: Standing Firm in Union with the Lord.
+  title: Standing Firm in Union with the Lord
   manually_review: Standing firm is already a commandment in AA19. To abide is already in step 73 and BA3, therefore I don't think this is unique.
   unique: false
   related_steps:
@@ -3714,9 +3714,9 @@
     title_en: He that abideth in me, and I in him, the same bringeth forth much fruit
   double_ids:
   - id: AA19
-    title: Persevering, Standing Firm, & Growing in Our Faith.
+    title: Persevering, Standing Firm, & Growing in Our Faith
   - id: BA3
-    title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua.'
+    title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua'
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 15:58
@@ -3738,7 +3738,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: BA59
-  title: Remembering that Yeshua was Raised from the Dead.
+  title: Remembering that Yeshua was Raised from the Dead
   manually_review: Although it is implied in the related commandments, it is good to specifically think and talk about what it means to use that Yeashua raised from the dead.
   unique: true
   related_steps:
@@ -3746,11 +3746,11 @@
     title_en: Celebrate the Lord’s supper in remembrance of Me
   double_ids:
   - id: BA50
-    title: Believing that Yeshua was Sent for All of Humanity.
+    title: Believing that Yeshua was Sent for All of Humanity
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   - id: BA32
-    title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
+    title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   bible_references:
     key_nt_scriptures: []
     supportive_nt_scriptures:
@@ -3780,7 +3780,7 @@
   related_steps: []
   double_ids:
   - id: BA6
-    title: Offering Our Entire Selves to God.
+    title: Offering Our Entire Selves to God
   bible_references:
     nt_scriptures:
     - 1 Corinthians 1:26-28
@@ -3812,7 +3812,7 @@
     title_en: Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls
   double_ids:
   - id: BA2
-    title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit.
+    title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   bible_references:
     nt_scriptures:
     - Acts 3:19-20
@@ -3961,7 +3961,7 @@
   related_steps: []
   double_ids:
   - id: AA32
-    title: Being Faithful, Trustworthy and Loyal.
+    title: Being Faithful, Trustworthy and Loyal
   bible_references:
     key_nt_scriptures:
     - 2 Corinthians 8:20-21
@@ -4020,7 +4020,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: CA3
-  title: Storing up Wealth in Heaven
+  title: Storing Up Wealth in Heaven
   manually_review: It is based on the same key scripture as step 33, but differently described.
   unique: false
   related_steps:
@@ -4066,7 +4066,7 @@
     title_en: Take heed, and beware of covetousness
   double_ids:
   - id: AA8
-    title: Guarding Ourselves Against Greed.
+    title: Guarding Ourselves Against Greed
   bible_references:
     nt_scriptures:
     - 1 Corinthians 7:24
@@ -4431,7 +4431,7 @@
   related_steps: []
   double_ids:
   - id: AA4
-    title: Seeking to Be Both Inwardly & Outwardly Clean.
+    title: Seeking to Be Both Inwardly & Outwardly Clean
   - id: CB25
     title: Wives Being Faithful to their Husbands
   bible_references:
@@ -4447,7 +4447,7 @@
   related_steps: []
   double_ids:
   - id: AA44
-    title: Knowing & Doing What is Right & Good.
+    title: Knowing & Doing What is Right & Good
   bible_references:
     key_nt_scriptures:
     - 1 John 3:7
@@ -4550,21 +4550,21 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: DA6
-  title: Showing Respect for One Another.
+  title: Showing Respect for One Another
   manually_review: It has too much overlap with the listed double_ids.
   unique: false
   related_steps: []
   double_ids:
   - id: DA4
-    title: Not Going to Law Against Our Brother in a Secular Court.
+    title: Not Going to Law Against Our Brother in a Secular Court
   - id: DA57
-    title: Living Quietly So as to Gain Our Neighbor’s Respect.
+    title: Living Quietly So as to Gain Our Neighbor’s Respect
   - id: AA53
-    title: Having a Sound & Godly Doctrine.
+    title: Having a Sound & Godly Doctrine
   - id: N8
     title: Giving Respect & Honor to Persons of Advanced Age
   - id: DA60
-    title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender.
+    title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender
   bible_references:
     key_nt_scriptures:
     - Romans 12:10
@@ -4594,7 +4594,7 @@
     title_en: Be moved with inner compassion with the people around you
   double_ids:
   - id: AA24
-    title: Being Tenderhearted.
+    title: Being Tenderhearted
   bible_references:
     nt_scriptures:
     - 1 Peter 3:8
@@ -4609,7 +4609,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: DA8
-  title: Befriending Persons Who Are Humble.
+  title: Befriending Persons Who Are Humble
   manually_review: I think this is not a literal commandment from the key scripture Rom 12:16?
   unique: false
   related_steps: []
@@ -4625,7 +4625,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: DA9
-  title: Giving to Our Neighbor That Which Is Owed Him.
+  title: Giving to Our Neighbor That Which Is Owed Him
   manually_review: Give to the emperor is not literal, I think it is broader than only the government, it is about giving to our neighbor what is owed him. Therefore, this is not unique, it is the same as step 54.
   unique: false
   related_steps:
@@ -4705,7 +4705,7 @@
     title_en: Be generous (and fasten and pray) in secret
   double_ids:
   - id: DA41
-    title: Being Friends with Brothers & Friendly to Outsiders.
+    title: Being Friends with Brothers & Friendly to Outsiders
   - id: H4
     title: Using Our Speech, Thoughts, Hearts and Actions for That which Is Good and Holy
   bible_references:
@@ -4751,7 +4751,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: DA14
-  title: Submitting to One Another.
+  title: Submitting to One Another
   manually_review: Although it looks like step 64 togehter with 70, it has a unique commandment from Eph 5:21, which is not yet an explicit step
   unique: true
   related_steps:
@@ -4785,7 +4785,7 @@
     title_en: Strengthen your brethren
   double_ids:
   - id: BA3
-    title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua.'
+    title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua'
   bible_references:
     nt_scriptures:
     - 1 Corinthians 11:18
@@ -4847,7 +4847,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: DA24
-  title: Loving Our Brother and Neighbor
+  title: Loving Our Brother & Neighbor
   manually_review: It is the same as step 67.
   unique: false
   related_steps:
@@ -4910,11 +4910,11 @@
     title_en: Be moved with inner compassion with the people around you
   double_ids:
   - id: DA24
-    title: Loving Our Brother & Neighbor.
+    title: Loving Our Brother & Neighbor
   - id: DA10
-    title: Living in Peace with Our Neighbors.
+    title: Living in Peace with Our Neighbors
   - id: AA24
-    title: Being Tenderhearted.
+    title: Being Tenderhearted
   bible_references:
     nt_scriptures:
     - 1 Corinthians 12:26
@@ -4974,7 +4974,7 @@
     title_en: Be moved with inner compassion with the people around you
   double_ids:
   - id: DA32
-    title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows.
+    title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows
   bible_references:
     nt_scriptures:
     - 2 Corinthians 3:17
@@ -5002,13 +5002,13 @@
     title_en: 'Blessed are the meek: for they shall inherit the earth'
   double_ids:
   - id: AA20
-    title: Being Gentle.
+    title: Being Gentle
   - id: DA24
-    title: Loving Our Brother & Neighbor.
+    title: Loving Our Brother & Neighbor
   - id: DA10
-    title: Living in Peace with Our Neighbors.
+    title: Living in Peace with Our Neighbors
   - id: AA24
-    title: Being Tenderhearted.
+    title: Being Tenderhearted
   bible_references:
     nt_scriptures:
     - 2 Corinthians 6:14
@@ -5032,7 +5032,7 @@
   related_steps: []
   double_ids:
   - id: AA24
-    title: Being Tenderhearted.
+    title: Being Tenderhearted
   bible_references:
     nt_scriptures:
     - 1 Corinthians 1:3-4
@@ -5152,9 +5152,9 @@
     title_en: Beware of false prophets.
   double_ids:
   - id: AA8
-    title: Guarding Ourselves Against Greed.
+    title: Guarding Ourselves Against Greed
   - id: AA61
-    title: Hating Ungodly Vices.
+    title: Hating Ungodly Vices
   bible_references:
     nt_scriptures:
     - 2 Peter 3:3
@@ -5196,7 +5196,7 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: DA57
-  title: Living Quietly So as to Gain Our Neighbor’s Respect.
+  title: Living Quietly So as to Gain Our Neighbor’s Respect
   manually_review: It has the same idea as step 11, together with DA32 this is not unique.
   unique: false
   related_steps:
@@ -5204,11 +5204,11 @@
     title_en: 'Blessed are the meek: for they shall inherit the earth'
   double_ids:
   - id: DA32
-    title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows.
+    title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows
   - id: DA24
-    title: Loving Our Brother & Neighbor.
+    title: Loving Our Brother & Neighbor
   - id: DA46
-    title: Comforting Our Neighbor.
+    title: Comforting Our Neighbor
   bible_references:
     key_nt_scriptures:
     - 1 Thessalonians 4:11-12
@@ -5256,7 +5256,7 @@
     title_en: Strengthen your brethren
   double_ids:
   - id: DA16
-    title: Encouraging One Another.
+    title: Encouraging One Another
   bible_references:
     nt_scriptures:
     - 1 Corinthians 14:3
@@ -5288,17 +5288,17 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
 - id: DA68
-  title: Welcoming & Being Hospitable to Our Brother & Neighbor
+  title: Welcoming & Being Hospitable to Our Brother and Neighbor
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
   related_steps: []
   double_ids:
   - id: AA24
-    title: Being Tenderhearted.
+    title: Being Tenderhearted
   - id: DA24
-    title: Loving Our Brother & Neighbor.
+    title: Loving Our Brother & Neighbor
   - id: DA46
-    title: Comforting Our Neighbor.
+    title: Comforting Our Neighbor
   bible_references:
     nt_scriptures:
     - 1 Peter 4:8-9
@@ -5501,7 +5501,7 @@
     title_en: Beware of false prophets.
   double_ids:
   - id: DA55
-    title: Guarding Against Scoffers.
+    title: Guarding Against Scoffers
   - id: EA6
     title: Being Humble and Not Arrogant or Prideful
   bible_references:
@@ -5663,7 +5663,7 @@
     title_en: Honor marriage
   double_ids:
   - id: BA10
-    title: Obeying the Commandments of God and Yeshua.
+    title: Obeying the Commandments of God and Yeshua
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:36-40
@@ -6169,7 +6169,7 @@
   - id: FA10
     title: Praying in the Spirit for All Human Beings & Especially for God’s People
   - id: DA50
-    title: Bearing with One Another in Love & with Forgiveness.
+    title: Bearing with One Another in Love & with Forgiveness
   bible_references:
     nt_scriptures:
     - 2 Corinthians 1:11
@@ -6449,7 +6449,7 @@
   - id: FA16
     title: Worshiping God in Spirit and in Truth
   - id: BA43
-    title: Knowing that God is Triune.
+    title: Knowing that God is Triune
   - id: BA22
     title: Knowing that God is One – Both Singular & Composite
   - id: G3
@@ -6692,7 +6692,7 @@
   related_steps: []
   double_ids:
   - id: DA6
-    title: Showing Respect for One Another.
+    title: Showing Respect for One Another
   - id: FA5
     title: Praying for Our Enemies
   - id: FA32
@@ -6799,7 +6799,7 @@
   - id: FA26
     title: Praying with Faith and without Doubt
   - id: DA50
-    title: Bearing with One Another in Love & with Forgiveness.
+    title: Bearing with One Another in Love & with Forgiveness
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 2:15
@@ -6815,11 +6815,11 @@
   - id: FB4
     title: Women Dressing Modestly when Praying
   - id: AA22
-    title: Speaking Only That Which is Holy and Beneficial.
+    title: Speaking Only That Which is Holy and Beneficial
   - id: H4
     title: Using Our Speech, Thoughts, Hearts and Actions for That which Is Good and Holy
   - id: AA23
-    title: Ridding Ourselves of Unholy Characteristics.
+    title: Ridding Ourselves of Unholy Characteristics
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 2:15
@@ -6867,9 +6867,9 @@
     title_en: Have faith in God
   double_ids:
   - id: BA32
-    title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
+    title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua.
+    title: Trusting (Having Faith /Believing) in God and Yeshua
   bible_references:
     key_nt_scriptures:
     - John 14:1
@@ -6898,9 +6898,9 @@
     title_en: Repent and believe the gospel
   double_ids:
   - id: BA39
-    title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings.
+    title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings
   - id: BA56
-    title: Acknowledging the Holiness of Yeshua.
+    title: Acknowledging the Holiness of Yeshua
   bible_references:
     key_nt_scriptures:
     - Matthew 10:32-33
@@ -6932,7 +6932,7 @@
   related_steps: []
   double_ids:
   - id: BA43
-    title: Knowing that God is Triune.
+    title: Knowing that God is Triune
   - id: BA22
     title: Knowing that God is One – Both Singular & Composite
   bible_references:
@@ -6957,7 +6957,7 @@
     title_en: You shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength
   double_ids:
   - id: BA21
-    title: Loving God & Yeshua.
+    title: Loving God & Yeshua
   bible_references:
     key_nt_scriptures:
     - Matthew 22:33-38
@@ -6981,7 +6981,7 @@
     title_en: We are to reverently and lovingly fear God
   double_ids:
   - id: BA23
-    title: Fearing and Revering God & Messiah.
+    title: Fearing and Revering God & Messiah
   bible_references:
     key_nt_scriptures:
     - Matthew 10:28
@@ -7025,11 +7025,11 @@
     title_en: You shall worship the LORD your God, and Him only you shall serve
   double_ids:
   - id: BA7
-    title: Praising God and Yeshua.
+    title: Praising God and Yeshua
   - id: BA15
-    title: Serving God & Yeshua.
+    title: Serving God & Yeshua
   - id: BA54
-    title: Submitting to God.
+    title: Submitting to God
   bible_references:
     key_nt_scriptures:
     - Luke 4:8
@@ -7098,11 +7098,11 @@
   related_steps: []
   double_ids:
   - id: BA54
-    title: Submitting to God.
+    title: Submitting to God
   - id: BA44
-    title: Relying on God.
+    title: Relying on God
   - id: AA7
-    title: Seeking God’s Kingdom.
+    title: Seeking God’s Kingdom
   bible_references:
     key_nt_scriptures:
     - John 15:1-5
@@ -7126,11 +7126,11 @@
     title_en: In every thing give thanks
   double_ids:
   - id: AA27
-    title: Being Thankful and Grateful to God.
+    title: Being Thankful and Grateful to God
   - id: AA29
-    title: Being Joyful in All Circumstances.
+    title: Being Joyful in All Circumstances
   - id: BA11
-    title: Honoring God & Yeshua.
+    title: Honoring God & Yeshua
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:20
@@ -7197,7 +7197,7 @@
     title_en: Have faith in God
   double_ids:
   - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua.
+    title: Trusting (Having Faith /Believing) in God and Yeshua
   - id: G11
     title: Being Thankful to God and Blessing Him in All Things
   bible_references:
@@ -7337,7 +7337,7 @@
     title_en: We are called to glorify the Name of God in Christ Jesus!
   double_ids:
   - id: BA16
-    title: Devoting Our Lives to God and Yeshua.
+    title: Devoting Our Lives to God and Yeshua
   bible_references:
     key_nt_scriptures:
     - Acts 18:18
@@ -7424,9 +7424,9 @@
     title_en: Love God above all
   double_ids:
   - id: BA25
-    title: Putting God and Yeshua Before All Things and All Persons.
+    title: Putting God and Yeshua Before All Things and All Persons
   - id: CA2
-    title: Putting Yeshua Ahead of Worldly Wealth.
+    title: Putting Yeshua Ahead of Worldly Wealth
   bible_references:
     key_nt_scriptures:
     - Luke 14:26
@@ -7456,7 +7456,7 @@
     title_en: Pray in faith according to the will of the Father
   double_ids:
   - id: AA31
-    title: Being Steadfast in Our Faith and Our Thinking.
+    title: Being Steadfast in Our Faith and Our Thinking
   bible_references:
     key_nt_scriptures:
     - Romans 12:11-12
@@ -7490,7 +7490,7 @@
   related_steps: []
   double_ids:
   - id: AA14
-    title: Being Patient.
+    title: Being Patient
   bible_references:
     key_nt_scriptures:
     - Romans 8:25
@@ -7547,9 +7547,9 @@
   - id: G12
     title: Having Faith in God & Trusting Him in All Things
   - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua.
+    title: Trusting (Having Faith /Believing) in God and Yeshua
   - id: AA31
-    title: Being Steadfast in Our Faith and Our Thinking.
+    title: Being Steadfast in Our Faith and Our Thinking
   bible_references:
     key_nt_scriptures:
     - Mark 11:23-24
@@ -7572,9 +7572,9 @@
   related_steps: []
   double_ids:
   - id: BA43
-    title: Knowing that God is Triune.
+    title: Knowing that God is Triune
   - id: BA14
-    title: Knowing God through Yeshua.
+    title: Knowing God through Yeshua
   - id: G14
     title: Knowing God by His Observing His Creation
   bible_references:
@@ -8020,7 +8020,7 @@
     title_en: Repent and believe the gospel
   double_ids:
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   bible_references:
     nt_scriptures:
     - 1 Corinthians 15:34
@@ -8078,7 +8078,7 @@
     title_en: Repent and believe the gospel
   double_ids:
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   bible_references:
     nt_scriptures:
     - 1 John 2:2
@@ -8187,7 +8187,7 @@
   related_steps: []
   double_ids:
   - id: AA23
-    title: Ridding Ourselves of Unholy Characteristics.
+    title: Ridding Ourselves of Unholy Characteristics
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 11:23-29
@@ -8220,11 +8220,11 @@
   - id: GB5
     title: Living in a Godly Manner and Not as Do the Pagans
   - id: AA22
-    title: Speaking Only That Which is Holy and Beneficial.
+    title: Speaking Only That Which is Holy and Beneficial
   - id: H4
     title: Using Our Speech, Thoughts, Hearts and Actions for That which Is Good and Holy
   - id: AA23
-    title: Ridding Ourselves of Unholy Characteristics.
+    title: Ridding Ourselves of Unholy Characteristics
   bible_references:
     key_nt_scriptures:
     - 1 Peter 2:12
@@ -8247,7 +8247,7 @@
     title_en: 'Blessed are the pure in heart: for they shall see God'
   double_ids:
   - id: DA52
-    title: Behaving Wisely Toward Outsiders.
+    title: Behaving Wisely Toward Outsiders
   bible_references:
     nt_scriptures:
     - 1 John 3:3
@@ -8287,7 +8287,7 @@
   related_steps: []
   double_ids:
   - id: AA2
-    title: Behaving Properly.
+    title: Behaving Properly
   - id: ZA7
     title: Determining Our Spiritual Gifts
   bible_references:
@@ -8466,15 +8466,15 @@
   - id: AB15
     title: Being Transformed by the Renewing of Our Mind and Spirit
   - id: AA59
-    title: Keeping a Clear Conscience.
+    title: Keeping a Clear Conscience
   - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin.
+    title: Keeping Our Minds from Causing Our Bodies to Sin
   - id: AA25
-    title: Focusing Our Thoughts on Things that Are Godly.
+    title: Focusing Our Thoughts on Things that Are Godly
   - id: AA4
-    title: Seeking to Be Both Inwardly & Outwardly Clean.
+    title: Seeking to Be Both Inwardly & Outwardly Clean
   - id: AA23
-    title: Ridding Ourselves of Unholy Characteristics.
+    title: Ridding Ourselves of Unholy Characteristics
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:20
@@ -8567,9 +8567,9 @@
   - id: FA9
     title: Giving Thanks in Everything
   - id: CA4
-    title: Being Content with Having the Essentials for Living.
+    title: Being Content with Having the Essentials for Living
   - id: AA8
-    title: Guarding Ourselves Against Greed.
+    title: Guarding Ourselves Against Greed
   bible_references:
     key_nt_scriptures:
     - Hebrews 13:5
@@ -8658,7 +8658,7 @@
     title_en: Eliminate any cause of temptation
   double_ids:
   - id: AA13
-    title: Fleeing from Sin & Evil.
+    title: Fleeing from Sin & Evil
   - id: GB2
     title: Examining Ourselves
   bible_references:
@@ -8743,7 +8743,7 @@
     title_en: 'Blessed are they which are persecuted for righteousness'' sake: for theirs is the kingdom of heaven.'
   double_ids:
   - id: AA19
-    title: Persevering, Standing Firm, & Growing in Our Faith.
+    title: Persevering, Standing Firm, & Growing in Our Faith
   bible_references:
     supportive_nt_scriptures:
     - 2 Peter 1:5
@@ -8804,9 +8804,9 @@
   - id: YA1
     title: Offering Ourselves as Living Sacrifices
   - id: BA16
-    title: Devoting Our Lives to God and Yeshua.
+    title: Devoting Our Lives to God and Yeshua
   - id: BA6
-    title: Offering Our Entire Selves to God.
+    title: Offering Our Entire Selves to God
   bible_references:
     key_nt_scriptures:
     - 2 Timothy 3:10
@@ -8820,7 +8820,7 @@
   related_steps: []
   double_ids:
   - id: AA53
-    title: Having a Sound & Godly Doctrine.
+    title: Having a Sound & Godly Doctrine
   bible_references:
     key_nt_scriptures:
     - Titus 2:2
@@ -8877,7 +8877,7 @@
   - id: GB18
     title: Living a Good, Quiet, & Peaceful Life
   - id: AA4
-    title: Seeking to Be Both Inwardly & Outwardly Clean.
+    title: Seeking to Be Both Inwardly & Outwardly Clean
   bible_references:
     key_nt_scriptures:
     - 1 Peter 3:11-12
@@ -8916,7 +8916,7 @@
   - id: G6
     title: Fearing God
   - id: BA23
-    title: Fearing and Revering God & Messiah.
+    title: Fearing and Revering God & Messiah
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 3:16-17
@@ -8937,7 +8937,7 @@
   related_steps: []
   double_ids:
   - id: AA1
-    title: Aspiring to Godliness and Holiness.
+    title: Aspiring to Godliness and Holiness
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 11:4-16
@@ -8970,7 +8970,7 @@
     title_en: Calm words are a tree of life
   double_ids:
   - id: AA22
-    title: Speaking Only That Which is Holy and Beneficial.
+    title: Speaking Only That Which is Holy and Beneficial
   bible_references:
     key_nt_scriptures:
     - Matthew 15:18-20
@@ -9196,7 +9196,7 @@
     title_en: Blessed are they that hear the word of God, and keep it
   double_ids:
   - id: AA47
-    title: Seeking and Growing in Godly Knowledge.
+    title: Seeking and Growing in Godly Knowledge
   bible_references:
     key_nt_scriptures:
     - Colossians 3:16
@@ -9279,7 +9279,7 @@
     title_en: Blessed are they that hear the word of God, and keep it
   double_ids:
   - id: AA47
-    title: Seeking and Growing in Godly Knowledge.
+    title: Seeking and Growing in Godly Knowledge
   bible_references:
     key_nt_scriptures:
     - 2 Timothy 4:3
@@ -9462,7 +9462,7 @@
     title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
   double_ids:
   - id: BA10
-    title: Obeying the Commandments of God and Yeshua.
+    title: Obeying the Commandments of God and Yeshua
   bible_references:
     key_nt_scriptures:
     - Matthew 5:17-20
@@ -9494,7 +9494,7 @@
     title_en: 'Blessed are they which are persecuted for righteousness sake: for theirs is the kingdom of heaven.'
   double_ids:
   - id: BA9
-    title: Believing in God’s Evenhanded Justice.
+    title: Believing in God’s Evenhanded Justice
   bible_references:
     key_nt_scriptures:
     - Hebrews 13:17
@@ -9656,9 +9656,9 @@
     title_en: Beware of false prophets.
   double_ids:
   - id: AA33
-    title: Guarding Against Hypocrites & Not Being a Hypocrite.
+    title: Guarding Against Hypocrites & Not Being a Hypocrite
   - id: DA55
-    title: Guarding Against Scoffers.
+    title: Guarding Against Scoffers
   - id: GB11
     title: Wearing and Employing God’s Armor and Weaponry
   bible_references:
@@ -9830,9 +9830,9 @@
     title_en: Beware of false prophets.
   double_ids:
   - id: AA33
-    title: Guarding Against Hypocrites & Not Being a Hypocrite.
+    title: Guarding Against Hypocrites & Not Being a Hypocrite
   - id: DA55
-    title: Guarding Against Scoffers.
+    title: Guarding Against Scoffers
   - id: GB11
     title: Wearing and Employing God’s Armor and Weaponry
   bible_references:
@@ -9858,9 +9858,9 @@
     title_en: Beware of false prophets.
   double_ids:
   - id: AA33
-    title: Guarding Against Hypocrites & Not Being a Hypocrite.
+    title: Guarding Against Hypocrites & Not Being a Hypocrite
   - id: DA55
-    title: Guarding Against Scoffers.
+    title: Guarding Against Scoffers
   - id: GB11
     title: Wearing and Employing God’s Armor and Weaponry
   - id: KA1
@@ -9959,7 +9959,7 @@
     title_en: Keep your word
   double_ids:
   - id: AA34
-    title: Keeping Our Promises.
+    title: Keeping Our Promises
   bible_references:
     key_nt_scriptures:
     - Matthew 5:33-37
@@ -10046,7 +10046,7 @@
     title_en: Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you
   double_ids:
   - id: DA24
-    title: Loving Our Brother & Neighbor.
+    title: Loving Our Brother & Neighbor
   bible_references:
     key_nt_scriptures:
     - Mark 12:28-31
@@ -10106,7 +10106,7 @@
   related_steps: []
   double_ids:
   - id: DA53
-    title: Rescuing Our Neighbor.
+    title: Rescuing Our Neighbor
   - id: N9
     title: Helping a Person Who Needs Rescue
   bible_references:
@@ -10151,7 +10151,7 @@
     title_en: If you forgive men their trespasses, your heavenly Father will also forgive you
   double_ids:
   - id: DA36
-    title: Forgiving Those Who Sin Against Us.
+    title: Forgiving Those Who Sin Against Us
   - id: N13
     title: Repenting of Our Own Sin before Seeking to Correct Our Neighbor
   bible_references:
@@ -10206,7 +10206,7 @@
   related_steps: []
   double_ids:
   - id: DA60
-    title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender.
+    title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:1-2
@@ -10235,7 +10235,7 @@
   - id: N3
     title: Helping Our Neighbor Who Is In Need
   - id: DA53
-    title: Rescuing Our Neighbor.
+    title: Rescuing Our Neighbor
   bible_references:
     key_nt_scriptures:
     - Matthew 9:10-13
@@ -10262,7 +10262,7 @@
   related_steps: []
   double_ids:
   - id: DA68
-    title: Welcoming & Being Hospitable to Our Brother and Neighbor.
+    title: Welcoming & Being Hospitable to Our Brother & Neighbor
   bible_references:
     key_nt_scriptures:
     - Matthew 10:40-42
@@ -10361,7 +10361,7 @@
     title_en: Don’t be angry at your brother without a cause. If you will be, reconcile as quickly as possible
   double_ids:
   - id: DA10
-    title: Living in Peace with Our Neighbors.
+    title: Living in Peace with Our Neighbors
   bible_references:
     key_nt_scriptures:
     - Matthew 5:9
@@ -10388,7 +10388,7 @@
     title_en: Be moved with inner compassion with the people around you
   double_ids:
   - id: AA24
-    title: Being Tenderhearted.
+    title: Being Tenderhearted
   bible_references:
     key_nt_scriptures:
     - Matthew 5:7
@@ -10748,7 +10748,7 @@
     title_en: Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven
   double_ids:
   - id: AA9
-    title: Letting God’s Light That Is in Us Shine.
+    title: Letting God’s Light That Is in Us Shine
   bible_references:
     key_nt_scriptures:
     - Matthew 5:13-16
@@ -10947,7 +10947,7 @@
   - id: OA3
     title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   - id: BA17
-    title: Imitating God and Yeshua.
+    title: Imitating God and Yeshua
   bible_references:
     key_nt_scriptures:
     - Hebrews 13:7
@@ -11331,9 +11331,9 @@
     title_en: Blessed are they that hear the word of God, and keep it
   double_ids:
   - id: BA13
-    title: Hearing the Words & Voice of God and Yeshua.
+    title: Hearing the Words & Voice of God and Yeshua
   - id: BA20
-    title: Listening to, Believing, and Obeying the Good News of Yeshua.
+    title: Listening to, Believing, and Obeying the Good News of Yeshua
   bible_references:
     key_nt_scriptures:
     - Matthew 7:24
@@ -11370,9 +11370,9 @@
   related_steps: []
   double_ids:
   - id: BA2
-    title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit.
+    title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   - id: AA18
-    title: Replacing Our Old Nature with a New Nature.
+    title: Replacing Our Old Nature with a New Nature
   - id: A12
     title: Being Born Again from Above
   bible_references:
@@ -11557,7 +11557,7 @@
   related_steps: []
   double_ids:
   - id: DA50
-    title: Bearing with One Another in Love & with Forgiveness.
+    title: Bearing with One Another in Love & with Forgiveness
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
   bible_references:
@@ -11634,7 +11634,7 @@
   - id: J2
     title: God's Law of Justice
   - id: BA9
-    title: Believing in God’s Evenhanded Justice.
+    title: Believing in God’s Evenhanded Justice
   bible_references:
     key_nt_scriptures:
     - Matthew 23:23
@@ -11866,9 +11866,9 @@
     title_en: Repent and believe the gospel
   double_ids:
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   - id: BA32
-    title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
+    title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: GA2
     title: Seeking Forgiveness of Our Sins in Yeshua
   bible_references:
@@ -11932,11 +11932,11 @@
     title_en: Repent and believe the gospel
   double_ids:
   - id: BA52
-    title: Setting Our Hope on God.
+    title: Setting Our Hope on God
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   - id: BA32
-    title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
+    title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: GA2
     title: Seeking Forgiveness of Our Sins in Yeshua
   - id: SA2
@@ -12038,7 +12038,7 @@
   - id: GA2
     title: Seeking Forgiveness of Our Sins in Yeshua
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   - id: TA1
     title: Coming to & Believing (Trusting) in Yeshua for Salvation
   bible_references:
@@ -12071,7 +12071,7 @@
   related_steps: []
   double_ids:
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   - id: TA6
     title: Believing in Resurrection of the Dead
   - id: TA1
@@ -12096,7 +12096,7 @@
   related_steps: []
   double_ids:
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   - id: TA10
     title: Believing that Yeshua was Raised from the Dead
   - id: TA1
@@ -12135,7 +12135,7 @@
   related_steps: []
   double_ids:
   - id: BA28
-    title: Believing that Yeshua Died for Our Sins.
+    title: Believing that Yeshua Died for Our Sins
   - id: TA3
     title: Maintaining the Hope of Deliverance /Salvation
   - id: TA1
@@ -12270,9 +12270,9 @@
     title_en: Have faith in God
   double_ids:
   - id: AA31
-    title: Being Steadfast in Our Faith and Our Thinking.
+    title: Being Steadfast in Our Faith and Our Thinking
   - id: AA19
-    title: Persevering, Standing Firm, & Growing in Our Faith.
+    title: Persevering, Standing Firm, & Growing in Our Faith
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
   bible_references:
@@ -12308,7 +12308,7 @@
   related_steps: []
   double_ids:
   - id: AA23
-    title: Ridding Ourselves of Unholy Characteristics.
+    title: Ridding Ourselves of Unholy Characteristics
   - id: NA23
     title: Not Teaching, Permitting Others to Teach, or Giving Ourselves to, False Doctrines
   - id: RA25
@@ -12524,9 +12524,9 @@
     title_en: Celebrate the Lord’s supper in remembrance of Me
   double_ids:
   - id: BA42
-    title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance of Yeshua.
+    title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance of Yeshua
   - id: BA59
-    title: Remembering that Yeshua was Raised from the Dead.
+    title: Remembering that Yeshua was Raised from the Dead
   bible_references:
     key_nt_scriptures:
     - Matthew 26:26-28
@@ -12552,9 +12552,9 @@
     title_en: He that abideth in me, and I in him, the same bringeth forth much fruit
   double_ids:
   - id: BA3
-    title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua.'
+    title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua'
   - id: BA46
-    title: Remaining Rooted in Yeshua.
+    title: Remaining Rooted in Yeshua
   bible_references:
     key_nt_scriptures:
     - John 15:4-7
@@ -12586,11 +12586,11 @@
   related_steps: []
   double_ids:
   - id: BA32
-    title: Believing that Yeshua is the Messiah, the Son of God, and Deity.
+    title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua.
+    title: Trusting (Having Faith /Believing) in God and Yeshua
   - id: BA50
-    title: Believing that Yeshua was Sent for All of Humanity.
+    title: Believing that Yeshua was Sent for All of Humanity
   bible_references:
     key_nt_scriptures:
     - John 6:29
@@ -12657,11 +12657,11 @@
     title_en: Love God above all
   double_ids:
   - id: BA25
-    title: Putting God and Yeshua Before All Things and All Persons.
+    title: Putting God and Yeshua Before All Things and All Persons
   - id: BA40
-    title: Receiving and Following God and Yeshua.
+    title: Receiving and Following God and Yeshua
   - id: CA2
-    title: Putting Yeshua Ahead of Worldly Wealth.
+    title: Putting Yeshua Ahead of Worldly Wealth
   bible_references:
     key_nt_scriptures:
     - Mark 8:34
@@ -12687,9 +12687,9 @@
   related_steps: []
   double_ids:
   - id: BA45
-    title: Knowing Yeshua as Lord and Messiah.
+    title: Knowing Yeshua as Lord and Messiah
   - id: BA39
-    title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings.
+    title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings
   - id: F1
     title: Honoring and Revering Our Father and Mother
   bible_references:
@@ -13672,7 +13672,7 @@
     title_en: 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled'
   double_ids:
   - id: AA3
-    title: Pursuing Righteousness & Living Righteously.
+    title: Pursuing Righteousness & Living Righteously
   bible_references:
     key_nt_scriptures:
     - Matthew 5:6
@@ -14245,7 +14245,7 @@
   related_steps: []
   double_ids:
   - id: BA2
-    title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit.
+    title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   bible_references:
     key_nt_scriptures:
     - Matthew 11:28-30
