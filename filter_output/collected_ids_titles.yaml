@@ -2892,10 +2892,6 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-- id: BA68
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: BB1
   title: Giving Tzedakah to the Poor & to Our Brother Who is in Need
   commandment_type: Positive
@@ -3164,14 +3160,6 @@
   ncla:
   - code: JMm JFi KMm KFi GMm GFi
     group: Husbands
-- id: DA0
-  title: Caveat to Section DA
-  commandment_type: Positive
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
-- id: DA69
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: DB1
   title: Remaining in the Same Condition and Identity as When First Called
   commandment_type: Positive
@@ -3487,10 +3475,6 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-- id: FA33
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: FA34
   title: Praying for Wisdom
   commandment_type: Positive
@@ -3652,10 +3636,6 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-- id: GA10
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: GA2
   title: Seeking Forgiveness of Our Sins in Yeshua
   commandment_type: Positive
@@ -4440,10 +4420,6 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-- id: JA0
-  title: CAVEAT TO SECTION JA
-  commandment_type: Positive
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: JA1
   title: 'Blessing, Not Cursing, Those Who Would Harm or Mistreat Us: Loving Our Enemies'
   commandment_type: Negative
@@ -4458,14 +4434,6 @@
   ncla:
   - code: JMm JFi KMm KFi GMm GFi
     group: All
-- id: JA11
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
-- id: JA14
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: JA2
   title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
   commandment_type: Positive
@@ -4543,10 +4511,6 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-- id: KA32
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: KA4
   title: Not Prophesying Falsely
   commandment_type: Negative
@@ -4554,10 +4518,6 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-- id: LA0
-  title: COMMENTARY ON SLAVES & INDENTURED SERVANTS
-  commandment_type: Positive
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: LA1
   title: Being Enslaved to God & His Righteousness, & Not by Sin
   commandment_type: Negative
@@ -4565,14 +4525,6 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-- id: LA10
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
-- id: LA11
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: LA2
   title: Not Returning to the Enslavement of Legalism
   commandment_type: Negative
@@ -4608,18 +4560,6 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-- id: LA7
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
-- id: LA8
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
-- id: LA9
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: MA1
   title: Not Worrying or Being Anxious about Having Adequate Provisions
   commandment_type: Negative
@@ -4683,10 +4623,6 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-- id: NA14
-  title: ''
-  commandment_type: ''
-  source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
 - id: NA15
   title: Teaching and Ministering the Words of God & Yeshua
   commandment_type: Positive

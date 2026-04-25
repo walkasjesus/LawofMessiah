@@ -3546,11 +3546,6 @@
     - Ephesians 5:25
     - Ephesians 5:28
     - Ephesians 5:33
-- id: DA0
-  title: Caveat to Section DA
-  category: Relating to Brothers & Neighbors
-  commandment_type: Positive
-  bible_references: {}
 - id: DA1
   title: Speedily Seeking Reconciliation when Summoned to Court
   category: Relating to Brothers & Neighbors
@@ -7273,11 +7268,6 @@
     - 1 Timothy 4:2-5
     - Acts 15:1
     - Acts 15:19-20
-- id: JA0
-  title: CAVEAT TO SECTION JA
-  category: Engaging Our Enemies
-  commandment_type: Positive
-  bible_references: {}
 - id: JA1
   title: 'Blessing, Not Cursing, Those Who Would Harm or Mistreat Us: Loving Our Enemies'
   category: Engaging Our Enemies
@@ -7612,34 +7602,6 @@
     - Deuteronomy 18:40
     - Jeremiah 14:14
     - Jeremiah 27:15
-- id: LA0
-  title: COMMENTARY ON SLAVES & INDENTURED SERVANTS
-  category: Slaves & Indentured Servants
-  commandment_type: Positive
-  bible_references:
-    nt_scriptures:
-    - Colossians 4:1
-    - Revelation 18:13
-    ot_scriptures:
-    - 2 Kings 4:1
-    - Deuteronomy 15:11-18
-    - Deuteronomy 20:10-11
-    - Deuteronomy 23:16
-    - Deuteronomy 24:7
-    - Exodus 21:2-11
-    - Exodus 21:16
-    - Exodus 21:26-27
-    - Genesis 16:6
-    - Genesis 17:2
-    - Genesis 17:12
-    - Genesis 20:14
-    - Genesis 21:10
-    - Genesis 29:20-30
-    - Jeremiah 2:14
-    - Leviticus 25:10
-    - Leviticus 25:39-47
-    - Phi 1:1-25
-    - Proverbs 22:7
 - id: LA1
   title: Being Enslaved to God & His Righteousness, & Not by Sin
   category: Slaves & Indentured Servants
