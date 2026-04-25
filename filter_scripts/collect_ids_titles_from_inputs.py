@@ -62,6 +62,31 @@ def build_manual_review_lookup(path: Path):
     return lookup
 
 
+def merge_related_lawofmessiah(row):
+    merged = []
+    seen = set()
+
+    for field in ["commandments_related_ot", "commandments_related_nt", "double_ids"]:
+        values = row.get(field, [])
+        if not isinstance(values, list):
+            continue
+
+        for entry in values:
+            if not isinstance(entry, dict):
+                continue
+
+            entry_id = entry.get("id")
+            entry_title = entry.get("title")
+            dedupe_key = (entry_id, entry_title)
+            if dedupe_key in seen:
+                continue
+
+            seen.add(dedupe_key)
+            merged.append(dict(entry))
+
+    return merged
+
+
 def main():
     seen_ids = set()
     out = []
@@ -84,6 +109,11 @@ def main():
             manual_review = manual_review_by_id.get(row_id)
             if manual_review:
                 row_out.update(manual_review)
+
+            row_out["related_lawofmessiah"] = merge_related_lawofmessiah(row_out)
+            row_out.pop("commandments_related_ot", None)
+            row_out.pop("commandments_related_nt", None)
+            row_out.pop("double_ids", None)
 
             out.append(row_out)
 
