@@ -544,3 +544,33 @@
 - id: A023
   commandment: We are to be subject to the governing authorities that are established by God.
   commandment_type: Positive
+- id: W003
+  commandment: We are not to prophesy falsely.
+  commandment_type: Negative
+- id: W004
+  commandment: We are to test everything that is spoken in God's name.
+  commandment_type: Positive
+- id: W005
+  commandment: We are to write, teach & learn the Song of Moses.
+  commandment_type: Positive
+- id: W006
+  commandment: We are to neither add nor subtract from the Written Word of God - the Scriptures.
+  commandment_type: Positive
+- id: W007
+  commandment: We are not to believe or advocate unbiblical (false) doctrines, nor pay heed to persons who do.
+  commandment_type: Negative
+- id: W008
+  commandment: We are to obey the Mitzvot of Adonai and Yeshua.
+  commandment_type: Positive
+- id: W009
+  commandment: We are not to nullify the Word of God through our rules & traditions.
+  commandment_type: Negative
+- id: W010
+  commandment: We are to attend to both the lesser and the weightier matters of Torah.
+  commandment_type: Positive
+- id: Y008
+  commandment: We are to come to Yeshua for spiritual rest.
+  commandment_type: Positive
+- id: Y009
+  commandment: We are to obey the commandments and teachings of Yeshua.
+  commandment_type: Positive
