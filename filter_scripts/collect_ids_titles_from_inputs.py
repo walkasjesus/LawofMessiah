@@ -26,6 +26,7 @@ MANUAL_REVIEW_PATH = (
 MANUAL_NCLA_ADDITIONS_PATH = (
     ROOT / "filter_output" / "manually_added_ncla_collected_ids_titles.yaml"
 )
+CATEGORY_REVIEW_PATH = ROOT / "filter_output" / "category_normalization_review.yaml"
 
 
 def load_yaml(path: Path):
@@ -82,6 +83,62 @@ def build_manual_ncla_lookup(path: Path):
         lookup[row_id] = dict(row)
 
     return lookup
+
+
+def build_category_normalization_lookup(path: Path):
+    if not path.exists():
+        return {}
+
+    review_data = load_yaml(path)
+    if not isinstance(review_data, dict):
+        return {}
+
+    proposals = review_data.get("proposals", [])
+    if not isinstance(proposals, list):
+        return {}
+
+    lookup = {}
+    for proposal in proposals:
+        if not isinstance(proposal, dict):
+            continue
+        if proposal.get("approved") is not True:
+            continue
+
+        final_category = proposal.get("proposed_final_category")
+        if not isinstance(final_category, str):
+            continue
+        final_category = final_category.strip()
+        if not final_category:
+            continue
+
+        aliases = proposal.get("aliases", [])
+        if not isinstance(aliases, list):
+            continue
+
+        for alias in aliases:
+            if not isinstance(alias, str):
+                continue
+            alias = alias.strip()
+            if not alias:
+                continue
+            lookup[alias] = final_category
+
+    return lookup
+
+
+def normalize_category(row, category_lookup):
+    if not category_lookup:
+        return
+
+    category = row.get("category")
+    if not isinstance(category, str):
+        return
+
+    category = category.strip()
+    if not category:
+        return
+
+    row["category"] = category_lookup.get(category, category)
 
 
 def merge_related_lawofmessiah(row):
@@ -152,6 +209,7 @@ def main():
     out = []
     manual_review_by_id = build_manual_review_lookup(MANUAL_REVIEW_PATH)
     manual_ncla_by_id = build_manual_ncla_lookup(MANUAL_NCLA_ADDITIONS_PATH)
+    category_lookup = build_category_normalization_lookup(CATEGORY_REVIEW_PATH)
 
     for path, source_name in INPUTS:
         data = load_yaml(path)
@@ -176,6 +234,8 @@ def main():
                 # Manual file is the source of truth for reviewed NCLA values.
                 row_out["ncla"] = manual_ncla_row["ncla"]
 
+            normalize_category(row_out, category_lookup)
+
             row_out["related_lawofmessiah"] = merge_related_lawofmessiah(row_out)
             normalized_subtitles = normalize_commandment_subtitles(
                 row_out.get("commandment_subtitles", [])
@@ -193,6 +253,7 @@ def main():
         if row_id in seen_ids:
             continue
         manual_row_out = dict(manual_row)
+        normalize_category(manual_row_out, category_lookup)
         normalized_subtitles = normalize_commandment_subtitles(
             manual_row_out.get("commandment_subtitles", [])
         )

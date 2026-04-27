@@ -1,0 +1,613 @@
+schema_version: 1
+description: Review and approve category normalization proposals.
+sources:
+- Law_of_Messiah_nt.yaml
+- Law_of_Messiah_ot.yaml
+- volume_3_output/appendix_output/Appendix_Full.yaml
+how_to_review:
+- 'Set approved: true for each proposal you accept.'
+- You may edit proposed_final_category to your preferred final category name.
+- You may add aliases under an existing proposal when needed.
+- You may add a new proposal object to introduce a brand new final category.
+- Only approved proposals are applied by collect_ids_titles_from_inputs.py.
+proposals:
+- proposal_id: CAT001
+  proposed_final_category: Neighbours & Brothers
+  approved: true
+  aliases:
+  - Relating to Brothers & Neighbors
+  counts:
+  - category: Relating to Brothers & Neighbors
+    count: 137
+    source_counts:
+    - source: Law_of_Messiah_nt.yaml
+      count: 68
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 69
+- proposal_id: CAT002
+  proposed_final_category: Godliness, Holiness & Righteousness
+  approved: true
+  aliases:
+  - Godliness, Holiness & Righteousness
+  counts:
+  - category: Godliness, Holiness & Righteousness
+    count: 130
+    source_counts:
+    - source: Law_of_Messiah_nt.yaml
+      count: 65
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 65
+- proposal_id: CAT003
+  proposed_final_category: God & Yeshua
+  approved: true
+  aliases:
+  - Relating to God & Yeshua
+  counts:
+  - category: Relating to God & Yeshua
+    count: 124
+    source_counts:
+    - source: Law_of_Messiah_nt.yaml
+      count: 62
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 62
+- proposal_id: CAT004
+  proposed_final_category: Way of Life
+  approved: true
+  aliases:
+  - Way of Life
+  counts:
+  - category: Way of Life
+    count: 71
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 71
+- proposal_id: CAT005
+  proposed_final_category: Prayer & Worship
+  approved: true
+  aliases:
+  - Prayer & Worship1
+  counts:
+  - category: Prayer & Worship1
+    count: 39
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 39
+- proposal_id: CAT006
+  proposed_final_category: Marriage & Family
+  approved: true
+  aliases:
+  - Marriage & Family
+  counts:
+  - category: Marriage & Family
+    count: 29
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 29
+- proposal_id: CAT007
+  proposed_final_category: The Word and Will of God & Messiah
+  approved: true
+  aliases:
+  - The Word and Will of God & Messiah
+  counts:
+  - category: The Word and Will of God & Messiah
+    count: 25
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 25
+- proposal_id: CAT008
+  proposed_final_category: Godliness, Holiness & Righteousness
+  approved: true
+  aliases:
+  - Godliness & Godly Living
+  counts:
+  - category: Godliness & Godly Living
+    count: 24
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 24
+- proposal_id: CAT009
+  proposed_final_category: Instructing, Correcting, Rebuking & Judging
+  approved: true
+  aliases:
+  - Instructing, Correcting, Rebuking & Judging
+  counts:
+  - category: Instructing, Correcting, Rebuking & Judging
+    count: 24
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 24
+- proposal_id: CAT010
+  proposed_final_category: Ministering, Discipling & Teaching
+  approved: true
+  aliases:
+  - Ministering, Discipling & Teaching
+  counts:
+  - category: Ministering, Discipling & Teaching
+    count: 24
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 24
+- proposal_id: CAT011
+  proposed_final_category: Days & Seasons
+  approved: true
+  aliases:
+  - Days & Seasons
+  counts:
+  - category: Days & Seasons
+    count: 20
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 20
+- proposal_id: CAT012
+  proposed_final_category: God & Yeshua
+  approved: true
+  aliases:
+  - Relating to God
+  counts:
+  - category: Relating to God
+    count: 20
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 20
+- proposal_id: CAT013
+  proposed_final_category: Neighbours & Brothers
+  approved: true
+  aliases:
+  - Neighbours & Brothers
+  counts:
+  - category: Neighbours & Brothers
+    count: 18
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 18
+- proposal_id: CAT014
+  proposed_final_category: Prioritization & Acquisition of Wealth & Possessions
+  approved: true
+  aliases:
+  - Prioritization & Acquisition of Wealth & Possessions
+  counts:
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    count: 18
+    source_counts:
+    - source: Law_of_Messiah_nt.yaml
+      count: 9
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 9
+- proposal_id: CAT015
+  proposed_final_category: Holy Spirit
+  approved: true
+  aliases:
+  - Holy Spirit
+  counts:
+  - category: Holy Spirit
+    count: 16
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 16
+- proposal_id: CAT016
+  # Reason I choose this is because all items are negative, since we combine the negative commandments to a positive one, we don't use this category.
+  proposed_final_category: Godliness, Holiness & Righteousness
+  approved: true
+  aliases:
+  - Sexual Conduct
+  counts:
+  - category: Sexual Conduct
+    count: 15
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 9
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 6
+- proposal_id: CAT017
+  proposed_final_category: Gentiles
+  approved: true
+  aliases:
+  - Gentiles
+  counts:
+  - category: Gentiles
+    count: 13
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 13
+- proposal_id: CAT018
+  proposed_final_category: New Birth, Resurrection & Deliverance / Salvation
+  approved: true
+  aliases:
+  - New Birth, Resurrection & Deliverance /Salvation
+  counts:
+  - category: New Birth, Resurrection & Deliverance /Salvation
+    count: 13
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 13
+- proposal_id: CAT019
+  proposed_final_category: Spiritual Gifts
+  approved: true
+  aliases:
+  - Spiritual Gifts
+  counts:
+  - category: Spiritual Gifts
+    count: 13
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 13
+- proposal_id: CAT020
+  proposed_final_category: Spiritual Leadership
+  approved: true
+  aliases:
+  - Spiritual Leadership
+  counts:
+  - category: Spiritual Leadership
+    count: 12
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 12
+- proposal_id: CAT021
+  proposed_final_category: Engaging Our Enemies
+  approved: true
+  aliases:
+  - Engaging Our Enemies
+  counts:
+  - category: Engaging Our Enemies
+    count: 11
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 11
+- proposal_id: CAT022
+  proposed_final_category: Morality & Compassion
+  approved: true
+  aliases:
+  - Morality & Compassion
+  counts:
+  - category: Morality & Compassion
+    count: 11
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 11
+- proposal_id: CAT023
+  proposed_final_category: Slaves & Indentured Servants
+  approved: true
+  aliases:
+  - Slaves & Indentured Servants
+  counts:
+  - category: Slaves & Indentured Servants
+    count: 11
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 11
+- proposal_id: CAT024
+  proposed_final_category: Spiritual Warfare
+  approved: true
+  aliases:
+  - Spiritual Warfare
+  counts:
+  - category: Spiritual Warfare
+    count: 10
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 10
+- proposal_id: CAT025
+  proposed_final_category: The Word and Will of God & Messiah
+  approved: true
+  aliases:
+  - Word of God -Torah
+  counts:
+  - category: Word of God -Torah
+    count: 10
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 10
+- proposal_id: CAT026
+  proposed_final_category: Charity, Provision, & Generosity
+  approved: true
+  aliases:
+  - Charity, Provision, & Generosity
+  counts:
+  - category: Charity, Provision, & Generosity
+    count: 9
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 9
+- proposal_id: CAT027
+  proposed_final_category: Idolatry, Heathens & the Occult
+  approved: true
+  aliases:
+  - Idolatry, Heathens & the Occult
+  counts:
+  - category: Idolatry, Heathens & the Occult
+    count: 9
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 9
+- proposal_id: CAT028
+  proposed_final_category: God & Yeshua
+  approved: true
+  aliases:
+  - Messiah Yeshua
+  counts:
+  - category: Messiah Yeshua
+    count: 9
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 9
+- proposal_id: CAT029
+  proposed_final_category: Women
+  approved: true
+  aliases:
+  - Women
+  counts:
+  - category: Women
+    count: 9
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 9
+- proposal_id: CAT030
+  proposed_final_category: Covenant Responsibilities
+  approved: true
+  aliases:
+  - Covenant Responsibilities
+  counts:
+  - category: Covenant Responsibilities
+    count: 8
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 8
+- proposal_id: CAT031
+  proposed_final_category: Godliness, Holiness & Righteousness
+  approved: true
+  aliases:
+  - Holiness & God's Order
+  counts:
+  - category: Holiness & God's Order
+    count: 8
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 8
+- proposal_id: CAT032
+  proposed_final_category: Humility & Pride
+  approved: true
+  aliases:
+  - Humility & Pride
+  counts:
+  - category: Humility & Pride
+    count: 8
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 8
+- proposal_id: CAT033
+  proposed_final_category: Repenting & Seeking Forgiveness of Sin
+  approved: true
+  aliases:
+  - Repenting & Seeking Forgiveness of Sin
+  counts:
+  - category: Repenting & Seeking Forgiveness of Sin
+    count: 8
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 8
+- proposal_id: CAT034
+  proposed_final_category: Priesthood
+  approved: true
+  aliases:
+  - Priesthood
+  counts:
+  - category: Priesthood
+    count: 7
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 7
+- proposal_id: CAT035
+  proposed_final_category: Prophecy
+  approved: true
+  aliases:
+  - Prophecy
+  counts:
+  - category: Prophecy
+    count: 7
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 7
+- proposal_id: CAT036
+  proposed_final_category: Tribulation & Adversity
+  approved: true
+  aliases:
+  - Tribulation & Adversity
+  counts:
+  - category: Tribulation & Adversity
+    count: 7
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 7
+- proposal_id: CAT037
+  proposed_final_category: Charity, Provision, & Generosity
+  approved: true
+  aliases:
+  - Benevolence
+  counts:
+  - category: Benevolence
+    count: 6
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 6
+- proposal_id: CAT038
+  proposed_final_category: Tribulation & Adversity
+  approved: true
+  aliases:
+  - End Times
+  - End-Times
+  counts:
+  - category: End Times
+    count: 6
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 6
+  - category: End-Times
+    count: 1
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 1
+- proposal_id: CAT039
+  proposed_final_category: Evangelizing & Preaching
+  approved: true
+  aliases:
+  - Evangelizing & Preaching
+  counts:
+  - category: Evangelizing & Preaching
+    count: 6
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 6
+- proposal_id: CAT040
+  proposed_final_category: Governing & Governing Authorities
+  approved: true
+  aliases:
+  - Governing & Governing Authorities
+  counts:
+  - category: Governing & Governing Authorities
+    count: 6
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 6
+- proposal_id: CAT041
+  proposed_final_category: Dietary Laws & Food Regulations
+  approved: true
+  aliases:
+  - Kashrut
+  counts:
+  - category: Kashrut
+    count: 6
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 6
+- proposal_id: CAT042
+  proposed_final_category: Marriage & Family
+  approved: true
+  aliases:
+  - Family
+  counts:
+  - category: Family
+    count: 5
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 5
+- proposal_id: CAT043
+  proposed_final_category: Idolatry, Heathens & the Occult
+  approved: true
+  aliases:
+  - Idolatry & the Occult
+  counts:
+  - category: Idolatry & the Occult
+    count: 5
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 5
+- proposal_id: CAT044
+  proposed_final_category: Justice
+  approved: true
+  aliases:
+  - Justice
+  counts:
+  - category: Justice
+    count: 5
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 5
+- proposal_id: CAT045
+  proposed_final_category: Evangelizing & Preaching
+  approved: true
+  aliases:
+  - Outreach, Ministry & Spiritual Authority
+  counts:
+  - category: Outreach, Ministry & Spiritual Authority
+    count: 5
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 5
+- proposal_id: CAT046
+  proposed_final_category: Commerce
+  approved: true
+  aliases:
+  - Commerce
+  counts:
+  - category: Commerce
+    count: 4
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 4
+- proposal_id: CAT047
+  proposed_final_category: Tribulation & Adversity
+  approved: true
+  aliases:
+  - False Messiahs, Prophets & Teachers
+  counts:
+  - category: False Messiahs, Prophets & Teachers
+    count: 4
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 4
+- proposal_id: CAT048
+  proposed_final_category: Tribulation & Adversity
+  approved: true
+  aliases:
+  - Fear, Worry & Anxiety
+  counts:
+  - category: Fear, Worry & Anxiety
+    count: 4
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 4
+- proposal_id: CAT049
+  proposed_final_category: Identity
+  approved: true
+  aliases:
+  - Identity
+  counts:
+  - category: Identity
+    count: 4
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 4
+- proposal_id: CAT050
+  proposed_final_category: Holy Spirit
+  approved: true
+  aliases:
+  - Ru'ach HaKodesh
+  counts:
+  - category: Ru'ach HaKodesh
+    count: 4
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 4
+- proposal_id: CAT051
+  proposed_final_category: Humility & Pride
+  approved: true
+  aliases:
+  - Self-Sacrifice
+  counts:
+  - category: Self-Sacrifice
+    count: 4
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 4
+- proposal_id: CAT052
+  proposed_final_category: Dietary Laws & Food Regulations
+  approved: true
+  aliases:
+  - Foods & Immoral Acts Prohibited to Gentiles
+  counts:
+  - category: Foods & Immoral Acts Prohibited to Gentiles
+    count: 3
+    source_counts:
+    - source: volume_3_output/appendix_output/Appendix_Full.yaml
+      count: 3
+- proposal_id: CAT053
+  proposed_final_category: The Jewish People & Land of Israel
+  approved: true
+  aliases:
+  - The Jewish People & Land of Israel
+  counts:
+  - category: The Jewish People & Land of Israel
+    count: 3
+    source_counts:
+    - source: Law_of_Messiah_ot.yaml
+      count: 3
