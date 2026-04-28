@@ -1837,7 +1837,7 @@
     group: All
 - id: AB16
   title: Producing Fruit of the Holy Spirit
-  manually_review: Together with the double_ids and the related steps this is not unique.
+  manually_review: Together with the double_ids this is not unique.
   unique: false
   double_ids:
   - id: GA3
@@ -3708,7 +3708,7 @@
     group: All
 - id: BB1
   title: Giving Tzedakah to the Poor & to Our Brother Who is in Need
-  manually_review: Together with the related_steps this is not unique.
+  manually_review: Together with the double_ids this is not unique.
   unique: false
   double_ids:
   - id: E7
@@ -4521,7 +4521,7 @@
     group: All
 - id: DA12
   title: Being Good, Kind, & Generous to One Another
-  manually_review: Together with all these related steps and double_ids this is not unique.
+  manually_review: Together with all these double_ids this is not unique.
   unique: true
   double_ids:
   - id: DA41
@@ -7925,7 +7925,7 @@
     group: All
 - id: GB7
   title: Living in a Way That is Good
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: GB5
@@ -7951,7 +7951,7 @@
     group: All
 - id: GB8
   title: Conducting Ourselves Wisely and with Godly Purity
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: DA52
@@ -8076,7 +8076,7 @@
     group: All
 - id: GB19
   title: Being Alert and on Guard Against Spiritual Danger
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: KA2
@@ -8097,7 +8097,7 @@
     group: All
 - id: GB20
   title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: NA15
@@ -8123,7 +8123,7 @@
     group: All
 - id: GB22
   title: Living According to God’s Word and Spirit
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: AB14
@@ -8194,7 +8194,7 @@
     group: All
 - id: GB27
   title: Welcoming and Caring for Little Children and Those Pure of Spirit
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: BB3
@@ -8250,7 +8250,7 @@
     group: All
 - id: GB33
   title: Being Content in All Things and All Circumstances
-  manually_review: This is already implied in the other double_ids and related_steps.
+  manually_review: This is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: FA9
@@ -8416,7 +8416,7 @@
     group: All
 - id: GB48
   title: Persevering in All Situations
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: AA19
@@ -8441,7 +8441,7 @@
     group: All
 - id: GB55
   title: Rejecting Godless Fables
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: KA2
@@ -8535,7 +8535,7 @@
     group: All
 - id: GB70
   title: Seeking Inner Peace
-  manually_review: Based on the key scriptures and the related double_ids and related steps, I think it is already implied.
+  manually_review: Based on the key scriptures and the related double_ids, I think it is already implied.
   unique: false
   double_ids:
   - id: NA26
@@ -8559,7 +8559,7 @@
     group: All
 - id: GB71
   title: Being Zealous for What is Good
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: GB7
@@ -8816,7 +8816,7 @@
     group: All
 - id: HB2
   title: Seeking to Understand the Will of God
-  manually_review: Together with the other double_ids and related_steps, it is already implied.
+  manually_review: Together with the other double_ids, it is already implied.
   unique: false
   double_ids:
   - id: FA21
@@ -8978,7 +8978,7 @@
     group: All
 - id: HB22
   title: Being Both a Hearer and Doer of God’s Word
-  manually_review: It is already implied in the other double_ids and related_steps.
+  manually_review: It is already implied in the other double_ids.
   unique: false
   double_ids:
   - id: HB18
@@ -9007,7 +9007,7 @@
     group: All
 - id: HB24
   title: Thirsting for the Word of God
-  manually_review: Together with the other double_ids and related_steps, it is already implied.
+  manually_review: Together with the other double_ids, it is already implied.
   unique: false
   double_ids:
   - id: HB11
@@ -9289,7 +9289,7 @@
     group: All
 - id: JA2
   title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
-  manually_review: I think it is the same as the related step and double_ids.
+  manually_review: I think it is the same as double_ids.
   unique: false
   double_ids:
   - id: AA33
@@ -9455,7 +9455,7 @@
     group: All
 - id: KA1
   title: Being on Our Guard Against False Messiahs
-  manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with the related step and double_ids it is not unique.
+  manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with double_ids it is not unique.
   unique: false
   double_ids:
   - id: AA33
@@ -9482,7 +9482,7 @@
     group: All
 - id: KA2
   title: Being on Our Guard Against False Prophets
-  manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with the related step and double_ids it is not unique.
+  manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with double_ids it is not unique.
   unique: true
   double_ids:
   - id: AA33
@@ -10110,7 +10110,7 @@
     group: All
 - id: NA5
   title: Teaching Both in Public and in Private
-  manually_review: This is already implied in the related step.
+  manually_review: This is already implied in the double_ids.
   unique: false
   double_ids:
   - id: NA15
@@ -10127,7 +10127,7 @@
     group: All
 - id: NA6
   title: Teaching Those Who Teach Others
-  manually_review: This is already implied in the related step and ids.
+  manually_review: This is already implied in ids.
   unique: false
   double_ids:
   - id: NA5
@@ -10831,7 +10831,7 @@
     group: All
 - id: QA3
   title: Knowing the Dangers Involved in Preaching the Good News
-  manually_review: I think the related step already implies this, so it is not unique.
+  manually_review: I think the double_ids already imply this, so it is not unique.
   unique: false
   double_ids:
   - id: JA5
@@ -10875,7 +10875,7 @@
     group: All
 - id: QA6
   title: Having Courage to Proclaim the Good News
-  manually_review: Together with the related steps this is not unique.
+  manually_review: Together with the double_ids this is not unique.
   unique: true
   double_ids:
   - id: QA3
@@ -13442,7 +13442,7 @@
     group: All
 - id: NA18
   title: Ministering as Ambassadors of Yeshua
-  manually_review: Together with the related steps and commandments this is not unique.
+  manually_review: Together with the double_ids this is not unique.
   unique: false
   double_ids:
   - id: NA15
