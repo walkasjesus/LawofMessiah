@@ -39,7 +39,7 @@ Table of contents of this GIT Repository:
   - Folder name: **filter_output**
     Description: "Stores the output of scripts in the `filter_scripts/` directory. These files contain filtered commandments based on specific criteria."
    - File name: **filter_output/manually_reviewed_unique_positive_ids_titles.yaml**
-      Description: "Curated manual review file for uniqueness decisions on positive commandments. It stores review flags, related-step mappings, duplicate links, and carried metadata (such as title, bible references, and ncla) used by incremental review workflows."
+      Description: "Curated manual review file for uniqueness decisions on positive commandments. It stores review flags, double_id mappings, duplicate links, and carried metadata (such as title, bible references, and ncla) used by incremental review workflows."
    - File name: **filter_output/manually_added_ncla_collected_ids_titles.yaml**
       Description: "Backup snapshot of the original committed `filter_output/collected_ids_titles.yaml`, used to recover NCLA blocks when they were manually carried over during review iterations."
 
@@ -251,7 +251,7 @@ The comparison report uses loose title normalization when checking equality so p
    Current behavior:
    - Keeps full commandment rows for each unique ID (all known fields from the source row, not only id/title).
    - Adds a normalized `source` label per row.
-   - Enriches matching IDs from `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` with `unique`, `related_steps`, and `double_ids`.
+   - Enriches matching IDs from `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` with `unique` and `double_ids`.
    - Ignores the `manually_review` note field from the manual review file when writing output.
 
 #### Manually Reviewed File
@@ -259,6 +259,6 @@ The comparison report uses loose title normalization when checking equality so p
 `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` is the working review artifact for unique-positive-commandment reconciliation.
 
 - It is intentionally human-curated and not a pure scrape output.
-- It tracks manual decisions (`manually_review`, `unique`) and linking fields (`related_steps`, `double_ids`).
+- It tracks manual decisions (`manually_review`, `unique`) and linking fields (`double_ids`).
 - It preserves commandment context fields used during follow-up review/export steps (title, references, and NCLA when available).
 - It should be treated as a review-state file in the pipeline, not as a replacement for `Law_of_Messiah_ot.yaml` or `Law_of_Messiah_nt.yaml`.
