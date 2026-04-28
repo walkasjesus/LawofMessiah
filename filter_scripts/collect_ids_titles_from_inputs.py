@@ -59,7 +59,6 @@ def build_manual_review_lookup(path: Path):
 
         lookup[row_id] = {
             "unique": row.get("unique"),
-            "related_steps": row.get("related_steps", []),
             "double_ids": row.get("double_ids", []),
         }
 
