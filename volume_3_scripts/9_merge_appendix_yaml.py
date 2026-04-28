@@ -69,6 +69,7 @@ def merge_appendix():
             "title": title_row.get("title", ""),
             "category": title_row.get("category", ""),
             "commandment_type": title_row.get("commandment_type", ""),
+            "copyright": title_row.get("copyright", ""),
             "bible_references": scripture_row.get("bible_references", {}),
         }
         merged.append(merged_row)

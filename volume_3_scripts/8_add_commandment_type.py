@@ -41,10 +41,13 @@ def determine_commandment_type(text: str) -> str:
 
     return "Positive"
 
-# --- ADD ATTRIBUTE ---
+# --- ADD ATTRIBUTES ---
+COPYRIGHT = "Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix"
+
 for cmd in data:
     cmd_text = cmd.get("commandment") or cmd.get("title") or ""
     cmd["commandment_type"] = determine_commandment_type(cmd_text)
+    cmd["copyright"] = COPYRIGHT
 
 # --- SAVE UPDATED YAML ---
 with open(output_yaml_file, "w", encoding="utf-8") as f:
@@ -57,4 +60,4 @@ with open(output_yaml_file, "w", encoding="utf-8") as f:
         default_flow_style=False
     )
 
-print(f"✅ Added 'commandment_type' to {output_yaml_file}")
+print(f"✅ Added 'commandment_type' and 'copyright' to {output_yaml_file}")
