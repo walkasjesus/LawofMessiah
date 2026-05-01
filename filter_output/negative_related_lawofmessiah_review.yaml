@@ -262,16 +262,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - N1
-    - N18
-    - DA24
     - DA12
-    - N8
-    - N3
-    - DA9
-    - DA2
     notes: ''
 - id: A1
   title: Being Unequally Yoked in Matters of Godly Importance
@@ -326,16 +319,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A13
-    - A21
-    - AA47
-    - AA53
-    - AA10
-    - AA29
-    - A24
-    - A14
+    - F2
     notes: ''
 - id: A11
   title: Wine & Drunkenness
@@ -390,10 +376,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
-    - A2
+    - GB6
+    - AA6
     notes: ''
 - id: A15
   title: Doing Religious Things in Order to Be Seen
@@ -450,16 +436,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - AA25
-    - A13
-    - A14
-    - H4
-    - AA6
-    - AA15
-    - A2
-    - AA3
+    - A17
     notes: ''
 - id: A16
   title: Seeking to Please Men over God
@@ -520,16 +499,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
-    - AA7
-    - A2
-    - AA4
-    - AA5
-    - A5
-    - AA47
-    - A13
+    - BA8
     notes: ''
 - id: A19
   title: Assembling with the Brethren
@@ -586,11 +558,12 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A13
-    - AA24
-    - A14
+    - DA5
+    - D1
+    - D17
+    - D4
     notes: ''
 - id: A20
   title: Living by God's Words & Not by Bread Alone
@@ -659,16 +632,11 @@ items:
     - same_category
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
     - A2
-    - AA9
-    - H2
-    - H1
-    - A5
-    - AA7
-    - AA1
+    - W1
+    - GB22
     notes: ''
 - id: A22
   title: Allowing Wordly Attractions to Ensnare Us
@@ -727,83 +695,11 @@ items:
     - same_category
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
     - AA11
     - AA8
-    - AA9
-    - A2
-    notes: ''
-- id: A4
-  title: Keeping Vows Made to God
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: A14
-    title: Aspiring to God's Perfection & Holiness
-    score: 0.5724
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin
-    score: 0.5642
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: A2
-    title: Walking in God's Ways
-    score: 0.5636
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA34
-    title: Keeping Our Promises
-    score: 0.5533
-    reasons:
-    - commandment_keyword_overlap
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AA27
-    title: Being Thankful and Grateful to God
-    score: 0.5501
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: AA5
-    title: Modeling Ourselves on the Perfection of God
-    score: 0.543
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: AA59
-    title: Keeping a Clear Conscience
-    score: 0.5319
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A13
-    title: Being Pure in Heart
-    score: 0.518
-    reasons:
-    - frequently_linked
-    - same_category
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - A14
-    - AA6
-    - A2
-    - AA34
-    - AA27
-    - AA5
-    - AA59
-    - A13
+    - AA25
     notes: ''
 - id: A6
   title: Using God's Name Lightly or Falsely
@@ -871,16 +767,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
-    - A2
-    - A5
-    - AA9
-    - AA7
-    - H2
     - H1
-    - A13
+    - G6
     notes: ''
 - id: A8
   title: Succumbing to Fear, Worry & Anxiety
@@ -935,12 +825,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
-    - A13
-    - A2
-    - AA1
+    - G12
+    - AA32
+    - BA44
     notes: ''
 - id: A9
   title: Swearing Falsely
@@ -1001,11 +890,8 @@ items:
     approved: false
     approved_related_lawofmessiah:
     - A5
-    - A2
-    - A14
-    - AA2
-    - A13
-    notes: ''
+    - AA34
+    - M2
 - id: B1
   title: Lending Money without Interest to Our Poor Brother
   existing_related_lawofmessiah: []
@@ -1061,10 +947,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - BB1
     - B5
+    - B6
     notes: ''
 - id: B3
   title: Eating and Otherwise Partaking of the Produce of Our Work
@@ -1120,9 +1007,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - B5
+    - C1
     notes: ''
 - id: C3
   title: Cancelling Loans & Not Refusing to Make Loans In & Near the Sabbatical Year
@@ -1174,9 +1061,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - C3
+    - D18
     notes: ''
 - id: C4
   title: Dealing Harshly When Lending Money or Collecting Debts
@@ -1226,7 +1114,7 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - C1
     notes: ''
@@ -1287,7 +1175,7 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - D1
     - D4
@@ -1346,10 +1234,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - D6
     - D10
+    - D8
     notes: ''
 - id: D9
   title: Observing a Late Passover with Matzah & Bitter Herbs
@@ -1400,7 +1289,7 @@ items:
     reasons:
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - D8
     - D10
@@ -1459,10 +1348,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - CB20
-    - CB23
+    - CB13
     notes: ''
 - id: G10
   title: Approaching God While Unrepentant
@@ -1523,16 +1412,11 @@ items:
     - same_category
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - BA10
-    - G20
-    - BA7
-    - BA11
-    - BA33
-    - G16
-    - G4
-    - BA43
+    - G6
+    - GA1
+    - A7
     notes: ''
 - id: G5
   title: Testing God's Promises and Warnings
@@ -1595,16 +1479,10 @@ items:
     - same_category
     - title_keyword_overlap
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - BA10
     - BA9
-    - BA25
-    - BA33
-    - BA4
-    - BA8
-    - BA7
-    - BA39
+    - G12
     notes: ''
 - id: G7
   title: Treating God as Holy by Proclaiming Him Holy, Being Holy and by Not Profaning His Name
@@ -1661,16 +1539,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - BA10
-    - G12
-    - G11
-    - BA20
-    - BA25
-    - G14
-    - Y6
-    - G8
+    - AA1
+    - AA4
+    - A14
     notes: ''
 - id: H3
   title: Preserving Things That Belong to God and That are Holy
@@ -1729,16 +1602,9 @@ items:
     - same_category
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
-    - H4
-    - A2
-    - AA25
-    - AA22
-    - AA27
-    - AA5
-    - AA1
+    - G7
     notes: ''
 - id: H5
   title: Conducting Sacrifices Outside of the Holy Temple
@@ -1793,76 +1659,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - AA22
-    - H4
-    - A13
-    - A14
-    notes: ''
-- id: H6
-  title: Appointing a Ruler Whom God Chooses
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: A14
-    title: Aspiring to God's Perfection & Holiness
-    score: 0.5913
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: A2
-    title: Walking in God's Ways
-    score: 0.5558
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA1
-    title: Aspiring to Godliness and Holiness
-    score: 0.5182
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: A5
-    title: Swearing Oaths Only in God's Name
-    score: 0.5013
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: AA5
-    title: Modeling Ourselves on the Perfection of God
-    score: 0.4943
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: H1
-    title: Having Reverence for God's Sanctuary
-    score: 0.494
-    reasons:
-    - same_category
-    - similar_title
-  - id: AA27
-    title: Being Thankful and Grateful to God
-    score: 0.4914
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA53
-    title: Having a Sound & Godly Doctrine
-    score: 0.4872
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - A14
-    - A2
-    - AA1
-    - A5
+    - YA3
     notes: ''
 - id: H7
   title: Castration
@@ -1917,9 +1716,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
+    - A24
     notes: ''
 - id: I1
   title: Practicing Idolatry
@@ -1971,9 +1770,10 @@ items:
     - frequently_linked
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - I6
+    - BA11
+    - FA2
     notes: ''
 - id: I2
   title: Pursuing the Occult
@@ -2027,9 +1827,11 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - VA5
+    - I6
+    - VA1
     notes: ''
 - id: I3
   title: Benefitting from Idolatry
@@ -2081,9 +1883,11 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - I6
+    - VA5
+    - VA1
     notes: ''
 - id: I4
   title: Enticing Others to Idolatry
@@ -2134,9 +1938,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - I6
+    - VA5
     - VA1
     notes: ''
 - id: I5
@@ -2189,9 +1994,11 @@ items:
     - frequently_linked
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - I6
+    - VA5
+    - VA1
     notes: ''
 - id: I7
   title: Listening to Those Who Would Lead Us Toward Idolatry
@@ -2244,9 +2051,15 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - I6
+    - VA5
+    - VA1
+    - JA2
+    - KA3
+    - EA7
+    - KA2
     notes: ''
 - id: I8
   title: Covenanting with Idolaters and Unbelievers
@@ -2296,7 +2109,7 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - VA1
     notes: ''
@@ -2348,9 +2161,9 @@ items:
     - frequently_linked
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - VA1
     notes: ''
 - id: J3
   title: Injury & Damages
@@ -2399,58 +2212,9 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
-    notes: ''
-- id: K1
-  title: Creatures We Are Allowed to Eat and Forbidden to Eat
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: IA1
-    title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
-    score: 0.4423
-    reasons:
-    - same_category
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.2315
-    reasons:
-    - frequently_linked
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.2048
-    reasons:
-    - frequently_linked
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.2
-    reasons:
-    - frequently_linked
-  - id: GA1
-    title: Repenting of Our Sins and Turning to God
-    score: 0.1978
-    reasons:
-    - frequently_linked
-  - id: BA20
-    title: Listening to, Believing, and Obeying the Good News of Yeshua
-    score: 0.1905
-    reasons:
-    - frequently_linked
-  - id: BA32
-    title: Believing that Yeshua is the Messiah, the Son of God, and Deity
-    score: 0.1729
-    reasons:
-    - frequently_linked
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.1693
-    reasons:
-    - frequently_linked
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
+    - A7
     notes: ''
 - id: K2
   title: Boiling a Young Animal in Its Mother's Milk and Acts of Similar Heathen Perversion
@@ -2497,9 +2261,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - K1
+    - M8
     notes: ''
 - id: K3
   title: Eating Fat, Meat from Strangled Animmals, or Food Polluted by Idols
@@ -2547,9 +2312,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - K1
+    - IA1
     notes: ''
 - id: K4
   title: Eating Blood
@@ -2599,9 +2365,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - K1
+    - IA1
     notes: ''
 - id: K5
   title: Eating the Sinew of the Thigh
@@ -2651,9 +2418,9 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - K1
     notes: ''
 - id: K6
   title: Hunting and Slaughtering for Food
@@ -2703,63 +2470,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
-    notes: ''
-- id: L2
-  title: Blessing & Not Cursing the Jewish People
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: L1
-    title: Occupying the Land of Israel
-    score: 0.4636
-    reasons:
-    - same_category
-    - similar_title
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.2558
-    reasons:
-    - frequently_linked
-    - similar_title
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.2374
-    reasons:
-    - frequently_linked
-  - id: XA2
-    title: Gentiles Rejoicing with the Jewish People
-    score: 0.2362
-    reasons:
-    - frequently_linked
-    - similar_title
-    - title_keyword_overlap
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.2122
-    reasons:
-    - frequently_linked
-  - id: GA1
-    title: Repenting of Our Sins and Turning to God
-    score: 0.209
-    reasons:
-    - frequently_linked
-  - id: JA9
-    title: Keeping Our Faith Amidst Persecution
-    score: 0.2066
-    reasons:
-    - frequently_linked
-    - similar_title
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.2062
-    reasons:
-    - frequently_linked
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
+    - M8
+    - K1
     notes: ''
 - id: L3
   title: Gentiles Not to Be Excluded from the Jewish Community
@@ -2809,9 +2523,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - E5
+    - DB4
     notes: ''
 - id: M11
   title: Resisting Temptation to Sin
@@ -2862,62 +2577,9 @@ items:
     - frequently_linked
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - M1
-    notes: ''
-- id: M3
-  title: Telling the Truth
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: M2
-    title: Keeping Our Promises
-    score: 0.4811
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: M1
-    title: Pursuing Righteousness & Doing What Is Right
-    score: 0.4778
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: M8
-    title: Being Humane in Our Dominion over God's Creatures
-    score: 0.4358
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: M7
-    title: Pursuing Economic Equity through Our Institutions
-    score: 0.4258
-    reasons:
-    - same_category
-  - id: M10
-    title: Biblical Principles of War
-    score: 0.4198
-    reasons:
-    - same_category
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.2386
-    reasons:
-    - frequently_linked
-    - similar_title
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.2182
-    reasons:
-    - frequently_linked
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.2173
-    reasons:
-    - frequently_linked
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
+    - GB39
     notes: ''
 - id: M4
   title: Returning Lost Items to Their Owners
@@ -2968,9 +2630,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - M2
+    - C1
+    - N1
     notes: ''
 - id: M5
   title: Committing Murder or Other Unjustifiable Homicide
@@ -3021,9 +2684,11 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - M10
+    - DA24
+    - N1
     notes: ''
 - id: M6
   title: Committing Theft or Robbery
@@ -3073,9 +2738,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - M2
+    - C1
+    - M1
     notes: ''
 - id: M9
   title: Coveting or Planning to Acquire Another's Property
@@ -3129,8 +2795,9 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
+    - C1
     - M1
     notes: ''
 - id: N12
@@ -3200,7 +2867,7 @@ items:
     - similar_title
     - title_keyword_overlap
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - DA24
     - DA46
@@ -3210,88 +2877,6 @@ items:
     - N15
     - N1
     - N3
-    notes: ''
-- id: N14
-  title: Serving Our Neighbor
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.7392
-    reasons:
-    - commandment_keyword_overlap
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: DA46
-    title: Comforting Our Neighbor
-    score: 0.7093
-    reasons:
-    - commandment_keyword_overlap
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: N4
-    title: Forgiving Our Neighbor
-    score: 0.681
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: DA53
-    title: Rescuing Our Neighbor
-    score: 0.6776
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.6619
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: DA5
-    title: Serving One Another
-    score: 0.655
-    reasons:
-    - commandment_keyword_overlap
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: N15
-    title: Pursuing Peace with Our Neighbor
-    score: 0.6518
-    reasons:
-    - commandment_keyword_overlap
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.6481
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - DA24
-    - DA46
-    - N4
-    - DA53
-    - N18
-    - DA5
-    - N15
-    - N1
     notes: ''
 - id: N16
   title: Nursing Anger Toward Our Neighbor
@@ -3359,16 +2944,13 @@ items:
     - similar_title
     - title_keyword_overlap
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - N18
     - DA24
     - N15
     - DA46
     - N1
-    - DA53
-    - N3
-    - N4
     notes: ''
 - id: N17
   title: Despising Our Neighbor
@@ -3442,14 +3024,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - DA24
-    - DA46
-    - DA53
     - N18
-    - N3
-    - N15
     - N4
     - N1
     notes: ''
@@ -3525,81 +3103,11 @@ items:
     - same_category
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - DA5
-    - DA16
-    - DA49
-    - DA12
     - DA6
-    - DA50
-    - DA24
-    - N1
-    notes: ''
-- id: N5
-  title: Resolving Disputes, Correcting, Reconciling With & Bringing Discipline to Brother Believers
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.585
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: DA2
-    title: Seeking Reconciliation with Our Brother
-    score: 0.5794
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.5565
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.5497
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: DA12
-    title: Being Good, Kind, & Generous to One Another
-    score: 0.5402
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: DA68
-    title: Welcoming & Being Hospitable to Our Brother and Neighbor
-    score: 0.513
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: DA1
-    title: Speedily Seeking Reconciliation when Summoned to Court
-    score: 0.5095
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: DA10
-    title: Living in Peace with Our Neighbors
-    score: 0.4992
-    reasons:
-    - frequently_linked
-    - same_category
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - DA24
-    - DA2
-    - N18
-    - N1
-    - DA12
-    - DA68
-    - DA1
+    - AA56
     notes: ''
 - id: N6
   title: Exploiting a Neighbor's Weakness
@@ -3667,16 +3175,9 @@ items:
     - similar_title
     - title_keyword_overlap
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - DA24
-    - N1
-    - N3
     - N18
-    - DA46
-    - DA32
-    - N4
-    - DA57
     notes: ''
 - id: O3
   title: Preaching the Word of God to Those Who Are Closed to It
@@ -3731,10 +3232,14 @@ items:
     reasons:
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - QA4
     - QA5
+    - QA1
+    - QA2
+    - O4
+    - QA6
     notes: ''
 - id: O5
   title: Casting Demons Out of Persons Unable to Maintain Deliverance
@@ -3789,9 +3294,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - SA3
     notes: ''
 - id: P5
   title: Priests Marrying Persons Likely to Compromise Their Holiness
@@ -3841,9 +3346,9 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - P3
     notes: ''
 - id: P6
   title: Priests Ministering While Spiritually Unclean
@@ -3893,9 +3398,9 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - P3
     notes: ''
 - id: P7
   title: Levitical Priests Being Near a Dead Body
@@ -3946,9 +3451,9 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - P3
     notes: ''
 - id: R3
   title: Coming Against the Holy Spirit
@@ -4019,7 +3524,7 @@ items:
     - similar_title
     - title_keyword_overlap
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - AB6
     - R2
@@ -4028,7 +3533,6 @@ items:
     - AB9
     - AB10
     - AB7
-    - AB16
     notes: ''
 - id: S1
   title: Engaging in Homosexuality
@@ -4088,13 +3592,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A2
-    - A13
-    - A14
-    - AA24
-    - AA3
+    - CB4
+    - CB23
+    - CB16
     notes: ''
 - id: S2
   title: Having Sexual Relations with Family Members
@@ -4149,13 +3651,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
-    - AA53
-    - A2
-    - AA10
-    - H4
+    - CB4
+    - CB23
     notes: ''
 - id: S3
   title: Committing Adultery
@@ -4210,10 +3709,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
-    - A13
+    - CB8
+    - CB9
+    - CB24
     notes: ''
 - id: S4
   title: 'Fornication: Engaging in Sexual Intimacy Outside Marriage'
@@ -4269,9 +3769,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - WA1
+    - CB8
+    - CB9
+    - CB24
     notes: ''
 - id: S5
   title: Having Sexual Relations with a Person & Also with a Close Member of that Person's Family
@@ -4325,10 +3827,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
-    - A2
+    - CB8
+    - CB9
+    - CB24
     notes: ''
 - id: S6
   title: Engaging in Prostitution
@@ -4385,11 +3888,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A13
-    - A14
-    - A2
+    - CB8
+    - CB9
+    - CB24
     notes: ''
 - id: S7
   title: Engaging in Sexual Contact with Animals
@@ -4445,12 +3948,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A2
-    - A13
-    - AA22
-    - H4
+    - CB8
+    - CB9
+    - CB24
     notes: ''
 - id: S8
   title: Having Sexual Intercourse with a Woman During Her Menstruation
@@ -4506,14 +4008,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - AA10
-    - AA53
-    - AA31
-    - A14
-    - A13
-    - H4
+    - CB8
+    - CB9
+    - CB24
     notes: ''
 - id: S9
   title: Giving Ourselves to Unlawful Sexual Desires
@@ -4571,13 +4070,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - AA8
-    - AA23
-    - AA5
-    - A14
-    - AA15
+    - CB8
+    - CB9
+    - CB24
     notes: ''
 - id: W3
   title: Prophesying Falsely
@@ -4631,9 +4128,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - KA2
+    - ZA6
     notes: ''
 - id: W7
   title: Believing or Advocating Unbiblical Doctrines & Paying Heed to Persons Who Do
@@ -4687,9 +4185,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - RA2
+    - AA53
     notes: ''
 - id: W9
   title: Nullifying the Word of God through Our Rules & Traditions
@@ -4753,14 +4252,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - HB11
-    - HB24
-    - W2
     - W6
-    - HB22
-    - W8
+    - E1
+    - GB22
     notes: ''
 - id: Y5
   title: Denying Yeshua for Fear of Man
@@ -4822,16 +4318,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - BA28
-    - BA10
-    - BA45
-    - BA50
-    - Y2
-    - Y6
     - G2
-    - BA32
+    - BA26
     notes: ''
 - id: Z1
   title: Believing End-Time False Prophets & Messiahs
@@ -4888,10 +4378,11 @@ items:
     reasons:
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - KA2
     - KA1
+    - HA3
     notes: ''
 - id: AB1
   title: Not Grieving the Holy Spirit
@@ -4961,7 +4452,7 @@ items:
     - similar_title
     - title_keyword_overlap
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - AB6
     - AB8
@@ -4970,7 +4461,6 @@ items:
     - AB7
     - AB2
     - AB9
-    - AB16
     notes: ''
 - id: AB12
   title: Not Blaspheming Against the Holy Spirit
@@ -5042,14 +4532,12 @@ items:
   review:
     approved: false
     approved_related_lawofmessiah:
+    - BA27
+    - G2
+    - BA26
     - AB6
-    - AB8
     - AB2
     - AB9
-    - AB7
-    - R2
-    - AB10
-    - AB16
     notes: ''
 - id: AB3
   title: Not Quenching the Holy Spirit
@@ -5119,7 +4607,7 @@ items:
     - similar_title
     - title_keyword_overlap
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - AB6
     - AB8
@@ -5127,8 +4615,6 @@ items:
     - AB10
     - AB7
     - AB2
-    - AB9
-    - AB16
     notes: ''
 - id: AB4
   title: Not Resisting or Opposing the Holy Spirit
@@ -5203,11 +4689,7 @@ items:
     - AB6
     - AB8
     - AB9
-    - R2
-    - AB2
-    - AB10
     - AB7
-    - AB16
     notes: ''
 - id: AB5
   title: Not lying to the Holy Spirit
@@ -5280,13 +4762,8 @@ items:
     approved: false
     approved_related_lawofmessiah:
     - AB6
-    - AB8
-    - R2
-    - AB10
-    - AB7
-    - AB2
-    - AB9
     - AB16
+    - AA30
     notes: ''
 - id: CB12
   title: Fathers Not Irritating Their Children
@@ -5347,11 +4824,9 @@ items:
     - same_category
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - CB11
     - CB20
-    - CB9
     notes: ''
 - id: CB14
   title: Not Divorcing Except on Biblical Grounds
@@ -5406,9 +4881,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - CB23
+    - CB6
     notes: ''
 - id: CB21
   title: Not Forbidding Marriage
@@ -5472,13 +4948,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - CB23
-    - CB1
-    - CB6
     - F2
-    - CB24
     notes: ''
 - id: CB28
   title: Wives Not Succumbing to Fear
@@ -5535,13 +5007,10 @@ items:
     reasons:
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - CB10
-    - CB27
-    - CB25
-    - CB8
     - CB26
+    - G12
     notes: ''
 - id: CB3
   title: Spouses Not to Separate
@@ -5594,9 +5063,13 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - CB23
+    - CB5
+    - CB6
+    - F3
+    - F2
     notes: ''
 - id: CB7
   title: Widows Not Marrying Unbelievers
@@ -5653,9 +5126,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - F2
     notes: ''
 - id: EA1
   title: Not Boasting or Thinking of Ourselves as Great or Unduly Important
@@ -5707,9 +5180,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - YA1
+    - EA6
+    - DA5
     notes: ''
 - id: EA2
   title: Not Giving Tzedakah to Draw Attention to Ourselves & Impress Others
@@ -5761,9 +5235,9 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - EA4
     notes: ''
 - id: EA3
   title: Not praying So as to Impress Others
@@ -5818,65 +5292,9 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
-    notes: ''
-- id: EA4
-  title: Fasting in Secret so as Not to Impress Others
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: YA1
-    title: Offering Ourselves as Living Sacrifices
-    score: 0.4871
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: YA4
-    title: Laying Down Our Life for Our Brother
-    score: 0.4711
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: YA2
-    title: Accepting Suffering and Disgrace in Order to Serve Yeshua
-    score: 0.4531
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: EA7
-    title: Being Wary of Prideful Teachers
-    score: 0.4455
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: YA3
-    title: Continually Offering Sacrifices of Praise to God
-    score: 0.4353
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: ZA1
-    title: Using Our Spiritual Gifts to Serve Others
-    score: 0.2168
-    reasons:
-    - frequently_linked
-    - similar_title
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.2164
-    reasons:
-    - frequently_linked
-  - id: DA12
-    title: Being Good, Kind, & Generous to One Another
-    score: 0.2031
-    reasons:
-    - frequently_linked
-    - similar_title
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
+    - EA4
     notes: ''
 - id: EA5
   title: Not Thinking of Ourselves as Better Than Others
@@ -5932,9 +5350,10 @@ items:
     - frequently_linked
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - YA1
+    - EA6
+    - EA7
     notes: ''
 - id: EA8
   title: Not Seeking Human Praise
@@ -5987,9 +5406,10 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - BA11
+    - BA12
     notes: ''
 - id: EB2
   title: Not Despising Prophetic Messages
@@ -6043,7 +5463,7 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - EB4
     notes: ''
@@ -6100,9 +5520,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - FA12
+    - FA13
     notes: ''
 - id: FA3
   title: Not Praying Lengthy and Repetitious Prayers as Do the Heathens
@@ -6158,7 +5579,7 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - FA26
     - FA12
@@ -6223,13 +5644,12 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - FA2
     - FA28
     - FA16
     - FA29
-    - FA8
     notes: ''
 - id: FB3
   title: Women Not to Teach or Have Authority Over a Man
@@ -6282,9 +5702,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - FB6
+    - FB2
     - FB8
     notes: ''
 - id: GA6

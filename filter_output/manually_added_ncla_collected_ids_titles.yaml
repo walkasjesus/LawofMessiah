@@ -1554,7 +1554,7 @@
     group: All
 - id: A4
   title: Keeping Vows Made to God
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
@@ -2076,7 +2076,7 @@
     group: All
 - id: H6
   title: Appointing a Ruler Whom God Chooses
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
@@ -2195,7 +2195,7 @@
     group: All
 - id: K1
   title: Creatures We Are Allowed to Eat and Forbidden to Eat
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
   ncla:
   - code: JMm JFm KMm KFm GMo GFo
@@ -2248,7 +2248,7 @@
     group: All
 - id: L2
   title: Blessing & Not Cursing the Jewish People
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2
   ncla:
   - code: JMm JFm KMm KFm GMm GFm

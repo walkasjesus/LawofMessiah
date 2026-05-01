@@ -806,7 +806,9 @@
   commandment_type: Negative
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: A14
+    title: Aspiring to God's Perfection & Holiness
 - id: AA17
   title: Not Calling Wrong & Bad That Which Is Right & Good
   commandment: We are not to call wrong and bad that which is right and good.
@@ -2489,7 +2491,9 @@
   commandment_type: Negative
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AA3
+    title: Pursuing Righteousness & Living Righteously
 - id: AA49
   title: Not Giving Ourselves to Sensuality
   commandment: We are not to give ourselves to sensuality.
@@ -4999,7 +5003,11 @@
   commandment_type: Negative
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA11
+    title: Honoring God & Yeshua
+  - id: G6
+    title: Fearing God
 - id: BA31
   title: Not Despising God or Yeshua
   commandment: We are not to despise God or Yeshua.
@@ -8992,7 +9000,9 @@
   commandment_type: Negative
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: DA12
+    title: Being Good, Kind, & Generous to One Another
 - id: DA31
   title: Not Hating Our Brother
   commandment: We are not to hate our brother.
@@ -10845,7 +10855,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: F2
+    title: The Covenant Laws of Marriage
 - id: A10
   commandment: We are to guard our physical & spiritual health, and be separate from the heathen nations through ritual purifications & cleanness.
   commandment_type: Positive
@@ -10997,7 +11009,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB6
+    title: Using Wine Medicinally
+  - id: AA6
+    title: Keeping Our Minds from Causing Our Bodies to Sin
 - id: A12
   commandment: We are to be born again from above.
   commandment_type: Positive
@@ -11156,7 +11172,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: A17
+    title: Being Humble & Not Prideful
 - id: A16
   commandment: We are not to seek men's approval over God's.
   commandment_type: Negative
@@ -11187,7 +11205,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA8
+    title: Pleasing God and Yeshua
 - id: A17
   commandment: We are to walk in humility and eschew pride.
   commandment_type: Positive
@@ -11403,7 +11423,15 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: DA5
+    title: Serving One Another
+  - id: D1
+    title: Resting from Work & Assembling on the Weekly Sabbath
+  - id: D17
+    title: Public Reading of the Torah during Sukkot in the Sabbatical Year
+  - id: D4
+    title: Resting from Work & Assembling on God's Annual Sabbaths
 - id: A2
   commandment: We are to walk in God's ways and adopt them as our own.
   commandment_type: Positive
@@ -11484,7 +11512,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: A2
+    title: Walking in God's Ways
+  - id: W1
+    title: Studying, Hearing & Teaching Torah & Torah -Obedience
+  - id: GB22
+    title: Living According to God’s Word and Spirit
 - id: A21
   commandment: We are to flee from love of money and are to pursue Godly Virtues.
   commandment_type: Positive
@@ -11628,7 +11662,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AA11
+    title: Renouncing Worldly Pleasures
+  - id: AA8
+    title: Guarding Ourselves Against Greed
+  - id: AA25
+    title: Focusing Our Thoughts on Things that Are Godly
 - id: A23
   commandment: We are to be subject to the governing authorities that are established by God.
   commandment_type: Positive
@@ -11748,7 +11788,7 @@
     title: Using Our Spiritual Gifts to Serve Others
 - id: A4
   commandment: We are to keep & not delay our vows that we make to God.
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   commentary_rudolph: A vow is a promise uttered with deliberate solemnity and it is clear from the Scriptures cited above that vows to God may not be broken. There would be nothing more to say on the matter were it not for the annual musical recitation (in most synagogues) of Kol Nidre , rendered just before sundown on the evening of Yom Kippur . Kol Nidre (Sephardic pronunciation Kal Nidre ) means "all vows", and is an ancient Aramaic legal formula that seeks to nullify all vows made to God, by individuals, in the year past and in the year to come. As such, it is a clear and direct violation of the intent of Scripture, and many attempts have been made, over the years, to expunge the tradition from Jewish practice. Some have sought to justify Kol Nidre by inferring that it originated with the "Marranos" during the Spanish Inquisition, in their attempt to nullify vows of conversion to Christianity made under extreme duress. Although the "Marranos" no doubt used the Kol Nidre formula for
     that purpose, the concept originated at least five hundred years earlier. We know this because a similar formula appears in the prayer book of the noted Rabbi Amram Gaon (ca. ninth century). The controversy persists within Judaism broadly, but is a settled matter in most Messianic Jewish congregations where Kol Nidre is either not sung at all, or is replaced by a proclamation of the opposite - a statement affirming all vows made in the year past, and our intention to abide by all vows that we may make in the year to come. I will say only a few words about Nazirite vows since they are rare today. They are vows of special personal dedication to holiness that incorporate limitations on one's lifestyle (e.g. wine and grapes may not be eaten, and one's hair must not be cut), and have a declared date of expiration. I mention them in connection with this Mitzvah because they must, as with other vows, be kept once made notwithstanding our being in the New Covenant.
   classical_commentators: Maimonides, Meir, and HaChinuch each wrote four mitzvot related to the keeping of promises (without delay) made with or without vows.
@@ -11892,7 +11932,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: H1
+    title: Having Reverence for God's Sanctuary
+  - id: G6
+    title: Fearing God
 - id: A7
   commandment: We are to confess and repent of our sins, and make restitution where possible and appropriate.
   commandment_type: Positive
@@ -12028,7 +12072,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: G12
+    title: Having Faith in God & Trusting Him in All Things
+  - id: AA32
+    title: Being Faithful, Trustworthy and Loyal
+  - id: BA44
+    title: Relying on God
 - id: A9
   commandment: We are not to swear to that which we know is not true.
   commandment_type: Negative
@@ -12128,7 +12178,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BB1
+    title: Giving Tzedakah to the Poor & to Our Brother Who is in Need
+  - id: B5
+    title: Setting Aside Part of Our Increase for the Poor
+  - id: B6
+    title: Gleanings and Part of Life-Sustaining Commodities Left for the Poor & Disadvantaged
 - id: B2
   commandment: We are to return an item we are holding in pledge when the owner is in need of it.
   commandment_type: Positive
@@ -12198,7 +12254,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: C1
+    title: Being Fair & Honest in Business
 - id: B4
   commandment: We are to give tz'dakah to the poor among us.
   commandment_type: Positive
@@ -12484,7 +12542,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: C3
+    title: Cancelling Loans & Not Refusing to Make Loans In & Near the Sabbatical Year
+  - id: D18
+    title: Cancelling Loans & Resting Our Land in the Sabbatical Year
 - id: C4
   commandment: We are not to deal harshly when lending or while collecting debts.
   commandment_type: Negative
@@ -12533,7 +12595,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: C1
+    title: Being Fair & Honest in Business
 - id: D1
   commandment: We are to rest, refrain from work, and conduct a holy convocation on the weekly Sabbath.
   commandment_type: Positive
@@ -13067,7 +13131,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: D1
+    title: Resting from Work & Assembling on the Weekly Sabbath
+  - id: D4
+    title: Resting from Work & Assembling on God's Annual Sabbaths
+  - id: D3
+    title: Keeping the Sabbath Day Holy
 - id: D20
   commandment: We are to determine the occurrence of every new moon.
   commandment_type: Positive
@@ -13390,7 +13460,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: D6
+    title: Keeping Our Home & Domain Free of Leaven & Chametz from Passover through the Feast of Unleavened Bread
+  - id: D10
+    title: Observing the Feast of Unleavened Bread by Eating Matzah on Each of Its Seven Days
+  - id: D8
+    title: Observing Passover with Matzah & Bitter Herbs
 - id: D8
   commandment: We are to eat matzah, bitter herbs, and lamb on Passover.
   commandment_type: Positive
@@ -13491,7 +13567,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: D8
+    title: Observing Passover with Matzah & Bitter Herbs
+  - id: D10
+    title: Observing the Feast of Unleavened Bread by Eating Matzah on Each of Its Seven Days
 - id: E1
   commandment: We are to preserve God's Word, & disseminate His Word to the Gentile nations.
   commandment_type: Positive
@@ -14278,7 +14358,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB20
+    title: Raising Our Children to Believe in Yeshua
+  - id: CB13
+    title: Raising Up Children with Guidance and Discipline
 - id: G1
   commandment: We are to believe in the God of Abraham, Isaac, and Jacob.
   commandment_type: Positive
@@ -14360,7 +14444,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: G6
+    title: Fearing God
+  - id: GA1
+    title: Repenting of Our Sins and Turning to God
+  - id: A7
+    title: Confessing, Repenting, and Making Restitution for Our Sins
 - id: G11
   commandment: We are to be thankful to God and bless Him in all things.
   commandment_type: Positive
@@ -15778,7 +15868,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA9
+    title: Believing in God’s Evenhanded Justice
+  - id: G12
+    title: Having Faith in God & Trusting Him in All Things
 - id: G6
   commandment: We are to reverently and lovingly fear God.
   commandment_type: Positive
@@ -15893,7 +15987,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AA1
+    title: Aspiring to Godliness and Holiness
+  - id: AA4
+    title: Seeking to Be Both Inwardly & Outwardly Clean
+  - id: A14
+    title: Aspiring to God's Perfection & Holiness
 - id: G8
   commandment: We are to serve, worship, praise, & pray to God.
   commandment_type: Positive
@@ -16169,7 +16269,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: G7
+    title: Treating God as Holy by Proclaiming Him Holy, Being Holy and by Not Profaning His Name
 - id: H4
   commandment: We are to use our speech, minds, hearts and actions for that which is good and holy.
   commandment_type: Positive
@@ -16277,10 +16379,12 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: YA3
+    title: Continually Offering Sacrifices of Praise to God
 - id: H6
   commandment: If we appoint a ruler over us, he is to be one whom God chooses - one who rules according to the Word of God, and does not prefer himself over his people.
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   commentary_rudolph: 'How can Romans 13:1-6 say: For there is no authority that is not from God, and the existing authorities have been placed where they are by God. And how can Hebrews 13:17 say without qualification: Obey your leaders and submit to them. Are there not evil rulers that would command us to do ungodly things and yet we must obey them? It is indeed a conundrum unless we consider that the leaders spoken of are those referred to in Deuteronomy 17:14-20 - leaders approved by God, and governing with knowledge of Torah , and with intent to do God''s will. These rulers may be of our secular governments or they may be the elders of our congregations but, if we do what we ought to do - choose rulers that are approved by God and accountable to Him, all will be well. This requires that we be involved in the appointing process of our leaders, in order to make sure that whether king, or president, or governor, or congregational elder - our rulers will be of the mind and character to
     govern in godly ways. Yes, things go awry in this fallen world and, when they do, we must take our instruction from God (through the Holy Spirit) and rely on Him to set things right. And until things are set right, if we are commanded against God''s Torah , must obey God and not man (see Acts 5:26-29 & Revelation 13:6-10 ).'
   classical_commentators: Maimonides and HaChinuch refer to Deuteronomy 17:16-17 to support their mitzvot stating only that a king must not amass great personal wealth. The quintessential example of a king that did amass great wealth is King Solomon who, according to 2 Chronicles 9:13-29 , received twenty-two tons of gold each year in addition to other items of worth, and according to 1 Kings 11:3 , had seven hundred wives and three hundred concubines who eventually turned his heart away from God. Meir wrote no mitzvah on the subject.
@@ -16341,7 +16445,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: A24
+    title: Being Clean of Spirit as Well as of Body
 - id: H8
   commandment: We are to forgo self interest when appropriate.
   commandment_type: Positive
@@ -16494,7 +16600,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA11
+    title: Honoring God & Yeshua
+  - id: FA2
+    title: Worshiping the One True God and No Other
 - id: I2
   commandment: We are not to pursue, engage in, or utilize anything that is occult.
   commandment_type: Negative
@@ -16566,7 +16676,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: VA5
+    title: Guarding Against False Gods
+  - id: I6
+    title: Destroying Idolatry
+  - id: VA1
+    title: Separating Ourselves from Idolaters
 - id: I3
   commandment: We are not to derive any benefit from idolatry.
   commandment_type: Negative
@@ -16619,7 +16735,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: I6
+    title: Destroying Idolatry
+  - id: VA5
+    title: Guarding Against False Gods
+  - id: VA1
+    title: Separating Ourselves from Idolaters
 - id: I4
   commandment: We are not to entice others to idolatry.
   commandment_type: Negative
@@ -16652,7 +16774,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: I6
+    title: Destroying Idolatry
+  - id: VA5
+    title: Guarding Against False Gods
+  - id: VA1
+    title: Separating Ourselves from Idolaters
 - id: I5
   commandment: We are not to enable others to idolatry.
   commandment_type: Negative
@@ -16722,7 +16850,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: I6
+    title: Destroying Idolatry
+  - id: VA5
+    title: Guarding Against False Gods
+  - id: VA1
+    title: Separating Ourselves from Idolaters
 - id: I6
   commandment: We are to cease all idolatrous practices, and destroy associated objects and places that are within our domain and control.
   commandment_type: Positive
@@ -16833,7 +16967,21 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: I6
+    title: Destroying Idolatry
+  - id: VA5
+    title: Guarding Against False Gods
+  - id: VA1
+    title: Separating Ourselves from Idolaters
+  - id: JA2
+    title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
+  - id: KA3
+    title: Being on Our Guard Against and Not Associating with False Teachers
+  - id: EA7
+    title: Being Wary of Prideful Teachers
+  - id: KA2
+    title: Being on Our Guard Against False Prophets
 - id: I8
   commandment: We are not to enter into covenants with idolaters and unbelievers.
   commandment_type: Negative
@@ -16872,7 +17020,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: VA1
+    title: Separating Ourselves from Idolaters
 - id: I9
   commandment: We are not to adopt the customs and practices of heathens.
   commandment_type: Negative
@@ -16938,7 +17088,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: VA1
+    title: Separating Ourselves from Idolaters
 - id: J1
   commandment: We are to apply the Mosaic Law in a manner that is consistent with New Covenant realities.
   commandment_type: Positive
@@ -17233,7 +17385,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: A7
+    title: Confessing, Repenting, and Making Restitution for Our Sins
 - id: J4
   commandment: We are to receive inheritance according to established law and to that which is approved by God.
   commandment_type: Positive
@@ -17354,7 +17508,7 @@
     title: Appointing a Ruler Whom God Chooses
 - id: K1
   commandment: We are to examine creatures for signs of their eatability, and are not to eat those that are forbidden to us.
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   commentary_rudolph: 'In the foregoing Scriptures, we encounter categories of creatures (and also specifically named creatures), some of which are clean and may be eaten, and others of which are unclean and may not. Eatability and cleanness generally coincide, but they are separate attributes as Leviticus 11:46-47 explains: Such, then, is the law concerning animals, flying creatures, all living creatures that move about in the water, and all creatures that swarm on the ground. Its purpose is to distinguish between the unclean and the clean, and between the creatures that may be eaten and those that may not be eaten. The Mosaic commandments specifying which creatures may and may not be eaten are generally complied with as an unchallenged part of Messianic Jewish life and practice. Nevertheless, the question sometimes arises as to God''s rationale for these restrictions and whether today, in the absence of the Holy Temple (ceremonial cleanness had to be maintained in the Temple), the food
     restrictions still apply. Those who believe they still apply may offer their personal opinions as to why, but Leviticus 20:24b-26 gives us God''s reason: I am ADONAI your God, who has set you apart from other peoples. Therefore you are to distinguish between clean and unclean animals and between clean and unclean birds; do not make yourselves detestable with an animal, bird or reptile that I have set apart for you to regard as unclean. Rather, you people are to be holy for me; because I, ADONAI, am holy; and I have set you apart from the other peoples, so that you can belong to me. Scripture''s reason for the food laws is clearly that Israelites (today called Jews) are a holy people set apart, and are therefore commanded to a unique lifestyle (including restrictions as to what we are allowed to eat) so that we will be seen as set apart. This reason is not Temple-dependent, and is therefore as valid today as it was at the time the food commandments were given to Moses. Perhaps it is even
     more important today, because so many of the world''s Jews are integrated into the general society and have lost visibility. It is my opinion, therefore, that it is God''s will that today''s Jews (and the K''rovei Yisrael who dwell in community alongside us) continue to obey the biblically commanded restrictions on what may and may not be eaten, and that it is sin for us not to do so. There are those who would say that my position is not correct - that Jewish believers in Yeshua who aspire to keep the food laws (in fact any laws) are rejecting Messiah''s sacrifice and God''s grace, and are putting themselves in an unholy bondage. This false theology is discussed in general terms in my essay " Elephants in the Room: What Paul Really Meant by His Comments on the Law " that is found in the preliminary section of this book. It is beyond the scope of this Mitzvah to discuss the various New Covenant Scriptures that are typically used to come against obeying God''s food laws in the Torah, but
@@ -17454,7 +17608,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: K1
+    title: Creatures We Are Allowed to Eat and Forbidden to Eat
+  - id: M8
+    title: Being Humane in Our Dominion over God's Creatures
 - id: K3
   commandment: We are not to eat fat, meat from strangled animals, or food polluted by idols.
   commandment_type: Negative
@@ -17488,7 +17646,11 @@
     group: regarding fat
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: K1
+    title: Creatures We Are Allowed to Eat and Forbidden to Eat
+  - id: IA1
+    title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
 - id: K4
   commandment: We are not to eat blood or anything with the blood still in it.
   commandment_type: Negative
@@ -17533,7 +17695,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: K1
+    title: Creatures We Are Allowed to Eat and Forbidden to Eat
+  - id: IA1
+    title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
 - id: K5
   commandment: It is halachically prescribed that we do not eat the sinew of an animal's thigh.
   commandment_type: Negative
@@ -17568,7 +17734,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: K1
+    title: Creatures We Are Allowed to Eat and Forbidden to Eat
 - id: K6
   commandment: We may eat from either a hunted or a slaughtered bird or animal, but are forbidden to eat from an animal that was killed by beasts in the field or that died of its own accord. Whether slaughtered or hunted, the creature's blood must be poured out and, if it is an animal, its young must not be slaughtered with it on the same day. If it is a mother bird sitting on chicks or eggs, the chicks may be taken, but the mother bird must be released. 1
   commandment_type: Negative
@@ -17623,7 +17791,11 @@
     group: Other requirements of the Mitzvah
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: M8
+    title: Being Humane in Our Dominion over God's Creatures
+  - id: K1
+    title: Creatures We Are Allowed to Eat and Forbidden to Eat
 - id: L1
   commandment: We are to receive, hold, and occupy the Land of Israel.
   commandment_type: Positive
@@ -17677,7 +17849,7 @@
   related_lawofmessiah: []
 - id: L2
   commandment: We are to bless and not curse the Jewish People.
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   commentary_rudolph: 'We see from the Scriptures presented that the people of Israel - the Jewish People - are God''s chosen people (He calls them sons) and therefore blessed and protected by Him. His protection at any point in time is conditioned on Israel''s obedience to Him but, it transcends the times of their punishment, and returns when Israel repents. But it is for God to judge and punish Israel when He deems it needed, and not for anyone else. Even when God used an enemy nation to punish Israel, he did so by using a nation that deserved and was destined for punishment itself because it was already hostile to Israel. To bring the matter more up to date, the Apostle Paul said in Romans 11:7-8 : What follows is that Isra''el has not attained the goal for which she is striving. The ones chosen have obtained it, but the rest have been made stonelike, just as the Tanakh says, ''God has given them a spirit of dullness - eyes that do not see and ears that do not hear, right down to the
     present day.'' More and more, the Jewish people are having the scales of blindness fall from their eyes and are receiving Yeshua, and it would therefore be well to remember what Paul also said in Romans 11:25-27 : For, brothers, I want you to understand this truth which God formerly concealed but has now revealed, so that you won''t imagine you know more than you actually do. It is that stoniness, to a degree, has come upon Isra''el, until the Gentile world enters in its fullness; and that it is in this way that all Isra''el will be saved. As the Tanakh says, ''Out of Tziyon will come the Redeemer; he will turn away ungodliness from Ya''akov and this will be my covenant with them ... when I take away their sins.'' In view of that and all else that has been presented, it would behoove both individuals and nations to receive the blessing and not the cursing that is promised for blessing and not cursing the Jewish people.'
   classical_commentators: This Mitzvah is not addressed by any of the classical commentators.
@@ -17701,7 +17873,6 @@
     - Jeremiah 31:30-33(31-34)
     - Zechariah 2:1-13(1:18-2:9)
     - Psalm 122:6-9
-    - Surah Yunus"Jonah" 10:93
   category: The Jewish People & Land of Israel
   title: Blessing & Not Cursing the Jewish People
   ncla_deviation: false
@@ -17766,7 +17937,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: E5
+    title: Conversion & Receiving Jewish Proselytes & Converts
+  - id: DB4
+    title: Embracing Jewish Identity and Responsibility
 - id: M1
   commandment: We are to pursue righteousness, i.e. determining what is right and doing it.
   commandment_type: Positive
@@ -17898,7 +18073,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB39
+    title: Seeking the Way Out of Temptation that God Has Provided
 - id: M2
   commandment: We are to keep our promises.
   commandment_type: Positive
@@ -17944,7 +18121,7 @@
     title: Keeping Our Promises
 - id: M3
   commandment: We are to tell the truth and not lie.
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   commentary_rudolph: 'It is clear from the foregoing Scriptures (and others not cited) that truth-telling is a commanded virtue, and that the opposite of truth-telling (lying) is a sin. We know that truth-telling is a godly attribute because in Numbers 23:19 , when under the influence of the Holy Spirit, Balaam said to Balak: God is not a human who lies or a mortal who changes his mind. When he says something, he will do it; when he makes a promise, he will fulfill it. In complete contrast to God who does not lie, John 8:44 quotes Yeshua (scolding a group of Judeans out to kill Him) as saying that Satan is the original liar; we read: You belong to your father, Satan, and you want to carry out your father''s desires. From the start he was a murderer, and he has never stood by the truth, because there is no truth in him. When he tells a lie, he is speaking in character; because he is a liar - indeed, the inventor of the lie! This appears to be a reference to Genesis 3:2-4 where Satan (in
     the form of a serpent) lies to Eve about eating from the tree " in the middle of the garden " and says to her: It is not true that you will surely die ... In my stating categorically that lying is a sin, I believe I should address the often-debated Scripture passages in which Abraham and Isaac were less than candid in admitting that Sarah and Rebecca respectively were their wives; they are: Genesis 20:2 Avraham was saying of Sarah his wife, "She is my sister"; so Avimelekh king of G''rar sent and took Sarah. and Genesis 26:7 The men of the place asked him about his wife, and out of fear he said, "She is my sister." He thought, "If I tell them she''s my wife, they might kill me in order to take Rivkah. After all, she is a beautiful woman." Apologists for Abraham sometimes use Abraham''s convoluted explanation in Genesis 20:12 to try to show that Abraham didn''t lie because Sarah was not only Abraham''s wife, but also his half-sister. The same explanation cannot, however, be made for Isaac
     and, the truth be told, both men lapsed in their faith, fearing for themselves and for their wives. Then there is the occasion where Rebecca and Jacob conspired to deceive Isaac into blessing Jacob instead of Esau. It is one of the unique aspects of the Scriptures, that God allows us to see the foibles of even the greatest of the patriarchs.'
@@ -18045,7 +18222,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: C1
+    title: Being Fair & Honest in Business
+  - id: N1
+    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
 - id: M5
   commandment: We are not to commit murder or other unjustifiable homicide.
   commandment_type: Negative
@@ -18094,7 +18275,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: M10
+    title: Biblical Principles of War
+  - id: DA24
+    title: Loving Our Brother & Neighbor
+  - id: N1
+    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
 - id: M6
   commandment: We are not to steal or commit robbery.
   commandment_type: Negative
@@ -18150,7 +18337,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: C1
+    title: Being Fair & Honest in Business
+  - id: M1
+    title: Pursuing Righteousness & Doing What Is Right
 - id: M7
   commandment: Our institutions are to promote economic equity.
   commandment_type: Positive
@@ -18306,7 +18497,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: C1
+    title: Being Fair & Honest in Business
+  - id: M1
+    title: Pursuing Righteousness & Doing What Is Right
 - id: N1
   commandment: We are to love our neighbor, the stranger among us, and even our enemy.
   commandment_type: Positive
@@ -18600,7 +18795,23 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: DA24
+    title: Loving Our Brother & Neighbor
+  - id: DA46
+    title: Comforting Our Neighbor
+  - id: DA53
+    title: Rescuing Our Neighbor
+  - id: N4
+    title: Forgiving Our Neighbor
+  - id: N18
+    title: Being Compassionate & Merciful Toward Our Neighbor
+  - id: N15
+    title: Pursuing Peace with Our Neighbor
+  - id: N1
+    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
+  - id: N3
+    title: Helping Our Neighbor Who Is In Need
 - id: N13
   commandment: We are to repent of our own sin before seeking to correct our neighbor.
   commandment_type: Positive
@@ -18633,7 +18844,7 @@
     title: Repenting of Our Own Sin before Seeking to Correct Our Neighbor
 - id: N14
   commandment: We are to serve our neighbor, seeking not to be served.
-  commandment_type: Negative
+  commandment_type: Positive
   commentary_rudolph: 'Serving our neighbor is meeting his needs in the way that we would want him to meet our needs ( Matthew 7:12 ), were our situations reversed. The reason that servanthood is critically important is that it comprises specific ways to love our neighbor that is never without cost or sacrifice to ourselves. When we help our neighbor build because he needs shelter, we give of our time that we could otherwise spend on our own needs or pleasures. When we give our neighbor food (or money) because he is hungry, we give him a valuable resource that we could otherwise consume or spend on ourselves. I am reminded of James 2:15-16 : Suppose a brother or sister is without clothes and daily food, and someone says to him, ''Shalom! Keep warm and eat hearty!'' without giving him what he needs, what good does it do? The two examples above are of physical helps, but servanthood often involves giving of ourselves in less tangible ways as well, such as correcting, counseling, and praying
     for our neighbor.'
   classical_commentators: This Mitzvah is not addressed by any of the classical commentators.
@@ -18760,7 +18971,17 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: N18
+    title: Being Compassionate & Merciful Toward Our Neighbor
+  - id: DA24
+    title: Loving Our Brother & Neighbor
+  - id: N15
+    title: Pursuing Peace with Our Neighbor
+  - id: DA46
+    title: Comforting Our Neighbor
+  - id: N1
+    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
 - id: N17
   commandment: We are not to despise our neighbor.
   commandment_type: Negative
@@ -18788,7 +19009,15 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: DA24
+    title: Loving Our Brother & Neighbor
+  - id: N18
+    title: Being Compassionate & Merciful Toward Our Neighbor
+  - id: N4
+    title: Forgiving Our Neighbor
+  - id: N1
+    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
 - id: N18
   commandment: We are to be compassionate and merciful toward our neighbor.
   commandment_type: Positive
@@ -18974,7 +19203,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: DA5
+    title: Serving One Another
+  - id: DA6
+    title: Showing Respect for One Another
+  - id: AA56
+    title: Being Quick to Listen and Slow to Speak
 - id: N3
   commandment: We are to help our neighbor who is in need.
   commandment_type: Positive
@@ -19091,7 +19326,7 @@
     title: Humbling Ourselves before God
 - id: N5
   commandment: We are to bring correction to one another, to resolve disputes and to seek reconciliation with brothers who have sinned against us, and to repent and to seek reconciliation if we have sinned against our brother. Likewise, our elder leaders are to rebuke, correct and bring discipline to those within our congregational communities that require it.
-  commandment_type: Negative
+  commandment_type: Positive
   commentary_rudolph: 'Different corrective considerations apply according to whether a brother''s sin is against another brother (private offense) or against the community broadly (public offense). Also, that which applies to a brother does not necessarily apply to unbelieving neighbors because unbelievers have not committed themselves to the principles and disciplines of Scripture ( 1 Corinthians 5:12-13 ). A. RESPONDING TO THE PRIVATE OFFENSE COMMITTED BY A BROTHER A. RESPONDING TO THE PRIVATE OFFENSE COMMITTED BY A BROTHER OVERLOOKING A SIN Even when we are authorized to seek redress for a sin committed against us, we need not do so, for Proverbs 19:11 states: People with good sense are slow to anger, and it is their glory to overlook an offense. And Ecclesiastes 7:21-22 states: Also, don''t take seriously every word spoken, such as when you hear your servant speaking badly of you; because often, as you yourself know, you have spoken badly of others. This is in keeping with God''s desire
     that we take upon ourselves His holy nature, for He Himself has been known to overlook sin ( Acts 17:29-30 ). 1 Some private offenses are easily overlooked - especially those that are unintentional, have done no great harm, and are unlikely to be repeated. Although it may seem that overlooking an offense is always the loving thing to do, it is not necessarily so. One''s decision should always be based upon what is best for the offender, and what is best for others against whom the offender may sin in the future if he is not made accountable. If the offense is overlooked, it should not be brought up again unless the offense is repeated. Also, overlooking a sin does not assure that the parties will remain in, or return to, reconciliation. 1. Consider also, how Moses pleaded with God to overlook the sins of Israel ( Deuteronomy 9:27 ). GOING TO OUR OFFENDING BROTHER Much is said about rebuking and correcting in both the Tanach and the New Covenant Scriptures. Leviticus 19:17-18 is generally
     cited by the classical Jewish commentators as the Scripture that commands this, but there are many others that apply as well, as one can see from the large number of Scriptures cited in this Mitzvah . Another key Scripture from the Tanach is Proverbs 27:5 : Better open rebuke than hidden love. (See also, Proverbs 9:8-9 ) If our decision is to not overlook an offense, we must confront the offending brother with his sin: Matthew 18:15 : Moreover, if your brother commits a sin against you, go and show him his fault - but privately, just between the two of you. If he listens to you, you have won back your brother. Galatians 6:1-2 : Brothers, suppose someone is caught doing something wrong. You who have the Spirit should set him right, but in a spirit of humility, keeping an eye on yourselves so that you won''t be tempted too. Bear one another''s burdens - in this way you will be fulfilling the Torah''s true meaning, which the Messiah upholds. There are three things in the foregoing Scriptures
@@ -19208,7 +19443,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: N18
+    title: Being Compassionate & Merciful Toward Our Neighbor
 - id: N7
   commandment: We are to take reasonable steps to keep ourselves and others safe in areas that are under our control.
   commandment_type: Positive
@@ -19455,7 +19692,19 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: QA4
+    title: Proclaiming the Kingdom of God
+  - id: QA5
+    title: Preaching in the Synagogue of the Unbeliever
+  - id: QA1
+    title: Preaching, Teaching, & Making Disciples of Yeshua
+  - id: QA2
+    title: Boasting About God and Yeshua
+  - id: O4
+    title: Implementing the "Great Commission" Proclaimed by Yeshua
+  - id: QA6
+    title: Having Courage to Proclaim the Good News
 - id: O4
   commandment: We are to go to the whole world with the "Great Commission" proclaimed by Yeshua, in the power of the Holy Spirit - first to the Jew and then to the Gentile.
   commandment_type: Positive
@@ -19547,7 +19796,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: SA3
+    title: Expelling Demons
 - id: P1
   commandment: The Jewish people (Israel) are to embrace being a kingdom of priests in order to bring blessing to the Gentile nations of the world. Jews & Gentiles both are called to join in a New Covenant "Priesthood of Believers" that consists of all disciples of Yeshua, and that is connected to the first priesthood - the priesthood of Israel.
   commandment_type: Positive
@@ -19746,7 +19997,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: P3
+    title: Regarding God's Priests as Holy
 - id: P6
   commandment: Priests are not to minister to others while they are spiritually unclean and in need of repentance.
   commandment_type: Negative
@@ -19786,7 +20039,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: P3
+    title: Regarding God's Priests as Holy
 - id: P7
   commandment: Levitical Priests are not to be in the vicinity of a dead body unless the deceased is a close relative.
   commandment_type: Negative
@@ -19822,7 +20077,9 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: P3
+    title: Regarding God's Priests as Holy
 - id: R1
   commandment: We are to listen to & heed God's voice.
   commandment_type: Positive
@@ -20032,7 +20289,21 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AB6
+    title: Sowing in the Holy Spirit
+  - id: R2
+    title: Receiving the Holy Spirit
+  - id: AB8
+    title: Hearing the Holy Spirit
+  - id: AB2
+    title: Being Filled with the Holy Spirit
+  - id: AB9
+    title: Being Bold in the Holy Spirit
+  - id: AB10
+    title: Receiving the Holy Spirit
+  - id: AB7
+    title: Being Led by the Holy Spirit
 - id: R4
   commandment: We are test every spirit to see if it is from God.
   commandment_type: Positive
@@ -20122,7 +20393,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB4
+    title: Having Only One Spouse
+  - id: CB23
+    title: Treating Marriage as Honorable
+  - id: CB16
+    title: A Man Leaving His Mother and Father and Uniting with His Wife
 - id: S2
   commandment: We are not to have close physical contact & sexual intimacy with family members.
   commandment_type: Negative
@@ -20170,7 +20447,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB4
+    title: Having Only One Spouse
+  - id: CB23
+    title: Treating Marriage as Honorable
 - id: S3
   commandment: We are not to commit adultery.
   commandment_type: Negative
@@ -20235,7 +20516,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB8
+    title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
+  - id: CB9
+    title: Husbands Loving Their Wives
+  - id: CB24
+    title: Treating Sex within Marriage as Pure
 - id: S4
   commandment: We are not to engage in sexual intimacy outside of marriage.
   commandment_type: Negative
@@ -20305,7 +20592,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB8
+    title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
+  - id: CB9
+    title: Husbands Loving Their Wives
+  - id: CB24
+    title: Treating Sex within Marriage as Pure
 - id: S5
   commandment: We are not to engage in sexual intimacy with a person and also with a close member of that person's family.
   commandment_type: Negative
@@ -20345,7 +20638,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB8
+    title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
+  - id: CB9
+    title: Husbands Loving Their Wives
+  - id: CB24
+    title: Treating Sex within Marriage as Pure
 - id: S6
   commandment: We are not to participate in prostitution of any kind.
   commandment_type: Negative
@@ -20419,7 +20718,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB8
+    title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
+  - id: CB9
+    title: Husbands Loving Their Wives
+  - id: CB24
+    title: Treating Sex within Marriage as Pure
 - id: S7
   commandment: We are not to have sexual contact of any kind with an animal.
   commandment_type: Negative
@@ -20462,7 +20767,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB8
+    title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
+  - id: CB9
+    title: Husbands Loving Their Wives
+  - id: CB24
+    title: Treating Sex within Marriage as Pure
 - id: S8
   commandment: We are not to have sexual intercourse with a woman during her menstruation.
   commandment_type: Negative
@@ -20494,7 +20805,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB8
+    title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
+  - id: CB9
+    title: Husbands Loving Their Wives
+  - id: CB24
+    title: Treating Sex within Marriage as Pure
 - id: S9
   commandment: We are not to have give ourselves to unlawful sexual desires.
   commandment_type: Negative
@@ -20521,7 +20838,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB8
+    title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
+  - id: CB9
+    title: Husbands Loving Their Wives
+  - id: CB24
+    title: Treating Sex within Marriage as Pure
 - id: W1
   commandment: We are to study, listen to and teach Torah and Torah-obedience.
   commandment_type: Positive
@@ -20702,7 +21025,11 @@
   meir:
   - MN175
   chinuch: []
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: KA2
+    title: Being on Our Guard Against False Prophets
+  - id: ZA6
+    title: Seeking the Gift of Prophecy
 - id: W4
   category: The Word and Will of God & Messiah
   title: Testing Everything that is Spoken in God's Name
@@ -20838,7 +21165,11 @@
   meir:
   - MN156
   chinuch: []
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: RA2
+    title: Correcting Those Who Teach and Follow False Doctrines
+  - id: AA53
+    title: Having a Sound & Godly Doctrine
 - id: W8
   category: The Word and Will of God & Messiah
   title: Obeying the Mitzvot of Adonai & Yeshua
@@ -20916,7 +21247,13 @@
   maimonides: []
   meir: []
   chinuch: []
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: W6
+    title: Adding to, or Subtracting from, the Written Word of God
+  - id: E1
+    title: Preserving & Disseminating God's Word
+  - id: GB22
+    title: Living According to God’s Word and Spirit
 - id: Y1
   commandment: We are to remember & proclaim Yeshua's sacrificial death by our partaking of bread and wine.
   commandment_type: Positive
@@ -21112,7 +21449,11 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: G2
+    title: Acknowledging and not Denying Belief in God and in Yeshua
+  - id: BA26
+    title: Being Yeshua’s Witness
 - id: Y6
   commandment: We are to follow Yeshua and put him before all else.
   commandment_type: Positive
@@ -21286,7 +21627,13 @@
     group: All
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: KA2
+    title: Being on Our Guard Against False Prophets
+  - id: KA1
+    title: Being on Our Guard Against False Messiahs
+  - id: HA3
+    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
 - id: AB1
   title: Not Grieving the Holy Spirit
   category: Holy Spirit
@@ -21299,7 +21646,21 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AB6
+    title: Sowing in the Holy Spirit
+  - id: AB8
+    title: Hearing the Holy Spirit
+  - id: R2
+    title: Receiving the Holy Spirit
+  - id: AB10
+    title: Receiving the Holy Spirit
+  - id: AB7
+    title: Being Led by the Holy Spirit
+  - id: AB2
+    title: Being Filled with the Holy Spirit
+  - id: AB9
+    title: Being Bold in the Holy Spirit
 - id: AB10
   title: Receiving the Holy Spirit
   category: Holy Spirit
@@ -21461,7 +21822,19 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AB6
+    title: Sowing in the Holy Spirit
+  - id: AB8
+    title: Hearing the Holy Spirit
+  - id: R2
+    title: Receiving the Holy Spirit
+  - id: AB10
+    title: Receiving the Holy Spirit
+  - id: AB7
+    title: Being Led by the Holy Spirit
+  - id: AB2
+    title: Being Filled with the Holy Spirit
 - id: AB4
   title: Not Resisting or Opposing the Holy Spirit
   category: Holy Spirit
@@ -21834,7 +22207,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: Fathers
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB20
+    title: Raising Our Children to Believe in Yeshua
 - id: CB13
   title: Raising Up Children with Guidance and Discipline
   category: Marriage & Family
@@ -21871,7 +22246,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: Married
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB23
+    title: Treating Marriage as Honorable
+  - id: CB6
+    title: Knowing that Marriage Is for Life
 - id: CB15
   title: Honoring Our Parents
   category: Marriage & Family
@@ -22017,7 +22396,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: F2
+    title: The Covenant Laws of Marriage
 - id: CB22
   title: Wives Who Leave their Husbands Remaining Single
   category: Marriage & Family
@@ -22139,7 +22520,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: Wives
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB26
+    title: Wives Nurturing the Inner Character of their Heart
+  - id: G12
+    title: Having Faith in God & Trusting Him in All Things
 - id: CB29
   title: Husbands Respecting their Wives
   category: Marriage & Family
@@ -22169,7 +22554,17 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: Married
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: CB23
+    title: Treating Marriage as Honorable
+  - id: CB5
+    title: Allowing an Unbelieving Spouse to Leave
+  - id: CB6
+    title: Knowing that Marriage Is for Life
+  - id: F3
+    title: Divorce & Remarriage
+  - id: F2
+    title: The Covenant Laws of Marriage
 - id: CB4
   title: Having Only One Spouse
   category: Marriage & Family
@@ -22233,7 +22628,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: Widows
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: F2
+    title: The Covenant Laws of Marriage
 - id: CB8
   title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   category: Marriage & Family
@@ -22410,7 +22807,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: EA6
+    title: Being Humble and Not Arrogant or Prideful
+  - id: DA5
+    title: Serving One Another
 - id: EA2
   title: Not Giving Tzedakah to Draw Attention to Ourselves & Impress Others
   category: Humility & Pride
@@ -22426,7 +22827,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: EA4
+    title: Fasting in Secret so as Not to Impress Others
 - id: EA3
   title: Not praying So as to Impress Others
   category: Humility & Pride
@@ -22441,11 +22844,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: EA4
+    title: Fasting in Secret so as Not to Impress Others
 - id: EA4
   title: Fasting in Secret so as Not to Impress Others
   category: Humility & Pride
-  commandment_type: Negative
+  commandment_type: Positive
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   bible_references:
     nt_scriptures:
@@ -22480,7 +22885,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: EA6
+    title: Being Humble and Not Arrogant or Prideful
+  - id: EA7
+    title: Being Wary of Prideful Teachers
 - id: EA6
   title: Being Humble and Not Arrogant or Prideful
   category: Humility & Pride
@@ -22558,7 +22967,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA11
+    title: Honoring God & Yeshua
+  - id: BA12
+    title: Lifting Up Yeshua
 - id: EB1
   title: Prophesying veiled and unveiled
   category: Prophecy
@@ -22589,7 +23002,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: EB4
+    title: Believing the Prophets
 - id: EB3
   title: Exercising Control When Prophesying
   category: Prophecy
@@ -22879,7 +23294,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: FA12
+    title: Praying Regularly and Continually
+  - id: FA13
+    title: Praying with Lifted Holy Hands
 - id: FA15
   title: Women Dressing Modestly and Not Adorning Themselves While in Prayer
   category: Prayer & Worship
@@ -23389,7 +23808,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: FA26
+    title: Praying with Faith and without Doubt
+  - id: FA12
+    title: Praying Regularly and Continually
+  - id: FA18
+    title: Praying Together with Others
 - id: FA30
   title: Praying Often, Persistently, and Fervently
   category: Prayer & Worship
@@ -23707,7 +24132,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: FA2
+    title: Worshiping the One True God and No Other
+  - id: FA28
+    title: Worshiping Yeshua as Adonai
+  - id: FA16
+    title: Worshiping God in Spirit and in Truth
+  - id: FA29
+    title: Worshiping God with Gratitude
 - id: FA5
   title: Praying for Our Enemies
   category: Prayer & Worship
@@ -23884,7 +24317,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: Woman
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: FB2
+    title: Women Learning in Peace While Fully Submitted
+  - id: FB8
+    title: Women Teaching Younger Women
 - id: FB4
   title: Women Dressing Modestly when Praying
   category: Women
