@@ -4931,6 +4931,8 @@
   double_ids:
   - id: DA11
     title: Bearing the Weaknesses of Those Who Are Not Strong
+  - id: RA10
+    title: Rebuking and Exhorting with Patience and Instruction
   bible_references:
     nt_scriptures:
     - 1 Thessalonians 5:14
@@ -9610,6 +9612,38 @@
     - Revelation 20:10
     ot_scriptures:
     - Jonah 3:14
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
+- id: LA1
+  title: Being Enslaved to God & His Righteousness, & Not by Sin
+  manually_review: Together with the other double_ids this is not unique
+  unique: false
+  double_ids:
+  - id: AA3
+    title: Pursuing Righteousness & Living Righteously
+  - id: M1
+    title: Pursuing Righteousness & Doing What Is Right
+  bible_references:
+    nt_scriptures:
+    - 1 Corinthians 7:21-24
+    - 1 Timothy 1:10-11
+    - 2 Peter 1:1
+    - Colossians 2:17
+    - Ephesians 6:5-8
+    - Galatians 4:7
+    - Galatians 5:1
+    - James 1:1
+    - John 8:34-36
+    - Jude 1:1
+    - Luke 16:13
+    - Romans 1:1
+    - Romans 6:16-23
+    - Romans 7:4
+    - Colossians 2:8
+    - Matthew 6:24
+    ot_scriptures:
+    - Leviticus 25:55
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All

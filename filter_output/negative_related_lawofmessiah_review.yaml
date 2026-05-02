@@ -7541,7 +7541,7 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - W8
     - HB23
@@ -7597,10 +7597,8 @@ items:
   review:
     approved: true
     approved_related_lawofmessiah:
-    - IA1
-    - IA3
-    - K1
     - N13
+    - DA49
     notes: ''
 - id: IA3
   title: Not Prohibiting Foods that God Allows
@@ -7705,68 +7703,13 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - JA9
     - JA5
     - JA11
     - AB9
-    notes: ''
-- id: LA1
-  title: Being Enslaved to God & His Righteousness, & Not by Sin
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: LA6
-    title: Using Our Enslavement to Serve God but Gaining Freedom If Possible
-    score: 0.4807
-    reasons:
-    - same_category
-    - similar_title
-  - id: LA11
-    title: Servants Being Faithful to Their Masters
-    score: 0.4711
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: LA3
-    title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
-    score: 0.4552
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: LA4
-    title: Masters Treating Their Slaves & Bondservants Justly & Fairly
-    score: 0.4541
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: LA8
-    title: Treating Indentured Servants and Freemen as Spiritually Equal
-    score: 0.4541
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: LA7
-    title: Indentured Servants Working Willingly
-    score: 0.401
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: DA7
-    title: Being Sensitive to Each Other’s Needs
-    score: 0.2639
-    reasons:
-    - frequently_linked
-    - similar_title
-  - id: AA3
-    title: Pursuing Righteousness & Living Righteously
-    score: 0.2571
-    reasons:
-    - frequently_linked
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
+    - G12
     notes: ''
 - id: LA2
   title: Not Returning to the Enslavement of Legalism
@@ -7821,9 +7764,9 @@ items:
     - frequently_linked
     - similar_title
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - LA6
     notes: ''
 - id: LA9
   title: Servants Not Using Familiarity to Justify Disrespecting Their Masters
@@ -7879,7 +7822,7 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - LA3
     - LA11
@@ -7937,9 +7880,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - KA2
+    - BA44
+    - G12
+    - FA22
     notes: ''
 - id: MA3
   title: Not Worrying about Tomorrow in Matters of Everyday Living
@@ -7994,9 +7939,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - BA44
+    - G12
+    - FA22
     notes: ''
 - id: MA4
   title: Not Having Fear, Worry, or Anxiety about Anything
@@ -8051,9 +7998,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - BA44
+    - G12
+    - FA22
     notes: ''
 - id: NA4
   title: Not Asking Payment for Ministering the Word of God
@@ -8112,7 +8061,7 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - NA15
     - NA11
@@ -8174,11 +8123,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - OA9
-    - OA8
-    - OA7
+    - NA22
     notes: ''
 - id: RA18
   title: Not Rebuking an Older Man Sharply
@@ -8235,10 +8183,13 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - RA10
     - RA6
+    - RA4
+    - RA21
+    - N8
     notes: ''
 - id: RA5
   title: Not Receiving an Accusation Against a Leader Except by Two or Three Witnesses
@@ -8293,9 +8244,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - RA6
+    - RA2
+    - RA4
     notes: ''
 - id: SA5
   title: Not Allowing Ourselves to be Deceived by the Adversary or Deceiving Spirits
@@ -8352,9 +8305,12 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - SA9
+    - SA4
+    - SA8
+    - SA10
     notes: ''
 - id: VA2
   title: Not Engaging in Idolatry
@@ -8408,9 +8364,11 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - I6
+    - VA5
+    - VA1
     notes: ''
 - id: VA3
   title: Not Eating Meat Sacrificed to Idols
@@ -8462,9 +8420,11 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - VA1
+    - VA5
+    - IA1
     notes: ''
 - id: VA4
   title: Not Involving Ourselves in the Occult
@@ -8519,9 +8479,12 @@ items:
     reasons:
     - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - VA1
+    - VA5
+    - I5
+    - I7
     notes: ''
 - id: WA3
   title: Not Having or Condoning Unnatural Sexual Relations
@@ -8577,12 +8540,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A14
-    - AA10
-    - A13
-    - AA44
+    - WA1
     notes: ''
 - id: WA5
   title: Not Engaging in Homosexuality
@@ -8639,12 +8599,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - A13
-    - A2
-    - A14
-    - AA24
+    - WA1
     notes: ''
 - id: XA13
   title: Not Requiring Gentiles to Live as Jews
@@ -8704,10 +8661,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - XA7
-    - XA6
+    - DB1
     notes: ''
 - id: XA5
   title: Not Placing Obstacles in the Way of Gentiles
@@ -8763,10 +8720,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - XA4
     - XA11
+    - XA7
     notes: ''
 - id: ZA11
   title: Not Speaking in Tongues When Unbelievers or Uninstructed Persons Are Present
@@ -8821,9 +8779,11 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - ZA3
+    - ZA1
+    - ZA2
     notes: ''
 - id: ZA12
   title: Not Forbidding the Speaking in Tongues
@@ -8880,9 +8840,10 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - ZA3
+    - ZA1
     - ZA2
     notes: ''
 - id: ZA13
@@ -8946,7 +8907,7 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - ZA7
     - ZA1
@@ -9007,7 +8968,9 @@ items:
     - frequently_linked
     - same_category
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - ZA3
+    - ZA1
+    - ZA2
     notes: ''

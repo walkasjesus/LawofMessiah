@@ -931,14 +931,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   related_lawofmessiah:
-  - id: AA25
-    title: Focusing Our Thoughts on Things that Are Godly
-  - id: AA30
-    title: Being Honest and a Teller of Truth
-  - id: AA43
-    title: Not Being Self-Seeking
-  - id: DA45
-    title: Not Sinning Against Our Brother or Neighbor
   - id: A14
     title: Aspiring to God's Perfection & Holiness
 - id: AA17
@@ -2764,8 +2756,6 @@
   related_lawofmessiah:
   - id: AA3
     title: Pursuing Righteousness & Living Righteously
-  - id: AA43
-    title: Not Being Self-Seeking
 - id: AA49
   title: Not Giving Ourselves to Sensuality
   commandment: We are not to give ourselves to sensuality.
@@ -5642,8 +5632,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   related_lawofmessiah:
-  - id: AA30
-    title: Being Honest and a Teller of Truth
   - id: BA11
     title: Honoring God & Yeshua
   - id: G6
@@ -10197,10 +10185,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   related_lawofmessiah:
-  - id: AA17
-    title: Not Calling Wrong & Bad That Which Is Right & Good
-  - id: DA19
-    title: Not Associating with a Sexually Immoral Brother
   - id: DA12
     title: Being Good, Kind, & Generous to One Another
 - id: DA31
@@ -12502,8 +12486,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
   related_lawofmessiah:
-  - id: AA61
-    title: Hating Ungodly Vices
   - id: GB6
     title: Using Wine Medicinally
   - id: AA6
@@ -13115,16 +13097,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
   related_lawofmessiah:
-  - id: AA1
-    title: Aspiring to Godliness and Holiness
-  - id: AA2
-    title: Behaving Properly
-  - id: AA5
-    title: Modeling Ourselves on the Perfection of God
-  - id: BA46
-    title: Remaining Rooted in Yeshua
-  - id: BA49
-    title: Living Along with Yeshua
   - id: A2
     title: Walking in God's Ways
   - id: W1
@@ -13295,22 +13267,10 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin
-  - id: AA8
-    title: Guarding Ourselves Against Greed
   - id: AA11
     title: Renouncing Worldly Pleasures
-  - id: AA12
-    title: Not Being Contaminated by the World and Worldly Standards
-  - id: AA49
-    title: Not Giving Ourselves to Sensuality
-  - id: AA51
-    title: Aspiring to Be Blameless
-  - id: CA1
-    title: Not Pursuing and Accumulating Worldly Wealth & Possessions
-  - id: CA6
-    title: Not Setting a Goal of Being Rich
+  - id: AA8
+    title: Guarding Ourselves Against Greed
   - id: AA25
     title: Focusing Our Thoughts on Things that Are Godly
 - id: A23
@@ -13616,8 +13576,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: BA11
-    title: Honoring God & Yeshua
   - id: H1
     title: Having Reverence for God's Sanctuary
   - id: G6
@@ -13762,12 +13720,12 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: BA44
-    title: Relying on God
   - id: G12
     title: Having Faith in God & Trusting Him in All Things
   - id: AA32
     title: Being Faithful, Trustworthy and Loyal
+  - id: BA44
+    title: Relying on God
 - id: A9
   commandment: We are not to swear to that which we know is not true.
   commandment_type: Negative
@@ -13876,18 +13834,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA44
-    title: Knowing & Doing What is Right & Good
-  - id: CA4
-    title: Being Content with Having the Essentials for Living
-  - id: DA7
-    title: Being Sensitive to Each Other’s Needs
-  - id: DA9
-    title: Giving to Our Neighbor That Which Is Owed Him
-  - id: DA12
-    title: Being Good, Kind, & Generous to One Another
-  - id: DA44
-    title: Not Being Indebted to Our Neighbor
   - id: BB1
     title: Giving Tzedakah to the Poor & to Our Brother Who is in Need
   - id: B5
@@ -13970,8 +13916,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: DA9
-    title: Giving to Our Neighbor That Which Is Owed Him
   - id: C1
     title: Being Fair & Honest in Business
 - id: B4
@@ -14324,12 +14268,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: DA9
-    title: Giving to Our Neighbor That Which Is Owed Him
-  - id: DA14
-    title: Submitting to One Another
-  - id: DA44
-    title: Not Being Indebted to Our Neighbor
   - id: C3
     title: Cancelling Loans & Not Refusing to Make Loans In & Near the Sabbatical Year
   - id: D18
@@ -14383,12 +14321,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA9
-    title: Giving to Our Neighbor That Which Is Owed Him
-  - id: DA44
-    title: Not Being Indebted to Our Neighbor
   - id: C1
     title: Being Fair & Honest in Business
 - id: D1
@@ -14953,8 +14885,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA37
-    title: Not Planning to Do Wrong
   - id: D1
     title: Resting from Work & Assembling on the Weekly Sabbath
   - id: D4
@@ -16252,12 +16182,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: DA14
-    title: Submitting to One Another
-  - id: DA59
-    title: Not Misleading or Harming a Child
-  - id: DA60
-    title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender
   - id: CB20
     title: Raising Our Children to Believe in Yeshua
   - id: CB13
@@ -17944,10 +17868,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: BA1
-    title: Not Testing or Tempting God, the Holy Spirit, or Yeshua
-  - id: CA9
-    title: Not Relying on Riches
   - id: BA9
     title: Believing in God’s Evenhanded Justice
   - id: G12
@@ -18083,24 +18003,10 @@
   related_lawofmessiah:
   - id: AA1
     title: Aspiring to Godliness and Holiness
-  - id: AA36
-    title: Not Blaspheming
-  - id: BA11
-    title: Honoring God & Yeshua
-  - id: BA12
-    title: Lifting Up Yeshua
-  - id: BA34
-    title: Not Dishonoring God
-  - id: BA35
-    title: Not Rejecting or Turning Away from God or Yeshua
-  - id: BA46
-    title: Remaining Rooted in Yeshua
   - id: AA4
     title: Seeking to Be Both Inwardly & Outwardly Clean
   - id: A14
     title: Aspiring to God's Perfection & Holiness
-  - id: H3
-    title: Preserving Things That Belong to God and That are Holy
 - id: G8
   commandment: We are to serve, worship, praise, & pray to God.
   commandment_type: Positive
@@ -19021,8 +18927,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
   related_lawofmessiah:
-  - id: AA9
-    title: Letting God’s Light That Is in Us Shine
   - id: I6
     title: Destroying Idolatry
   - id: VA5
@@ -19271,8 +19175,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA9
-    title: Letting God’s Light That Is in Us Shine
   - id: VA1
     title: Separating Ourselves from Idolaters
 - id: J1
@@ -19576,10 +19478,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: BA9
-    title: Believing in God’s Evenhanded Justice
-  - id: DA3
-    title: Not Harming Our Neighbor
   - id: A7
     title: Confessing, Repenting, and Making Restitution for Our Sins
 - id: J4
@@ -20315,12 +20213,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA13
-    title: Fleeing from Sin & Evil
-  - id: AA51
-    title: Aspiring to Be Blameless
-  - id: BA53
-    title: Not Attributing Our Temptations to God
   - id: GB39
     title: Seeking the Way Out of Temptation that God Has Provided
 - id: M2
@@ -20505,10 +20397,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA9
-    title: Giving to Our Neighbor That Which Is Owed Him
   - id: C1
     title: Being Fair & Honest in Business
   - id: N1
@@ -20562,12 +20450,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA21
-    title: Not Committing Murder
-  - id: DA45
-    title: Not Sinning Against Our Brother or Neighbor
   - id: M10
     title: Biblical Principles of War
   - id: DA24
@@ -20630,12 +20512,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA22
-    title: Not Robbing or Stealing from Our Neighbors
-  - id: DA45
-    title: Not Sinning Against Our Brother or Neighbor
   - id: C1
     title: Being Fair & Honest in Business
   - id: M1
@@ -20804,16 +20680,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA8
-    title: Guarding Ourselves Against Greed
-  - id: AA37
-    title: Not Planning to Do Wrong
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA20
-    title: Not Being Envious, Jealous, or Covetous of Our Neighbor
-  - id: DA45
-    title: Not Sinning Against Our Brother or Neighbor
   - id: C1
     title: Being Fair & Honest in Business
   - id: M1
@@ -21198,14 +21064,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA33
-    title: Guarding Against Hypocrites & Not Being a Hypocrite
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA43
-    title: Not Calling Any Person Common or Unclean
-  - id: DA50
-    title: Bearing with One Another in Love & with Forgiveness
   - id: DA24
     title: Loving Our Brother & Neighbor
   - id: DA46
@@ -21445,34 +21303,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA20
-    title: Being Gentle
-  - id: AA60
-    title: Not Allowing Anger to Cause Us to Sin
-  - id: AA64
-    title: Being Slow to Anger
-  - id: AA65
-    title: Not Holding Onto or Prolonging Anger
-  - id: DA1
-    title: Speedily Seeking Reconciliation when Summoned to Court
-  - id: DA2
-    title: Seeking Reconciliation with Our Brother
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA10
-    title: Living in Peace with Our Neighbors
-  - id: DA21
-    title: Not Committing Murder
-  - id: DA26
-    title: Not Quarreling or Fighting with Our Neighbor
-  - id: DA38
-    title: Not Engaging in Rivalry
-  - id: DA45
-    title: Not Sinning Against Our Brother or Neighbor
-  - id: DA48
-    title: Not Harboring Bitterness, Malice, Meanness or Spitefulness Against Our Neighbor
-  - id: DA50
-    title: Bearing with One Another in Love & with Forgiveness
   - id: N18
     title: Being Compassionate & Merciful Toward Our Neighbor
   - id: DA24
@@ -21511,16 +21341,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
   related_lawofmessiah:
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA21
-    title: Not Committing Murder
-  - id: DA31
-    title: Not Hating Our Brother
-  - id: DA33
-    title: Not Looking Down on a Brother
-  - id: DA48
-    title: Not Harboring Bitterness, Malice, Meanness or Spitefulness Against Our Neighbor
   - id: DA24
     title: Loving Our Brother & Neighbor
   - id: N18
@@ -21777,38 +21597,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA2
-    title: Behaving Properly
-  - id: AA22
-    title: Speaking Only That Which is Holy and Beneficial
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA9
-    title: Giving to Our Neighbor That Which Is Owed Him
-  - id: DA10
-    title: Living in Peace with Our Neighbors
-  - id: DA18
-    title: Not Causing Our Neighbor or Brother to Stumble
-  - id: DA23
-    title: Not Slandering or Giving False Testimony Against Our Neighbor
-  - id: DA27
-    title: Not Intimidating Our Neighbor
-  - id: DA28
-    title: Not Being a Gossip or Talebearer
-  - id: DA35
-    title: Not Extorting Our Neighbor
-  - id: DA43
-    title: Not Calling Any Person Common or Unclean
-  - id: DA45
-    title: Not Sinning Against Our Brother or Neighbor
-  - id: DA47
-    title: Not Deceiving Our Neighbor
-  - id: DA51
-    title: Not Provoking Our Neighbor
-  - id: DA52
-    title: Behaving Wisely Toward Outsiders
-  - id: DA64
-    title: Not Speaking Badly or Critically of Our Brother or Neighbor
   - id: DA5
     title: Serving One Another
   - id: DA6
@@ -22112,18 +21900,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA25
-    title: Not Defrauding Our Neighbor
-  - id: DA35
-    title: Not Extorting Our Neighbor
-  - id: DA45
-    title: Not Sinning Against Our Brother or Neighbor
-  - id: DA47
-    title: Not Deceiving Our Neighbor
-  - id: DA48
-    title: Not Harboring Bitterness, Malice, Meanness or Spitefulness Against Our Neighbor
   - id: N18
     title: Being Compassionate & Merciful Toward Our Neighbor
 - id: N7
@@ -22780,12 +22556,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Implied
   related_lawofmessiah:
-  - id: AA4
-    title: Seeking to Be Both Inwardly & Outwardly Clean
-  - id: AA15
-    title: Keeping Free from, and Purifying Ourselves from Things that Defile
-  - id: AA26
-    title: Not Touching That Which is Unclean
   - id: P3
     title: Regarding God's Priests as Holy
 - id: P7
@@ -22824,12 +22594,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA4
-    title: Seeking to Be Both Inwardly & Outwardly Clean
-  - id: AA15
-    title: Keeping Free from, and Purifying Ourselves from Things that Defile
-  - id: AA26
-    title: Not Touching That Which is Unclean
   - id: P3
     title: Regarding God's Priests as Holy
 - id: R1
@@ -23309,10 +23073,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: DA3
-    title: Not Harming Our Neighbor
-  - id: DA45
-    title: Not Sinning Against Our Brother or Neighbor
   - id: CB8
     title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   - id: CB9
@@ -23389,8 +23149,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA61
-    title: Hating Ungodly Vices
   - id: CB8
     title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   - id: CB9
@@ -23637,10 +23395,6 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: AA39
-    title: Fleeing Lustful Passions
-  - id: AA49
-    title: Not Giving Ourselves to Sensuality
   - id: CB8
     title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   - id: CB9
@@ -23992,10 +23746,10 @@
   - MN156
   chinuch: []
   related_lawofmessiah:
-  - id: AA53
-    title: Having a Sound & Godly Doctrine
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
+  - id: AA53
+    title: Having a Sound & Godly Doctrine
 - id: W8
   category: The Word and Will of God & Messiah
   title: Obeying the Mitzvot of Adonai & Yeshua
@@ -24094,10 +23848,6 @@
   meir: []
   chinuch: []
   related_lawofmessiah:
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-  - id: BA31
-    title: Not Despising God or Yeshua
   - id: W6
     title: Adding to, or Subtracting from, the Written Word of God
   - id: E1
@@ -24342,14 +24092,10 @@
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2
   commandment_form: Explicit
   related_lawofmessiah:
-  - id: BA20
-    title: Listening to, Believing, and Obeying the Good News of Yeshua
-  - id: BA26
-    title: Being Yeshua’s Witness
-  - id: DA27
-    title: Not Intimidating Our Neighbor
   - id: G2
     title: Acknowledging and not Denying Belief in God and in Yeshua
+  - id: BA26
+    title: Being Yeshua’s Witness
 - id: Y6
   commandment: We are to follow Yeshua and put him before all else.
   commandment_type: Positive
@@ -24597,8 +24343,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: BA35
-    title: Not Rejecting or Turning Away from God or Yeshua
   - id: AB6
     title: Sowing in the Holy Spirit
   - id: AB8
@@ -24837,8 +24581,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: BA35
-    title: Not Rejecting or Turning Away from God or Yeshua
   - id: AB6
     title: Sowing in the Holy Spirit
   - id: AB8
@@ -24865,7 +24607,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AB6
+    title: Sowing in the Holy Spirit
+  - id: AB8
+    title: Hearing the Holy Spirit
+  - id: AB9
+    title: Being Bold in the Holy Spirit
+  - id: AB7
+    title: Being Led by the Holy Spirit
 - id: AB5
   title: Not lying to the Holy Spirit
   category: Holy Spirit
@@ -25358,8 +25108,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: Fathers
   related_lawofmessiah:
-  - id: DA59
-    title: Not Misleading or Harming a Child
   - id: CB20
     title: Raising Our Children to Believe in Yeshua
 - id: CB13
@@ -25403,8 +25151,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: Married
   related_lawofmessiah:
-  - id: AA32
-    title: Being Faithful, Trustworthy and Loyal
   - id: CB23
     title: Treating Marriage as Honorable
   - id: CB6
@@ -25743,10 +25489,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: Wives
   related_lawofmessiah:
-  - id: AA62
-    title: Not Being Cowardly
-  - id: DA27
-    title: Not Intimidating Our Neighbor
   - id: CB26
     title: Wives Nurturing the Inner Character of their Heart
   - id: G12
@@ -26106,12 +25848,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA43
-    title: Not Being Self-Seeking
-  - id: BA55
-    title: Humbling Ourselves before God
-  - id: DA33
-    title: Not Looking Down on a Brother
   - id: EA6
     title: Being Humble and Not Arrogant or Prideful
   - id: DA5
@@ -26194,12 +25930,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA43
-    title: Not Being Self-Seeking
-  - id: BA55
-    title: Humbling Ourselves before God
-  - id: DA33
-    title: Not Looking Down on a Brother
   - id: EA6
     title: Being Humble and Not Arrogant or Prideful
   - id: EA7
@@ -26302,8 +26032,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA43
-    title: Not Being Self-Seeking
   - id: BA11
     title: Honoring God & Yeshua
   - id: BA12
@@ -26713,10 +26441,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA22
-    title: Speaking Only That Which is Holy and Beneficial
-  - id: DA40
-    title: Welcoming & Not Arguing with Persons Who Are Weak in Faith
   - id: FA12
     title: Praying Regularly and Continually
   - id: FA13
@@ -28334,12 +28058,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA13
-    title: Fleeing from Sin & Evil
-  - id: AA51
-    title: Aspiring to Be Blameless
-  - id: DA45
-    title: Not Sinning Against Our Brother or Neighbor
   - id: A14
     title: Aspiring to God's Perfection & Holiness
   - id: AA3
@@ -28397,22 +28115,10 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA3
-    title: Pursuing Righteousness & Living Righteously
-  - id: AA19
-    title: Persevering, Standing Firm, & Growing in Our Faith
-  - id: AA21
-    title: Not Being Lukewarm in Our Faith
   - id: AA31
     title: Being Steadfast in Our Faith and Our Thinking
-  - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua
-  - id: BA5
-    title: Not Denying Our Belief and Faith in God & Yeshua
-  - id: BA35
-    title: Not Rejecting or Turning Away from God or Yeshua
-  - id: BA58
-    title: Standing Firm in Union with the Lord
+  - id: AA19
+    title: Persevering, Standing Firm, & Growing in Our Faith
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
   - id: G12
@@ -28431,8 +28137,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: DA67
-    title: Not Partnering with Unbelievers & Ungodly People
   - id: DA41
     title: Being Friends with Brothers & Friendly to Outsiders
 - id: GB10
@@ -28458,14 +28162,14 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA61
-    title: Hating Ungodly Vices
   - id: GB44
     title: Exercising Self Control (Discipline)
   - id: GB63
     title: Being Serious and Sensible
   - id: GB6
     title: Using Wine Medicinally
+  - id: AA61
+    title: Hating Ungodly Vices
   - id: GB71
     title: Being Zealous for What is Good
 - id: GB11
@@ -28574,14 +28278,10 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin
-  - id: BA53
-    title: Not Attributing Our Temptations to God
-  - id: BA58
-    title: Standing Firm in Union with the Lord
   - id: GB44
     title: Exercising Self Control (Discipline)
+  - id: AA6
+    title: Keeping Our Minds from Causing Our Bodies to Sin
   - id: A24
     title: Being Clean of Spirit as Well as of Body
 - id: GB16
@@ -28945,8 +28645,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: DA24
-    title: Loving Our Brother & Neighbor
   - id: GB34
     title: Doing Everything in Love
   - id: A17
@@ -29055,8 +28753,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA22
-    title: Speaking Only That Which is Holy and Beneficial
   - id: GB19
     title: Being Alert and on Guard Against Spiritual Danger
   - id: DA15
@@ -29156,16 +28852,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA11
-    title: Renouncing Worldly Pleasures
-  - id: AA12
-    title: Not Being Contaminated by the World and Worldly Standards
-  - id: AA35
-    title: Not Harboring Selfish Ambition
-  - id: AA43
-    title: Not Being Self-Seeking
-  - id: AA61
-    title: Hating Ungodly Vices
   - id: GB44
     title: Exercising Self Control (Discipline)
   - id: GB23
@@ -29293,12 +28979,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA39
-    title: Fleeing Lustful Passions
-  - id: AA61
-    title: Hating Ungodly Vices
-  - id: BA6
-    title: Offering Our Entire Selves to God
   - id: GB7
     title: Living in a Way That is Good
   - id: GB22
@@ -29324,8 +29004,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA62
-    title: Not Being Cowardly
   - id: DA11
     title: Bearing the Weaknesses of Those Who Are Not Strong
   - id: JA9
@@ -29451,8 +29129,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: CA9
-    title: Not Relying on Riches
   - id: BA44
     title: Relying on God
 - id: GB48
@@ -29568,8 +29244,6 @@
   related_lawofmessiah:
   - id: AA30
     title: Being Honest and a Teller of Truth
-  - id: DA54
-    title: Not Flattering One Another
   - id: C1
     title: Being Fair & Honest in Business
   - id: GB58
@@ -29605,8 +29279,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA53
-    title: Having a Sound & Godly Doctrine
   - id: GB20
     title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
 - id: GB54
@@ -29623,12 +29295,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA19
-    title: Persevering, Standing Firm, & Growing in Our Faith
-  - id: AA21
-    title: Not Being Lukewarm in Our Faith
-  - id: AA31
-    title: Being Steadfast in Our Faith and Our Thinking
   - id: BA44
     title: Relying on God
   - id: G12
@@ -29802,18 +29468,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin
-  - id: AA11
-    title: Renouncing Worldly Pleasures
-  - id: AA12
-    title: Not Being Contaminated by the World and Worldly Standards
-  - id: AA39
-    title: Fleeing Lustful Passions
-  - id: AA49
-    title: Not Giving Ourselves to Sensuality
-  - id: BA58
-    title: Standing Firm in Union with the Lord
   - id: GB11
     title: Wearing and Employing God’s Armor and Weaponry
   - id: AA31
@@ -29853,8 +29507,6 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   related_lawofmessiah:
-  - id: BA13
-    title: Hearing the Words & Voice of God and Yeshua
   - id: GB23
     title: Pursuing That Which Makes for Faith and Upbuilding
   - id: GB20
@@ -30185,7 +29837,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: HA3
+    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
+  - id: KA1
+    title: Being on Our Guard Against False Messiahs
+  - id: KA2
+    title: Being on Our Guard Against False Prophets
 - id: HA2
   title: Not Fearing Wars & Upheavals in the End Times
   category: Tribulation & Adversity
@@ -30273,7 +29931,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: KA2
+    title: Being on Our Guard Against False Prophets
+  - id: KA1
+    title: Being on Our Guard Against False Messiahs
 - id: HA5
   title: Patiently Awaiting Yeshua’s Return
   category: Tribulation & Adversity
@@ -30332,7 +29994,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: KA2
+    title: Being on Our Guard Against False Prophets
+  - id: KA1
+    title: Being on Our Guard Against False Messiahs
+  - id: UA6
+    title: Overcoming Adversity through Faith and Perseverance
+  - id: HA3
+    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
 - id: HB1
   title: Not Pursuing Torah Observance Legalistically
   category: The Word and Will of God & Messiah
@@ -30374,7 +30044,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: HB6
+    title: Keeping Torah in Our Heart
+  - id: W8
+    title: Obeying the Mitzvot of Adonai & Yeshua
+  - id: HB23
+    title: Considering the Torah a Torah of Freedom
 - id: HB11
   title: Internalizing the Word of God and of Messiah
   category: The Word and Will of God & Messiah
@@ -30733,7 +30409,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: HB8
+    title: Not Believing that Yeshua Abolished the Torah or the Prophets
+  - id: W2
+    title: Remembering and Walking in Awareness of God's Word
+  - id: HB2
+    title: Seeking to Understand the Will of God
 - id: HB4
   title: Not Adding or Removing Anything from the Book of Revelation
   category: The Word and Will of God & Messiah
@@ -30796,7 +30478,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: W8
+    title: Obeying the Mitzvot of Adonai & Yeshua
+  - id: HB23
+    title: Considering the Torah a Torah of Freedom
+  - id: W1
+    title: Studying, Hearing & Teaching Torah & Torah -Obedience
+  - id: J1
+    title: Applying the Mosaic Law in a Manner Consistent with New Covenant Realities
 - id: HB8
   title: Not Believing that Yeshua Abolished the Torah or the Prophets
   category: The Word and Will of God & Messiah
@@ -30909,7 +30599,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: N13
+    title: Repenting of Our Own Sin before Seeking to Correct Our Neighbor
+  - id: DA49
+    title: Bearing One Another’s Burdens
 - id: IA3
   title: Not Prohibiting Foods that God Allows
   category: Dietary Laws & Food Regulations
@@ -30924,7 +30618,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: K1
+    title: Creatures We Are Allowed to Eat and Forbidden to Eat
 - id: JA1
   title: 'Blessing, Not Cursing, Those Who Would Harm or Mistreat Us: Loving Our Enemies'
   category: Engaging Our Enemies
@@ -31134,7 +30830,17 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: JA9
+    title: Keeping Our Faith Amidst Persecution
+  - id: JA5
+    title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
+  - id: JA11
+    title: Keeping the Faith Amidst Persecution
+  - id: AB9
+    title: Being Bold in the Holy Spirit
+  - id: G12
+    title: Having Faith in God & Trusting Him in All Things
 - id: JA5
   title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
   category: Engaging Our Enemies
@@ -31538,7 +31244,7 @@
 - id: LA1
   title: Being Enslaved to God & His Righteousness, & Not by Sin
   category: Slaves & Indentured Servants
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   bible_references:
     nt_scriptures:
@@ -31632,7 +31338,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: LA6
+    title: Using Our Enslavement to Serve God but Gaining Freedom If Possible
 - id: LA3
   title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
   category: Slaves & Indentured Servants
@@ -31789,7 +31497,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: Servants
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: LA3
+    title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
+  - id: LA11
+    title: Servants Being Faithful to Their Masters
 - id: MA1
   title: Not Worrying or Being Anxious about Having Adequate Provisions
   category: Tribulation & Adversity
@@ -31818,7 +31530,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA44
+    title: Relying on God
+  - id: G12
+    title: Having Faith in God & Trusting Him in All Things
+  - id: FA22
+    title: Praying for Daily Provisions
 - id: MA2
   title: Not Being Fearful of Man
   category: Tribulation & Adversity
@@ -31878,7 +31596,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA44
+    title: Relying on God
+  - id: G12
+    title: Having Faith in God & Trusting Him in All Things
+  - id: FA22
+    title: Praying for Daily Provisions
 - id: MA4
   title: Not Having Fear, Worry, or Anxiety about Anything
   category: Tribulation & Adversity
@@ -31907,7 +31631,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA44
+    title: Relying on God
+  - id: G12
+    title: Having Faith in God & Trusting Him in All Things
+  - id: FA22
+    title: Praying for Daily Provisions
 - id: NA1
   title: Not Persisting to Minister God’s Word to Persons Who Reject It
   category: Ministering, Discipling & Teaching
@@ -32512,7 +32242,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: NA15
+    title: Teaching and Ministering the Words of God & Yeshua
+  - id: NA11
+    title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
+  - id: NA18
+    title: Ministering as Ambassadors of Yeshua
+  - id: NA21
+    title: Ministering with the Wisdom of Messiah
 - id: NA5
   title: Teaching Both in Public and in Private
   category: Ministering, Discipling & Teaching
@@ -32655,7 +32393,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: OA9
+    title: Spiritual Leaders Pastoring Those in Their Care
+  - id: NA22
+    title: Ministering in a Fatherly Manner
 - id: OA12
   title: Leading by Example
   category: Spiritual Leadership
@@ -33461,7 +33203,17 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: RA10
+    title: Rebuking and Exhorting with Patience and Instruction
+  - id: RA6
+    title: Publicly Rebuking Leaders Who Continue to Sin
+  - id: RA4
+    title: Correcting One Another with Humility and Gentleness
+  - id: RA21
+    title: Judging Without Prejudice or Partiality
+  - id: N8
+    title: Giving Respect & Honor to Persons of Advanced Age
 - id: RA19
   title: Instructing Widows to Not Be Self-Indulgent
   category: Instructing, Correcting, Rebuking & Judging
@@ -33681,7 +33433,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: RA6
+    title: Publicly Rebuking Leaders Who Continue to Sin
+  - id: RA2
+    title: Correcting Those Who Teach and Follow False Doctrines
+  - id: RA4
+    title: Correcting One Another with Humility and Gentleness
 - id: RA6
   title: Publicly Rebuking Leaders Who Continue to Sin
   category: Instructing, Correcting, Rebuking & Judging
@@ -33894,7 +33652,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: SA9
+    title: Arming Ourselves with the Mind of Yeshua
+  - id: SA4
+    title: Arming Ourselves with Spiritual Weapons
+  - id: SA8
+    title: Resisting and Opposing the Adversary
+  - id: SA10
+    title: Testing Every Spirit
 - id: SA6
   title: Being a Soldier of Yeshua
   category: Spiritual Warfare
@@ -34601,7 +34367,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: I6
+    title: Destroying Idolatry
+  - id: VA5
+    title: Guarding Against False Gods
+  - id: VA1
+    title: Separating Ourselves from Idolaters
 - id: VA3
   title: Not Eating Meat Sacrificed to Idols
   category: Idolatry, Heathens & the Occult
@@ -34614,7 +34386,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: VA1
+    title: Separating Ourselves from Idolaters
+  - id: VA5
+    title: Guarding Against False Gods
+  - id: IA1
+    title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
 - id: VA4
   title: Not Involving Ourselves in the Occult
   category: Idolatry, Heathens & the Occult
@@ -34629,7 +34407,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: VA1
+    title: Separating Ourselves from Idolaters
+  - id: VA5
+    title: Guarding Against False Gods
+  - id: I5
+    title: Enabling Idolatry
+  - id: I7
+    title: Listening to Those Who Would Lead Us Toward Idolatry
 - id: VA5
   title: Guarding Against False Gods
   category: Idolatry, Heathens & the Occult
@@ -34737,7 +34523,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: WA1
+    title: Abstaining from Fornication and Other Acts of Sexual Immorality
 - id: WA4
   title: Not Committing Adultery
   category: Godliness, Holiness & Righteousness
@@ -34774,7 +34562,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: WA1
+    title: Abstaining from Fornication and Other Acts of Sexual Immorality
 - id: WA6
   title: Not Teaching to Commit Acts of Sexual Immorality
   category: Godliness, Holiness & Righteousness
@@ -34882,7 +34672,11 @@
   ncla:
   - code: JMi JFi KMi KFi GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: XA7
+    title: Treating Gentiles and Jews as Spiritually Equal
+  - id: DB1
+    title: Remaining in the Same Condition and Identity as When First Called
 - id: XA2
   title: Gentiles Rejoicing with the Jewish People
   category: Gentiles
@@ -34945,7 +34739,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMi GFi
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: XA4
+    title: Applying Torah to Gentiles
+  - id: XA11
+    title: Jews Being a Light and Blessing to the Gentiles
+  - id: XA7
+    title: Treating Gentiles and Jews as Spiritually Equal
 - id: XA6
   title: Gentiles Helping Jews in Material Ways
   category: Gentiles
@@ -35218,7 +35018,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: ZA3
+    title: Exercising the Gift of Tongues in Good Order
+  - id: ZA1
+    title: Using Our Spiritual Gifts to Serve Others
+  - id: ZA2
+    title: Seeking to Interpret One’s Own Utterance in Tongues
 - id: ZA12
   title: Not Forbidding the Speaking in Tongues
   category: Spiritual Gifts
@@ -35231,7 +35037,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: ZA3
+    title: Exercising the Gift of Tongues in Good Order
+  - id: ZA1
+    title: Using Our Spiritual Gifts to Serve Others
+  - id: ZA2
+    title: Seeking to Interpret One’s Own Utterance in Tongues
 - id: ZA13
   title: Not Neglecting Our Spiritual Gifts
   category: Spiritual Gifts
@@ -35244,7 +35056,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: ZA7
+    title: Determining Our Spiritual Gifts
+  - id: ZA1
+    title: Using Our Spiritual Gifts to Serve Others
+  - id: ZA9
+    title: Preferring Love Over Spiritual Gifts
+  - id: ZA10
+    title: Using Our Spiritual Gifts to Edify the Body
 - id: ZA2
   title: Seeking to Interpret One’s Own Utterance in Tongues
   category: Spiritual Gifts
@@ -35316,7 +35136,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: ZA3
+    title: Exercising the Gift of Tongues in Good Order
+  - id: ZA1
+    title: Using Our Spiritual Gifts to Serve Others
+  - id: ZA2
+    title: Seeking to Interpret One’s Own Utterance in Tongues
 - id: ZA6
   title: Seeking the Gift of Prophecy
   category: Spiritual Gifts
