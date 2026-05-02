@@ -8152,6 +8152,22 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
+- id: GB21
+  title: Working to Earn Our Living (Not Being Idle)
+  manually_review: It is already implied in the other double_ids.
+  unique: false
+  double_ids:
+  - id: DA58
+    title: Living So as Not to Be Financially Dependent on Others
+  category: Way of Life
+  commandment_type: Positive & Negative
+  copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
+  bible_references:
+    key_nt_scriptures:
+    - 1 Thessalonians 4:11
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: GB22
   title: Living According to God’s Word and Spirit
   manually_review: It is already implied in the other double_ids.

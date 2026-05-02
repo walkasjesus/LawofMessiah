@@ -24647,7 +24647,17 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: A14
+    title: Aspiring to God's Perfection & Holiness
+  - id: AA3
+    title: Pursuing Righteousness & Living Righteously
+  - id: GB23
+    title: Pursuing That Which Makes for Faith and Upbuilding
+  - id: GB7
+    title: Living in a Way That is Good
+  - id: GB71
+    title: Being Zealous for What is Good
 - id: GA7
   title: Not Hardening Our Hearts toward God
   category: Repenting & Seeking Forgiveness of Sin
@@ -24666,7 +24676,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GA1
+    title: Repenting of Our Sins and Turning to God
 - id: GA8
   title: Not Backsliding in Faith After Knowing God’s Righteousness
   category: Repenting & Seeking Forgiveness of Sin
@@ -24692,7 +24704,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AA31
+    title: Being Steadfast in Our Faith and Our Thinking
+  - id: AA19
+    title: Persevering, Standing Firm, & Growing in Our Faith
+  - id: JA9
+    title: Keeping Our Faith Amidst Persecution
+  - id: G12
+    title: Having Faith in God & Trusting Him in All Things
 - id: GB1
   title: Not Yoking Ourselves with Unbelievers or Heretics
   category: Way of Life
@@ -24706,7 +24726,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: DA41
+    title: Being Friends with Brothers & Friendly to Outsiders
 - id: GB10
   title: Not Drinking Excessively, Being Intoxicated, or Being a User of Drugs
   category: Way of Life
@@ -24729,7 +24751,17 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB44
+    title: Exercising Self Control (Discipline)
+  - id: GB63
+    title: Being Serious and Sensible
+  - id: GB6
+    title: Using Wine Medicinally
+  - id: AA61
+    title: Hating Ungodly Vices
+  - id: GB71
+    title: Being Zealous for What is Good
 - id: GB11
   title: Wearing and Employing God’s Armor and Weaponry
   category: Way of Life
@@ -24758,7 +24790,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB19
+    title: Being Alert and on Guard Against Spiritual Danger
+  - id: DA15
+    title: Being Likeminded and in Unity with the Brethren
+  - id: DA16
+    title: Encouraging One Another
 - id: GB13
   title: Letting Our Conduct Fit the Level of Our Spiritual Attainment
   category: Way of Life
@@ -24811,7 +24849,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB44
+    title: Exercising Self Control (Discipline)
+  - id: AA6
+    title: Keeping Our Minds from Causing Our Bodies to Sin
+  - id: A24
+    title: Being Clean of Spirit as Well as of Body
 - id: GB16
   title: Doing Everything in the Name of Yeshua
   category: Way of Life
@@ -25089,7 +25133,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB34
+    title: Doing Everything in Love
+  - id: A17
+    title: Being Humble & Not Prideful
 - id: GB29
   title: Doing All Things in a Decent and Orderly Way
   category: Way of Life
@@ -25147,7 +25195,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB50
+    title: Working as for the Lord
+  - id: GB9
+    title: Using Our Time Well
 - id: GB31
   title: Supporting Ourselves and Sharing with Those Who Teach Us
   category: Way of Life
@@ -25179,7 +25231,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB19
+    title: Being Alert and on Guard Against Spiritual Danger
+  - id: DA15
+    title: Being Likeminded and in Unity with the Brethren
+  - id: DA16
+    title: Encouraging One Another
 - id: GB33
   title: Being Content in All Things and All Circumstances
   category: Way of Life
@@ -25262,7 +25320,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB44
+    title: Exercising Self Control (Discipline)
+  - id: GB23
+    title: Pursuing That Which Makes for Faith and Upbuilding
+  - id: GB18
+    title: Living a Good, Quiet, & Peaceful Life
+  - id: GB5
+    title: Living in a Godly Manner and Not as Do the Pagans
 - id: GB37
   title: Pursuing Godly and Not Worldly Wisdom
   category: Way of Life
@@ -25363,7 +25429,17 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB7
+    title: Living in a Way That is Good
+  - id: GB22
+    title: Living According to God’s Word and Spirit
+  - id: GB18
+    title: Living a Good, Quiet, & Peaceful Life
+  - id: GB4
+    title: Living Our Lives Worthy of Our Calling in the Lord
+  - id: GB50
+    title: Working as for the Lord
 - id: GB42
   title: Not Losing Courage
   category: Way of Life
@@ -25378,7 +25454,19 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: DA11
+    title: Bearing the Weaknesses of Those Who Are Not Strong
+  - id: JA9
+    title: Keeping Our Faith Amidst Persecution
+  - id: UA2
+    title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
+  - id: AB9
+    title: Being Bold in the Holy Spirit
+  - id: W5
+    title: Writing, Teaching & Learning the Song of Moses
+  - id: QA6
+    title: Having Courage to Proclaim the Good News
 - id: GB43
   title: Growing, Utilizing and Standing Firm in God’s Grace
   category: Way of Life
@@ -25465,7 +25553,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA44
+    title: Relying on God
 - id: GB48
   title: Persevering in All Situations
   category: Way of Life
@@ -25507,7 +25597,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB8
+    title: Conducting Ourselves Wisely and with Godly Purity
+  - id: GB22
+    title: Living According to God’s Word and Spirit
+  - id: NA15
+    title: Teaching and Ministering the Words of God & Yeshua
 - id: GB5
   title: Living in a Godly Manner and Not as Do the Pagans
   category: Way of Life
@@ -25548,7 +25644,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AA30
+    title: Being Honest and a Teller of Truth
+  - id: C1
+    title: Being Fair & Honest in Business
+  - id: GB58
+    title: Conducting Ourselves with Honor
 - id: GB52
   title: Not Doing Shameful Things
   category: Way of Life
@@ -25573,7 +25675,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB20
+    title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
 - id: GB54
   title: Not Acting in Unbelief
   category: Way of Life
@@ -25587,7 +25691,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA44
+    title: Relying on God
+  - id: G12
+    title: Having Faith in God & Trusting Him in All Things
 - id: GB55
   title: Rejecting Godless Fables
   category: Way of Life
@@ -25640,7 +25748,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB11
+    title: Wearing and Employing God’s Armor and Weaponry
+  - id: GB61
+    title: Having a Godly Purpose in Our Life
+  - id: GB9
+    title: Using Our Time Well
 - id: GB58
   title: Conducting Ourselves with Honor
   category: Way of Life
@@ -25673,7 +25787,19 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB44
+    title: Exercising Self Control (Discipline)
+  - id: AA57
+    title: Being Open to Reason
+  - id: BA54
+    title: Submitting to God
+  - id: AA31
+    title: Being Steadfast in Our Faith and Our Thinking
+  - id: C1
+    title: Being Fair & Honest in Business
+  - id: GB7
+    title: Living in a Way That is Good
 - id: GB6
   title: Using Wine Medicinally
   category: Way of Life
@@ -25724,7 +25850,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB11
+    title: Wearing and Employing God’s Armor and Weaponry
+  - id: AA31
+    title: Being Steadfast in Our Faith and Our Thinking
 - id: GB61
   title: Having a Godly Purpose in Our Life
   category: Way of Life
@@ -25757,7 +25887,13 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: GB23
+    title: Pursuing That Which Makes for Faith and Upbuilding
+  - id: GB20
+    title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
+  - id: AA57
+    title: Being Open to Reason
 - id: GB63
   title: Being Serious and Sensible
   category: Way of Life
@@ -25786,7 +25922,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: BA33
+    title: Glorifying God and Yeshua
+  - id: GB58
+    title: Conducting Ourselves with Honor
 - id: GB65
   title: Not Being Foolish
   category: Way of Life
@@ -25799,7 +25939,11 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AA57
+    title: Being Open to Reason
+  - id: GB8
+    title: Conducting Ourselves Wisely and with Godly Purity
 - id: GB66
   title: Not Being Apostate
   category: Way of Life
@@ -25812,7 +25956,15 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: UA6
+    title: Overcoming Adversity through Faith and Perseverance
+  - id: AA31
+    title: Being Steadfast in Our Faith and Our Thinking
+  - id: AA19
+    title: Persevering, Standing Firm, & Growing in Our Faith
+  - id: JA9
+    title: Keeping Our Faith Amidst Persecution
 - id: GB67
   title: Not Insulting or Defaming Angelic Beings
   category: Way of Life
@@ -25823,7 +25975,9 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
-  related_lawofmessiah: []
+  related_lawofmessiah:
+  - id: AA22
+    title: Speaking Only That Which is Holy and Beneficial
 - id: GB68
   title: Accompanying Our Faith with Actions
   category: Way of Life
