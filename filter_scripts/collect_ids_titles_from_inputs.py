@@ -84,6 +84,29 @@ def build_manual_ncla_lookup(path: Path):
     return lookup
 
 
+def build_existing_related_lookup(path: Path):
+    if not path.exists():
+        return {}
+
+    existing_data = load_yaml(path)
+    lookup = {}
+    for row in to_items(existing_data):
+        if not isinstance(row, dict):
+            continue
+
+        row_id = row.get("id")
+        if not isinstance(row_id, str) or not row_id.strip():
+            continue
+
+        related = row.get("related_lawofmessiah", [])
+        if not isinstance(related, list):
+            continue
+
+        lookup[row_id.strip()] = list(related)
+
+    return lookup
+
+
 def build_category_normalization_lookup(path: Path):
     if not path.exists():
         return {}
@@ -144,7 +167,12 @@ def merge_related_lawofmessiah(row):
     merged = []
     seen = set()
 
-    for field in ["commandments_related_ot", "commandments_related_nt", "double_ids"]:
+    for field in [
+        "related_lawofmessiah",
+        "commandments_related_ot",
+        "commandments_related_nt",
+        "double_ids",
+    ]:
         values = row.get(field, [])
         if not isinstance(values, list):
             continue
@@ -163,6 +191,107 @@ def merge_related_lawofmessiah(row):
             merged.append(dict(entry))
 
     return merged
+
+
+def normalize_related_lawofmessiah(entries):
+    if not isinstance(entries, list):
+        return []
+
+    out = []
+    seen = set()
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+
+        rel_id = entry.get("id")
+        if not isinstance(rel_id, str) or not rel_id.strip():
+            continue
+        rel_id = rel_id.strip()
+
+        rel_title = entry.get("title")
+        if not isinstance(rel_title, str):
+            rel_title = ""
+
+        key = (rel_id, rel_title)
+        if key in seen:
+            continue
+
+        seen.add(key)
+        out.append({"id": rel_id, "title": rel_title})
+
+    return out
+
+
+def merge_related_lists(*lists):
+    merged = []
+    seen = set()
+
+    for values in lists:
+        if not isinstance(values, list):
+            continue
+        for entry in normalize_related_lawofmessiah(values):
+            rel_id = entry.get("id", "")
+            rel_title = entry.get("title", "")
+            key = (rel_id, rel_title)
+            if key in seen:
+                continue
+            seen.add(key)
+            merged.append(entry)
+
+    return merged
+
+
+def expand_bidirectional_related(rows):
+    rows_by_id = {}
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        row_id = row.get("id")
+        if not isinstance(row_id, str) or not row_id.strip():
+            continue
+        rows_by_id[row_id.strip()] = row
+
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+
+        row_id = row.get("id")
+        if not isinstance(row_id, str) or not row_id.strip():
+            continue
+        row_id = row_id.strip()
+        row_title = row.get("title") if isinstance(row.get("title"), str) else ""
+
+        related = normalize_related_lawofmessiah(row.get("related_lawofmessiah", []))
+        row["related_lawofmessiah"] = related
+
+        for rel in list(related):
+            rel_id = rel.get("id")
+            if not isinstance(rel_id, str) or not rel_id.strip():
+                continue
+            rel_id = rel_id.strip()
+
+            if rel_id == row_id:
+                continue
+
+            target = rows_by_id.get(rel_id)
+            if not isinstance(target, dict):
+                continue
+
+            target_related = normalize_related_lawofmessiah(
+                target.get("related_lawofmessiah", [])
+            )
+
+            has_backref = any(
+                isinstance(entry, dict)
+                and isinstance(entry.get("id"), str)
+                and entry.get("id").strip() == row_id
+                for entry in target_related
+            )
+
+            if not has_backref:
+                target_related.append({"id": row_id, "title": row_title})
+
+            target["related_lawofmessiah"] = normalize_related_lawofmessiah(target_related)
 
 
 def normalize_commandment_subtitles(subtitles):
@@ -208,6 +337,7 @@ def main():
     out = []
     manual_review_by_id = build_manual_review_lookup(MANUAL_REVIEW_PATH)
     manual_ncla_by_id = build_manual_ncla_lookup(MANUAL_NCLA_ADDITIONS_PATH)
+    existing_related_by_id = build_existing_related_lookup(OUTPUT_PATH)
     category_lookup = build_category_normalization_lookup(CATEGORY_REVIEW_PATH)
 
     for path, source_name in INPUTS:
@@ -235,7 +365,10 @@ def main():
 
             normalize_category(row_out, category_lookup)
 
-            row_out["related_lawofmessiah"] = merge_related_lawofmessiah(row_out)
+            row_out["related_lawofmessiah"] = merge_related_lists(
+                merge_related_lawofmessiah(row_out),
+                existing_related_by_id.get(row_id, []),
+            )
             normalized_subtitles = normalize_commandment_subtitles(
                 row_out.get("commandment_subtitles", [])
             )
@@ -253,6 +386,10 @@ def main():
             continue
         manual_row_out = dict(manual_row)
         normalize_category(manual_row_out, category_lookup)
+        manual_row_out["related_lawofmessiah"] = merge_related_lists(
+            manual_row_out.get("related_lawofmessiah", []),
+            existing_related_by_id.get(row_id, []),
+        )
         normalized_subtitles = normalize_commandment_subtitles(
             manual_row_out.get("commandment_subtitles", [])
         )
@@ -260,6 +397,8 @@ def main():
             manual_row_out["commandment_subtitles"] = normalized_subtitles
         out.append(manual_row_out)
         seen_ids.add(row_id)
+
+    expand_bidirectional_related(out)
 
     OUTPUT_PATH.write_text(
         yaml.dump(out, default_flow_style=False, allow_unicode=True, sort_keys=False, width=1000),

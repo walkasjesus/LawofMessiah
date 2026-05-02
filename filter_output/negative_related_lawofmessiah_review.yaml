@@ -9,7 +9,8 @@ how_to_review:
 - 'Optional: add context in review.notes.'
 stats:
   total_rows: 804
-  negative_rows_missing_related_ids: 190
+  negative_rows_missing_related_ids: 32
+  review_items_after_preserving_approved: 148
 items:
 - id: AA16
   title: Not Contemplating How to Gratify Sinful Desires
@@ -831,67 +832,6 @@ items:
     - AA32
     - BA44
     notes: ''
-- id: A9
-  title: Swearing Falsely
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: A5
-    title: Swearing Oaths Only in God's Name
-    score: 0.5384
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: A2
-    title: Walking in God's Ways
-    score: 0.5231
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A14
-    title: Aspiring to God's Perfection & Holiness
-    score: 0.5199
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA2
-    title: Behaving Properly
-    score: 0.5164
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: A13
-    title: Being Pure in Heart
-    score: 0.5107
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA24
-    title: Being Tenderhearted
-    score: 0.5
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA22
-    title: Speaking Only That Which is Holy and Beneficial
-    score: 0.4994
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA20
-    title: Being Gentle
-    score: 0.495
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - A5
-    - AA34
-    - M2
 - id: B1
   title: Lending Money without Interest to Our Poor Brother
   existing_related_lawofmessiah: []
@@ -4462,83 +4402,6 @@ items:
     - AB2
     - AB9
     notes: ''
-- id: AB12
-  title: Not Blaspheming Against the Holy Spirit
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: AB6
-    title: Sowing in the Holy Spirit
-    score: 0.6597
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB8
-    title: Hearing the Holy Spirit
-    score: 0.6344
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB2
-    title: Being Filled with the Holy Spirit
-    score: 0.6183
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB9
-    title: Being Bold in the Holy Spirit
-    score: 0.6131
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB7
-    title: Being Led by the Holy Spirit
-    score: 0.6108
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: R2
-    title: Receiving the Holy Spirit
-    score: 0.6012
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB10
-    title: Receiving the Holy Spirit
-    score: 0.5962
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB16
-    title: Producing Fruit of the Holy Spirit
-    score: 0.5742
-    reasons:
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - BA27
-    - G2
-    - BA26
-    - AB6
-    - AB2
-    - AB9
-    notes: ''
 - id: AB3
   title: Not Quenching the Holy Spirit
   existing_related_lawofmessiah: []
@@ -4622,7 +4485,7 @@ items:
   suggested_related_lawofmessiah:
   - id: AB6
     title: Sowing in the Holy Spirit
-    score: 0.6542
+    score: 0.6842
     reasons:
     - frequently_linked
     - same_category
@@ -4630,7 +4493,7 @@ items:
     - title_keyword_overlap
   - id: AB8
     title: Hearing the Holy Spirit
-    score: 0.6212
+    score: 0.6662
     reasons:
     - frequently_linked
     - same_category
@@ -4638,7 +4501,7 @@ items:
     - title_keyword_overlap
   - id: AB9
     title: Being Bold in the Holy Spirit
-    score: 0.6152
+    score: 0.6452
     reasons:
     - frequently_linked
     - same_category
@@ -4646,15 +4509,7 @@ items:
     - title_keyword_overlap
   - id: R2
     title: Receiving the Holy Spirit
-    score: 0.6117
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB2
-    title: Being Filled with the Holy Spirit
-    score: 0.6071
+    score: 0.6367
     reasons:
     - frequently_linked
     - same_category
@@ -4662,7 +4517,7 @@ items:
     - title_keyword_overlap
   - id: AB10
     title: Receiving the Holy Spirit
-    score: 0.6067
+    score: 0.6317
     reasons:
     - frequently_linked
     - same_category
@@ -4670,7 +4525,15 @@ items:
     - title_keyword_overlap
   - id: AB7
     title: Being Led by the Holy Spirit
-    score: 0.6061
+    score: 0.6311
+    reasons:
+    - frequently_linked
+    - same_category
+    - similar_title
+    - title_keyword_overlap
+  - id: AB2
+    title: Being Filled with the Holy Spirit
+    score: 0.6221
     reasons:
     - frequently_linked
     - same_category
@@ -4678,92 +4541,19 @@ items:
     - title_keyword_overlap
   - id: AB16
     title: Producing Fruit of the Holy Spirit
-    score: 0.5767
+    score: 0.5867
     reasons:
+    - frequently_linked
     - same_category
     - similar_title
     - title_keyword_overlap
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - AB6
     - AB8
     - AB9
     - AB7
-    notes: ''
-- id: AB5
-  title: Not lying to the Holy Spirit
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: AB6
-    title: Sowing in the Holy Spirit
-    score: 0.6981
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB8
-    title: Hearing the Holy Spirit
-    score: 0.6713
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: R2
-    title: Receiving the Holy Spirit
-    score: 0.6442
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB10
-    title: Receiving the Holy Spirit
-    score: 0.6392
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB7
-    title: Being Led by the Holy Spirit
-    score: 0.6386
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB2
-    title: Being Filled with the Holy Spirit
-    score: 0.6371
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB9
-    title: Being Bold in the Holy Spirit
-    score: 0.6342
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: AB16
-    title: Producing Fruit of the Holy Spirit
-    score: 0.6155
-    reasons:
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - AB6
-    - AB16
-    - AA30
     notes: ''
 - id: CB12
   title: Fathers Not Irritating Their Children
@@ -6741,69 +6531,6 @@ items:
     - C1
     - GB58
     notes: ''
-- id: GB52
-  title: Not Doing Shameful Things
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: GB29
-    title: Doing All Things in a Decent and Orderly Way
-    score: 0.5454
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: GB34
-    title: Doing Everything in Love
-    score: 0.5324
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: GB17
-    title: Doing Everything in Faith and Unto Yeshua
-    score: 0.5071
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: GB16
-    title: Doing Everything in the Name of Yeshua
-    score: 0.4915
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: GB7
-    title: Living in a Way That is Good
-    score: 0.4843
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: GB33
-    title: Being Content in All Things and All Circumstances
-    score: 0.4812
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: GB44
-    title: Exercising Self Control (Discipline)
-    score: 0.4782
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: GB23
-    title: Pursuing That Which Makes for Faith and Upbuilding
-    score: 0.475
-    reasons:
-    - frequently_linked
-    - same_category
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - GB29
-    - GB7
-    - GB17
-    - GB44
-    notes: ''
 - id: GB53
   title: Not Opposing Sound Teaching
   existing_related_lawofmessiah: []
@@ -7460,126 +7187,61 @@ items:
   suggested_related_lawofmessiah:
   - id: HA3
     title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
-    score: 0.5925
+    score: 0.5975
     reasons:
     - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: HA5
-    title: Patiently Awaiting Yeshua’s Return
-    score: 0.5529
-    reasons:
     - same_category
     - similar_title
     - title_keyword_overlap
   - id: KA2
     title: Being on Our Guard Against False Prophets
-    score: 0.536
+    score: 0.561
     reasons:
     - frequently_linked
     - same_category
+  - id: HA5
+    title: Patiently Awaiting Yeshua’s Return
+    score: 0.5579
+    reasons:
+    - frequently_linked
+    - same_category
+    - similar_title
+    - title_keyword_overlap
   - id: KA1
     title: Being on Our Guard Against False Messiahs
-    score: 0.4868
+    score: 0.5068
     reasons:
     - frequently_linked
     - same_category
   - id: UA3
     title: Being Encouraged in Our Suffering
-    score: 0.4868
+    score: 0.4968
     reasons:
+    - frequently_linked
     - same_category
   - id: UA6
     title: Overcoming Adversity through Faith and Perseverance
-    score: 0.4622
+    score: 0.4772
     reasons:
     - frequently_linked
     - same_category
   - id: UA2
     title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
-    score: 0.4619
+    score: 0.4769
     reasons:
     - frequently_linked
     - same_category
   - id: UA7
     title: Bearing Up Under Undeserved Punishment
-    score: 0.45
+    score: 0.46
     reasons:
+    - frequently_linked
     - same_category
-  - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua
-    score: 0.441
-    reasons:
-    - manual_review
-    - theological_fit
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - HA3
-    - HA5
-    - KA2
-    notes: ''
-- id: HA2
-  title: Not Fearing Wars & Upheavals in the End Times
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: KA2
-    title: Being on Our Guard Against False Prophets
-    score: 0.5074
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA6
-    title: Overcoming Adversity through Faith and Perseverance
-    score: 0.4764
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: KA1
-    title: Being on Our Guard Against False Messiahs
-    score: 0.4712
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA2
-    title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
-    score: 0.461
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA5
-    title: Handling Painful Situations in a Godly Way
-    score: 0.455
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA4
-    title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
-    score: 0.4534
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HA3
-    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
-    score: 0.4462
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA1
-    title: Seeking to Escape from the Coming Tribulation
-    score: 0.4409
-    reasons:
-    - same_category
-  - id: BA44
-    title: Relying on God
-    score: 0.439
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
+    - KA1
     - KA2
     notes: ''
 - id: HA4
@@ -7588,58 +7250,55 @@ items:
   suggested_related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
-    score: 0.5332
+    score: 0.5582
     reasons:
     - frequently_linked
     - same_category
   - id: KA1
     title: Being on Our Guard Against False Messiahs
-    score: 0.5032
+    score: 0.5232
     reasons:
     - frequently_linked
     - same_category
     - similar_title
   - id: UA2
     title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
-    score: 0.4817
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HA3
-    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
-    score: 0.4761
+    score: 0.4967
     reasons:
     - frequently_linked
     - same_category
   - id: UA6
     title: Overcoming Adversity through Faith and Perseverance
-    score: 0.4745
+    score: 0.4895
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: HA3
+    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
+    score: 0.4811
     reasons:
     - frequently_linked
     - same_category
   - id: UA3
     title: Being Encouraged in Our Suffering
-    score: 0.47
+    score: 0.48
     reasons:
+    - frequently_linked
     - same_category
   - id: UA1
     title: Seeking to Escape from the Coming Tribulation
-    score: 0.4606
+    score: 0.4756
     reasons:
+    - frequently_linked
     - same_category
-  - id: UA7
-    title: Bearing Up Under Undeserved Punishment
-    score: 0.4376
+  - id: UA5
+    title: Handling Painful Situations in a Godly Way
+    score: 0.4542
     reasons:
+    - frequently_linked
     - same_category
-  - id: W4
-    title: Testing Everything that is Spoken in God's Name
-    score: 0.439
-    reasons:
-    - manual_review
-    - theological_fit
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
     - KA2
     - KA1
@@ -7650,122 +7309,59 @@ items:
   suggested_related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
-    score: 0.499
+    score: 0.524
     reasons:
     - frequently_linked
     - same_category
   - id: UA2
     title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
-    score: 0.4532
+    score: 0.4682
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: KA1
+    title: Being on Our Guard Against False Messiahs
+    score: 0.4647
     reasons:
     - frequently_linked
     - same_category
   - id: HA5
     title: Patiently Awaiting Yeshua’s Return
-    score: 0.45
+    score: 0.455
     reasons:
+    - frequently_linked
     - same_category
-  - id: KA1
-    title: Being on Our Guard Against False Messiahs
-    score: 0.4447
+  - id: UA1
+    title: Seeking to Escape from the Coming Tribulation
+    score: 0.4529
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: UA6
+    title: Overcoming Adversity through Faith and Perseverance
+    score: 0.452
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: UA5
+    title: Handling Painful Situations in a Godly Way
+    score: 0.4489
     reasons:
     - frequently_linked
     - same_category
   - id: UA3
     title: Being Encouraged in Our Suffering
-    score: 0.4386
-    reasons:
-    - same_category
-  - id: UA1
-    title: Seeking to Escape from the Coming Tribulation
-    score: 0.4379
-    reasons:
-    - same_category
-  - id: UA6
-    title: Overcoming Adversity through Faith and Perseverance
-    score: 0.437
+    score: 0.4486
     reasons:
     - frequently_linked
     - same_category
-  - id: UA7
-    title: Bearing Up Under Undeserved Punishment
-    score: 0.4333
-    reasons:
-    - same_category
-  - id: FA2
-    title: Worshiping the One True God and No Other
-    score: 0.439
-    reasons:
-    - manual_review
-    - theological_fit
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
-    notes: ''
-- id: HB1
-  title: Not Pursuing Torah Observance Legalistically
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: HB14
-    title: Using Torah as Torah Itself Intends
-    score: 0.4975
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: HB6
-    title: Keeping Torah in Our Heart
-    score: 0.4955
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W1
-    title: Studying, Hearing & Teaching Torah & Torah -Obedience
-    score: 0.4939
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB15
-    title: Knowing for Whom Torah is Intended
-    score: 0.4797
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB23
-    title: Considering the Torah a Torah of Freedom
-    score: 0.4776
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W8
-    title: Obeying the Mitzvot of Adonai & Yeshua
-    score: 0.4737
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W10
-    title: Attending to Both the Lesser & the Weightier Matters of Torah
-    score: 0.4647
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB24
-    title: Thirsting for the Word of God
-    score: 0.4509
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.446
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
+    - KA2
+    - KA1
+    - UA6
+    - HA3
     notes: ''
 - id: HB10
   title: Not Being Weighed Down by Torah Commandments
@@ -7773,7 +7369,14 @@ items:
   suggested_related_lawofmessiah:
   - id: W1
     title: Studying, Hearing & Teaching Torah & Torah -Obedience
-    score: 0.5076
+    score: 0.5126
+    reasons:
+    - frequently_linked
+    - same_category
+    - similar_title
+  - id: HB15
+    title: Knowing for Whom Torah is Intended
+    score: 0.5068
     reasons:
     - frequently_linked
     - same_category
@@ -7784,294 +7387,43 @@ items:
     reasons:
     - frequently_linked
     - same_category
-  - id: HB15
-    title: Knowing for Whom Torah is Intended
-    score: 0.5018
+  - id: HB6
+    title: Keeping Torah in Our Heart
+    score: 0.4936
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: HB16
+    title: Knowing the Holy Scriptures
+    score: 0.4927
     reasons:
     - frequently_linked
     - same_category
     - similar_title
   - id: HB23
     title: Considering the Torah a Torah of Freedom
-    score: 0.4848
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB6
-    title: Keeping Torah in Our Heart
-    score: 0.4836
+    score: 0.4898
     reasons:
     - frequently_linked
     - same_category
   - id: HB11
     title: Internalizing the Word of God and of Messiah
-    score: 0.478
+    score: 0.488
     reasons:
     - frequently_linked
     - same_category
-  - id: HB14
-    title: Using Torah as Torah Itself Intends
-    score: 0.4749
+  - id: HB17
+    title: Believing in the Inspiration of Scripture and Its Usefulness for Equipping
+    score: 0.4832
     reasons:
     - frequently_linked
     - same_category
-  - id: HB16
-    title: Knowing the Holy Scriptures
-    score: 0.4727
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: HB14
-    title: Using Torah as Torah Itself Intends
-    score: 0.447
-    reasons:
-    - manual_review
-    - theological_fit
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - W1
-    - W8
-    - HB15
-    notes: ''
-- id: HB12
-  title: Not Neglecting the Torah (God’s Teaching)
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: HB18
-    title: Learning God’s Word
-    score: 0.5356
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: HB11
-    title: Internalizing the Word of God and of Messiah
-    score: 0.5275
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: W1
-    title: Studying, Hearing & Teaching Torah & Torah -Obedience
-    score: 0.5247
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: W4
-    title: Testing Everything that is Spoken in God's Name
-    score: 0.5141
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: HB22
-    title: Being Both a Hearer and Doer of God’s Word
-    score: 0.5111
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: HB15
-    title: Knowing for Whom Torah is Intended
-    score: 0.5101
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: HB6
-    title: Keeping Torah in Our Heart
-    score: 0.5066
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: HB21
-    title: Receiving God’s Implanted Word
-    score: 0.5064
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: W8
-    title: Obeying the Mitzvot of Adonai & Yeshua
-    score: 0.447
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - HB18
-    - HB11
-    - W1
-    - W4
-    - HB22
-    - HB15
     - HB6
-    - HB21
-    notes: ''
-- id: HB13
-  title: Not Speculating About God’s Word
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: HB18
-    title: Learning God’s Word
-    score: 0.6221
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: HB19
-    title: Proclaiming God’s Word
-    score: 0.6167
-    reasons:
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: HB21
-    title: Receiving God’s Implanted Word
-    score: 0.5697
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: HB22
-    title: Being Both a Hearer and Doer of God’s Word
-    score: 0.555
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: W2
-    title: Remembering and Walking in Awareness of God's Word
-    score: 0.5398
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: HB24
-    title: Thirsting for the Word of God
-    score: 0.5364
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: HB11
-    title: Internalizing the Word of God and of Messiah
-    score: 0.5258
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: W4
-    title: Testing Everything that is Spoken in God's Name
-    score: 0.5107
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: HB16
-    title: Knowing the Holy Scriptures
-    score: 0.446
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - HB18
-    - HB19
-    - HB21
-    - HB22
-    - W2
-    - HB24
-    - HB11
-    - W4
-    notes: ''
-- id: HB20
-  title: Not Disregarding the Torah of Moses
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: W8
-    title: Obeying the Mitzvot of Adonai & Yeshua
-    score: 0.5388
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: HB23
-    title: Considering the Torah a Torah of Freedom
-    score: 0.535
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: W5
-    title: Writing, Teaching & Learning the Song of Moses
-    score: 0.5324
-    reasons:
-    - same_category
-    - similar_title
-  - id: W1
-    title: Studying, Hearing & Teaching Torah & Torah -Obedience
-    score: 0.5205
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: HB6
-    title: Keeping Torah in Our Heart
-    score: 0.5098
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: HB15
-    title: Knowing for Whom Torah is Intended
-    score: 0.5043
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: HB11
-    title: Internalizing the Word of God and of Messiah
-    score: 0.5029
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: HB24
-    title: Thirsting for the Word of God
-    score: 0.4956
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: W10
-    title: Attending to Both the Lesser & the Weightier Matters of Torah
-    score: 0.447
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
     - W8
     - HB23
-    - W5
-    - W1
-    - HB6
-    - HB15
-    - HB11
     notes: ''
 - id: HB3
   title: Not Adhering to Traditions that Conflict with God’s Commandments (Mitzvot)
@@ -8079,7 +7431,7 @@ items:
   suggested_related_lawofmessiah:
   - id: W4
     title: Testing Everything that is Spoken in God's Name
-    score: 0.519
+    score: 0.524
     reasons:
     - frequently_linked
     - same_category
@@ -8092,181 +7444,48 @@ items:
     - same_category
   - id: HB11
     title: Internalizing the Word of God and of Messiah
-    score: 0.4934
+    score: 0.5034
     reasons:
     - frequently_linked
     - same_category
   - id: HB18
     title: Learning God’s Word
-    score: 0.4909
+    score: 0.5009
+    reasons:
+    - frequently_linked
+    - same_category
+    - title_keyword_overlap
+  - id: HB21
+    title: Receiving God’s Implanted Word
+    score: 0.4983
     reasons:
     - frequently_linked
     - same_category
     - title_keyword_overlap
   - id: HB22
     title: Being Both a Hearer and Doer of God’s Word
-    score: 0.4854
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W2
-    title: Remembering and Walking in Awareness of God's Word
-    score: 0.4815
+    score: 0.4954
     reasons:
     - frequently_linked
     - same_category
   - id: HB2
     title: Seeking to Understand the Will of God
-    score: 0.4786
+    score: 0.4936
     reasons:
     - frequently_linked
     - same_category
-  - id: HB21
-    title: Receiving God’s Implanted Word
-    score: 0.4783
+  - id: W2
+    title: Remembering and Walking in Awareness of God's Word
+    score: 0.4915
     reasons:
     - frequently_linked
     - same_category
-    - title_keyword_overlap
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.446
-    reasons:
-    - manual_review
-    - theological_fit
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - W4
-    - W8
-    notes: ''
-- id: HB4
-  title: Not Adding or Removing Anything from the Book of Revelation
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: W6
-    title: Adding to, or Subtracting from, the Written Word of God
-    score: 0.5151
-    reasons:
-    - same_category
-    - similar_title
-  - id: W8
-    title: Obeying the Mitzvot of Adonai & Yeshua
-    score: 0.4945
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W1
-    title: Studying, Hearing & Teaching Torah & Torah -Obedience
-    score: 0.4926
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: W4
-    title: Testing Everything that is Spoken in God's Name
-    score: 0.4688
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W5
-    title: Writing, Teaching & Learning the Song of Moses
-    score: 0.4676
-    reasons:
-    - same_category
-    - similar_title
-  - id: HB24
-    title: Thirsting for the Word of God
-    score: 0.463
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB11
-    title: Internalizing the Word of God and of Messiah
-    score: 0.4574
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB23
-    title: Considering the Torah a Torah of Freedom
-    score: 0.456
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB17
-    title: Believing in the Inspiration of Scripture and Its Usefulness for Equipping
-    score: 0.446
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - W6
-    notes: ''
-- id: HB5
-  title: Not Going Beyond What Scripture Teaches
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: HB16
-    title: Knowing the Holy Scriptures
-    score: 0.5039
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: HB17
-    title: Believing in the Inspiration of Scripture and Its Usefulness for Equipping
-    score: 0.494
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W8
-    title: Obeying the Mitzvot of Adonai & Yeshua
-    score: 0.4783
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W1
-    title: Studying, Hearing & Teaching Torah & Torah -Obedience
-    score: 0.463
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB18
-    title: Learning God’s Word
-    score: 0.4612
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W4
-    title: Testing Everything that is Spoken in God's Name
-    score: 0.458
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB11
-    title: Internalizing the Word of God and of Messiah
-    score: 0.4543
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB15
-    title: Knowing for Whom Torah is Intended
-    score: 0.4509
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W4
-    title: Testing Everything that is Spoken in God's Name
-    score: 0.446
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - HB16
+    - HB8
+    - W2
+    - HB2
     notes: ''
 - id: HB7
   title: Not Treating Torah as Having Been Abolished and Replaced by Yeshua
@@ -8280,20 +7499,26 @@ items:
     - same_category
   - id: W1
     title: Studying, Hearing & Teaching Torah & Torah -Obedience
-    score: 0.49
+    score: 0.495
     reasons:
     - frequently_linked
     - same_category
   - id: HB11
     title: Internalizing the Word of God and of Messiah
-    score: 0.4836
+    score: 0.4936
     reasons:
     - frequently_linked
     - same_category
     - similar_title
   - id: HB15
     title: Knowing for Whom Torah is Intended
-    score: 0.475
+    score: 0.48
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: HB23
+    title: Considering the Torah a Torah of Freedom
+    score: 0.4718
     reasons:
     - frequently_linked
     - same_category
@@ -8303,96 +7528,25 @@ items:
     reasons:
     - frequently_linked
     - same_category
-  - id: HB23
-    title: Considering the Torah a Torah of Freedom
-    score: 0.4668
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W5
-    title: Writing, Teaching & Learning the Song of Moses
-    score: 0.4601
-    reasons:
-    - same_category
   - id: HB6
     title: Keeping Torah in Our Heart
-    score: 0.4587
+    score: 0.4687
     reasons:
     - frequently_linked
     - same_category
-  - id: HB14
-    title: Using Torah as Torah Itself Intends
-    score: 0.446
+  - id: HB16
+    title: Knowing the Holy Scriptures
+    score: 0.466
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
+    - same_category
   review:
     approved: false
     approved_related_lawofmessiah:
     - W8
-    notes: ''
-- id: HB8
-  title: Not Believing that Yeshua Abolished the Torah or the Prophets
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: W8
-    title: Obeying the Mitzvot of Adonai & Yeshua
-    score: 0.5176
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W1
-    title: Studying, Hearing & Teaching Torah & Torah -Obedience
-    score: 0.4987
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB6
-    title: Keeping Torah in Our Heart
-    score: 0.4928
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB23
-    title: Considering the Torah a Torah of Freedom
-    score: 0.4875
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB17
-    title: Believing in the Inspiration of Scripture and Its Usefulness for Equipping
-    score: 0.4848
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB15
-    title: Knowing for Whom Torah is Intended
-    score: 0.48
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W10
-    title: Attending to Both the Lesser & the Weightier Matters of Torah
-    score: 0.4633
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HB14
-    title: Using Torah as Torah Itself Intends
-    score: 0.4581
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W10
-    title: Attending to Both the Lesser & the Weightier Matters of Torah
-    score: 0.446
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - W8
+    - HB23
+    - W1
+    - J1
     notes: ''
 - id: IA2
   title: Not Arguing, Judging, or Causing a Brother to Stumble Over Prohibited Foods
@@ -8400,12 +7554,29 @@ items:
   suggested_related_lawofmessiah:
   - id: IA1
     title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
-    score: 0.4296
+    score: 0.4446
     reasons:
+    - frequently_linked
     - same_category
+  - id: DA50
+    title: Bearing with One Another in Love & with Forgiveness
+    score: 0.248
+    reasons:
+    - frequently_linked
+    - similar_title
   - id: DA24
     title: Loving Our Brother & Neighbor
     score: 0.235
+    reasons:
+    - frequently_linked
+  - id: DA2
+    title: Seeking Reconciliation with Our Brother
+    score: 0.2209
+    reasons:
+    - frequently_linked
+  - id: DA7
+    title: Being Sensitive to Each Other’s Needs
+    score: 0.2205
     reasons:
     - frequently_linked
   - id: N1
@@ -8413,41 +7584,23 @@ items:
     score: 0.2177
     reasons:
     - frequently_linked
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.2076
-    reasons:
-    - frequently_linked
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.2076
-    reasons:
-    - frequently_linked
-  - id: GA1
-    title: Repenting of Our Sins and Turning to God
-    score: 0.1885
-    reasons:
-    - frequently_linked
-  - id: BA20
-    title: Listening to, Believing, and Obeying the Good News of Yeshua
-    score: 0.1752
-    reasons:
-    - frequently_linked
   - id: BA4
     title: Trusting (Having Faith /Believing) in God and Yeshua
-    score: 0.1752
+    score: 0.2152
     reasons:
     - frequently_linked
-  - id: RA4
-    title: Correcting One Another with Humility and Gentleness
-    score: 0.173
+  - id: DA9
+    title: Giving to Our Neighbor That Which Is Owed Him
+    score: 0.2097
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
+    - IA1
+    - IA3
+    - K1
+    - N13
     notes: ''
 - id: IA3
   title: Not Prohibiting Foods that God Allows
@@ -8455,183 +7608,50 @@ items:
   suggested_related_lawofmessiah:
   - id: IA1
     title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
-    score: 0.4464
+    score: 0.4614
     reasons:
+    - frequently_linked
     - same_category
+  - id: BA44
+    title: Relying on God
+    score: 0.263
+    reasons:
+    - frequently_linked
+    - title_keyword_overlap
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
     score: 0.2612
     reasons:
     - frequently_linked
-  - id: GA1
-    title: Repenting of Our Sins and Turning to God
-    score: 0.2325
+  - id: BA40
+    title: Receiving and Following God and Yeshua
+    score: 0.2602
     reasons:
     - frequently_linked
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.2188
-    reasons:
-    - frequently_linked
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.2102
+  - id: BA6
+    title: Offering Our Entire Selves to God
+    score: 0.2536
     reasons:
     - frequently_linked
   - id: BA4
     title: Trusting (Having Faith /Believing) in God and Yeshua
-    score: 0.2061
+    score: 0.2461
     reasons:
     - frequently_linked
-  - id: A14
-    title: Aspiring to God's Perfection & Holiness
-    score: 0.2046
+  - id: GA1
+    title: Repenting of Our Sins and Turning to God
+    score: 0.2425
     reasons:
     - frequently_linked
-  - id: QA4
-    title: Proclaiming the Kingdom of God
-    score: 0.2028
+  - id: BA11
+    title: Honoring God & Yeshua
+    score: 0.2355
     reasons:
     - frequently_linked
-  - id: RA15
-    title: Not Judging One Another Over Food, Festivals, or Other Jewish Practices
-    score: 0.173
-    reasons:
-    - manual_review
-    - theological_fit
   review:
-    approved: false
+    approved: true
     approved_related_lawofmessiah:
-    - ''
-    notes: ''
-- id: JA1
-  title: 'Blessing, Not Cursing, Those Who Would Harm or Mistreat Us: Loving Our Enemies'
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: JA2
-    title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
-    score: 0.5708
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: JA5
-    title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
-    score: 0.5326
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: JA9
-    title: Keeping Our Faith Amidst Persecution
-    score: 0.4981
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: JA8
-    title: Blessing Our Enemies and Expecting Nothing in Return
-    score: 0.4595
-    reasons:
-    - same_category
-  - id: JA6
-    title: Offering the Other Cheek
-    score: 0.4408
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: JA11
-    title: Keeping the Faith Amidst Persecution
-    score: 0.4195
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: JA10
-    title: Allowing Ourselves to Be Abused within Reason
-    score: 0.4042
-    reasons:
-    - same_category
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.2226
-    reasons:
-    - frequently_linked
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.221
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - JA2
-    - JA5
-    notes: ''
-- id: JA3
-  title: Not Fearing Those Who Would Oppose, Persecute or Harm Us
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: JA2
-    title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
-    score: 0.5434
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: JA9
-    title: Keeping Our Faith Amidst Persecution
-    score: 0.5339
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: JA11
-    title: Keeping the Faith Amidst Persecution
-    score: 0.4964
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: JA6
-    title: Offering the Other Cheek
-    score: 0.4663
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: JA5
-    title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
-    score: 0.4619
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: JA10
-    title: Allowing Ourselves to Be Abused within Reason
-    score: 0.43
-    reasons:
-    - same_category
-  - id: JA8
-    title: Blessing Our Enemies and Expecting Nothing in Return
-    score: 0.3967
-    reasons:
-    - same_category
-  - id: DA36
-    title: Forgiving Those Who Sin Against Us
-    score: 0.2181
-    reasons:
-    - frequently_linked
-    - similar_title
-    - title_keyword_overlap
-  - id: BA44
-    title: Relying on God
-    score: 0.217
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - JA2
-    - JA9
+    - K1
     notes: ''
 - id: JA4
   title: Not Worrying About What to Say When We Are Persecuted
@@ -8639,19 +7659,25 @@ items:
   suggested_related_lawofmessiah:
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
-    score: 0.5417
+    score: 0.5567
     reasons:
     - frequently_linked
     - same_category
   - id: JA5
     title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
-    score: 0.4944
+    score: 0.4994
     reasons:
     - frequently_linked
     - same_category
   - id: JA11
     title: Keeping the Faith Amidst Persecution
     score: 0.4767
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: JA2
+    title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
+    score: 0.4582
     reasons:
     - frequently_linked
     - same_category
@@ -8663,157 +7689,28 @@ items:
     - same_category
   - id: JA10
     title: Allowing Ourselves to Be Abused within Reason
-    score: 0.4418
-    reasons:
-    - same_category
-  - id: JA2
-    title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
-    score: 0.4332
+    score: 0.4468
     reasons:
     - frequently_linked
     - same_category
   - id: JA8
     title: Blessing Our Enemies and Expecting Nothing in Return
-    score: 0.4214
-    reasons:
-    - same_category
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.2115
-    reasons:
-    - frequently_linked
-  - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua
-    score: 0.209
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - JA9
-    notes: ''
-- id: JA7
-  title: Not Being Surprised When We Are Hated for Our Faith
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: JA9
-    title: Keeping Our Faith Amidst Persecution
-    score: 0.5405
+    score: 0.4314
     reasons:
     - frequently_linked
     - same_category
-  - id: JA5
-    title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
-    score: 0.5249
+  - id: DA1
+    title: Speedily Seeking Reconciliation when Summoned to Court
+    score: 0.232
     reasons:
     - frequently_linked
-    - same_category
-  - id: JA11
-    title: Keeping the Faith Amidst Persecution
-    score: 0.4697
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: JA2
-    title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
-    score: 0.4642
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: JA6
-    title: Offering the Other Cheek
-    score: 0.4517
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: JA10
-    title: Allowing Ourselves to Be Abused within Reason
-    score: 0.4281
-    reasons:
-    - same_category
-  - id: JA8
-    title: Blessing Our Enemies and Expecting Nothing in Return
-    score: 0.418
-    reasons:
-    - same_category
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.2482
-    reasons:
-    - frequently_linked
-  - id: JA8
-    title: Blessing Our Enemies and Expecting Nothing in Return
-    score: 0.229
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
     - JA9
     - JA5
-    notes: ''
-- id: KA4
-  title: Not Prophesying Falsely
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: KA2
-    title: Being on Our Guard Against False Prophets
-    score: 0.5159
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: KA1
-    title: Being on Our Guard Against False Messiahs
-    score: 0.4481
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA6
-    title: Overcoming Adversity through Faith and Perseverance
-    score: 0.4443
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HA5
-    title: Patiently Awaiting Yeshua’s Return
-    score: 0.4377
-    reasons:
-    - same_category
-  - id: UA5
-    title: Handling Painful Situations in a Godly Way
-    score: 0.4319
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA2
-    title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
-    score: 0.4283
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HA3
-    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
-    score: 0.4165
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA3
-    title: Being Encouraged in Our Suffering
-    score: 0.4125
-    reasons:
-    - same_category
-  - id: W4
-    title: Testing Everything that is Spoken in God's Name
-    score: 0.409
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - KA2
+    - JA11
+    - AB9
     notes: ''
 - id: LA1
   title: Being Enslaved to God & His Righteousness, & Not by Sin
@@ -8837,16 +7734,17 @@ items:
     reasons:
     - frequently_linked
     - same_category
+  - id: LA4
+    title: Masters Treating Their Slaves & Bondservants Justly & Fairly
+    score: 0.4541
+    reasons:
+    - frequently_linked
+    - same_category
   - id: LA8
     title: Treating Indentured Servants and Freemen as Spiritually Equal
     score: 0.4541
     reasons:
     - frequently_linked
-    - same_category
-  - id: LA4
-    title: Masters Treating Their Slaves & Bondservants Justly & Fairly
-    score: 0.4491
-    reasons:
     - same_category
   - id: LA7
     title: Indentured Servants Working Willingly
@@ -8854,90 +7752,21 @@ items:
     reasons:
     - frequently_linked
     - same_category
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.2505
+  - id: DA7
+    title: Being Sensitive to Each Other’s Needs
+    score: 0.2639
     reasons:
     - frequently_linked
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.2368
+    - similar_title
+  - id: AA3
+    title: Pursuing Righteousness & Living Righteously
+    score: 0.2571
     reasons:
     - frequently_linked
-  - id: BA54
-    title: Submitting to God
-    score: 0.221
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
     - ''
-    notes: ''
-- id: LA10
-  title: Servants Not Stealing from Their Masters
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: LA11
-    title: Servants Being Faithful to Their Masters
-    score: 0.6275
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: LA3
-    title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
-    score: 0.5828
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: LA7
-    title: Indentured Servants Working Willingly
-    score: 0.4857
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: LA8
-    title: Treating Indentured Servants and Freemen as Spiritually Equal
-    score: 0.4741
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: LA4
-    title: Masters Treating Their Slaves & Bondservants Justly & Fairly
-    score: 0.4583
-    reasons:
-    - same_category
-  - id: LA6
-    title: Using Our Enslavement to Serve God but Gaining Freedom If Possible
-    score: 0.4396
-    reasons:
-    - same_category
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.2295
-    reasons:
-    - frequently_linked
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.2019
-    reasons:
-    - frequently_linked
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.199
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - LA11
-    - LA3
     notes: ''
 - id: LA2
   title: Not Returning to the Enslavement of Legalism
@@ -8950,8 +7779,9 @@ items:
     - same_category
   - id: LA4
     title: Masters Treating Their Slaves & Bondservants Justly & Fairly
-    score: 0.47
+    score: 0.475
     reasons:
+    - frequently_linked
     - same_category
     - similar_title
   - id: LA11
@@ -8978,89 +7808,22 @@ items:
     reasons:
     - frequently_linked
     - same_category
+  - id: AA51
+    title: Aspiring to Be Blameless
+    score: 0.25
+    reasons:
+    - frequently_linked
+    - similar_title
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
     score: 0.2471
     reasons:
     - frequently_linked
     - similar_title
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.2165
-    reasons:
-    - frequently_linked
-  - id: BA54
-    title: Submitting to God
-    score: 0.206
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
     - ''
-    notes: ''
-- id: LA5
-  title: Not Attempting to Serve Two Masters
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: LA3
-    title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
-    score: 0.5349
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: LA11
-    title: Servants Being Faithful to Their Masters
-    score: 0.5286
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: LA6
-    title: Using Our Enslavement to Serve God but Gaining Freedom If Possible
-    score: 0.4558
-    reasons:
-    - same_category
-  - id: LA8
-    title: Treating Indentured Servants and Freemen as Spiritually Equal
-    score: 0.454
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: LA7
-    title: Indentured Servants Working Willingly
-    score: 0.4383
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: LA4
-    title: Masters Treating Their Slaves & Bondservants Justly & Fairly
-    score: 0.4107
-    reasons:
-    - same_category
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.2224
-    reasons:
-    - frequently_linked
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.218
-    reasons:
-    - frequently_linked
-  - id: BA54
-    title: Submitting to God
-    score: 0.209
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - LA3
-    - LA11
     notes: ''
 - id: LA9
   title: Servants Not Using Familiarity to Justify Disrespecting Their Masters
@@ -9090,8 +7853,9 @@ items:
     - same_category
   - id: LA4
     title: Masters Treating Their Slaves & Bondservants Justly & Fairly
-    score: 0.4602
+    score: 0.4652
     reasons:
+    - frequently_linked
     - same_category
   - id: LA6
     title: Using Our Enslavement to Serve God but Gaining Freedom If Possible
@@ -9104,22 +7868,16 @@ items:
     reasons:
     - frequently_linked
     - same_category
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.2031
+  - id: DA7
+    title: Being Sensitive to Each Other’s Needs
+    score: 0.2193
     reasons:
     - frequently_linked
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.1976
+  - id: DA2
+    title: Seeking Reconciliation with Our Brother
+    score: 0.2176
     reasons:
     - frequently_linked
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.196
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -9132,117 +7890,52 @@ items:
   suggested_related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
-    score: 0.5453
+    score: 0.5703
     reasons:
     - frequently_linked
     - same_category
   - id: KA1
     title: Being on Our Guard Against False Messiahs
-    score: 0.4804
+    score: 0.5004
     reasons:
     - frequently_linked
     - same_category
   - id: UA2
     title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
-    score: 0.4622
+    score: 0.4772
     reasons:
     - frequently_linked
     - same_category
   - id: UA3
     title: Being Encouraged in Our Suffering
-    score: 0.4564
+    score: 0.4664
     reasons:
+    - frequently_linked
     - same_category
   - id: HA3
     title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
-    score: 0.4555
+    score: 0.4605
     reasons:
     - frequently_linked
     - same_category
   - id: UA6
     title: Overcoming Adversity through Faith and Perseverance
-    score: 0.4452
+    score: 0.4602
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: UA5
+    title: Handling Painful Situations in a Godly Way
+    score: 0.4567
     reasons:
     - frequently_linked
     - same_category
   - id: UA1
     title: Seeking to Escape from the Coming Tribulation
-    score: 0.4388
-    reasons:
-    - same_category
-  - id: UA5
-    title: Handling Painful Situations in a Godly Way
-    score: 0.4367
+    score: 0.4538
     reasons:
     - frequently_linked
     - same_category
-  - id: BA44
-    title: Relying on God
-    score: 0.431
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - KA2
-    notes: ''
-- id: MA2
-  title: Not Being Fearful of Man
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: KA2
-    title: Being on Our Guard Against False Prophets
-    score: 0.5509
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: KA1
-    title: Being on Our Guard Against False Messiahs
-    score: 0.4986
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA3
-    title: Being Encouraged in Our Suffering
-    score: 0.4777
-    reasons:
-    - same_category
-    - title_keyword_overlap
-  - id: UA2
-    title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
-    score: 0.4775
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HA3
-    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
-    score: 0.4699
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA5
-    title: Handling Painful Situations in a Godly Way
-    score: 0.4535
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: HA5
-    title: Patiently Awaiting Yeshua’s Return
-    score: 0.4534
-    reasons:
-    - same_category
-  - id: UA7
-    title: Bearing Up Under Undeserved Punishment
-    score: 0.4468
-    reasons:
-    - same_category
-  - id: BA44
-    title: Relying on God
-    score: 0.441
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -9254,55 +7947,52 @@ items:
   suggested_related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
-    score: 0.4912
+    score: 0.5162
     reasons:
     - frequently_linked
     - same_category
   - id: UA6
     title: Overcoming Adversity through Faith and Perseverance
-    score: 0.4626
+    score: 0.4776
     reasons:
     - frequently_linked
     - same_category
   - id: UA2
     title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
-    score: 0.4535
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA7
-    title: Bearing Up Under Undeserved Punishment
-    score: 0.4447
-    reasons:
-    - same_category
-  - id: HA3
-    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
-    score: 0.4413
+    score: 0.4685
     reasons:
     - frequently_linked
     - same_category
   - id: UA5
     title: Handling Painful Situations in a Godly Way
-    score: 0.4409
+    score: 0.4609
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: UA7
+    title: Bearing Up Under Undeserved Punishment
+    score: 0.4547
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: KA1
+    title: Being on Our Guard Against False Messiahs
+    score: 0.4512
     reasons:
     - frequently_linked
     - same_category
   - id: UA3
     title: Being Encouraged in Our Suffering
-    score: 0.4389
+    score: 0.4489
     reasons:
+    - frequently_linked
     - same_category
-  - id: HA5
-    title: Patiently Awaiting Yeshua’s Return
-    score: 0.4324
+  - id: HA3
+    title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
+    score: 0.4463
     reasons:
+    - frequently_linked
     - same_category
-  - id: GB24
-    title: Putting Our Cares & Anxieties on God
-    score: 0.431
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -9314,190 +8004,56 @@ items:
   suggested_related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
-    score: 0.4925
+    score: 0.5175
     reasons:
     - frequently_linked
     - same_category
   - id: UA6
     title: Overcoming Adversity through Faith and Perseverance
-    score: 0.4567
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: UA2
-    title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
-    score: 0.4475
+    score: 0.4717
     reasons:
     - frequently_linked
     - same_category
   - id: KA1
     title: Being on Our Guard Against False Messiahs
-    score: 0.4439
+    score: 0.4639
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: UA2
+    title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
+    score: 0.4625
     reasons:
     - frequently_linked
     - same_category
   - id: HA3
     title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
-    score: 0.4435
+    score: 0.4485
     reasons:
     - frequently_linked
     - same_category
   - id: HA5
     title: Patiently Awaiting Yeshua’s Return
-    score: 0.4426
-    reasons:
-    - same_category
-  - id: UA7
-    title: Bearing Up Under Undeserved Punishment
-    score: 0.4324
-    reasons:
-    - same_category
-  - id: UA4
-    title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
-    score: 0.4264
+    score: 0.4476
     reasons:
     - frequently_linked
     - same_category
-  - id: BA44
-    title: Relying on God
-    score: 0.421
+  - id: UA7
+    title: Bearing Up Under Undeserved Punishment
+    score: 0.4424
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
+    - same_category
+  - id: UA4
+    title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
+    score: 0.4414
+    reasons:
+    - frequently_linked
+    - same_category
   review:
     approved: false
     approved_related_lawofmessiah:
     - ''
-    notes: ''
-- id: NA1
-  title: Not Persisting to Minister God’s Word to Persons Who Reject It
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: NA11
-    title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
-    score: 0.5693
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: NA15
-    title: Teaching and Ministering the Words of God & Yeshua
-    score: 0.5167
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA24
-    title: Teaching Obedience to God’s Mitzvot
-    score: 0.489
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA3
-    title: Ministering First to the Jew and Then to the Gentile
-    score: 0.4653
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA6
-    title: Teaching Those Who Teach Others
-    score: 0.4577
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA20
-    title: Ministering to the Poor, the Weak, & the Timid
-    score: 0.456
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA17
-    title: Identifying with Those to Whom We Minister
-    score: 0.4547
-    reasons:
-    - same_category
-  - id: NA19
-    title: Preaching Reconciliation with God
-    score: 0.4539
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: QA4
-    title: Proclaiming the Kingdom of God
-    score: 0.451
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - NA11
-    - NA15
-    notes: ''
-- id: NA23
-  title: Not Teaching, Permitting Others to Teach, or Giving Ourselves to, False Doctrines
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: NA15
-    title: Teaching and Ministering the Words of God & Yeshua
-    score: 0.5278
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA6
-    title: Teaching Those Who Teach Others
-    score: 0.5251
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: NA24
-    title: Teaching Obedience to God’s Mitzvot
-    score: 0.4834
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA25
-    title: Teaching Godliness
-    score: 0.4756
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA2
-    title: Relying on Hospitality & the Support of Others When We Travel for Ministry
-    score: 0.471
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA3
-    title: Ministering First to the Jew and Then to the Gentile
-    score: 0.4677
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA16
-    title: Giving Attention to the Reading of Scripture
-    score: 0.4651
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA20
-    title: Ministering to the Poor, the Weak, & the Timid
-    score: 0.4508
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: W4
-    title: Testing Everything that is Spoken in God's Name
-    score: 0.447
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - NA15
-    - NA6
     notes: ''
 - id: NA4
   title: Not Asking Payment for Ministering the Word of God
@@ -9505,34 +8061,47 @@ items:
   suggested_related_lawofmessiah:
   - id: NA15
     title: Teaching and Ministering the Words of God & Yeshua
-    score: 0.6337
+    score: 0.6437
     reasons:
     - frequently_linked
     - same_category
     - similar_title
     - title_keyword_overlap
-  - id: NA11
-    title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
-    score: 0.5068
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
   - id: NA18
     title: Ministering as Ambassadors of Yeshua
-    score: 0.504
+    score: 0.524
     reasons:
     - frequently_linked
     - same_category
   - id: NA21
     title: Ministering with the Wisdom of Messiah
-    score: 0.5036
+    score: 0.5186
     reasons:
+    - frequently_linked
+    - same_category
+    - similar_title
+  - id: NA11
+    title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
+    score: 0.5118
+    reasons:
+    - frequently_linked
     - same_category
     - similar_title
   - id: NA22
     title: Ministering in a Fatherly Manner
-    score: 0.4922
+    score: 0.5022
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: NA20
+    title: Ministering to the Poor, the Weak, & the Timid
+    score: 0.4928
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: NA24
+    title: Teaching Obedience to God’s Mitzvot
+    score: 0.4913
     reasons:
     - frequently_linked
     - same_category
@@ -9542,24 +8111,6 @@ items:
     reasons:
     - frequently_linked
     - same_category
-  - id: NA24
-    title: Teaching Obedience to God’s Mitzvot
-    score: 0.4813
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA20
-    title: Ministering to the Poor, the Weak, & the Timid
-    score: 0.4778
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: NA26
-    title: Not Burdening Those to Whom We Minister
-    score: 0.446
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -9568,79 +8119,24 @@ items:
     - NA18
     - NA21
     notes: ''
-- id: OA10
-  title: Not Pastoring for Dishonest Gain
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: OA9
-    title: Spiritual Leaders Pastoring Those in Their Care
-    score: 0.4898
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: OA7
-    title: Imitating the Faith of Our Spiritual Leaders
-    score: 0.4755
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: OA8
-    title: Submitting to and Obeying Our Spiritual Leaders
-    score: 0.4546
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: OA4
-    title: Being Cautious in Granting S’michah
-    score: 0.447
-    reasons:
-    - same_category
-  - id: OA3
-    title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
-    score: 0.4432
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: OA1
-    title: Attributes & Behaviors Required of Congregational Leaders & Elders
-    score: 0.4398
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: OA12
-    title: Leading by Example
-    score: 0.435
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: OA5
-    title: Acknowledging Yeshua as Our Spiritual Leader
-    score: 0.4224
-    reasons:
-    - same_category
-  - id: OA12
-    title: Leading by Example
-    score: 0.419
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
-    notes: ''
 - id: OA11
   title: Not Being Domineering to Those in Our Care
   existing_related_lawofmessiah: []
   suggested_related_lawofmessiah:
   - id: OA9
     title: Spiritual Leaders Pastoring Those in Their Care
-    score: 0.5351
+    score: 0.5501
     reasons:
     - frequently_linked
     - same_category
     - similar_title
     - title_keyword_overlap
+  - id: OA7
+    title: Imitating the Faith of Our Spiritual Leaders
+    score: 0.5105
+    reasons:
+    - frequently_linked
+    - same_category
   - id: OA8
     title: Submitting to and Obeying Our Spiritual Leaders
     score: 0.503
@@ -9648,12 +8144,6 @@ items:
     - frequently_linked
     - same_category
     - similar_title
-  - id: OA7
-    title: Imitating the Faith of Our Spiritual Leaders
-    score: 0.5005
-    reasons:
-    - frequently_linked
-    - same_category
   - id: OA4
     title: Being Cautious in Granting S’michah
     score: 0.4854
@@ -9667,8 +8157,15 @@ items:
     - same_category
   - id: OA5
     title: Acknowledging Yeshua as Our Spiritual Leader
-    score: 0.4488
+    score: 0.4538
     reasons:
+    - frequently_linked
+    - same_category
+  - id: OA1
+    title: Attributes & Behaviors Required of Congregational Leaders & Elders
+    score: 0.4275
+    reasons:
+    - frequently_linked
     - same_category
   - id: OA2
     title: Attributes & Behaviors Required of Shamashim
@@ -9676,18 +8173,6 @@ items:
     reasons:
     - frequently_linked
     - same_category
-  - id: OA1
-    title: Attributes & Behaviors Required of Congregational Leaders & Elders
-    score: 0.4225
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: OA12
-    title: Leading by Example
-    score: 0.419
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -9695,386 +8180,65 @@ items:
     - OA8
     - OA7
     notes: ''
-- id: RA14
-  title: Believers Not Adjudicating Disputes in a Court of Unbelievers (See DA14)
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: RA2
-    title: Correcting Those Who Teach and Follow False Doctrines
-    score: 0.4604
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA24
-    title: Regarding as Discipline Our Having to Endure Trials
-    score: 0.4592
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA3
-    title: Correcting Our Self Before Seeking to Correct Others
-    score: 0.4511
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA13
-    title: Expelling Evil Doers from the Community of Believers
-    score: 0.4501
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA10
-    title: Rebuking and Exhorting with Patience and Instruction
-    score: 0.4438
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA22
-    title: First Warning and Then Banning Divisive Persons from Fellowship
-    score: 0.4389
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA21
-    title: Judging Without Prejudice or Partiality
-    score: 0.4384
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA6
-    title: Publicly Rebuking Leaders Who Continue to Sin
-    score: 0.4346
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA12
-    title: Batei Din Judging Only Believers
-    score: 0.431
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
-    notes: ''
-- id: RA15
-  title: Not Judging One Another Over Food, Festivals, or Other Jewish Practices
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: RA4
-    title: Correcting One Another with Humility and Gentleness
-    score: 0.5083
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA2
-    title: Correcting Those Who Teach and Follow False Doctrines
-    score: 0.4857
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA21
-    title: Judging Without Prejudice or Partiality
-    score: 0.4696
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA13
-    title: Expelling Evil Doers from the Community of Believers
-    score: 0.4652
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA22
-    title: First Warning and Then Banning Divisive Persons from Fellowship
-    score: 0.4623
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA12
-    title: Batei Din Judging Only Believers
-    score: 0.4595
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA3
-    title: Correcting Our Self Before Seeking to Correct Others
-    score: 0.4518
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA10
-    title: Rebuking and Exhorting with Patience and Instruction
-    score: 0.4485
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.432
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - RA4
-    notes: ''
-- id: RA17
-  title: Not Committing Perjury
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: RA13
-    title: Expelling Evil Doers from the Community of Believers
-    score: 0.4828
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA4
-    title: Correcting One Another with Humility and Gentleness
-    score: 0.4503
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA21
-    title: Judging Without Prejudice or Partiality
-    score: 0.447
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA10
-    title: Rebuking and Exhorting with Patience and Instruction
-    score: 0.4443
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA11
-    title: Pursuing Justice
-    score: 0.4439
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA2
-    title: Correcting Those Who Teach and Follow False Doctrines
-    score: 0.435
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA1
-    title: Turning Sinners Away from their Sin
-    score: 0.4302
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA12
-    title: Batei Din Judging Only Believers
-    score: 0.4291
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA11
-    title: Pursuing Justice
-    score: 0.425
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
-    notes: ''
 - id: RA18
   title: Not Rebuking an Older Man Sharply
   existing_related_lawofmessiah: []
   suggested_related_lawofmessiah:
   - id: RA10
     title: Rebuking and Exhorting with Patience and Instruction
-    score: 0.5162
+    score: 0.5362
     reasons:
     - frequently_linked
     - same_category
     - similar_title
   - id: RA6
     title: Publicly Rebuking Leaders Who Continue to Sin
-    score: 0.5026
+    score: 0.5176
     reasons:
     - frequently_linked
     - same_category
     - similar_title
   - id: RA4
     title: Correcting One Another with Humility and Gentleness
-    score: 0.4821
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA13
-    title: Expelling Evil Doers from the Community of Believers
-    score: 0.4656
+    score: 0.4921
     reasons:
     - frequently_linked
     - same_category
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
-    score: 0.4622
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA16
-    title: Confronting and Correcting the Lazy Among Us
-    score: 0.4604
-    reasons:
-    - same_category
-  - id: RA22
-    title: First Warning and Then Banning Divisive Persons from Fellowship
-    score: 0.459
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA21
-    title: Judging Without Prejudice or Partiality
-    score: 0.4553
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA4
-    title: Correcting One Another with Humility and Gentleness
-    score: 0.451
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - RA10
-    - RA6
-    notes: ''
-- id: RA19
-  title: Instructing Widows to Not Be Self-Indulgent
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: RA4
-    title: Correcting One Another with Humility and Gentleness
-    score: 0.492
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: RA3
-    title: Correcting Our Self Before Seeking to Correct Others
-    score: 0.4872
+    score: 0.4822
     reasons:
     - frequently_linked
     - same_category
   - id: RA13
     title: Expelling Evil Doers from the Community of Believers
-    score: 0.4845
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA21
-    title: Judging Without Prejudice or Partiality
-    score: 0.4565
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA6
-    title: Publicly Rebuking Leaders Who Continue to Sin
-    score: 0.4559
+    score: 0.4706
     reasons:
     - frequently_linked
     - same_category
   - id: RA1
     title: Turning Sinners Away from their Sin
-    score: 0.4497
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA2
-    title: Correcting Those Who Teach and Follow False Doctrines
-    score: 0.4479
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA24
-    title: Regarding as Discipline Our Having to Endure Trials
-    score: 0.4451
+    score: 0.4682
     reasons:
     - frequently_linked
     - same_category
   - id: RA16
     title: Confronting and Correcting the Lazy Among Us
-    score: 0.441
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - ''
-    notes: ''
-- id: RA20
-  title: Not Prejudging
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: RA21
-    title: Judging Without Prejudice or Partiality
-    score: 0.4688
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA11
-    title: Pursuing Justice
-    score: 0.465
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA12
-    title: Batei Din Judging Only Believers
-    score: 0.4528
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA13
-    title: Expelling Evil Doers from the Community of Believers
-    score: 0.4329
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA6
-    title: Publicly Rebuking Leaders Who Continue to Sin
-    score: 0.4243
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA4
-    title: Correcting One Another with Humility and Gentleness
-    score: 0.4212
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA2
-    title: Correcting Those Who Teach and Follow False Doctrines
-    score: 0.4198
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA10
-    title: Rebuking and Exhorting with Patience and Instruction
-    score: 0.4155
+    score: 0.4654
     reasons:
     - frequently_linked
     - same_category
   - id: RA21
     title: Judging Without Prejudice or Partiality
-    score: 0.413
+    score: 0.4653
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
+    - same_category
   review:
     approved: false
     approved_related_lawofmessiah:
-    - ''
+    - RA10
+    - RA6
     notes: ''
 - id: RA5
   title: Not Receiving an Accusation Against a Leader Except by Two or Three Witnesses
@@ -10082,7 +8246,7 @@ items:
   suggested_related_lawofmessiah:
   - id: RA13
     title: Expelling Evil Doers from the Community of Believers
-    score: 0.4764
+    score: 0.4814
     reasons:
     - frequently_linked
     - same_category
@@ -10094,119 +8258,56 @@ items:
     - same_category
   - id: RA4
     title: Correcting One Another with Humility and Gentleness
-    score: 0.457
+    score: 0.467
     reasons:
     - frequently_linked
     - same_category
   - id: RA6
     title: Publicly Rebuking Leaders Who Continue to Sin
-    score: 0.4511
+    score: 0.4661
     reasons:
     - frequently_linked
-    - same_category
-  - id: RA16
-    title: Confronting and Correcting the Lazy Among Us
-    score: 0.445
-    reasons:
     - same_category
   - id: RA1
     title: Turning Sinners Away from their Sin
-    score: 0.4448
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA21
-    title: Judging Without Prejudice or Partiality
-    score: 0.4426
+    score: 0.4648
     reasons:
     - frequently_linked
     - same_category
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
-    score: 0.4404
+    score: 0.4604
     reasons:
     - frequently_linked
     - same_category
   - id: RA21
     title: Judging Without Prejudice or Partiality
-    score: 0.436
+    score: 0.4526
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
+    - same_category
+  - id: RA16
+    title: Confronting and Correcting the Lazy Among Us
+    score: 0.45
+    reasons:
+    - frequently_linked
+    - same_category
   review:
     approved: false
     approved_related_lawofmessiah:
     - ''
     notes: ''
-- id: RA8
-  title: Not Judging or Condemning Apart from a Beit Din
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: RA12
-    title: Batei Din Judging Only Believers
-    score: 0.5063
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: RA21
-    title: Judging Without Prejudice or Partiality
-    score: 0.4947
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA1
-    title: Turning Sinners Away from their Sin
-    score: 0.488
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: RA13
-    title: Expelling Evil Doers from the Community of Believers
-    score: 0.4758
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA6
-    title: Publicly Rebuking Leaders Who Continue to Sin
-    score: 0.4628
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA3
-    title: Correcting Our Self Before Seeking to Correct Others
-    score: 0.461
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA23
-    title: Receiving God’s Correction and Discipline with a Good Attitude
-    score: 0.4517
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA4
-    title: Correcting One Another with Humility and Gentleness
-    score: 0.4515
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: RA11
-    title: Pursuing Justice
-    score: 0.447
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - RA12
-    notes: ''
 - id: SA5
   title: Not Allowing Ourselves to be Deceived by the Adversary or Deceiving Spirits
   existing_related_lawofmessiah: []
   suggested_related_lawofmessiah:
+  - id: SA9
+    title: Arming Ourselves with the Mind of Yeshua
+    score: 0.4996
+    reasons:
+    - frequently_linked
+    - same_category
+    - similar_title
   - id: SA4
     title: Arming Ourselves with Spiritual Weapons
     score: 0.4963
@@ -10214,119 +8315,46 @@ items:
     - frequently_linked
     - same_category
     - similar_title
-  - id: SA9
-    title: Arming Ourselves with the Mind of Yeshua
-    score: 0.4896
-    reasons:
-    - same_category
-    - similar_title
   - id: SA8
     title: Resisting and Opposing the Adversary
-    score: 0.4696
-    reasons:
-    - same_category
-  - id: SA1
-    title: Fighting the Good Fight of the Faith
-    score: 0.4466
+    score: 0.4846
     reasons:
     - frequently_linked
     - same_category
   - id: SA10
     title: Testing Every Spirit
-    score: 0.4445
+    score: 0.4545
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: SA1
+    title: Fighting the Good Fight of the Faith
+    score: 0.4516
     reasons:
     - frequently_linked
     - same_category
   - id: SA2
     title: Working Out Our Deliverance with Fear and Trembling
-    score: 0.4394
+    score: 0.4444
     reasons:
     - frequently_linked
     - same_category
   - id: SA3
     title: Expelling Demons
-    score: 0.4045
+    score: 0.4145
     reasons:
     - frequently_linked
     - same_category
   - id: SA6
     title: Being a Soldier of Yeshua
-    score: 0.4
+    score: 0.405
     reasons:
+    - frequently_linked
     - same_category
-  - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua
-    score: 0.396
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
     - ''
-    notes: ''
-- id: SA7
-  title: Not Denying the Power of Faith
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: SA1
-    title: Fighting the Good Fight of the Faith
-    score: 0.5473
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: SA6
-    title: Being a Soldier of Yeshua
-    score: 0.4773
-    reasons:
-    - same_category
-    - similar_title
-  - id: SA10
-    title: Testing Every Spirit
-    score: 0.475
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: SA8
-    title: Resisting and Opposing the Adversary
-    score: 0.4485
-    reasons:
-    - same_category
-  - id: SA9
-    title: Arming Ourselves with the Mind of Yeshua
-    score: 0.4429
-    reasons:
-    - same_category
-  - id: SA2
-    title: Working Out Our Deliverance with Fear and Trembling
-    score: 0.4341
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: SA4
-    title: Arming Ourselves with Spiritual Weapons
-    score: 0.4325
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: SA3
-    title: Expelling Demons
-    score: 0.4311
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: BA4
-    title: Trusting (Having Faith /Believing) in God and Yeshua
-    score: 0.427
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - SA1
     notes: ''
 - id: VA2
   title: Not Engaging in Idolatry
@@ -10334,54 +8362,51 @@ items:
   suggested_related_lawofmessiah:
   - id: I6
     title: Destroying Idolatry
-    score: 0.5678
+    score: 0.5928
     reasons:
+    - frequently_linked
     - same_category
     - similar_title
     - title_keyword_overlap
   - id: VA1
     title: Separating Ourselves from Idolaters
-    score: 0.4602
+    score: 0.5052
     reasons:
+    - frequently_linked
     - same_category
   - id: VA5
     title: Guarding Against False Gods
-    score: 0.453
+    score: 0.493
     reasons:
     - frequently_linked
     - same_category
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.2083
-    reasons:
-    - frequently_linked
-  - id: DA24
-    title: Loving Our Brother & Neighbor
-    score: 0.2034
-    reasons:
-    - frequently_linked
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.1983
-    reasons:
-    - frequently_linked
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.1944
-    reasons:
-    - frequently_linked
-  - id: A13
-    title: Being Pure in Heart
-    score: 0.1913
+  - id: DA5
+    title: Serving One Another
+    score: 0.2413
     reasons:
     - frequently_linked
     - similar_title
-  - id: FA2
-    title: Worshiping the One True God and No Other
-    score: 0.189
+  - id: DA16
+    title: Encouraging One Another
+    score: 0.2383
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
+    - similar_title
+  - id: BA44
+    title: Relying on God
+    score: 0.2303
+    reasons:
+    - frequently_linked
+  - id: BA4
+    title: Trusting (Having Faith /Believing) in God and Yeshua
+    score: 0.2277
+    reasons:
+    - frequently_linked
+  - id: DA14
+    title: Submitting to One Another
+    score: 0.227
+    reasons:
+    - frequently_linked
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -10393,52 +8418,49 @@ items:
   suggested_related_lawofmessiah:
   - id: VA1
     title: Separating Ourselves from Idolaters
-    score: 0.45
+    score: 0.495
     reasons:
+    - frequently_linked
     - same_category
   - id: VA5
     title: Guarding Against False Gods
-    score: 0.4437
+    score: 0.4837
     reasons:
     - frequently_linked
     - same_category
   - id: I6
     title: Destroying Idolatry
-    score: 0.4333
+    score: 0.4583
     reasons:
+    - frequently_linked
     - same_category
-  - id: BA10
-    title: Obeying the Commandments of God and Yeshua
-    score: 0.2224
+  - id: BA6
+    title: Offering Our Entire Selves to God
+    score: 0.2426
     reasons:
     - frequently_linked
-  - id: N18
-    title: Being Compassionate & Merciful Toward Our Neighbor
-    score: 0.2214
+    - similar_title
+  - id: DA10
+    title: Living in Peace with Our Neighbors
+    score: 0.2337
     reasons:
     - frequently_linked
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.2122
-    reasons:
-    - frequently_linked
-  - id: GA1
-    title: Repenting of Our Sins and Turning to God
-    score: 0.2067
+  - id: AA59
+    title: Keeping a Clear Conscience
+    score: 0.2316
     reasons:
     - frequently_linked
   - id: BA28
     title: Believing that Yeshua Died for Our Sins
-    score: 0.2066
+    score: 0.2316
     reasons:
     - frequently_linked
     - similar_title
-  - id: FA2
-    title: Worshiping the One True God and No Other
-    score: 0.201
+  - id: DA7
+    title: Being Sensitive to Each Other’s Needs
+    score: 0.2292
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -10450,186 +8472,110 @@ items:
   suggested_related_lawofmessiah:
   - id: VA1
     title: Separating Ourselves from Idolaters
-    score: 0.515
-    reasons:
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: I6
-    title: Destroying Idolatry
-    score: 0.4125
-    reasons:
-    - same_category
-  - id: VA5
-    title: Guarding Against False Gods
-    score: 0.4097
+    score: 0.56
     reasons:
     - frequently_linked
     - same_category
+    - similar_title
+    - title_keyword_overlap
+  - id: VA5
+    title: Guarding Against False Gods
+    score: 0.4497
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: I6
+    title: Destroying Idolatry
+    score: 0.4375
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: AA23
+    title: Ridding Ourselves of Unholy Characteristics
+    score: 0.2508
+    reasons:
+    - frequently_linked
+    - similar_title
+  - id: BA6
+    title: Offering Our Entire Selves to God
+    score: 0.2464
+    reasons:
+    - frequently_linked
+    - similar_title
   - id: DA24
     title: Loving Our Brother & Neighbor
     score: 0.2422
     reasons:
     - frequently_linked
     - similar_title
-  - id: N1
-    title: Loving Our Neighbor, the Stranger, and Even Our Enemy
-    score: 0.2273
+  - id: BA46
+    title: Remaining Rooted in Yeshua
+    score: 0.2361
     reasons:
     - frequently_linked
-  - id: GA1
-    title: Repenting of Our Sins and Turning to God
-    score: 0.2169
+  - id: BA20
+    title: Listening to, Believing, and Obeying the Good News of Yeshua
+    score: 0.2355
     reasons:
     - frequently_linked
-    - similar_title
-  - id: AA8
-    title: Guarding Ourselves Against Greed
-    score: 0.2138
-    reasons:
-    - frequently_linked
-    - similar_title
-  - id: G13
-    title: Dedicating Ourselves to God
-    score: 0.2078
-    reasons:
-    - frequently_linked
-    - similar_title
-    - title_keyword_overlap
-  - id: FA2
-    title: Worshiping the One True God and No Other
-    score: 0.201
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
     - VA1
     notes: ''
-- id: WA2
-  title: Not Lusting After a Person of the Opposite Sex while Either is Married to Another
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: H4
-    title: Using Our Speech, Thoughts, Hearts and Actions for That which Is Good and Holy
-    score: 0.5119
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A14
-    title: Aspiring to God's Perfection & Holiness
-    score: 0.5113
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA22
-    title: Speaking Only That Which is Holy and Beneficial
-    score: 0.4927
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A13
-    title: Being Pure in Heart
-    score: 0.49
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A2
-    title: Walking in God's Ways
-    score: 0.4787
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA3
-    title: Pursuing Righteousness & Living Righteously
-    score: 0.4674
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A21
-    title: Fleeing from Love of Money and Pursuing Godly Virtues
-    score: 0.4672
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA24
-    title: Being Tenderhearted
-    score: 0.465
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: WA1
-    title: Abstaining from Fornication and Other Acts of Sexual Immorality
-    score: 0.461
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - H4
-    - A14
-    notes: ''
 - id: WA3
   title: Not Having or Condoning Unnatural Sexual Relations
   existing_related_lawofmessiah: []
   suggested_related_lawofmessiah:
-  - id: A14
-    title: Aspiring to God's Perfection & Holiness
-    score: 0.5442
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA10
-    title: Having Godly Compassion
-    score: 0.5132
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A13
-    title: Being Pure in Heart
-    score: 0.5047
+  - id: AA53
+    title: Having a Sound & Godly Doctrine
+    score: 0.5886
     reasons:
     - frequently_linked
     - same_category
   - id: AA44
     title: Knowing & Doing What is Right & Good
-    score: 0.502
+    score: 0.577
     reasons:
     - frequently_linked
     - same_category
     - similar_title
-  - id: A2
-    title: Walking in God's Ways
-    score: 0.4995
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: WA1
-    title: Abstaining from Fornication and Other Acts of Sexual Immorality
-    score: 0.4912
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA6
-    title: Keeping Our Minds from Causing Our Bodies to Sin
-    score: 0.487
+  - id: AA19
+    title: Persevering, Standing Firm, & Growing in Our Faith
+    score: 0.5635
     reasons:
     - frequently_linked
     - same_category
   - id: AA1
     title: Aspiring to Godliness and Holiness
-    score: 0.4843
+    score: 0.5593
     reasons:
     - frequently_linked
     - same_category
-  - id: WA1
-    title: Abstaining from Fornication and Other Acts of Sexual Immorality
-    score: 0.479
+  - id: A14
+    title: Aspiring to God's Perfection & Holiness
+    score: 0.5592
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
+    - same_category
+  - id: AA51
+    title: Aspiring to Be Blameless
+    score: 0.5561
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: AA22
+    title: Speaking Only That Which is Holy and Beneficial
+    score: 0.5523
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: AA23
+    title: Ridding Ourselves of Unholy Characteristics
+    score: 0.5518
+    reasons:
+    - frequently_linked
+    - same_category
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -10638,130 +8584,60 @@ items:
     - A13
     - AA44
     notes: ''
-- id: WA4
-  title: Not Committing Adultery
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: A14
-    title: Aspiring to God's Perfection & Holiness
-    score: 0.5017
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A13
-    title: Being Pure in Heart
-    score: 0.4964
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA24
-    title: Being Tenderhearted
-    score: 0.4833
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A2
-    title: Walking in God's Ways
-    score: 0.4832
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA1
-    title: Aspiring to Godliness and Holiness
-    score: 0.4739
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA11
-    title: Renouncing Worldly Pleasures
-    score: 0.473
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA3
-    title: Pursuing Righteousness & Living Righteously
-    score: 0.4725
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA2
-    title: Behaving Properly
-    score: 0.4675
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: WA1
-    title: Abstaining from Fornication and Other Acts of Sexual Immorality
-    score: 0.462
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - A14
-    notes: ''
 - id: WA5
   title: Not Engaging in Homosexuality
   existing_related_lawofmessiah: []
   suggested_related_lawofmessiah:
-  - id: A13
-    title: Being Pure in Heart
-    score: 0.55
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: A2
-    title: Walking in God's Ways
-    score: 0.535
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: A14
-    title: Aspiring to God's Perfection & Holiness
-    score: 0.5259
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA24
-    title: Being Tenderhearted
-    score: 0.5042
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA3
-    title: Pursuing Righteousness & Living Righteously
-    score: 0.4957
-    reasons:
-    - frequently_linked
-    - same_category
   - id: AA19
     title: Persevering, Standing Firm, & Growing in Our Faith
-    score: 0.4933
+    score: 0.5883
     reasons:
     - frequently_linked
     - same_category
     - similar_title
   - id: AA1
     title: Aspiring to Godliness and Holiness
-    score: 0.4902
+    score: 0.5652
     reasons:
     - frequently_linked
     - same_category
-  - id: AA2
-    title: Behaving Properly
-    score: 0.4887
+  - id: AA31
+    title: Being Steadfast in Our Faith and Our Thinking
+    score: 0.5628
     reasons:
     - frequently_linked
     - same_category
-  - id: WA1
-    title: Abstaining from Fornication and Other Acts of Sexual Immorality
-    score: 0.485
+  - id: AA3
+    title: Pursuing Righteousness & Living Righteously
+    score: 0.5607
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
+    - same_category
+  - id: AA22
+    title: Speaking Only That Which is Holy and Beneficial
+    score: 0.5605
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: A13
+    title: Being Pure in Heart
+    score: 0.56
+    reasons:
+    - frequently_linked
+    - same_category
+    - similar_title
+  - id: AA44
+    title: Knowing & Doing What is Right & Good
+    score: 0.5534
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: AA51
+    title: Aspiring to Be Blameless
+    score: 0.5505
+    reasons:
+    - frequently_linked
+    - same_category
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -10769,145 +8645,6 @@ items:
     - A2
     - A14
     - AA24
-    notes: ''
-- id: WA6
-  title: Not Teaching to Commit Acts of Sexual Immorality
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: WA1
-    title: Abstaining from Fornication and Other Acts of Sexual Immorality
-    score: 0.5977
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-    - title_keyword_overlap
-  - id: A14
-    title: Aspiring to God's Perfection & Holiness
-    score: 0.5291
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: H4
-    title: Using Our Speech, Thoughts, Hearts and Actions for That which Is Good and Holy
-    score: 0.5027
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A13
-    title: Being Pure in Heart
-    score: 0.4996
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA1
-    title: Aspiring to Godliness and Holiness
-    score: 0.4926
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A24
-    title: Being Clean of Spirit as Well as of Body
-    score: 0.4923
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A21
-    title: Fleeing from Love of Money and Pursuing Godly Virtues
-    score: 0.4891
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: A2
-    title: Walking in God's Ways
-    score: 0.4875
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: AA3
-    title: Pursuing Righteousness & Living Righteously
-    score: 0.481
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - WA1
-    - A14
-    - H4
-    notes: ''
-- id: XA1
-  title: Gentiles Not Boasting or Speaking Against Jews
-  existing_related_lawofmessiah: []
-  suggested_related_lawofmessiah:
-  - id: XA9
-    title: Gentiles Obeying Torah
-    score: 0.5209
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: XA8
-    title: Gentiles Praising the Lord
-    score: 0.5016
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: XA6
-    title: Gentiles Helping Jews in Material Ways
-    score: 0.5012
-    reasons:
-    - same_category
-    - title_keyword_overlap
-  - id: XA2
-    title: Gentiles Rejoicing with the Jewish People
-    score: 0.5007
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: XA12
-    title: Gentiles Being Holy
-    score: 0.499
-    reasons:
-    - frequently_linked
-    - same_category
-    - similar_title
-  - id: XA3
-    title: Gentiles Undergoing B’rit Milah
-    score: 0.4956
-    reasons:
-    - same_category
-    - similar_title
-  - id: XA7
-    title: Treating Gentiles and Jews as Spiritually Equal
-    score: 0.4856
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: XA11
-    title: Jews Being a Light and Blessing to the Gentiles
-    score: 0.453
-    reasons:
-    - frequently_linked
-    - same_category
-    - title_keyword_overlap
-  - id: XA10
-    title: Messianic Jews Relating to Gentile Believers as Brothers and Sisters
-    score: 0.449
-    reasons:
-    - manual_review
-    - theological_fit
-  review:
-    approved: false
-    approved_related_lawofmessiah:
-    - XA9
-    - XA8
-    - XA6
-    - XA2
     notes: ''
 - id: XA13
   title: Not Requiring Gentiles to Live as Jews
@@ -10923,10 +8660,18 @@ items:
     - title_keyword_overlap
   - id: XA6
     title: Gentiles Helping Jews in Material Ways
-    score: 0.5124
+    score: 0.5174
     reasons:
+    - frequently_linked
     - same_category
     - title_keyword_overlap
+  - id: XA10
+    title: Messianic Jews Relating to Gentile Believers as Brothers and Sisters
+    score: 0.5026
+    reasons:
+    - frequently_linked
+    - same_category
+    - similar_title
   - id: XA11
     title: Jews Being a Light and Blessing to the Gentiles
     score: 0.4995
@@ -10934,16 +8679,21 @@ items:
     - frequently_linked
     - same_category
     - title_keyword_overlap
-  - id: XA10
-    title: Messianic Jews Relating to Gentile Believers as Brothers and Sisters
-    score: 0.4976
+  - id: XA9
+    title: Gentiles Obeying Torah
+    score: 0.4983
     reasons:
     - frequently_linked
     - same_category
-    - similar_title
-  - id: XA9
-    title: Gentiles Obeying Torah
-    score: 0.4933
+  - id: XA12
+    title: Gentiles Being Holy
+    score: 0.4948
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: XA8
+    title: Gentiles Praising the Lord
+    score: 0.4921
     reasons:
     - frequently_linked
     - same_category
@@ -10953,24 +8703,6 @@ items:
     reasons:
     - frequently_linked
     - same_category
-  - id: XA12
-    title: Gentiles Being Holy
-    score: 0.4848
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: XA8
-    title: Gentiles Praising the Lord
-    score: 0.4821
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: XA4
-    title: Applying Torah to Gentiles
-    score: 0.479
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -10994,48 +8726,42 @@ items:
     - frequently_linked
     - same_category
     - similar_title
+  - id: XA12
+    title: Gentiles Being Holy
+    score: 0.4618
+    reasons:
+    - frequently_linked
+    - same_category
+  - id: XA9
+    title: Gentiles Obeying Torah
+    score: 0.4589
+    reasons:
+    - frequently_linked
+    - same_category
   - id: XA7
     title: Treating Gentiles and Jews as Spiritually Equal
     score: 0.4569
     reasons:
     - frequently_linked
     - same_category
-  - id: XA9
-    title: Gentiles Obeying Torah
-    score: 0.4539
-    reasons:
-    - frequently_linked
-    - same_category
-  - id: XA12
-    title: Gentiles Being Holy
-    score: 0.4518
-    reasons:
-    - frequently_linked
-    - same_category
   - id: XA8
     title: Gentiles Praising the Lord
-    score: 0.4455
+    score: 0.4555
     reasons:
     - frequently_linked
     - same_category
   - id: XA10
     title: Messianic Jews Relating to Gentile Believers as Brothers and Sisters
-    score: 0.4354
+    score: 0.4404
     reasons:
     - frequently_linked
     - same_category
-  - id: XA2
-    title: Gentiles Rejoicing with the Jewish People
-    score: 0.4306
+  - id: XA3
+    title: Gentiles Undergoing B’rit Milah
+    score: 0.4333
     reasons:
     - frequently_linked
     - same_category
-  - id: XA6
-    title: Gentiles Helping Jews in Material Ways
-    score: 0.427
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -11048,12 +8774,13 @@ items:
   suggested_related_lawofmessiah:
   - id: ZA4
     title: Seeking the Interpretation of Tongues When Spoken in Public
-    score: 0.4901
+    score: 0.5001
     reasons:
+    - frequently_linked
     - same_category
   - id: ZA3
     title: Exercising the Gift of Tongues in Good Order
-    score: 0.479
+    score: 0.484
     reasons:
     - frequently_linked
     - same_category
@@ -11063,15 +8790,15 @@ items:
     reasons:
     - frequently_linked
     - same_category
-  - id: ZA8
-    title: Seeking, Receiving, and Relying on Holy Spirit Power
-    score: 0.4575
+  - id: ZA6
+    title: Seeking the Gift of Prophecy
+    score: 0.4615
     reasons:
     - frequently_linked
     - same_category
-  - id: ZA6
-    title: Seeking the Gift of Prophecy
-    score: 0.4565
+  - id: ZA8
+    title: Seeking, Receiving, and Relying on Holy Spirit Power
+    score: 0.4575
     reasons:
     - frequently_linked
     - same_category
@@ -11083,21 +8810,16 @@ items:
     - same_category
   - id: ZA9
     title: Preferring Love Over Spiritual Gifts
-    score: 0.422
+    score: 0.427
     reasons:
     - frequently_linked
     - same_category
   - id: ZA10
     title: Using Our Spiritual Gifts to Edify the Body
-    score: 0.4214
+    score: 0.4264
     reasons:
+    - frequently_linked
     - same_category
-  - id: GB23
-    title: Pursuing That Which Makes for Faith and Upbuilding
-    score: 0.418
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -11109,7 +8831,7 @@ items:
   suggested_related_lawofmessiah:
   - id: ZA3
     title: Exercising the Gift of Tongues in Good Order
-    score: 0.5155
+    score: 0.5205
     reasons:
     - frequently_linked
     - same_category
@@ -11123,8 +8845,9 @@ items:
     - similar_title
   - id: ZA4
     title: Seeking the Interpretation of Tongues When Spoken in Public
-    score: 0.4729
+    score: 0.4829
     reasons:
+    - frequently_linked
     - same_category
   - id: ZA8
     title: Seeking, Receiving, and Relying on Holy Spirit Power
@@ -11140,28 +8863,22 @@ items:
     - same_category
   - id: ZA9
     title: Preferring Love Over Spiritual Gifts
-    score: 0.4496
+    score: 0.4546
     reasons:
     - frequently_linked
     - same_category
   - id: ZA6
     title: Seeking the Gift of Prophecy
-    score: 0.4458
+    score: 0.4508
     reasons:
     - frequently_linked
     - same_category
   - id: ZA7
     title: Determining Our Spiritual Gifts
-    score: 0.442
+    score: 0.447
     reasons:
     - frequently_linked
     - same_category
-  - id: ZA10
-    title: Using Our Spiritual Gifts to Edify the Body
-    score: 0.438
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -11174,7 +8891,7 @@ items:
   suggested_related_lawofmessiah:
   - id: ZA7
     title: Determining Our Spiritual Gifts
-    score: 0.6396
+    score: 0.6446
     reasons:
     - frequently_linked
     - same_category
@@ -11190,7 +8907,7 @@ items:
     - title_keyword_overlap
   - id: ZA9
     title: Preferring Love Over Spiritual Gifts
-    score: 0.5931
+    score: 0.5981
     reasons:
     - frequently_linked
     - same_category
@@ -11198,8 +8915,9 @@ items:
     - title_keyword_overlap
   - id: ZA10
     title: Using Our Spiritual Gifts to Edify the Body
-    score: 0.566
+    score: 0.571
     reasons:
+    - frequently_linked
     - same_category
     - similar_title
     - title_keyword_overlap
@@ -11211,13 +8929,13 @@ items:
     - same_category
   - id: ZA6
     title: Seeking the Gift of Prophecy
-    score: 0.4668
+    score: 0.4718
     reasons:
     - frequently_linked
     - same_category
   - id: ZA3
     title: Exercising the Gift of Tongues in Good Order
-    score: 0.4547
+    score: 0.4597
     reasons:
     - frequently_linked
     - same_category
@@ -11227,12 +8945,6 @@ items:
     reasons:
     - frequently_linked
     - same_category
-  - id: ZA8
-    title: Seeking, Receiving, and Relying on Holy Spirit Power
-    score: 0.438
-    reasons:
-    - manual_review
-    - theological_fit
   review:
     approved: false
     approved_related_lawofmessiah:
@@ -11266,38 +8978,34 @@ items:
     - same_category
   - id: ZA3
     title: Exercising the Gift of Tongues in Good Order
-    score: 0.4665
+    score: 0.4715
     reasons:
     - frequently_linked
     - same_category
   - id: ZA4
     title: Seeking the Interpretation of Tongues When Spoken in Public
-    score: 0.4436
+    score: 0.4536
     reasons:
+    - frequently_linked
     - same_category
   - id: ZA6
     title: Seeking the Gift of Prophecy
-    score: 0.4398
+    score: 0.4448
     reasons:
     - frequently_linked
     - same_category
   - id: ZA10
     title: Using Our Spiritual Gifts to Edify the Body
-    score: 0.4292
-    reasons:
-    - same_category
-  - id: ZA7
-    title: Determining Our Spiritual Gifts
-    score: 0.3943
+    score: 0.4342
     reasons:
     - frequently_linked
     - same_category
-  - id: ZA4
-    title: Seeking the Interpretation of Tongues When Spoken in Public
-    score: 0.392
+  - id: ZA7
+    title: Determining Our Spiritual Gifts
+    score: 0.3993
     reasons:
-    - manual_review
-    - theological_fit
+    - frequently_linked
+    - same_category
   review:
     approved: false
     approved_related_lawofmessiah:

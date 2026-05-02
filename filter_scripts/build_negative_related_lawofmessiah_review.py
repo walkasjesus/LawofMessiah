@@ -159,6 +159,8 @@ def score_candidate(target, candidate, inbound_count):
 
 def main():
     rows = to_items(load_yaml(INPUT_PATH))
+    existing_review = load_yaml(OUTPUT_PATH) if OUTPUT_PATH.exists() else {}
+    existing_items = to_items(existing_review)
 
     rows_by_id = {}
     for row in rows:
@@ -180,6 +182,22 @@ def main():
             continue
         if is_negative(row) and not has_related_ids(row):
             targets.append(row)
+
+    target_ids = {
+        row.get("id") for row in targets if isinstance(row, dict) and isinstance(row.get("id"), str)
+    }
+
+    existing_by_id = {}
+    existing_order = []
+    for item in existing_items:
+        if not isinstance(item, dict):
+            continue
+        item_id = item.get("id")
+        if not isinstance(item_id, str) or not item_id.strip():
+            continue
+        item_id = item_id.strip()
+        existing_by_id[item_id] = item
+        existing_order.append(item_id)
 
     review_items = []
     for target in targets:
@@ -213,19 +231,66 @@ def main():
         if not approved_ids:
             approved_ids = [""]
 
+        existing_item = existing_by_id.get(target_id)
+        existing_review_block = existing_item.get("review", {}) if isinstance(existing_item, dict) else {}
+        if not isinstance(existing_review_block, dict):
+            existing_review_block = {}
+
+        review_block = {
+            "approved": bool(existing_review_block.get("approved", False)),
+            "approved_related_lawofmessiah": existing_review_block.get(
+                "approved_related_lawofmessiah", approved_ids
+            ),
+            "notes": existing_review_block.get("notes", ""),
+        }
+
+        # Ensure compatible shape for edited review files.
+        if not isinstance(review_block["approved_related_lawofmessiah"], list):
+            review_block["approved_related_lawofmessiah"] = approved_ids
+        if not isinstance(review_block["notes"], str):
+            review_block["notes"] = ""
+
         review_items.append(
             {
                 "id": target.get("id"),
                 "title": target.get("title", ""),
                 "existing_related_lawofmessiah": [],
                 "suggested_related_lawofmessiah": suggestions,
-                "review": {
-                    "approved": False,
-                    "approved_related_lawofmessiah": approved_ids,
-                    "notes": "",
-                },
+                "review": review_block,
             }
         )
+
+    generated_by_id = {
+        item["id"]: item
+        for item in review_items
+        if isinstance(item, dict) and isinstance(item.get("id"), str)
+    }
+
+    final_items = []
+    seen = set()
+
+    for item_id in existing_order:
+        existing_item = existing_by_id.get(item_id)
+        if not isinstance(existing_item, dict):
+            continue
+
+        review_block = existing_item.get("review", {})
+        approved = isinstance(review_block, dict) and review_block.get("approved") is True
+
+        if approved:
+            final_items.append(existing_item)
+            seen.add(item_id)
+            continue
+
+        if item_id in target_ids and item_id in generated_by_id:
+            final_items.append(generated_by_id[item_id])
+            seen.add(item_id)
+
+    for item_id, item in generated_by_id.items():
+        if item_id in seen:
+            continue
+        final_items.append(item)
+        seen.add(item_id)
 
     out = {
         "schema_version": 1,
@@ -241,8 +306,9 @@ def main():
         "stats": {
             "total_rows": len(rows),
             "negative_rows_missing_related_ids": len(review_items),
+            "review_items_after_preserving_approved": len(final_items),
         },
-        "items": review_items,
+        "items": final_items,
     }
 
     OUTPUT_PATH.write_text(
