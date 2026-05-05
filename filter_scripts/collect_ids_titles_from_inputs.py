@@ -1,4 +1,5 @@
 from pathlib import Path
+import re
 
 import yaml
 
@@ -27,6 +28,207 @@ MANUAL_NCLA_ADDITIONS_PATH = (
     ROOT / "filter_output" / "manually_added_ncla_collected_ids_titles.yaml"
 )
 CATEGORY_REVIEW_PATH = ROOT / "filter_output" / "category_normalization_review.yaml"
+
+
+REFERENCE_RE = re.compile(
+    r"^\s*(?P<book>.+?)\s+(?P<chapter>\d+)\s*:\s*(?P<start>\d+)(?P<start_suffix>[a-z]?)"
+    r"(?:\s*-\s*(?:(?P<end_chapter>\d+)\s*:\s*)?(?P<end>\d+)(?P<end_suffix>[a-z]?))?\s*$",
+    re.IGNORECASE,
+)
+
+
+def ref_dedupe_key(reference):
+    return re.sub(r"\s+", " ", str(reference or "")).strip().lower()
+
+
+def suffix_to_bounds(verse, suffix):
+    # Unsuffixed verse means the whole verse; suffixed means a sub-verse marker (e.g. 16a).
+    if not suffix:
+        return verse * 100, verse * 100 + 99
+    index = ord(suffix.lower()) - ord("a") + 1
+    index = max(1, min(index, 99))
+    point = verse * 100 + index
+    return point, point
+
+
+def parse_reference(reference):
+    text = re.sub(r"\s+", " ", str(reference or "")).strip()
+    match = REFERENCE_RE.match(text)
+    if not match:
+        return None
+
+    book = match.group("book").strip()
+    chapter = int(match.group("chapter"))
+    start_verse = int(match.group("start"))
+    start_suffix = (match.group("start_suffix") or "").lower()
+    end_chapter_raw = match.group("end_chapter")
+    end_chapter = int(end_chapter_raw) if end_chapter_raw else chapter
+    end_verse = int(match.group("end") or start_verse)
+    end_suffix = (match.group("end_suffix") or "").lower()
+
+    if end_chapter != chapter:
+        # Keep cross-chapter references as-is to avoid accidental semantic changes.
+        return {
+            "text": text,
+            "book": book,
+            "book_key": book.lower(),
+            "chapter": chapter,
+            "cross_chapter": True,
+        }
+
+    start_low, start_high = suffix_to_bounds(start_verse, start_suffix)
+    end_low, end_high = suffix_to_bounds(end_verse, end_suffix)
+
+    low = min(start_low, end_low)
+    high = max(start_high, end_high)
+    return {
+        "text": text,
+        "book": book,
+        "book_key": book.lower(),
+        "chapter": chapter,
+        "cross_chapter": False,
+        "low": low,
+        "high": high,
+    }
+
+
+def bound_to_token(bound, is_start):
+    verse = bound // 100
+    part = bound % 100
+    if (is_start and part == 0) or ((not is_start) and part == 99):
+        return str(verse)
+    if 1 <= part <= 26:
+        return f"{verse}{chr(ord('a') + part - 1)}"
+    return str(verse)
+
+
+def format_interval(book, chapter, low, high):
+    start = bound_to_token(low, is_start=True)
+    end = bound_to_token(high, is_start=False)
+    if low == high:
+        return f"{book} {chapter}:{start}"
+
+    start_verse = low // 100
+    end_verse = high // 100
+    if start_verse == end_verse and start == end:
+        return f"{book} {chapter}:{start}"
+    return f"{book} {chapter}:{start}-{end}"
+
+
+def merge_reference_list(values):
+    ordered_unique = []
+    seen = set()
+    for value in values or []:
+        text = re.sub(r"\s+", " ", str(value or "")).strip()
+        if not text:
+            continue
+        key = ref_dedupe_key(text)
+        if key in seen:
+            continue
+        seen.add(key)
+        ordered_unique.append(text)
+
+    passthrough_by_index = {}
+    groups = {}
+
+    for idx, text in enumerate(ordered_unique):
+        ref = parse_reference(text)
+        if not ref or ref.get("cross_chapter"):
+            passthrough_by_index[idx] = text
+            continue
+
+        group_key = (ref["book_key"], ref["chapter"])
+        if group_key not in groups:
+            groups[group_key] = {
+                "first_index": idx,
+                "book": ref["book"],
+                "chapter": ref["chapter"],
+                "intervals": [],
+            }
+        groups[group_key]["intervals"].append((ref["low"], ref["high"]))
+
+    merged_by_first_index = {}
+    for group in groups.values():
+        intervals = sorted(group["intervals"], key=lambda pair: (pair[0], pair[1]))
+        merged = []
+        low, high = intervals[0]
+        for next_low, next_high in intervals[1:]:
+            current_end_verse = high // 100
+            next_start_verse = next_low // 100
+            if next_start_verse <= current_end_verse + 1:
+                high = max(high, next_high)
+            else:
+                merged.append((low, high))
+                low, high = next_low, next_high
+        merged.append((low, high))
+
+        merged_text = [
+            format_interval(group["book"], group["chapter"], m_low, m_high)
+            for m_low, m_high in merged
+        ]
+        merged_by_first_index[group["first_index"]] = merged_text
+
+    out = []
+    for idx in range(len(ordered_unique)):
+        if idx in passthrough_by_index:
+            out.append(passthrough_by_index[idx])
+        if idx in merged_by_first_index:
+            out.extend(merged_by_first_index[idx])
+
+    return out
+
+
+def normalize_bible_references_sectioned(bible_references):
+    if not isinstance(bible_references, dict):
+        return {
+            "key_nt_scriptures": [],
+            "key_ot_scriptures": [],
+            "supportive_nt_scriptures": [],
+            "supportive_ot_scriptures": [],
+        }
+
+    sections = {
+        "key_nt_scriptures": merge_reference_list(
+            bible_references.get("key_nt_scriptures", [])
+        ),
+        "key_ot_scriptures": merge_reference_list(
+            bible_references.get("key_ot_scriptures", [])
+        ),
+        "supportive_nt_scriptures": merge_reference_list(
+            bible_references.get("supportive_nt_scriptures", [])
+        ),
+        "supportive_ot_scriptures": merge_reference_list(
+            bible_references.get("supportive_ot_scriptures", [])
+        ),
+    }
+
+    # Keep only one copy across all sections, with key scriptures taking precedence.
+    precedence = [
+        "key_nt_scriptures",
+        "key_ot_scriptures",
+        "supportive_nt_scriptures",
+        "supportive_ot_scriptures",
+    ]
+    seen = set()
+    for section in precedence:
+        deduped = []
+        for ref in sections.get(section, []):
+            key = ref_dedupe_key(ref)
+            if key in seen:
+                continue
+            seen.add(key)
+            deduped.append(ref)
+        sections[section] = deduped
+
+    return sections
+
+
+def normalize_row_bible_references(row):
+    if not isinstance(row, dict):
+        return
+    row["bible_references"] = normalize_bible_references_sectioned(
+        row.get("bible_references", {})
+    )
 
 
 def load_yaml(path: Path):
@@ -364,6 +566,7 @@ def main():
                 row_out["ncla"] = manual_ncla_row["ncla"]
 
             normalize_category(row_out, category_lookup)
+            normalize_row_bible_references(row_out)
 
             row_out["related_lawofmessiah"] = merge_related_lists(
                 merge_related_lawofmessiah(row_out),
@@ -386,6 +589,7 @@ def main():
             continue
         manual_row_out = dict(manual_row)
         normalize_category(manual_row_out, category_lookup)
+        normalize_row_bible_references(manual_row_out)
         manual_row_out["related_lawofmessiah"] = merge_related_lists(
             manual_row_out.get("related_lawofmessiah", []),
             existing_related_by_id.get(row_id, []),
