@@ -24,7 +24,7 @@ def determine_commandment_type(text: str) -> str:
     text = text.strip().lower()
 
     # Detect Positive & Negative when phrase contains a positive clause followed by "and not ..."
-    if re.search(r"\band not\b", text):
+    if re.search(r"\band by not\b|\band not\b", text):
         return "Positive & Negative"
 
     # Detect Negative if it contains any negative keyword

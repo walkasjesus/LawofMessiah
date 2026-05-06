@@ -1,4 +1,5 @@
 import os
+import re
 import yaml
 from bs4 import BeautifulSoup
 
@@ -7,9 +8,21 @@ scraped_dir = "volume_1_2_scraped_commandments"
 
 # Function to determine if a commandment is positive or negative
 def determine_commandment_type(commandment):
-    negative_keywords = ["not", "do not", "shall not", "must not", "cannot"]
-    for keyword in negative_keywords:
-        if keyword in commandment.lower():
+    text = commandment.lower()
+
+    # Mixed phrasing like "... and not ..." expresses both an affirmative and prohibition.
+    if re.search(r"\band by not\b|\band not\b", text):
+        return "Positive & Negative"
+
+    negative_patterns = [
+        r"\bdo not\b",
+        r"\bshall not\b",
+        r"\bmust not\b",
+        r"\bcannot\b",
+        r"\bare not to\b",
+    ]
+    for pattern in negative_patterns:
+        if re.search(pattern, text):
             return "Negative"
     return "Positive"
 
