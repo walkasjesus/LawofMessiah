@@ -123,10 +123,10 @@ if filter_unique:
             if (similarity_logic == 'and' and difflib_similar and cosine_similar and bert_similar) or \
                (similarity_logic == 'or' and (difflib_similar or cosine_similar or bert_similar)):
                 found_duplicate = True
-                if 'double_ids' in unique_cmd:
-                    unique_cmd['double_ids'].append({'id': cmd_id, 'commandment': cmd_text})
+                if 'related_lawofmessiah' in unique_cmd:
+                    unique_cmd['related_lawofmessiah'].append({'id': cmd_id, 'commandment': cmd_text})
                 else:
-                    unique_cmd['double_ids'] = [{'id': cmd_id, 'commandment': cmd_text}]
+                    unique_cmd['related_lawofmessiah'] = [{'id': cmd_id, 'commandment': cmd_text}]
                 break
         if not found_duplicate:
             unique_commandments.append({
@@ -136,8 +136,8 @@ if filter_unique:
 
     # Print the duplicate IDs
     for unique_cmd in unique_commandments:
-        if 'double_ids' in unique_cmd:
-            print(f"Commandment ID {unique_cmd['id']} is similar to: {unique_cmd['double_ids']}")
+        if 'related_lawofmessiah' in unique_cmd:
+            print(f"Commandment ID {unique_cmd['id']} is similar to: {unique_cmd['related_lawofmessiah']}")
 
     # Use the unique commandments as the final filtered commandments
     filtered_commandments = unique_commandments

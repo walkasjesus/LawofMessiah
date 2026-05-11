@@ -2,7 +2,7 @@
   title: Walking in God's Ways
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA17
     title: Imitating God and Yeshua
   - id: A2
@@ -29,7 +29,7 @@
   title: Being Good Stewards
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: A18
     title: Being Good Stewards of Our Spiritual Gifts According to the Grace Given Us
   - id: ZA1
@@ -67,7 +67,7 @@
   title: Keeping Vows Made to God
   manually_review: Keeping Vows Made to God goes further than keeping your word. But since we focus on having an evening talking and sharing about this commandment, it falls into the same category, so therefore I count it as not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA34
     title: Keeping Our Promises
   - id: M2
@@ -98,7 +98,7 @@
   title: Swearing Oaths Only in God's Name
   manually_review: Swearing an oath goes further than keeping your word. But since we focus on having an evening talking and sharing about this commandment, it falls into the same category, so therefore I count it as not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: M2
     title: Keeping Our Promises
   bible_references:
@@ -125,7 +125,7 @@
   title: Confessing, Repenting, and Making Restitution for Our Sins
   manually_review: Making restitution is a unique thing to do.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA36
     title: Forgiving Those Who Sin Against Us
   - id: GA1
@@ -170,7 +170,7 @@
   title: Ritual Purification, Cleanness, Separation & Health
   manually_review: I think this is the same as AA15, AA6 and AA13. Together with these this is not unique?
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA15
     title: Keeping Free from, and Purifying Ourselves from Things that Defile
   - id: AA6
@@ -230,7 +230,7 @@
   title: Being Born Again from Above
   manually_review: When you will be baptized you will be born again, so this commandment will be implicit when you follow GA4.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA45
     title: Being Circumcised in Our Heart
   - id: GA4
@@ -260,7 +260,7 @@
   title: Being Pure in Heart
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA3
     title: Pursuing Righteousness & Living Righteously
   - id: AA1
@@ -295,7 +295,7 @@
   title: Aspiring to God's Perfection & Holiness
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA1
     title: Aspiring to Godliness and Holiness
   - id: AA51
@@ -327,7 +327,7 @@
   title: Being Humble & Not Prideful
   manually_review: The principle behind DA5 which Yeshua gave is the same as to walk in humility and eschew pride.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA5
     title: Serving One Another
   bible_references:
@@ -409,7 +409,7 @@
   title: Being Good Stewards of Our Spiritual Gifts According to the Grace Given Us
   manually_review: This is the same as ZA1
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: ZA1
     title: Using Our Spiritual Gifts to Serve Others
   bible_references:
@@ -454,7 +454,7 @@
   title: Fleeing from Love of Money and Pursuing Godly Virtues
   manually_review: It has the same idea as PA1 and 59
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: PA1
     title: Giving to Our Secular Authorities That Which is Theirs
   - id: AA8
@@ -543,7 +543,7 @@
   title: Being Subject to Governing Authorities
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Romans 13:1
@@ -561,7 +561,7 @@
   title: Being Clean of Spirit as Well as of Body
   manually_review: This is the same as AA4.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA4
     title: Seeking to Be Both Inwardly & Outwardly Clean
   - id: BA24
@@ -591,7 +591,7 @@
   title: Aspiring to Godliness and Holiness
   manually_review: Aspire Godliness, Holiness, Perfection, I think this is the same.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: A14
     title: Aspiring to God's Perfection & Holiness
   bible_references:
@@ -622,7 +622,7 @@
   title: Behaving Properly
   manually_review: It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Romans 13:13
@@ -641,7 +641,7 @@
   title: Pursuing Righteousness & Living Righteously
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA3
     title: Pursuing Righteousness & Living Righteously
   bible_references:
@@ -678,7 +678,7 @@
   title: Seeking to Be Both Inwardly & Outwardly Clean
   manually_review: Of cource perfection is inward and outward, but I think to strive to inwardly and outwardly cleanness is more explicit and therefore unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA23
     title: Ridding Ourselves of Unholy Characteristics
   - id: A14
@@ -710,7 +710,7 @@
   title: Modeling Ourselves on the Perfection of God
   manually_review: Obviously the same
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA1
     title: Aspiring to Godliness and Holiness
   - id: A14
@@ -733,7 +733,7 @@
   title: Keeping Our Minds from Causing Our Bodies to Sin
   manually_review: Almost the same, but together with AA59, I choose AA59 to be unique and therefore this one not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA59
     title: Keeping a Clear Conscience
   - id: GB39
@@ -762,7 +762,7 @@
   title: Seeking God’s Kingdom
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: M1
     title: Pursuing Righteousness & Doing What Is Right
   bible_references:
@@ -788,7 +788,7 @@
   title: Guarding Ourselves Against Greed
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA8
     title: Guarding Ourselves Against Greed
   bible_references:
@@ -813,7 +813,7 @@
   title: Letting God’s Light That Is in Us Shine
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA9
     title: Letting God's Light That Is in Us Shine
   bible_references:
@@ -833,7 +833,7 @@
   title: Having Godly Compassion
   manually_review: Since Yeshua gave this commandment as an example, it is godly and thefore the same
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: N18
     title: Being Compassionate & Merciful Toward Our Neighbor
   bible_references:
@@ -864,7 +864,7 @@
   title: Renouncing Worldly Pleasures
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 John 2:15
@@ -884,7 +884,7 @@
   title: Fleeing from Sin & Evil
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA6
     title: Keeping Our Minds from Causing Our Bodies to Sin
   bible_references:
@@ -919,7 +919,7 @@
   title: Being Patient
   manually_review: Patience is definately a unique virtue.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Romans 12:12
@@ -946,7 +946,7 @@
   title: Keeping Free from, and Purifying Ourselves from Things that Defile
   manually_review: Purify ourselves or being pure in heart is the same. I first thought it is the same as AA13, but it is good to have an explicit positive commandment to flee from sin and evil.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA6
     title: Keeping Our Minds from Causing Our Bodies to Sin
   - id: AA23
@@ -975,7 +975,7 @@
   title: Replacing Our Old Nature with a New Nature
   manually_review: Since AB15 is already unique and it is almost the same, I choose this one to be not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB15
     title: Being Transformed by the Renewing of Our Mind and Spirit
   bible_references:
@@ -1002,7 +1002,7 @@
   title: Persevering, Standing Firm, & Growing in Our Faith
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 15:58
@@ -1037,7 +1037,7 @@
   title: Being Gentle
   manually_review: Gentileness is a unique virtue
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Thessalonians 2:7
@@ -1057,7 +1057,7 @@
   title: Speaking Only That Which is Holy and Beneficial
   manually_review: It has the same purse, together with AA1, this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA56
     title: Being Quick to Listen and Slow to Speak
   bible_references:
@@ -1092,7 +1092,7 @@
   title: Ridding Ourselves of Unholy Characteristics
   manually_review: It is the same as AA4.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA4
     title: Seeking to Be Both Inwardly & Outwardly Clean
   bible_references:
@@ -1112,7 +1112,7 @@
   title: Being Tenderhearted
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA20
     title: Being Gentle
   - id: AA24
@@ -1131,7 +1131,7 @@
   title: Focusing Our Thoughts on Things that Are Godly
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 John 3:3
@@ -1159,7 +1159,7 @@
   title: Being Thankful and Grateful to God
   manually_review: This is the same.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA9
     title: Giving Thanks in Everything
   bible_references:
@@ -1200,7 +1200,7 @@
   title: Being Joyful in All Circumstances
   manually_review: Joy is a unique virtue, howover, implied AA29 is the same.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA29
     title: Being Joyful in All Circumstances
   bible_references:
@@ -1229,7 +1229,7 @@
   title: Being Honest and a Teller of Truth
   manually_review: You can keep your word but still not be honest. This is a unique virtue.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: M2
     title: Keeping Our Promises
   bible_references:
@@ -1268,7 +1268,7 @@
   title: Being Steadfast in Our Faith and Our Thinking
   manually_review: This is implied to be the same as G12, together with AA19, this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA19
     title: Persevering, Standing Firm, & Growing in Our Faith
   - id: G12
@@ -1291,7 +1291,7 @@
   title: Being Faithful, Trustworthy and Loyal
   manually_review: I think this is the same umbrella as M2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: M2
     title: Keeping Our Promises
   bible_references:
@@ -1336,7 +1336,7 @@
   title: Keeping Our Promises
   manually_review: It is the same umbrella as M2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA32
     title: Being Faithful, Trustworthy and Loyal
   - id: M2
@@ -1364,7 +1364,7 @@
   title: Fleeing Lustful Passions
   manually_review: Together with GB39,23 and AA13 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA13
     title: Fleeing from Sin & Evil
   - id: AA25
@@ -1391,7 +1391,7 @@
   title: Comparing That Which is Taught Us to What We Read in Scripture
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Acts 17:10-11
@@ -1410,7 +1410,7 @@
   title: Knowing & Doing What is Right & Good
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AB9
     title: Being Bold in the Holy Spirit
   bible_references:
@@ -1470,7 +1470,7 @@
   title: Being Circumcised in Our Heart
   manually_review: A beautiful summary when you read the comment of Rabbi Rudulph on this commandment. It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Romans 2:28-29
@@ -1488,7 +1488,7 @@
   title: Seeking and Growing in Godly Knowledge
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA53
     title: Having a Sound & Godly Doctrine
   - id: BA47
@@ -1519,7 +1519,7 @@
   title: Aspiring to Be Blameless
   manually_review: This is the same as A14, together with AA4 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA1
     title: Aspiring to Godliness and Holiness
   - id: AA4
@@ -1552,7 +1552,7 @@
   title: Having a Sound & Godly Doctrine
   manually_review: I think it is unique so far.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - Titus 2:6-7
@@ -1569,7 +1569,7 @@
   title: Distinguishing between Good and Evil
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA13
     title: Fleeing from Sin & Evil
   - id: AA44
@@ -1591,7 +1591,7 @@
   title: Being Quick to Listen and Slow to Speak
   manually_review: It is a unique virtue.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA22
     title: Speaking Only That Which is Holy and Beneficial
   - id: AA20
@@ -1616,7 +1616,7 @@
   title: Being Open to Reason
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Peter 3:14-15
@@ -1631,7 +1631,7 @@
   title: Letting Our “Yes” be “Yes” & Our “No” be “No”
   manually_review: This is the same as M2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: M2
     title: Keeping Our Promises
   bible_references:
@@ -1649,7 +1649,7 @@
   title: Keeping a Clear Conscience
   manually_review: It is a unique virtue, though it is very similar to AA6.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA6
     title: Keeping Our Minds from Causing Our Bodies to Sin
   - id: AA25
@@ -1673,7 +1673,7 @@
   title: Hating Ungodly Vices
   manually_review: It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Corinthians 6:18
@@ -1694,7 +1694,7 @@
   title: Being Slow to Anger
   manually_review: It is the same as DA2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA56
     title: Being Quick to Listen and Slow to Speak
   - id: AA20
@@ -1714,7 +1714,7 @@
   title: Being Filled with the Holy Spirit
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:18
@@ -1725,7 +1725,7 @@
   title: Sowing in the Holy Spirit
   manually_review: There is not yet a scripture included, so for now I skip this commandment as unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA39
     title: Praying in Unison with the Holy Spirit
   - id: AB2
@@ -1740,7 +1740,7 @@
   title: Being Led by the Holy Spirit
   manually_review: It is the same as ZA8.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB2
     title: Being Filled with the Holy Spirit
   - id: ZA8
@@ -1755,9 +1755,9 @@
     group: All
 - id: AB8
   title: Hearing the Holy Spirit
-  manually_review: Together with the double_ids and ZA8 this is not unique.
+  manually_review: Together with the related_lawofmessiah and ZA8 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB6
     title: Sowing in the Holy Spirit
   - id: AB7
@@ -1778,9 +1778,9 @@
     group: All
 - id: AB9
   title: Being Bold in the Holy Spirit
-  manually_review: Togtether with the double_ids and steps this is not unique.
+  manually_review: Togtether with the related_lawofmessiah and steps this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AB2
     title: Being Filled with the Holy Spirit
   - id: AB6
@@ -1801,7 +1801,7 @@
   title: Receiving the Holy Spirit
   manually_review: This is the same as AB2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB2
     title: Being Filled with the Holy Spirit
   - id: AB8
@@ -1817,7 +1817,7 @@
   title: Conforming Our Mind and Aligning Our Conscience with the Holy Spirit
   manually_review: I think this is the same as AB15.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB15
     title: Being Transformed by the Renewing of Our Mind and Spirit
   - id: AB2
@@ -1833,7 +1833,7 @@
   title: Seeking and Pursuing the Things of the Spirit
   manually_review: seeking is implied in AB2 and pursuing is implied in ZA8 (together with BA20), so this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB2
     title: Being Filled with the Holy Spirit
   - id: ZA8
@@ -1852,7 +1852,7 @@
   title: Being Transformed by the Renewing of Our Mind and Spirit
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AB7
     title: Being Led by the Holy Spirit
   - id: AB13
@@ -1868,9 +1868,9 @@
     group: All
 - id: AB16
   title: Producing Fruit of the Holy Spirit
-  manually_review: Together with the double_ids this is not unique.
+  manually_review: Together with the related_lawofmessiah this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GA3
     title: Producing Fruit of Repentance
   - id: Y2
@@ -1885,7 +1885,7 @@
   title: Returning a Needed Pledged Item
   manually_review: Although it is a bit different from DA9 or PA1, since we focus on unique items where you can have a good evening together to talk about, I don't think this is unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA9
     title: Giving to Our Neighbor That Which Is Owed Him
   - id: PA1
@@ -1907,7 +1907,7 @@
   title: Giving Financial Help to Persons in Need
   manually_review: It is the same as E7, and you need to do it in secret, as DA12 describes.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: B5
     title: Setting Aside Part of Our Increase for the Poor
   - id: E7
@@ -1943,7 +1943,7 @@
   title: Setting Aside Part of Our Increase for the Poor
   manually_review: It is the same as E7, and you need to do it in secret, as DA12 describes.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: B4
     title: Giving Financial Help to Persons in Need
   - id: E7
@@ -1969,7 +1969,7 @@
   title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA57
     title: Coming to Yeshua for Spiritual Rest
   bible_references:
@@ -1992,7 +1992,7 @@
   title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua'
   manually_review: It is based on the same key scripture but differently described.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: Y2
     title: Abiding in Yeshua in Order to Bear Fruit
   bible_references:
@@ -2035,7 +2035,7 @@
   title: Trusting (Having Faith /Believing) in God and Yeshua
   manually_review: It is the same as G12, this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: G12
     title: Having Faith in God & Trusting Him in All Things
   bible_references:
@@ -2146,7 +2146,7 @@
   title: Offering Our Entire Selves to God
   manually_review: It is based on the same supportive scripture but differently described. To offer our entire selves is the same as Y6.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: Y6
     title: Following Yeshua & Putting Him Before of All Else
   bible_references:
@@ -2166,7 +2166,7 @@
   title: Praising God and Yeshua
   manually_review: Together with FA2 and 74 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA2
     title: Worshiping the One True God and No Other
   - id: BA33
@@ -2198,7 +2198,7 @@
   title: Pleasing God and Yeshua
   manually_review: Together with FA2 and 74 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA7
     title: Praising God and Yeshua
   - id: AA7
@@ -2237,7 +2237,7 @@
   title: Believing in God’s Evenhanded Justice
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Acts 10:34-35
@@ -2263,7 +2263,7 @@
   title: Obeying the Commandments of God and Yeshua
   manually_review: Together with BA10 and 41 this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   - id: BA20
@@ -2334,9 +2334,9 @@
     group: All
 - id: BA11
   title: Honoring God & Yeshua
-  manually_review: Together with the double_ids and ZA1 this is not unique.
+  manually_review: Together with the related_lawofmessiah and ZA1 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA7
     title: Praising God and Yeshua
   - id: BA8
@@ -2369,7 +2369,7 @@
   title: Lifting Up Yeshua
   manually_review: It is a unique commandment from John 3:14 and John 8:28, not yet an explicit step (however it is implied in BA33).
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA33
     title: Glorifying God and Yeshua
   bible_references:
@@ -2385,7 +2385,7 @@
   title: Hearing the Words & Voice of God and Yeshua
   manually_review: It is the same as BA20, together with R1 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   - id: BA20
@@ -2427,7 +2427,7 @@
   title: Knowing God through Yeshua
   manually_review: I choose to make G20 unique and therefore BA14 not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: G20
     title: Knowing God & Who He Is
   - id: BA11
@@ -2456,7 +2456,7 @@
   title: Serving God & Yeshua
   manually_review: Since BA14 already covers to know both God and Yeshua, this is then the same as FA2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA8
     title: Pleasing God and Yeshua
   - id: BA11
@@ -2494,7 +2494,7 @@
   title: Devoting Our Lives to God and Yeshua
   manually_review: Together with Y6, 66, 69, 74, I don't think this is unique. It is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA11
     title: Honoring God & Yeshua
   - id: BA8
@@ -2533,7 +2533,7 @@
   title: Imitating God and Yeshua
   manually_review: It is already implied in BA20 and 2 and in id GB14
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB14
     title: Patterning Our Life After the Shlichim, their Disciples, and Yeshua
   - id: BA11
@@ -2571,7 +2571,7 @@
   title: Being Reconciled to God in Yeshua
   manually_review: It is the same as GA1.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GA1
     title: Repenting of Our Sins and Turning to God
   bible_references:
@@ -2589,7 +2589,7 @@
   title: Seeking Our Reward from God in Heaven
   manually_review: It is the same as AA29 together with CA3.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA8
     title: Pleasing God and Yeshua
   - id: AA29
@@ -2618,7 +2618,7 @@
   title: Listening to, Believing, and Obeying the Good News of Yeshua
   manually_review: It is not unique, it is the same as BA20. Believing is covered in GA1.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA4
     title: Trusting (Having Faith /Believing) in God and Yeshua
   - id: BA20
@@ -2644,7 +2644,7 @@
   title: Loving God & Yeshua
   manually_review: It is the same as G4, together with BA25 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: G4
     title: Loving God
   - id: BA25
@@ -2687,7 +2687,7 @@
   title: Knowing that God is One – Both Singular & Composite
   manually_review: It is a unique commandment, it is not yet an explicit step. However it is implied in PA1.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA43
     title: Knowing that God is Triune
   bible_references:
@@ -2736,7 +2736,7 @@
   title: Fearing and Revering God & Messiah
   manually_review: It is the same as G6.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: G6
     title: Fearing God
   bible_references:
@@ -2801,7 +2801,7 @@
   title: Presenting Ourselves to God as Worthy of Approval
   manually_review: I consider this the same as GA3.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA6
     title: Offering Our Entire Selves to God
   - id: GA3
@@ -2819,7 +2819,7 @@
   title: Putting God and Yeshua Before All Things and All Persons
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA25
     title: Putting God and Yeshua Before All Things and All Persons
   bible_references:
@@ -2847,7 +2847,7 @@
   title: Being Yeshua’s Witness
   manually_review: It has the same purse as AB9, together with QA4 this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AB9
     title: Being Bold in the Holy Spirit
   - id: QA4
@@ -2869,7 +2869,7 @@
   title: Receiving Yeshua’s Love and Kindness
   manually_review: It is a unique commandment to recieve the love of Yeshua. Although you don't have to do much about it you have to open yourselve.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: G15
     title: Blaspheming God vs. Receiving Messiah & the Holy Spirit
   bible_references:
@@ -2892,7 +2892,7 @@
   title: Believing that Yeshua Died for Our Sins
   manually_review: It is implied in GA1 which is based on the key scripture John 3:16, but since it is the core of everything we count this as unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA4
     title: Trusting (Having Faith /Believing) in God and Yeshua
   - id: GA1
@@ -2945,7 +2945,7 @@
   title: Having a Close Personal Relationship with God and Yeshua
   manually_review: Beautiful to have it as a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Corinthians 1:9
@@ -2974,7 +2974,7 @@
   title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: GA1
     title: Repenting of Our Sins and Turning to God
   bible_references:
@@ -3010,7 +3010,7 @@
   title: Glorifying God and Yeshua
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA8
     title: Pleasing God and Yeshua
   - id: BA33
@@ -3052,7 +3052,7 @@
   title: Embracing Yeshua’s Sacrifice for Forgiveness, Righteousness, and Redemption
   manually_review: It is implied in GA1 since that is based on John 3:16, together with BA28 I don't think it is unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: GA1
@@ -3094,7 +3094,7 @@
   title: Knowing the Compassion of God and Yeshua
   manually_review: Although 'knowing' is not in N18, I think its better to not only know but to be moved with inner compassion. Therefore I don't think it is unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: N18
     title: Being Compassionate & Merciful Toward Our Neighbor
   bible_references:
@@ -3124,7 +3124,7 @@
   title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings
   manually_review: It is the same as BA27, which is already unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA27
     title: Receiving Yeshua’s Love and Kindness
   bible_references:
@@ -3154,7 +3154,7 @@
   title: Receiving and Following God and Yeshua
   manually_review: It is the same as BA40, together with Y6 this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA15
     title: Serving God & Yeshua
   - id: BA39
@@ -3203,7 +3203,7 @@
   title: Welcoming Yeshua by Welcoming Children
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA41
     title: Welcoming Yeshua by Welcoming Children
   bible_references:
@@ -3220,7 +3220,7 @@
   title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance of Yeshua
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA42
     title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance of Yeshua
   bible_references:
@@ -3245,7 +3245,7 @@
   title: Knowing that God is Triune
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA22
     title: Knowing that God is One – Both Singular & Composite
   - id: G3
@@ -3297,7 +3297,7 @@
   title: Relying on God
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: G12
     title: Having Faith in God & Trusting Him in All Things
   bible_references:
@@ -3320,7 +3320,7 @@
   title: Knowing Yeshua as Lord and Messiah
   manually_review: It is the same as BA32.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA32
     title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: BA14
@@ -3342,7 +3342,7 @@
   title: Remaining Rooted in Yeshua
   manually_review: It is based on the same key scripture text as Y2, but differently described.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: Y2
     title: Abiding in Yeshua in Order to Bear Fruit
   bible_references:
@@ -3367,7 +3367,7 @@
   title: Acquiring and Growing in Knowledge of God
   manually_review: Since AA47 is already unique, I think this is the same.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA53
     title: Having a Sound & Godly Doctrine
   - id: BA47
@@ -3396,7 +3396,7 @@
   title: Rejoicing in and with Yeshua
   manually_review: It is the same as AA29.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA29
     title: Being Joyful in All Circumstances
   bible_references:
@@ -3422,7 +3422,7 @@
   title: Living Along with Yeshua
   manually_review: I don't think this is a real unique commandment from the key scriptures. 1 Thes 5 there is no real commandment to live along with Yeshua. And in John 15 I already derived Y2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: Y2
     title: Abiding in Yeshua in Order to Bear Fruit
   bible_references:
@@ -3437,7 +3437,7 @@
   title: Believing that Yeshua was Sent for All of Humanity
   manually_review: It is implied in GA1, together with BA28 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: GA1
@@ -3457,7 +3457,7 @@
   title: Knowing Yeshua as the One Mediator Between God and Man
   manually_review: There can only be one Messiah, In BA32 we already have a commandment of believing Yeshua as the Messiah. I think the Messiah is implied to be the One and only Mediator, therefore I don't think this is unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA32
     title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: BA45
@@ -3477,7 +3477,7 @@
   title: Setting Our Hope on God
   manually_review: Since faith, hope and love are three separate virtues, it is good to have this as a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA44
     title: Relying on God
   - id: G12
@@ -3511,7 +3511,7 @@
   title: Submitting to God
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA44
     title: Relying on God
   - id: BA52
@@ -3549,7 +3549,7 @@
   title: Humbling Ourselves before God
   manually_review: It looks like G6 to fear God, but it is not the same. It is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: G6
     title: Fearing God
   bible_references:
@@ -3573,7 +3573,7 @@
   title: Acknowledging the Holiness of Yeshua
   manually_review: I think this is the same as BA32. When you recognize Yeshua as Son of God, deity, you also acknowledge His Holiness.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA32
     title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   bible_references:
@@ -3591,7 +3591,7 @@
   title: Coming to Yeshua for Spiritual Rest
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA2
     title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   - id: BA57
@@ -3622,7 +3622,7 @@
   title: Standing Firm in Union with the Lord
   manually_review: Standing firm is already a commandment in AA19. To abide is already in Y2 and BA3, therefore I don't think this is unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA19
     title: Persevering, Standing Firm, & Growing in Our Faith
   - id: BA3
@@ -3653,7 +3653,7 @@
   title: Remembering that Yeshua was Raised from the Dead
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA50
     title: Believing that Yeshua was Sent for All of Humanity
   - id: BA28
@@ -3688,7 +3688,7 @@
   title: Continuing to Make Our Being Called & Chosen a Certainty
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA6
     title: Offering Our Entire Selves to God
   bible_references:
@@ -3717,7 +3717,7 @@
   title: Seeking Rest and Refreshment in God
   manually_review: Since God, Yeshua and the Holy Spirit are one, I think this is the same as BA2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA2
     title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   - id: BA57
@@ -3739,9 +3739,9 @@
     group: All
 - id: BB1
   title: Giving Tzedakah to the Poor & to Our Brother Who is in Need
-  manually_review: Together with the double_ids this is not unique.
+  manually_review: Together with the related_lawofmessiah this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: E7
     title: Tithes, Offerings, & Tz'dakah
   - id: DA12
@@ -3756,7 +3756,7 @@
   title: Providing and Caring for Widows & Orphans
   manually_review: This is the same as E7
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: E7
     title: Tithes, Offerings, & Tz'dakah
   bible_references:
@@ -3771,7 +3771,7 @@
   title: Financially Supporting Our Spiritual Leaders, and Those Who Teach and Minister
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:3
@@ -3783,7 +3783,7 @@
   title: Requiring Children to Support Their Widowed Mothers
   manually_review: Since this commandment is only about a specific case, BB6 is more generic and therefore chosen to be unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: OA8
     title: Submitting to and Obeying Our Spiritual Leaders
   - id: OA9
@@ -3801,7 +3801,7 @@
   title: Requiring Grandchildren to Support Their Widowed Grandmothers
   manually_review: Since this commandment is only about a specific case, BB6 is more generic and therefore chosen to be unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BB3
     title: Financially Supporting Our Spiritual Leaders, and Those Who Teach and Minister
   bible_references:
@@ -3814,7 +3814,7 @@
   title: Supporting Our Family Financially
   manually_review: This is a unique commandment which is the overarching commandment for the specific cases of BB4 and BB5. Since those are only for specific groups, this one is more generic and therefore chosen to be unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BB4
     title: Requiring Children to Support Their Widowed Mothers
   - id: BB5
@@ -3831,7 +3831,7 @@
   title: Women Supporting Their Widowed Relatives
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BB4
     title: Requiring Children to Support Their Widowed Mothers
   - id: BB5
@@ -3848,7 +3848,7 @@
   title: Congregations Supporting Widows Who Are in Need
   manually_review: This is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:16
@@ -3859,7 +3859,7 @@
   title: Being Fair & Honest in Business
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA32
     title: Being Faithful, Trustworthy and Loyal
   bible_references:
@@ -3886,7 +3886,7 @@
   title: Paying an Employee His Wage on the Day He Labors or When Due
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 10:10b
@@ -3902,7 +3902,7 @@
   title: Putting Yeshua Ahead of Worldly Wealth
   manually_review: It is based on the same key scripture as M1, but differently described.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: M1
     title: Pursuing Righteousness & Doing What Is Right
   bible_references:
@@ -3921,7 +3921,7 @@
   title: Storing Up Wealth in Heaven
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: CA3
     title: Storing Up Wealth in Heaven
   bible_references:
@@ -3958,7 +3958,7 @@
   title: Being Content with Having the Essentials for Living
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA8
     title: Guarding Ourselves Against Greed
   bible_references:
@@ -3989,7 +3989,7 @@
   title: Paul on Sex in Marriage
   manually_review: This is not a commandment, probably a category.
   unique: false
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:1-6
@@ -4001,7 +4001,7 @@
   title: Widows and Singles Remaining Unmarried Unless Sexually Driven
   manually_review: Since it is a very specific case and not really repeated elsewhere, I don't count this as unique.
   unique: false
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:8-9
@@ -4014,7 +4014,7 @@
   title: Having Only One Spouse
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: CB2
     title: Widows and Singles Remaining Unmarried Unless Sexually Driven
   - id: CB23
@@ -4029,7 +4029,7 @@
   title: Allowing an Unbelieving Spouse to Leave
   manually_review: Since it is a very specific case, I don't count this as unique. It is covered in CB23.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB23
     title: Treating Marriage as Honorable
   bible_references:
@@ -4042,7 +4042,7 @@
   title: Knowing that Marriage Is for Life
   manually_review: I don't count this as unique. It is covered in CB23.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB23
     title: Treating Marriage as Honorable
   bible_references:
@@ -4056,7 +4056,7 @@
   title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: LA3
     title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
   - id: OA8
@@ -4079,7 +4079,7 @@
   title: Husbands Loving Their Wives
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: CB8
     title: Wives Submitting to, Honoring, Following, and Obeying Their Husbands
   - id: BB8
@@ -4099,7 +4099,7 @@
   title: Wives Respecting Their Husbands
   manually_review: It is already implied in CB8
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB9
     title: Husbands Loving Their Wives
   - id: CB8
@@ -4116,7 +4116,7 @@
   title: Children Obeying Their Parents
   manually_review: It is already implied in CB15.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB15
     title: Honoring Our Parents
   - id: LA3
@@ -4135,7 +4135,7 @@
   title: Raising Up Children with Guidance and Discipline
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: RA23
     title: Receiving God’s Correction and Discipline with a Good Attitude
   - id: RA10
@@ -4152,7 +4152,7 @@
   title: Honoring Our Parents
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: CB15
     title: Honoring Our Parents
   - id: PA6
@@ -4174,7 +4174,7 @@
   title: A Man Leaving His Mother and Father and Uniting with His Wife
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: CB9
     title: Husbands Loving Their Wives
   bible_references:
@@ -4189,7 +4189,7 @@
   title: Co-Dependence of Husbands and Wives
   manually_review: I don't count this as unique. It is covered in CB23.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB9
     title: Husbands Loving Their Wives
   - id: CB10
@@ -4208,7 +4208,7 @@
   title: Husbands Leading Their Wives
   manually_review: I dont count this as unique, it is implied in CB9
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB9
     title: Husbands Loving Their Wives
   - id: CB10
@@ -4223,7 +4223,7 @@
   title: Raising Our Children to Believe in Yeshua
   manually_review: This should be implied in CB13.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB13
     title: Raising Up Children with Guidance and Discipline
   - id: FA17
@@ -4240,7 +4240,7 @@
   title: Wives Who Leave their Husbands Remaining Single
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:10-13
@@ -4251,7 +4251,7 @@
   title: Treating Marriage as Honorable
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: CB6
     title: Knowing that Marriage Is for Life
   - id: CB19
@@ -4270,7 +4270,7 @@
   title: Treating Sex within Marriage as Pure
   manually_review: It should be sufficient to have CB23 as unique, but since there is that many impurity in the world, I think it is good to have this as a separate commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: CB23
     title: Treating Marriage as Honorable
   - id: WA1
@@ -4285,7 +4285,7 @@
   title: Wives Being Faithful to their Husbands
   manually_review: It is already implied in CB8.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB10
     title: Wives Respecting Their Husbands
   - id: CB8
@@ -4301,7 +4301,7 @@
   title: Wives Nurturing the Inner Character of their Heart
   manually_review: I think this is already implied in AA4. It is not only for wives but for everybody.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA4
     title: Seeking to Be Both Inwardly & Outwardly Clean
   - id: CB25
@@ -4316,7 +4316,7 @@
   title: Wives Doing What is Right
   manually_review: It is already covered in AA44. It is not only for wives but for everybody.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA44
     title: Knowing & Doing What is Right & Good
   bible_references:
@@ -4331,7 +4331,7 @@
   title: Husbands Respecting their Wives
   manually_review: It is already implied in CB9.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB9
     title: Husbands Loving Their Wives
   bible_references:
@@ -4344,7 +4344,7 @@
   title: Speedily Seeking Reconciliation when Summoned to Court
   manually_review: Although it is a bit different from DA2, since we focus on unique items where you can have a good evening together to talk about, I don't think this is unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA2
     title: Seeking Reconciliation with Our Brother
   bible_references:
@@ -4363,7 +4363,7 @@
   title: Seeking Reconciliation with Our Brother
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA1
     title: Speedily Seeking Reconciliation when Summoned to Court
   - id: DA2
@@ -4396,7 +4396,7 @@
   title: Serving One Another
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA5
     title: Serving One Another
   bible_references:
@@ -4416,9 +4416,9 @@
     group: All
 - id: DA6
   title: Showing Respect for One Another
-  manually_review: It has too much overlap with the listed double_ids.
+  manually_review: It has too much overlap with the listed related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA4
     title: Not Going to Law Against Our Brother in a Secular Court
   - id: DA57
@@ -4451,7 +4451,7 @@
   title: Being Sensitive to Each Other’s Needs
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA24
     title: Being Tenderhearted
   - id: E7
@@ -4475,7 +4475,7 @@
   title: Befriending Persons Who Are Humble
   manually_review: I think this is not a literal commandment from the key scripture Rom 12:16?
   unique: false
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Romans 12:16
@@ -4490,7 +4490,7 @@
   title: Giving to Our Neighbor That Which Is Owed Him
   manually_review: Give to the emperor is not literal, I think it is broader than only the government, it is about giving to our neighbor what is owed him. Therefore, this is not unique, it is the same as PA1.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: PA1
     title: Giving to Our Secular Authorities That Which is Theirs
   bible_references:
@@ -4523,7 +4523,7 @@
   title: Living in Peace with Our Neighbors
   manually_review: It is the same as O1, together with DA2 and DA2 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA2
     title: Seeking Reconciliation with Our Brother
   - id: O1
@@ -4550,11 +4550,32 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
+- id: DA11
+  title: Bearing the Weaknesses of Those Who Are Not Strong
+  manually_review: It is a unique commandment
+  unique: true
+  bible_references:
+    key_nt_scriptures:
+    - Romans 15:1
+    key_ot_scriptures: []
+    supportive_nt_scriptures:
+    - Matthew 8:17, 22:39
+    - Luke 10:34
+    - John 15:13
+    - Acts 20:35
+    - Romans 8:26, 14:1, 21, 15:1-3
+    - Galatians 6:1-2
+    - 1 Thessalonians 5:14
+    supportive_ot_scriptures:
+    - Leviticus 19:18
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA12
   title: Being Good, Kind, & Generous to One Another
-  manually_review: Together with all these double_ids this is not unique.
+  manually_review: Together with all these related_lawofmessiah this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA41
     title: Being Friends with Brothers & Friendly to Outsiders
   - id: H4
@@ -4611,7 +4632,7 @@
   title: Submitting to One Another
   manually_review: Although it looks like DA5 togehter with 70, it has a unique commandment from Eph 5:21, which is not yet an explicit step
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA5
     title: Serving One Another
   - id: ZA8
@@ -4636,7 +4657,7 @@
   title: Being Likeminded and in Unity with the Brethren
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA3
     title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua'
   - id: DA16
@@ -4674,7 +4695,7 @@
   title: Encouraging One Another
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA11
     title: Bearing the Weaknesses of Those Who Are Not Strong
   - id: DA16
@@ -4704,7 +4725,7 @@
   title: Loving Our Brother & Neighbor
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA24
     title: Loving Our Brother & Neighbor
   bible_references:
@@ -4758,7 +4779,7 @@
   title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows
   manually_review: It is the same as N18, but differently described.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA24
     title: Loving Our Brother & Neighbor
   - id: DA10
@@ -4787,7 +4808,7 @@
   title: Forgiving Those Who Sin Against Us
   manually_review: This is the same as BA55.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA2
     title: Seeking Reconciliation with Our Brother
   - id: BA55
@@ -4820,7 +4841,7 @@
   title: Empathizing with the Imprisoned & Mistreated
   manually_review: It is a unique commandment, it is not yet an explicit step (however you can say that it is under the umbrella of N18)
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA32
     title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows
   - id: N18
@@ -4843,11 +4864,28 @@
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
+- id: DA40
+  title: Welcoming & Not Arguing with Persons Who Are Weak in Faith
+  manually_review: It is a unique commandment.
+  unique: true
+  bible_references:
+    key_nt_scriptures: []
+    supportive_nt_scriptures:
+    - Hebrews 13:2
+    - 1 Peter 4:9
+    - Titus 3:9
+    supportive_ot_scriptures:
+    - Romans 14:1
+    - Proverbs 3:30
+    - Proverbs 26:4
+  ncla:
+  - code: JMm JFm KMm KFm GMm GFm
+    group: All
 - id: DA41
   title: Being Friends with Brothers & Friendly to Outsiders
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA20
     title: Being Gentle
   - id: DA24
@@ -4876,7 +4914,7 @@
   title: Comforting Our Neighbor
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA24
     title: Being Tenderhearted
   bible_references:
@@ -4900,7 +4938,7 @@
   title: Bearing One Another’s Burdens
   manually_review: I think it has the same idea as DA11.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA11
     title: Bearing the Weaknesses of Those Who Are Not Strong
   - id: N3
@@ -4928,7 +4966,7 @@
   title: Bearing with One Another in Love & with Forgiveness
   manually_review: It is the same as DA11.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA11
     title: Bearing the Weaknesses of Those Who Are Not Strong
   - id: RA10
@@ -4947,7 +4985,7 @@
   title: Behaving Wisely Toward Outsiders
   manually_review: Behaving wisely is something unique that is not yet an explicit step. The next verse in Colossions 4:6 is about being like salt, which is already a commandment in O1, but being wisely is not yet spoken about.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Thessalonians 4:11
@@ -4964,7 +5002,7 @@
   title: Rescuing Our Neighbor
   manually_review: It is the same as N3, which is better described, therefore this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: N3
     title: Helping Our Neighbor Who Is In Need
   - id: DA53
@@ -4991,7 +5029,7 @@
   title: Guarding Against Scoffers
   manually_review: It looks a bit like KA2, however I think it is different. It is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA8
     title: Guarding Ourselves Against Greed
   - id: AA61
@@ -5023,7 +5061,7 @@
   title: Minding Our Own Business
   manually_review: However GB21 is not yet covered, that is better described. I think the purse of to mind our own business is in the same sentence and covers the same idea as to work for our own living. Therefore this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB21
     title: Working to Earn Our Living (Not Being Idle)
   bible_references:
@@ -5041,7 +5079,7 @@
   title: Living Quietly So as to Gain Our Neighbor’s Respect
   manually_review: It has the same idea as AA24, together with DA32 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA32
     title: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows
   - id: DA24
@@ -5071,7 +5109,7 @@
   title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Timothy 5:1-2
@@ -5091,7 +5129,7 @@
   title: Exhorting One Another to Love & Good Deeds
   manually_review: Although this is similar to DA16, to exhort another to love and good deeds is a unique virtue.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA16
     title: Encouraging One Another
   bible_references:
@@ -5128,7 +5166,7 @@
   title: Welcoming & Being Hospitable to Our Brother and Neighbor
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA24
     title: Being Tenderhearted
   - id: DA24
@@ -5187,7 +5225,7 @@
   title: Remaining in the Same Condition and Identity as When First Called
   manually_review: It is an important unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:17-18
@@ -5200,7 +5238,7 @@
   title: Circumcising on the Eighth Day After Birth
   manually_review: This is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - Acts 7:8
@@ -5211,7 +5249,7 @@
   title: Identifying as Children of God
   manually_review: This is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - Acts 17:29
@@ -5222,7 +5260,7 @@
   title: Embracing Jewish Identity and Responsibility
   manually_review: This is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: XA11
     title: Jews Being a Light and Blessing to the Gentiles
   - id: XA10
@@ -5239,7 +5277,7 @@
   title: Preserving & Disseminating God's Word
   manually_review: It is the same as R1, together with BA10 and 8 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: QA4
     title: Proclaiming the Kingdom of God
   - id: R1
@@ -5271,7 +5309,7 @@
   title: Conversion & Receiving Jewish Proselytes & Converts
   manually_review: It is very important to have differences between Jewish and Gentile believers, so I think it is good to have this as a unique commandment because this will emphasize that.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 7:17-20
@@ -5296,7 +5334,7 @@
   title: Being Fruitful & Multiplying in Number & in Fruitfulness
   manually_review: It is the same as GA3, together with Y2 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GA3
     title: Producing Fruit of Repentance
   - id: Y2
@@ -5325,7 +5363,7 @@
   title: Being Wary of Prideful Teachers
   manually_review: False prophets or prideful teachers are under the same category.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA55
     title: Guarding Against Scoffers
   - id: EA6
@@ -5345,7 +5383,7 @@
   title: Prophesying veiled and unveiled
   manually_review: I think this commandment was very specific to the culture of the time, it is also not repeated elsewhere in the Bible, so I do not think it is unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA7
     title: Praying & Prophesying with Head Veiled & Unveiled, Covered & Uncovered
   - id: ZA6
@@ -5362,7 +5400,7 @@
   title: Exercising Control When Prophesying
   manually_review: It is a unique element, but I think it should be implied in ZA6.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: EB6
     title: Prophesying in an Orderly Manner
   - id: EB1
@@ -5379,7 +5417,7 @@
   title: Believing the Prophets
   manually_review: By having faith in God/Messiah, it is already implied to also believe the prophets who are send by Him.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
   - id: TA6
@@ -5398,7 +5436,7 @@
   title: Evaluating Prophecies
   manually_review: This is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: EB4
     title: Believing the Prophets
   - id: ZA6
@@ -5416,7 +5454,7 @@
   title: Prophesying in an Orderly Manner
   manually_review: It is a unique element, but I think it should be implied in ZA6.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: ZA6
     title: Seeking the Gift of Prophecy
   - id: NA22
@@ -5435,7 +5473,7 @@
   title: Interpreting Prophecy via the Holy Spirit
   manually_review: It is already implied in EB5 and AB8
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: EB5
     title: Evaluating Prophecies
   - id: AB8
@@ -5450,7 +5488,7 @@
   title: Honoring and Revering Our Father and Mother
   manually_review: It is the same as CB15.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: CB15
     title: Honoring Our Parents
   bible_references:
@@ -5479,7 +5517,7 @@
   title: The Covenant Laws of Marriage
   manually_review: It is the same as CB23.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   - id: CB23
@@ -5545,7 +5583,7 @@
   title: Divorce & Remarriage
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: F2
     title: The Covenant Laws of Marriage
   - id: CB23
@@ -5610,7 +5648,7 @@
   title: Being Persistent, Steadfast, & Alert in Our Prayers & Petitions
   manually_review: It is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA12
     title: Praying Regularly and Continually
   - id: FA19
@@ -5645,7 +5683,7 @@
   title: Worshiping the One True God and No Other
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA2
     title: Worshiping the One True God and No Other
   bible_references:
@@ -5671,7 +5709,7 @@
   title: Praying for Workers to Minister the Existence & Identity of God, & Gather the Harvest
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA4
     title: Praying for Workers to Minister the Existence & Identity of God, & Gather the Harvest
   bible_references:
@@ -5691,7 +5729,7 @@
   title: Praying for Our Enemies
   manually_review: It is the same as N1.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: N1
     title: Loving Our Neighbor, the Stranger, and Even Our Enemy
   bible_references:
@@ -5704,7 +5742,7 @@
   title: Praying that God’s Name Be Kept Holy
   manually_review: It is based on the same key scripture as G19.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: G19
     title: Praying in Faith & Having Faith for That Which We Pray
   bible_references:
@@ -5724,7 +5762,7 @@
   title: Praying & Prophesying with Head Veiled & Unveiled, Covered & Uncovered
   manually_review: I think this commandment was very specific to the culture of the time, it is also not repeated elsewhere in the Bible, so I do not think it is unique.
   unique: false
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Corinthians 11:4-13
@@ -5738,7 +5776,7 @@
   title: Worshiping with Psalms, Songs and Music
   manually_review: It Is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA2
     title: Worshiping the One True God and No Other
   bible_references:
@@ -5781,7 +5819,7 @@
   title: Giving Thanks in Everything
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA9
     title: Giving Thanks in Everything
   bible_references:
@@ -5807,7 +5845,7 @@
   title: Praying in the Spirit for All Human Beings & Especially for God’s People
   manually_review: It is not unique, there are quite some other commandments and steps that are similar.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA5
     title: Praying for Our Enemies
   - id: FA4
@@ -5830,7 +5868,7 @@
   title: Petitioning God in Faith and with Thanksgiving
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA9
     title: Giving Thanks in Everything
   - id: FA1
@@ -5855,7 +5893,7 @@
   title: Praying Regularly and Continually
   manually_review: We already have quite some commandments about praying, but doing it regularly and continually is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA7
     title: Praying & Prophesying with Head Veiled & Unveiled, Covered & Uncovered
   - id: FA10
@@ -5880,7 +5918,7 @@
   title: Praying with Lifted Holy Hands
   manually_review: I think this is not a generic commandment but more specific to the culture of the time, so I do not think it is unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA6
     title: Praying that God’s Name Be Kept Holy
   - id: FA12
@@ -5914,7 +5952,7 @@
   title: Worshiping God in Spirit and in Truth
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA2
     title: Worshiping the One True God and No Other
   - id: FA8
@@ -5935,7 +5973,7 @@
   title: Praying to God in Yeshua’s Name
   manually_review: It is not unique, it is the same as G19 since the Father and Yeshua are one.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA10
     title: Praying in the Spirit for All Human Beings & Especially for God’s People
   - id: G19
@@ -5967,7 +6005,7 @@
   title: Praying Together with Others
   manually_review: It is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA10
     title: Praying in the Spirit for All Human Beings & Especially for God’s People
   - id: DA50
@@ -5996,7 +6034,7 @@
   title: Praying Vigilantly
   manually_review: I think this is under the same umbrella as FA1 and FA12.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA1
     title: Being Persistent, Steadfast, & Alert in Our Prayers & Petitions
   - id: FA12
@@ -6011,7 +6049,7 @@
   title: Praying for God’s Kingdom to Come
   manually_review: I dont think we need to specify all things to pray for. Together with G19 and 34 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: G19
     title: Praying in Faith & Having Faith for That Which We Pray
   - id: M1
@@ -6033,7 +6071,7 @@
   title: Praying for God’s Will to Be Done
   manually_review: It is the same as G19.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA20
     title: Praying for God’s Kingdom to Come
   - id: FA17
@@ -6058,7 +6096,7 @@
   title: Praying for Daily Provisions
   manually_review: I dont think we need to specify all things to pray for. Together with M1 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA19
     title: Praying Vigilantly
   - id: FA12
@@ -6094,7 +6132,7 @@
   title: Praying for God’s Forgiveness
   manually_review: I dont think we need to specify all things to pray for. Together with BA55 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA21
     title: Praying for God’s Will to Be Done
   - id: FA20
@@ -6120,7 +6158,7 @@
   title: Praying for Protection from Temptation
   manually_review: I dont think we need to specify all things to pray for. Together with GB39 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA22
     title: Praying for Daily Provisions
   - id: FA21
@@ -6151,7 +6189,7 @@
   title: Praying for Protection from the Adversary
   manually_review: I dont think we need to specify all things to pray for. Together with GB19 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB19
     title: Being Alert and on Guard Against Spiritual Danger
   bible_references:
@@ -6180,7 +6218,7 @@
   title: Praying with Faith and without Doubt
   manually_review: I dont think we need to specify all things to pray for. Together with G19 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA11
     title: Petitioning God in Faith and with Thanksgiving
   - id: G19
@@ -6203,7 +6241,7 @@
   title: Praying for Our Brother and Our Neighbor
   manually_review: I dont think we need to specify all things to pray for. Together with N1 and 43 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA5
     title: Praying for Our Enemies
   - id: FA18
@@ -6233,7 +6271,7 @@
   title: Worshiping Yeshua as Adonai
   manually_review: Since we already have a commandment to know that God is triune, and also have commandments to worship, this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA8
     title: Worshiping with Psalms, Songs and Music
   - id: FA2
@@ -6274,7 +6312,7 @@
   title: Worshiping God with Gratitude
   manually_review: Since we already have multiple commandments to worship God, and also have a commandment to give thanks, this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA16
     title: Worshiping God in Spirit and in Truth
   - id: FA8
@@ -6297,7 +6335,7 @@
   title: Praying Often, Persistently, and Fervently
   manually_review: I think this is the same as FA12.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA12
     title: Praying Regularly and Continually
   bible_references:
@@ -6318,7 +6356,7 @@
   title: Praying for the Good News to Be Spread Quickly
   manually_review: Of course this is important, but I dont think we need to specify all things to pray for. Together with FA4 and 8 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA21
     title: Praying for God’s Will to Be Done
   - id: FA20
@@ -6337,9 +6375,9 @@
     group: All
 - id: FA32
   title: Praying for All Humanity
-  manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
+  manually_review: I dont think we need to specify all things to pray for. Together with the related_lawofmessiah this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA10
     title: Praying in the Spirit for All Human Beings & Especially for God’s People
   - id: FA5
@@ -6363,9 +6401,9 @@
     group: All
 - id: FA34
   title: Praying for Wisdom
-  manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
+  manually_review: I dont think we need to specify all things to pray for. Together with the related_lawofmessiah this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA32
     title: Praying for All Humanity
   - id: FA21
@@ -6386,9 +6424,9 @@
     group: All
 - id: FA35
   title: Praying with Right Motives
-  manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
+  manually_review: I dont think we need to specify all things to pray for. Together with the related_lawofmessiah this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA13
     title: Praying with Lifted Holy Hands
   - id: FA18
@@ -6406,9 +6444,9 @@
     group: All
 - id: FA36
   title: Praying in Times of Both Joy & Affliction
-  manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
+  manually_review: I dont think we need to specify all things to pray for. Together with the related_lawofmessiah this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA10
     title: Praying in the Spirit for All Human Beings & Especially for God’s People
   - id: FA19
@@ -6434,7 +6472,7 @@
   title: Calling on Elders to Pray and Anoint with Oil when Sick
   manually_review: This is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Corinthians 12:9
@@ -6471,9 +6509,9 @@
     group: All
 - id: FA38
   title: Praying for One Another
-  manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
+  manually_review: I dont think we need to specify all things to pray for. Together with the related_lawofmessiah this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA6
     title: Showing Respect for One Another
   - id: FA5
@@ -6488,9 +6526,9 @@
     group: All
 - id: FA39
   title: Praying in Unison with the Holy Spirit
-  manually_review: I dont think we need to specify all things to pray for. Together with the double_ids this is not unique.
+  manually_review: I dont think we need to specify all things to pray for. Together with the related_lawofmessiah this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA10
     title: Praying in the Spirit for All Human Beings & Especially for God’s People
   - id: FA13
@@ -6510,7 +6548,7 @@
   title: Wives Remaining Silent in Congregation Meetings
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:34-35
@@ -6521,7 +6559,7 @@
   title: Women Learning in Peace While Fully Submitted
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FB1
     title: Wives Remaining Silent in Congregation Meetings
   - id: HB18
@@ -6536,7 +6574,7 @@
   title: Women Dressing Modestly when Praying
   manually_review: It is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA15
     title: Women Dressing Modestly and Not Adorning Themselves While in Prayer
   bible_references:
@@ -6555,7 +6593,7 @@
   title: Wives Receiving Clarification from their Own Husbands
   manually_review: This is already implied in FB1 and CB8.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FB1
     title: Wives Remaining Silent in Congregation Meetings
   - id: CB8
@@ -6570,7 +6608,7 @@
   title: Women to Continue in Faith and Love
   manually_review: In this key scripture it is only about woman, but on other scriptures it is broader, so this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB34
     title: Doing Everything in Love
   - id: FA26
@@ -6585,9 +6623,9 @@
     group: All
 - id: FB7
   title: Women Living a Holy and Modest Life
-  manually_review: This is already implied in the other double_ids, but more generic and not bound to only woman.
+  manually_review: This is already implied in the other related_lawofmessiah, but more generic and not bound to only woman.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FB4
     title: Women Dressing Modestly when Praying
   - id: AA22
@@ -6606,7 +6644,7 @@
   title: Women Teaching Younger Women
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: NA6
     title: Teaching Those Who Teach Others
   - id: FB2
@@ -6623,7 +6661,7 @@
   title: Women Being Homemakers
   manually_review: it is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Titus 2:3-5
@@ -6634,7 +6672,7 @@
   title: Believing in God
   manually_review: It is the same as G12, only more specific.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA32
     title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: BA4
@@ -6666,7 +6704,7 @@
   title: Acknowledging and not Denying Belief in God and in Yeshua
   manually_review: Acknowledge our belief in God and Yeshua is already implied in GA1.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA39
     title: Acknowledging & Receiving God’s and Yeshua’s Kindness & Blessings
   - id: BA56
@@ -6701,7 +6739,7 @@
   title: Knowing that God is Echad & Triune
   manually_review: It is the same as BA22.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA43
     title: Knowing that God is Triune
   - id: BA22
@@ -6723,7 +6761,7 @@
   title: Loving God
   manually_review: It is the same as G4, together with BA21 this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA21
     title: Loving God & Yeshua
   - id: G4
@@ -6746,7 +6784,7 @@
   title: Fearing God
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA23
     title: Fearing and Revering God & Messiah
   - id: G6
@@ -6789,7 +6827,7 @@
   title: Serving, Worshiping, Praising, & Praying to God
   manually_review: It is the same as FA2, together with BA7, BA15 and BA54 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA7
     title: Praising God and Yeshua
   - id: BA15
@@ -6863,7 +6901,7 @@
   title: Clinging to God
   manually_review: I think this is not unique together with BA54, BA44 and AA7.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA54
     title: Submitting to God
   - id: BA44
@@ -6888,7 +6926,7 @@
   title: Being Thankful to God and Blessing Him in All Things
   manually_review: It is the same as FA9.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA27
     title: Being Thankful and Grateful to God
   - id: AA29
@@ -6956,7 +6994,7 @@
   title: Having Faith in God & Trusting Him in All Things
   manually_review: It is the same as G12, together with M1 this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA4
     title: Trusting (Having Faith /Believing) in God and Yeshua
   - id: G11
@@ -7091,7 +7129,7 @@
   title: Dedicating Ourselves to God
   manually_review: Together with Y6, 66, 69, 74, BA16 I don't think this is unique. It is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA16
     title: Devoting Our Lives to God and Yeshua
   - id: Y6
@@ -7150,7 +7188,7 @@
   title: Knowing God by His Observing His Creation
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: GA1
     title: Repenting of Our Sins and Turning to God
   bible_references:
@@ -7182,7 +7220,7 @@
   title: Putting God First
   manually_review: It is the same as BA25.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA25
     title: Putting God and Yeshua Before All Things and All Persons
   - id: CA2
@@ -7211,7 +7249,7 @@
   title: Being Continuous, Persistent & Fervent in Prayer
   manually_review: Although prayer is not unique, it is a unique virtue to be continuous and persistent.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA31
     title: Being Steadfast in Our Faith and Our Thinking
   - id: G19
@@ -7246,7 +7284,7 @@
   title: Waiting on God
   manually_review: Patience is a unique virtue but is already described in AA14. It is implied that we trust God in our patience.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA14
     title: Being Patient
   bible_references:
@@ -7298,7 +7336,7 @@
   title: Praying in Faith & Having Faith for That Which We Pray
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: G12
     title: Having Faith in God & Trusting Him in All Things
   - id: BA4
@@ -7326,7 +7364,7 @@
   title: Knowing God & Who He Is
   manually_review: Knowing God is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA43
     title: Knowing that God is Triune
   - id: BA14
@@ -7771,7 +7809,7 @@
   title: Repenting of Our Sins and Turning to God
   manually_review: Since the Hebrew word for repent (teshuvah) goes very deep, I think this is unique as it emphasizes the turning aspect of repentance, which is important to highlight.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: GA1
@@ -7828,7 +7866,7 @@
   title: Seeking Forgiveness of Our Sins in Yeshua
   manually_review: It is implied in GA1 since that is based on John 3:16, together with BA28 I don't think it is unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: GA1
@@ -7861,7 +7899,7 @@
   title: Producing Fruit of Repentance
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: GA3
     title: Producing Fruit of Repentance
   bible_references:
@@ -7885,7 +7923,7 @@
   title: Being Immersed in the Name of Yeshua
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: GA4
     title: Being Immersed in the Name of Yeshua
   bible_references:
@@ -7906,7 +7944,7 @@
   title: Doing Works Befitting Repentance
   manually_review: It is the same as GA3.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GA3
     title: Producing Fruit of Repentance
   bible_references:
@@ -7933,7 +7971,7 @@
   title: Examining Ourselves
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA23
     title: Ridding Ourselves of Unholy Characteristics
   bible_references:
@@ -7949,7 +7987,7 @@
   title: Using Wine Medicinally
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:1-2
@@ -7958,9 +7996,9 @@
     group: All
 - id: GB7
   title: Living in a Way That is Good
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB5
     title: Living in a Godly Manner and Not as Do the Pagans
   - id: AA22
@@ -7984,9 +8022,9 @@
     group: All
 - id: GB8
   title: Conducting Ourselves Wisely and with Godly Purity
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA52
     title: Behaving Wisely Toward Outsiders
   - id: JA5
@@ -8003,7 +8041,7 @@
   title: Using Our Time Well
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Ephesians 5:16
@@ -8014,7 +8052,7 @@
   title: Wearing and Employing God’s Armor and Weaponry
   manually_review: It is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: SA4
     title: Arming Ourselves with Spiritual Weapons
   bible_references:
@@ -8027,7 +8065,7 @@
   title: Letting Our Conduct Fit the Level of Our Spiritual Attainment
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA2
     title: Behaving Properly
   - id: ZA7
@@ -8043,7 +8081,7 @@
   title: Patterning Our Life After the Shlichim, their Disciples, and Yeshua
   manually_review: It is a unique commandment, although I would like to change the original 'Patterning Our Life After the Shlichim, their Disciples, and Yeshua' to 'Walk as Yeshua'
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: A14
     title: Aspiring to God's Perfection & Holiness
   bible_references:
@@ -8063,7 +8101,7 @@
   title: Doing Everything in the Name of Yeshua
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA33
     title: Glorifying God and Yeshua
   bible_references:
@@ -8077,7 +8115,7 @@
   title: Doing Everything in Faith and Unto Yeshua
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: GB16
     title: Doing Everything in the Name of Yeshua
   bible_references:
@@ -8092,7 +8130,7 @@
   title: Living a Good, Quiet, & Peaceful Life
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FB7
     title: Women Living a Holy and Modest Life
   - id: GB7
@@ -8109,9 +8147,9 @@
     group: All
 - id: GB19
   title: Being Alert and on Guard Against Spiritual Danger
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
   - id: KA1
@@ -8130,9 +8168,9 @@
     group: All
 - id: GB20
   title: Holding to the Doctrines, Traditions, and Teachings of Yeshua and the Shl’chim
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA15
     title: Teaching and Ministering the Words of God & Yeshua
   - id: QA1
@@ -8156,9 +8194,9 @@
     group: All
 - id: GB21
   title: Working to Earn Our Living (Not Being Idle)
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA58
     title: Living So as Not to Be Financially Dependent on Others
   category: Way of Life
@@ -8172,9 +8210,9 @@
     group: All
 - id: GB22
   title: Living According to God’s Word and Spirit
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB14
     title: Seeking and Pursuing the Things of the Spirit
   - id: GB14
@@ -8193,7 +8231,7 @@
   title: Pursuing That Which Makes for Faith and Upbuilding
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: GB17
     title: Doing Everything in Faith and Unto Yeshua
   bible_references:
@@ -8207,9 +8245,9 @@
     group: All
 - id: GB25
   title: Aspiring to Be Mature in Our Thoughts
-  manually_review: Together with the other double_ids, it is already implied.
+  manually_review: Together with the other related_lawofmessiah, it is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB15
     title: Being Transformed by the Renewing of Our Mind and Spirit
   - id: AA59
@@ -8234,7 +8272,7 @@
   title: Being Like Children in Regard to Evil
   manually_review: It is the same as TA4
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: TA4
     title: Entering the Kingdom of God Like Innocent Children
   bible_references: {}
@@ -8243,9 +8281,9 @@
     group: All
 - id: GB27
   title: Welcoming and Caring for Little Children and Those Pure of Spirit
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BB3
     title: Financially Supporting Our Spiritual Leaders, and Those Who Teach and Minister
   - id: BA41
@@ -8266,7 +8304,7 @@
   title: Doing All Things in a Decent and Orderly Way
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: ZA3
     title: Exercising the Gift of Tongues in Good Order
   - id: EB6
@@ -8284,9 +8322,9 @@
     group: All
 - id: GB31
   title: Supporting Ourselves and Sharing with Those Who Teach Us
-  manually_review: This is already implied in the other double_ids.
+  manually_review: This is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BB4
     title: Requiring Children to Support Their Widowed Mothers
   - id: BB7
@@ -8299,9 +8337,9 @@
     group: All
 - id: GB33
   title: Being Content in All Things and All Circumstances
-  manually_review: This is already implied in the other double_ids.
+  manually_review: This is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA9
     title: Giving Thanks in Everything
   - id: CA4
@@ -8320,7 +8358,7 @@
   title: Doing Everything in Love
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: ZA9
     title: Preferring Love Over Spiritual Gifts
   bible_references:
@@ -8342,7 +8380,7 @@
   title: Pursuing Shalom in Yeshua
   manually_review: I think it is a result of taking the yoke of Yeshua
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA57
     title: Coming to Yeshua for Spiritual Rest
   bible_references:
@@ -8360,7 +8398,7 @@
   title: Length of Hair on Men and Women
   manually_review: I think this was very specific to the culture of the time (it is also not replied anywhere else), so I do not think it is unique.
   unique: false
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 11:4-10
@@ -8372,7 +8410,7 @@
   title: Seeking the Way Out of Temptation that God Has Provided
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA24
     title: Praying for Protection from Temptation
   - id: GB39
@@ -8385,9 +8423,9 @@
     group: All
 - id: GB40
   title: Coming to Our Senses
-  manually_review: Based on the key scriptures and the related double_ids, I think it is already implied.
+  manually_review: Based on the key scriptures and the related related_lawofmessiah, I think it is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA13
     title: Fleeing from Sin & Evil
   - id: GB2
@@ -8405,7 +8443,7 @@
   title: Growing, Utilizing and Standing Firm in God’s Grace
   manually_review: It is a unique element
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Peter 5:12
@@ -8418,7 +8456,7 @@
   title: Exercising Self Control (Discipline)
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: RA24
     title: Regarding as Discipline Our Having to Endure Trials
   bible_references:
@@ -8441,7 +8479,7 @@
   title: Taking Responsibility for Ourselves and Our Actions
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Galatians 6:5
@@ -8452,7 +8490,7 @@
   title: Exposing Evil and Deeds of Darkness
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: RA13
     title: Expelling Evil Doers from the Community of Believers
   - id: SA3
@@ -8465,9 +8503,9 @@
     group: All
 - id: GB48
   title: Persevering in All Situations
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA19
     title: Persevering, Standing Firm, & Growing in Our Faith
   - id: JA9
@@ -8490,9 +8528,9 @@
     group: All
 - id: GB55
   title: Rejecting Godless Fables
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
   - id: JA5
@@ -8506,9 +8544,9 @@
     group: All
 - id: GB58
   title: Conducting Ourselves with Honor
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB8
     title: Conducting Ourselves Wisely and with Godly Purity
   - id: GB2
@@ -8523,9 +8561,9 @@
     group: All
 - id: GB61
   title: Having a Godly Purpose in Our Life
-  manually_review: Together with the other double_ids, it is already implied.
+  manually_review: Together with the other related_lawofmessiah, it is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: YA1
     title: Offering Ourselves as Living Sacrifices
   - id: BA16
@@ -8542,7 +8580,7 @@
   title: Being Serious and Sensible
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA53
     title: Having a Sound & Godly Doctrine
   bible_references:
@@ -8555,7 +8593,7 @@
   title: Accompanying Our Faith with Actions
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - James 2:14-26
@@ -8564,9 +8602,9 @@
     group: All
 - id: GB69
   title: Serving as Priests in a Royal Priesthood
-  manually_review: It is already implied in the other double_ids
+  manually_review: It is already implied in the other related_lawofmessiah
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: P1
     title: The Priesthood of Israel & of Believers in Yeshua
   - id: NA18
@@ -8584,9 +8622,9 @@
     group: All
 - id: GB70
   title: Seeking Inner Peace
-  manually_review: Based on the key scriptures and the related double_ids, I think it is already implied.
+  manually_review: Based on the key scriptures and the related related_lawofmessiah, I think it is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA26
     title: Being a Peacemaker
   - id: AB14
@@ -8608,9 +8646,9 @@
     group: All
 - id: GB71
   title: Being Zealous for What is Good
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB7
     title: Living in a Way That is Good
   - id: GB23
@@ -8629,7 +8667,7 @@
   title: Having Reverence for God's Sanctuary
   manually_review: It has the same idea as G6, BA23 and G6.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: G6
     title: Fearing God
   - id: BA23
@@ -8651,7 +8689,7 @@
   title: Modeling God's Holiness by Our Appearance & by What We Wear
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA1
     title: Aspiring to Godliness and Holiness
   bible_references:
@@ -8677,7 +8715,7 @@
   title: Using Our Speech, Thoughts, Hearts and Actions for That which Is Good and Holy
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA22
     title: Speaking Only That Which is Holy and Beneficial
   - id: G4
@@ -8738,7 +8776,7 @@
   title: Appointing a Ruler Whom God Chooses
   manually_review: Although it is similar like OA1, it has a unique element in it, but I count it as not unique, it is connected to OA1.
   unique: false
-  double_ids:
+  related_lawofmessiah:
     - id: OA1
       title: Attributes & Behaviors Required of Congregational Leaders & Elders
   commandment_type: Positive & Negative
@@ -8760,7 +8798,7 @@
   title: Dying to Self
   manually_review: It is based on the same key scripture as Y6, but differently described, so this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: Y6
     title: Following Yeshua & Putting Him Before of All Else
   bible_references:
@@ -8818,7 +8856,7 @@
   title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: HA3
     title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
   bible_references:
@@ -8853,7 +8891,7 @@
   title: Patiently Awaiting Yeshua’s Return
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: HA3
     title: Being Alert, Ready and Watchful for the Signs and Moment of Yeshua’s Return
   bible_references:
@@ -8887,9 +8925,9 @@
     group: All
 - id: HB2
   title: Seeking to Understand the Will of God
-  manually_review: Together with the other double_ids, it is already implied.
+  manually_review: Together with the other related_lawofmessiah, it is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA21
     title: Praying for God’s Will to Be Done
   - id: AB14
@@ -8906,7 +8944,7 @@
   title: Keeping Torah in Our Heart
   manually_review: It can have a unique element, but it is very similar to A13 and 73
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: A13
     title: Being Pure in Heart
   - id: Y2
@@ -8921,7 +8959,7 @@
   title: Internalizing the Word of God and of Messiah
   manually_review: I count this as the same as AA47.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA47
     title: Seeking and Growing in Godly Knowledge
   - id: R1
@@ -8936,7 +8974,7 @@
   title: Using Torah as Torah Itself Intends
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 1:8
@@ -8947,7 +8985,7 @@
   title: Knowing for Whom Torah is Intended
   manually_review: It has a unique element, but it is quite obvious so I choose to now not make it unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: XA9
     title: Gentiles Obeying Torah
   bible_references:
@@ -8960,7 +8998,7 @@
   title: Knowing the Holy Scriptures
   manually_review: It is implied in R1
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB6
     title: Sowing in the Holy Spirit
   - id: AB8
@@ -8980,7 +9018,7 @@
   title: Believing in the Inspiration of Scripture and Its Usefulness for Equipping
   manually_review: It is the same as R1
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: EB4
     title: Believing the Prophets
   - id: NA16
@@ -8999,7 +9037,7 @@
   title: Learning God’s Word
   manually_review: Since AA47 and R1 are already unique, I don't think it has a unique element.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA47
     title: Seeking and Growing in Godly Knowledge
   - id: R1
@@ -9014,7 +9052,7 @@
   title: Proclaiming God’s Word
   manually_review: It has a unique element
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: HB9
     title: Preserving the Integrity and Not Distorting God’s Word
   - id: QA1
@@ -9032,7 +9070,7 @@
   title: Receiving God’s Implanted Word
   manually_review: I count this the same as R1. Recieving is implied in hearing together with keeping.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: HB18
     title: Learning God’s Word
   - id: NA11
@@ -9049,9 +9087,9 @@
     group: All
 - id: HB22
   title: Being Both a Hearer and Doer of God’s Word
-  manually_review: It is already implied in the other double_ids.
+  manually_review: It is already implied in the other related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: HB18
     title: Learning God’s Word
   - id: R1
@@ -9067,7 +9105,7 @@
   title: Considering the Torah a Torah of Freedom
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: G6
     title: Fearing God
   bible_references:
@@ -9078,9 +9116,9 @@
     group: All
 - id: HB24
   title: Thirsting for the Word of God
-  manually_review: Together with the other double_ids, it is already implied.
+  manually_review: Together with the other related_lawofmessiah, it is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: HB11
     title: Internalizing the Word of God and of Messiah
   - id: HB18
@@ -9099,7 +9137,7 @@
   title: Destroying Idolatry
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Colossians 3:5
@@ -9142,7 +9180,7 @@
   title: Gentiles Abstaining from Blood, Foods Strangled & Sacrificed to Idols, & Fornication
   manually_review: It is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
     - id: K1
       title: Creatures We Are Allowed to Eat and Forbidden to Eat
   bible_references:
@@ -9176,7 +9214,7 @@
   title: Creatures We Are Allowed to Eat and Forbidden to Eat
   manually_review: It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Acts 15:19-20
@@ -9203,7 +9241,7 @@
   title: Applying the Mosaic Law in a Manner Consistent with New Covenant Realities
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   bible_references:
@@ -9230,7 +9268,7 @@
   title: God's Law of Justice
   manually_review: It has the same purse as AA3, together with JA9 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA9
     title: Believing in God’s Evenhanded Justice
   - id: AA3
@@ -9309,7 +9347,7 @@
   title: Law of Inheritance
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Luke 15:11-13
@@ -9353,7 +9391,7 @@
   title: Appointing Elders to Lead, Pray, Teach, Judge & Make Halachah
   manually_review: It is a unique commandment, it is not yet an explicit step. I count H6 to be under the same commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: H6
     title: Appointing a Ruler Whom God Chooses
   bible_references:
@@ -9389,9 +9427,9 @@
     group: All
 - id: JA2
   title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
-  manually_review: I think it is the same as double_ids.
+  manually_review: I think it is the same as related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA33
     title: Guarding Against Hypocrites & Not Being a Hypocrite
   - id: DA55
@@ -9439,7 +9477,7 @@
   title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: JA2
     title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
   - id: JA5
@@ -9461,7 +9499,7 @@
   title: Offering the Other Cheek
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: JA6
     title: Offering the Other Cheek
   bible_references:
@@ -9483,7 +9521,7 @@
   title: Blessing Our Enemies and Expecting Nothing in Return
   manually_review: It is the same as N1.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA5
     title: Praying for Our Enemies
   - id: N1
@@ -9508,7 +9546,7 @@
   title: Keeping Our Faith Amidst Persecution
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
   bible_references:
@@ -9535,7 +9573,7 @@
   title: Allowing Ourselves to Be Abused within Reason
   manually_review: It has the same idea as JA6
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: JA6
     title: Offering the Other Cheek
   bible_references:
@@ -9555,9 +9593,9 @@
     group: All
 - id: KA1
   title: Being on Our Guard Against False Messiahs
-  manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with double_ids it is not unique.
+  manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with related_lawofmessiah it is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA33
     title: Guarding Against Hypocrites & Not Being a Hypocrite
   - id: DA55
@@ -9582,9 +9620,9 @@
     group: All
 - id: KA2
   title: Being on Our Guard Against False Prophets
-  manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with double_ids it is not unique.
+  manually_review: I think it is not needed to elaborate on more things to guard for then we already have. Therefore together with related_lawofmessiah it is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA33
     title: Guarding Against Hypocrites & Not Being a Hypocrite
   - id: DA55
@@ -9617,9 +9655,9 @@
     group: All
 - id: LA1
   title: Being Enslaved to God & His Righteousness, & Not by Sin
-  manually_review: Together with the other double_ids this is not unique
+  manually_review: Together with the other related_lawofmessiah this is not unique
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA3
     title: Pursuing Righteousness & Living Righteously
   - id: M1
@@ -9651,7 +9689,7 @@
   title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
   manually_review: It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Peter 2:18
@@ -9673,7 +9711,7 @@
   title: Masters Treating Their Slaves & Bondservants Justly & Fairly
   manually_review: It is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: LA3
     title: Servants Submitting to, Obeying, Respecting, & Serving Their Masters
   bible_references:
@@ -9700,7 +9738,7 @@
   title: Using Our Enslavement to Serve God but Gaining Freedom If Possible
   manually_review: It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Corinthians 7:21-22
@@ -9713,7 +9751,7 @@
   title: Keeping Our Promises
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA34
     title: Keeping Our Promises
   - id: M2
@@ -9738,7 +9776,7 @@
   title: Being Humane in Our Dominion over God's Creatures
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 6:26a
@@ -9769,7 +9807,7 @@
   title: Biblical Principles of War
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 2 Corinthians 10:3-5
@@ -9797,7 +9835,7 @@
   title: Loving Our Neighbor, the Stranger, and Even Our Enemy
   manually_review: It is the same as N1, together with DA24 this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA24
     title: Loving Our Brother & Neighbor
   - id: N1
@@ -9858,7 +9896,7 @@
   title: Helping Our Neighbor Who Is In Need
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: DA53
     title: Rescuing Our Neighbor
   - id: N9
@@ -9900,7 +9938,7 @@
   title: Forgiving Our Neighbor
   manually_review: This is the same as BA55 and DA36
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA36
     title: Forgiving Those Who Sin Against Us
   - id: N13
@@ -9934,7 +9972,7 @@
   title: Resolving Disputes, Correcting, Reconciling With & Bringing Discipline to Brother Believers
   manually_review: I think this is already implied in RA2 and N13.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
   - id: RA6
@@ -9980,7 +10018,7 @@
   title: Taking Reasonable Steps to Keep Ourselves and Others Safe
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Philippians 2:4
@@ -10001,7 +10039,7 @@
   title: Giving Respect & Honor to Persons of Advanced Age
   manually_review: It is the same as DA60, therefore this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA60
     title: Treating Persons with Respect in Ways Appropriate to Their Age & Gender
   bible_references:
@@ -10027,7 +10065,7 @@
   title: Helping a Person Who Needs Rescue
   manually_review: Since N3 is already unique, I think this is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: N3
     title: Helping Our Neighbor Who Is In Need
   - id: DA53
@@ -10055,7 +10093,7 @@
   title: Being Hospitable
   manually_review: It is the same as DA68.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA68
     title: Welcoming & Being Hospitable to Our Brother & Neighbor
   bible_references:
@@ -10129,7 +10167,7 @@
   title: Repenting of Our Own Sin before Seeking to Correct Our Neighbor
   manually_review: It is based on the same key scripture as N13, but differently described, so this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: N13
     title: Repenting of Our Own Sin before Seeking to Correct Our Neighbor
   bible_references:
@@ -10148,7 +10186,7 @@
   title: Serving Our Neighbor
   manually_review: Together with OA12 and DA5 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: OA12
     title: Leading by Example
   - id: DA5
@@ -10185,7 +10223,7 @@
   title: Pursuing Peace with Our Neighbor
   manually_review: It is the same as O1, together with DA10 and DA2 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA10
     title: Living in Peace with Our Neighbors
   - id: O1
@@ -10213,7 +10251,7 @@
   title: Being Compassionate & Merciful Toward Our Neighbor
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA24
     title: Being Tenderhearted
   - id: N18
@@ -10286,7 +10324,7 @@
   title: Relying on Hospitality & the Support of Others When We Travel for Ministry
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Corinthians 9:9
@@ -10304,7 +10342,7 @@
   title: Ministering First to the Jew and Then to the Gentile
   manually_review: I think this commandment was only specific to the apostles and their ministry. Therefore it is not unique.
   unique: false
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - Ephesians 2:12
@@ -10325,9 +10363,9 @@
     group: All
 - id: NA5
   title: Teaching Both in Public and in Private
-  manually_review: This is already implied in the double_ids.
+  manually_review: This is already implied in the related_lawofmessiah.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA15
     title: Teaching and Ministering the Words of God & Yeshua
   - id: QA1
@@ -10344,7 +10382,7 @@
   title: Teaching Those Who Teach Others
   manually_review: This is already implied in ids.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA5
     title: Teaching Both in Public and in Private
   - id: EA7
@@ -10359,7 +10397,7 @@
   title: Using the Tanakh to Show that Yeshua is Mashiach
   manually_review: This is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - Acts 18:28
@@ -10371,7 +10409,7 @@
   title: Confessing Our Sins to One Another
   manually_review: It is the same as NA27
   unique: false
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - Matthew 10:7-8
@@ -10382,7 +10420,7 @@
   title: Eating What is Offered When Traveling for Ministry
   manually_review: I think it falls under the the same commandment as NA2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA12
     title: Being Peacemakers
   - id: NA2
@@ -10423,7 +10461,7 @@
   title: Identifying with Those to Whom We Minister
   manually_review: It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Corinthians 10:27
@@ -10449,7 +10487,7 @@
   title: Preaching Reconciliation with God
   manually_review: It is already implied in QA4.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: QA4
     title: Proclaiming the Kingdom of God
   bible_references:
@@ -10467,7 +10505,7 @@
   title: Ministering with the Wisdom of Messiah
   manually_review: It is already implied in JA5.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA18
     title: Ministering as Ambassadors of Yeshua
   - id: NA15
@@ -10493,7 +10531,7 @@
   title: Ministering in a Fatherly Manner
   manually_review: The way how to minister is not an actual command. Therefore this commandment is already implied in BA10.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA15
     title: Teaching and Ministering the Words of God & Yeshua
   - id: BA10
@@ -10515,7 +10553,7 @@
   title: Teaching Obedience to God’s Mitzvot
   manually_review: It is already implied in BA10.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA15
     title: Teaching and Ministering the Words of God & Yeshua
   - id: BA10
@@ -10535,7 +10573,7 @@
   title: Teaching Godliness
   manually_review: Together with BA10 and 28 this is already implied.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   - id: A14
@@ -10557,7 +10595,7 @@
   title: Being Salt for the Earth & a Light for the World
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA9
     title: Letting God’s Light That Is in Us Shine
   - id: O1
@@ -10583,7 +10621,7 @@
   title: Ackowledging & Utilizing Our Spiritual Authority
   manually_review: It is a unique commandment, it is not yet an explicit step, however it can be implied in FA18, but I do count it as unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA18
     title: Praying Together with Others
   bible_references:
@@ -10623,7 +10661,7 @@
   title: Implementing the "Great Commission" Proclaimed by Yeshua
   manually_review: It is the same as QA1, together with QA4 and FA4 this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: E1
     title: Preserving & Disseminating God's Word
   - id: QA1
@@ -10666,7 +10704,7 @@
   title: Attributes & Behaviors Required of Congregational Leaders & Elders
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: OA2
     title: Attributes & Behaviors Required of Shamashim
   bible_references:
@@ -10680,7 +10718,7 @@
   title: Attributes & Behaviors Required of Shamashim
   manually_review: I would say that OA1 is the same, just add Shamashim to it.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: OA1
     title: Attributes & Behaviors Required of Congregational Leaders & Elders
   bible_references:
@@ -10694,7 +10732,7 @@
   title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: OA8
     title: Submitting to and Obeying Our Spiritual Leaders
   bible_references:
@@ -10708,7 +10746,7 @@
   title: Being Cautious in Granting S’michah
   manually_review: It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Timothy 5:22
@@ -10719,7 +10757,7 @@
   title: Acknowledging Yeshua as Our Spiritual Leader
   manually_review: It is already implied in FA28.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: FA28
     title: Worshiping Yeshua as Adonai
   bible_references:
@@ -10732,7 +10770,7 @@
   title: Required Attributes and Behaviors of Leaders’ Wives
   manually_review: I would say that OA1 is the same, just add the leaders wives (and children) to it.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: OA1
     title: Attributes & Behaviors Required of Congregational Leaders & Elders
   - id: OA2
@@ -10747,7 +10785,7 @@
   title: Imitating the Faith of Our Spiritual Leaders
   manually_review: It is a unique commandment, however if we and our leaders all follow BA17 it will be implied anyway.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: OA3
     title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   - id: BA17
@@ -10762,7 +10800,7 @@
   title: Submitting to and Obeying Our Spiritual Leaders
   manually_review: I think that this is already implied in OA3.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: OA3
     title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   bible_references:
@@ -10778,7 +10816,7 @@
   title: Spiritual Leaders Pastoring Those in Their Care
   manually_review: It is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: OA3
     title: Respecting, Loving, & Honoring, Our Spiritual Leaders & Mentors
   - id: OA7
@@ -10795,7 +10833,7 @@
   title: Leading by Example
   manually_review: It is a unique commandment. Great that this comes from Peter.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: OA7
     title: Imitating the Faith of Our Spiritual Leaders
   bible_references:
@@ -10808,7 +10846,7 @@
   title: The Priesthood of Israel & of Believers in Yeshua
   manually_review: It is a unique commandment, it is not yet an explicit step.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Galatians 3:8-9
@@ -10843,7 +10881,7 @@
   title: Regarding God's Priests as Holy
   manually_review: Since P1 is already a unique commandment, I think this is implied already in that same commandment.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: P1
     title: The Priesthood of Israel & of Believers in Yeshua
   bible_references:
@@ -10866,7 +10904,7 @@
   title: Giving to Our Secular Authorities That Which is Theirs
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: OA8
     title: Submitting to and Obeying Our Spiritual Leaders
   - id: PA1
@@ -10885,7 +10923,7 @@
   title: Guarding Against Wrongful Ways of Leaders, Teachers, and Others Who Are in Charge
   manually_review: It is based on the same key scripture as KA2, so this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: JA2
     title: Being Watchful & Guarding Against Those Who Would Harm Us & Lead Us Astray
   - id: KA3
@@ -10904,7 +10942,7 @@
   title: Submitting to and Obeying the Authorities Placed Over Us
   manually_review: It is the same as A23 which is already unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: A23
     title: Being Subject to Governing Authorities
   - id: PA1
@@ -10927,7 +10965,7 @@
   title: Leading by Serving
   manually_review: Together with OA12 and DA5 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: OA12
     title: Leading by Example
   - id: DA5
@@ -10944,7 +10982,7 @@
   title: Commanding Obedience to God
   manually_review: There is not yet any bible reference to support an actual commanding obedience, so I think this is now not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA24
     title: Teaching Obedience to God’s Mitzvot
   - id: GA1
@@ -10959,7 +10997,7 @@
   title: Honoring Our Secular Authorities
   manually_review: Since A23 is already unique, I think when we are subjected to the authorities, we also honor them implicitly.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: A23
     title: Being Subject to Governing Authorities
   - id: PA1
@@ -10977,7 +11015,7 @@
   title: Preaching, Teaching, & Making Disciples of Yeshua
   manually_review: It is the same as QA1, the great commission, together with QA4 this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: NA15
     title: Teaching and Ministering the Words of God & Yeshua
   - id: NA25
@@ -11033,7 +11071,7 @@
   title: Boasting About God and Yeshua
   manually_review: It is the same but differently described as BA26
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA26
     title: Being Yeshua’s Witness
   bible_references:
@@ -11046,9 +11084,9 @@
     group: All
 - id: QA3
   title: Knowing the Dangers Involved in Preaching the Good News
-  manually_review: I think the double_ids already imply this, so it is not unique.
+  manually_review: I think the related_lawofmessiah already imply this, so it is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: JA5
     title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
   - id: JA9
@@ -11063,7 +11101,7 @@
   title: Proclaiming the Kingdom of God
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: QA4
     title: Proclaiming the Kingdom of God
   bible_references:
@@ -11077,7 +11115,7 @@
   title: Preaching in the Synagogue of the Unbeliever
   manually_review: This is already implied in QA4. The place where to preach is not an actual command but bound to a culture.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA16
     title: Giving Attention to the Reading of Scripture
   - id: QA4
@@ -11090,9 +11128,9 @@
     group: All
 - id: QA6
   title: Having Courage to Proclaim the Good News
-  manually_review: Together with the double_ids this is not unique.
+  manually_review: Together with the related_lawofmessiah this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: QA3
     title: Knowing the Dangers Involved in Preaching the Good News
   - id: QA4
@@ -11111,7 +11149,7 @@
   title: Listening to and Heeding God's Voice
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA13
     title: Hearing the Words & Voice of God and Yeshua
   - id: BA20
@@ -11151,7 +11189,7 @@
   title: Receiving the Holy Spirit
   manually_review: Since AA18 is already a unique commandment, I think this is implied already in that same commandment.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA2
     title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   - id: AA18
@@ -11250,7 +11288,7 @@
   title: Testing the Spirit
   manually_review: It has the same idea as KA2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
   bible_references:
@@ -11276,7 +11314,7 @@
   title: Turning Sinners Away from their Sin
   manually_review: I think this is already implied in RA2 and N13.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
   - id: RA6
@@ -11298,7 +11336,7 @@
   title: Correcting Those Who Teach and Follow False Doctrines
   manually_review: It is implied within N13, but since it is based on different key scriptures, I think it is unique enough.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
   - id: N13
@@ -11315,7 +11353,7 @@
   title: Correcting Our Self Before Seeking to Correct Others
   manually_review: It is the same as N13
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: RA2
     title: Correcting Those Who Teach and Follow False Doctrines
   - id: N13
@@ -11333,7 +11371,7 @@
   title: Correcting One Another with Humility and Gentleness
   manually_review: It is implied in RA2, although it would be better to integrate this into RA2. We always need to be humble and gentle, so I dont think this is a new commandment.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: DA50
     title: Bearing with One Another in Love & with Forgiveness
   - id: RA2
@@ -11351,7 +11389,7 @@
   title: Publicly Rebuking Leaders Who Continue to Sin
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: OA8
     title: Submitting to and Obeying Our Spiritual Leaders
   - id: PA2
@@ -11366,7 +11404,7 @@
   title: Letting Punishment Fit the Offense
   manually_review: It is based on the same key scripture as JA6 but differently described. Therefore this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: JA6
     title: Offering the Other Cheek
   bible_references:
@@ -11379,7 +11417,7 @@
   title: Rebuking and Exhorting with Patience and Instruction
   manually_review: We always need to be patient, so I dont think this is a new commandment. It is already implied in RA4.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: RA6
     title: Publicly Rebuking Leaders Who Continue to Sin
   - id: RA4
@@ -11400,7 +11438,7 @@
   title: Pursuing Justice
   manually_review: Justice is something different than righteousness. Therefore I think this is a unique commandment.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: J2
     title: God's Law of Justice
   - id: BA9
@@ -11419,7 +11457,7 @@
   title: Expelling Evil Doers from the Community of Believers
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: RA6
     title: Publicly Rebuking Leaders Who Continue to Sin
   bible_references:
@@ -11432,7 +11470,7 @@
   title: Confronting and Correcting the Lazy Among Us
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: RA3
     title: Correcting Our Self Before Seeking to Correct Others
   bible_references:
@@ -11445,7 +11483,7 @@
   title: Judging Without Prejudice or Partiality
   manually_review: It is already implied in RA11
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: RA11
     title: Pursuing Justice
   - id: RA7
@@ -11460,7 +11498,7 @@
   title: First Warning and Then Banning Divisive Persons from Fellowship
   manually_review: I think this is already implied in RA13
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: RA13
     title: Expelling Evil Doers from the Community of Believers
   bible_references:
@@ -11473,7 +11511,7 @@
   title: Receiving God’s Correction and Discipline with a Good Attitude
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Hebrews 12:5
@@ -11485,7 +11523,7 @@
   title: Regarding as Discipline Our Having to Endure Trials
   manually_review: I think this is already implied in RA23
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: RA23
     title: Receiving God’s Correction and Discipline with a Good Attitude
   - id: JA9
@@ -11500,7 +11538,7 @@
   title: Fighting the Good Fight of the Faith
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: OA7
     title: Imitating the Faith of Our Spiritual Leaders
   bible_references:
@@ -11517,7 +11555,7 @@
   title: Working Out Our Deliverance with Fear and Trembling
   manually_review: I think this can be understood quite wrong, since we cannot earn salvation, it is pure grace by what Yeshua did for us. There is no other scripture to support this, so I think this should be more understood as GA3, Therefore bear fruits worthy of repentance
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GA3
     title: Producing Fruit of Repentance
   bible_references:
@@ -11530,7 +11568,7 @@
   title: Expelling Demons
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: RA13
     title: Expelling Evil Doers from the Community of Believers
   bible_references:
@@ -11544,7 +11582,7 @@
   title: Arming Ourselves with Spiritual Weapons
   manually_review: It is already implied in GB11
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB11
     title: Wearing and Employing God’s Armor and Weaponry
   bible_references:
@@ -11559,7 +11597,7 @@
   title: Being a Soldier of Yeshua
   manually_review: Something to be is not an actual command, the command in de key scripture is to endure due to persecution. So JA9 is already covering this.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
   bible_references:
@@ -11572,7 +11610,7 @@
   title: Resisting and Opposing the Adversary
   manually_review: There is not yet an explicit commandment of this, so this is unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA25
     title: Praying for Protection from the Adversary
   - id: SA1
@@ -11591,7 +11629,7 @@
   title: Arming Ourselves with the Mind of Yeshua
   manually_review: I think this is already covered in AB15 and SA4.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB15
     title: Being Transformed by the Renewing of Our Mind and Spirit
   - id: SA4
@@ -11606,7 +11644,7 @@
   title: Testing Every Spirit
   manually_review: It has the same idea as KA2.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: R4
     title: Testing the Spirit
   - id: KA2
@@ -11621,7 +11659,7 @@
   title: Coming to & Believing (Trusting) in Yeshua for Salvation
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: BA32
@@ -11668,7 +11706,7 @@
   title: Being Born Again of the Spirit
   manually_review: This is more a result of your conversion and immersion, so I think this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AB15
     title: Being Transformed by the Renewing of Our Mind and Spirit
   - id: GA4
@@ -11681,9 +11719,9 @@
     group: All
 - id: TA3
   title: Maintaining the Hope of Deliverance /Salvation
-  manually_review: It is already covered together with the double_ids and GA1 which is based on the key scripture John 3:16.
+  manually_review: It is already covered together with the related_lawofmessiah and GA1 which is based on the key scripture John 3:16.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA52
     title: Setting Our Hope on God
   - id: BA28
@@ -11715,7 +11753,7 @@
   title: Entering the Kingdom of God Like Innocent Children
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: TA4
     title: Entering the Kingdom of God Like Innocent Children
   bible_references:
@@ -11730,7 +11768,7 @@
   title: Embracing and Rejoicing in Our Salvation
   manually_review: Together with GA1 and 17 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: TA1
     title: Coming to & Believing (Trusting) in Yeshua for Salvation
   - id: TA3
@@ -11751,7 +11789,7 @@
   title: Believing in Resurrection of the Dead
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     supportive_nt_scriptures:
     - 1 Corinthians 15:12
@@ -11768,7 +11806,7 @@
   title: Knowing that Sin is an Impediment to Salvation
   manually_review: This can be understood wrongfully, since we are not saved by works but by grace through faith. However, sin can hinder our relationship with God (which is already covered in other commandments like RA25). Therefore I think this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: RA25
     title: Turning Sinners Away from their Sin
   bible_references:
@@ -11782,7 +11820,7 @@
   title: Calling on Yeshua’s Name for Salvation
   manually_review: It is implied in GA1 which is based on the key scripture John 3:16.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GA2
     title: Seeking Forgiveness of Our Sins in Yeshua
   - id: BA28
@@ -11804,7 +11842,7 @@
   title: Enduring Hardships to Enter the Kingdom of God
   manually_review: It is already implied in JA9.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
   bible_references:
@@ -11817,7 +11855,7 @@
   title: Believing that Yeshua was Raised from the Dead
   manually_review: By believing that Yeshua died for our sins it is implied that He also was raised from the Dead, otherwise there was no salvation. Together with TA6 which already is unique, this one I don't count as unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: TA6
@@ -11841,7 +11879,7 @@
   title: Believing that Yeshua Died for Our Sins
   manually_review: It is the same as BA28
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: TA10
@@ -11859,9 +11897,9 @@
     group: All
 - id: TA12
   title: Being Ready to Give a Reasoned Answer for Our Hope
-  manually_review: Together with the double_ids and steps this is not unique.
+  manually_review: Together with the related_lawofmessiah and steps this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: QA6
     title: Having Courage to Proclaim the Good News
   - id: QA4
@@ -11878,7 +11916,7 @@
   title: Being Terrified of Falling Short of Salvation
   manually_review: By our own we are not saved, only by believing in the grace that Yeshua died for our sins. But being terrified I don't think is the right attitude. There is also not a scripture inlcuded. Therefore I think this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA28
     title: Believing that Yeshua Died for Our Sins
   - id: TA3
@@ -11895,7 +11933,7 @@
   title: Seeking to Escape from the Coming Tribulation
   manually_review: It is a very specific commandment, I think this is already implied in HA3, together with JA9 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: TA9
     title: Enduring Hardships to Enter the Kingdom of God
   - id: JA9
@@ -11914,7 +11952,7 @@
   title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
   manually_review: Together with JA9 and 17 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
   - id: RA24
@@ -11935,7 +11973,7 @@
   title: Being Encouraged in Our Suffering
   manually_review: Together with UA2 and JA9 this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: UA2
     title: Being Joyful Amidst Our Troubles, Trials, and Persecutions
   - id: JA9
@@ -11951,7 +11989,7 @@
   title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
   manually_review: This is already implied in JA9.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: TA9
     title: Enduring Hardships to Enter the Kingdom of God
   - id: UA2
@@ -11975,7 +12013,7 @@
   title: Handling Painful Situations in a Godly Way
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: JA5
     title: Being Wise, Prudent, and Harmless When Ministering in the Midst of Enemies
   - id: NA25
@@ -11997,7 +12035,7 @@
   title: Overcoming Adversity through Faith and Perseverance
   manually_review: This is implied to be the same as G12, together with AA19 and AA31, this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA31
     title: Being Steadfast in Our Faith and Our Thinking
   - id: AA19
@@ -12020,7 +12058,7 @@
   title: Bearing Up Under Undeserved Punishment
   manually_review: It is already implied in JA9.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: UA4
     title: Expecting and Enduring Troubles, Hardships, Persecution, Disgrace and Mistreatment
   - id: JA9
@@ -12035,7 +12073,7 @@
   title: Separating Ourselves from Idolaters
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA23
     title: Ridding Ourselves of Unholy Characteristics
   - id: NA23
@@ -12053,7 +12091,7 @@
   title: Guarding Against False Gods
   manually_review: Since John says this in his last sentence of his letter, it seems to summarize and be important, so I think this is unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
   - id: KA1
@@ -12070,7 +12108,7 @@
   title: Studying, Hearing & Teaching Torah & Torah -Obedience
   manually_review: It is the same as BA10.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   bible_references:
@@ -12098,7 +12136,7 @@
   title: Gentiles Rejoicing with the Jewish People
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Romans 15:10
@@ -12109,7 +12147,7 @@
   title: Applying Torah to Gentiles
   manually_review: It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Acts 15:10
@@ -12123,7 +12161,7 @@
   title: Gentiles Helping Jews in Material Ways
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: XA2
     title: Gentiles Rejoicing with the Jewish People
   bible_references:
@@ -12136,7 +12174,7 @@
   title: Treating Gentiles and Jews as Spiritually Equal
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     supportive_nt_scriptures:
     - Acts 26:17-18
@@ -12158,7 +12196,7 @@
   title: Gentiles Praising the Lord
   manually_review: It is not unique and also not only for gentiles. It is already implied in FA2 and 74.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA33
     title: Glorifying God and Yeshua
   - id: FA2
@@ -12175,7 +12213,7 @@
   title: Gentiles Obeying Torah
   manually_review: It is the same as BA10.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   bible_references:
@@ -12188,7 +12226,7 @@
   title: Messianic Jews Relating to Gentile Believers as Brothers and Sisters
   manually_review: It is the same as XA7
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: XA7
     title: Treating Gentiles and Jews as Spiritually Equal
   bible_references:
@@ -12204,7 +12242,7 @@
   title: Jews Being a Light and Blessing to the Gentiles
   manually_review: It is already a commandment for both Jews and Gentiles, so it is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: AA9
     title: Letting God's Light That Is in Us Shine
   bible_references:
@@ -12220,7 +12258,7 @@
   title: Gentiles Being Holy
   manually_review: It is already a commandment for both Jews and Gentiles, so it is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: A13
     title: Being Pure in Heart
   - id: A14
@@ -12235,7 +12273,7 @@
   title: Seudat Ha-Adon
   manually_review: It is the same as BA42.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA42
     title: Partaking of Bread and Wine with Others & with a Pure Heart in Remembrance of Yeshua
   - id: BA59
@@ -12260,7 +12298,7 @@
   title: Abiding in Yeshua in Order to Bear Fruit
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA3
     title: 'Abiding in the Vine: Being United (in Unity /Union) with God and Yeshua'
   - id: BA46
@@ -12295,7 +12333,7 @@
   title: Trusting in Yeshua & Believing that He is Our Messiah Sent by God
   manually_review: It is not unique together with BA32, BA4 and BA50.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA32
     title: Believing that Yeshua is the Messiah, the Son of God, and Deity
   - id: BA4
@@ -12340,7 +12378,7 @@
   title: Expecting & Accepting Persecution on Account of Our Faith in Yeshua
   manually_review: It is the same as JA9.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
   bible_references:
@@ -12360,7 +12398,7 @@
   title: Following Yeshua & Putting Him Before of All Else
   manually_review: It is the same as Y6, together with BA25, BA25, BA40 and CA2 this is not unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA25
     title: Putting God and Yeshua Before All Things and All Persons
   - id: BA40
@@ -12391,7 +12429,7 @@
   title: Acknowledging God as Our Supreme Father, & Yeshua as Our Supreme Rabbi, Teacher, & Leader
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: BA45
     title: Knowing Yeshua as Lord and Messiah
   - id: BA39
@@ -12411,7 +12449,7 @@
   title: Offering Ourselves as Living Sacrifices
   manually_review: It can be implied in other commandments but it has an important unique character.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: A2
     title: Walking in God's Ways
   bible_references:
@@ -12442,7 +12480,7 @@
   title: Accepting Suffering and Disgrace in Order to Serve Yeshua
   manually_review: It is already implied in JA9
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: JA9
     title: Keeping Our Faith Amidst Persecution
   bible_references:
@@ -12458,7 +12496,7 @@
   title: Continually Offering Sacrifices of Praise to God
   manually_review: It is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: YA1
     title: Offering Ourselves as Living Sacrifices
   - id: BA33
@@ -12477,7 +12515,7 @@
   title: Laying Down Our Life for Our Brother
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: N18
     title: Being Compassionate & Merciful Toward Our Neighbor
   bible_references:
@@ -12490,7 +12528,7 @@
   title: Using Our Spiritual Gifts to Serve Others
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: ZA1
     title: Using Our Spiritual Gifts to Serve Others
   bible_references:
@@ -12507,7 +12545,7 @@
   title: Seeking to Interpret One’s Own Utterance in Tongues
   manually_review: It is unique, but I would like to combine this with ZA3.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: ZA3
     title: Exercising the Gift of Tongues in Good Order
   bible_references:
@@ -12520,7 +12558,7 @@
   title: Exercising the Gift of Tongues in Good Order
   manually_review: It is a unique element, but it is implied in GB29
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB29
     title: Doing All Things in a Decent and Orderly Way
   - id: ZA2
@@ -12538,7 +12576,7 @@
   title: Seeking the Interpretation of Tongues When Spoken in Public
   manually_review: It is unique, but I would like to combine this with ZA3.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: ZA2
     title: Seeking to Interpret One’s Own Utterance in Tongues
   - id: ZA3
@@ -12553,7 +12591,7 @@
   title: Seeking the Gift of Prophecy
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:1
@@ -12565,7 +12603,7 @@
   title: Determining Our Spiritual Gifts
   manually_review: It is already implied in ZA1
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: ZA1
     title: Using Our Spiritual Gifts to Serve Others
   bible_references:
@@ -12578,7 +12616,7 @@
   title: Seeking, Receiving, and Relying on Holy Spirit Power
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: FA39
     title: Praying in Unison with the Holy Spirit
   - id: ZA8
@@ -12598,7 +12636,7 @@
   title: Preferring Love Over Spiritual Gifts
   manually_review: It is already implied in GB34
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: GB34
     title: Doing Everything in Love
   - id: ZA1
@@ -12613,7 +12651,7 @@
   title: Using Our Spiritual Gifts to Edify the Body
   manually_review: It is already implied in ZA1.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: ZA1
     title: Using Our Spiritual Gifts to Serve Others
   bible_references:
@@ -12628,7 +12666,7 @@
   title: Gleanings and Part of Life-Sustaining Commodities Left for the Poor & Disadvantaged
   manually_review: I would consider B5 as the same commandment.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: B5
     title: Setting Aside Part of Our Increase for the Poor
   - id: E7
@@ -12651,7 +12689,7 @@
   title: Resting from Work & Assembling on the Weekly Sabbath
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 12:1-8
@@ -12687,7 +12725,7 @@
   title: Observing the Feast of Unleavened Bread by Eating Matzah on Each of Its Seven Days
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 26:17-19
@@ -12717,7 +12755,7 @@
   title: Ceremonially Recounting What God Did for Us When We Left Egypt
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 2:13-15
@@ -12736,7 +12774,7 @@
   title: Blowing the Shofar on Special Days & As an Alarm in War
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Corinthians 14:8
@@ -12761,7 +12799,7 @@
   title: Afflicting Our Souls & Repenting on Yom Kippur
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 2 Corinthians 5:21
@@ -12788,7 +12826,7 @@
   title: Rejoicing at the Festivals of Shavuot , Sukkot , & Sh'mini Atzeret
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Philippians 4:4
@@ -12809,7 +12847,7 @@
   title: Living in a Sukkah during the Feast of Sukkot
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - John 7:1-3
@@ -12825,7 +12863,7 @@
   title: Taking Up the Four Species on Sukkot
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - John 7:1-3
@@ -12840,7 +12878,7 @@
   title: Public Reading of the Torah during Sukkot in the Sabbatical Year
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - John 7:1-3
@@ -12855,7 +12893,7 @@
   title: Cancelling Loans & Resting Our Land in the Sabbatical Year
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 6:25-31
@@ -12883,7 +12921,7 @@
   title: Resting & Returning Ownership of Our Land in the Jubilee Year
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 6:25-31
@@ -12914,7 +12952,7 @@
   title: Determining Occurrence of the New Moon
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Colossians 2:16
@@ -12936,7 +12974,7 @@
   title: Keeping the Sabbath Day Holy
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Mark 1:21-22
@@ -12958,7 +12996,7 @@
   title: Resting from Work & Assembling on God's Annual Sabbaths
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional), however I would say that it should be under the same umbrella as D1.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 26:26-28
@@ -13018,7 +13056,7 @@
   title: Counting to Shavuot & Waving Two Loaves
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Acts 2:1-21
@@ -13035,7 +13073,7 @@
   title: Keeping Our Home & Domain Free of Leaven & Chametz from Passover through the Feast of Unleavened Bread
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 26:17-19
@@ -13061,7 +13099,7 @@
   title: Observing Passover with Matzah & Bitter Herbs
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 26:17-19
@@ -13093,7 +13131,7 @@
   title: Performing & Receiving B'rit Milah
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles optional)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Romans 2:25-3:2
@@ -13130,7 +13168,7 @@
   title: Commemorating Pidyon HaBen
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles forbidden)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Luke 2:22-32
@@ -13151,7 +13189,7 @@
   title: Being a Kingdom of Priests, a Holy Nation, Proclaimers of the Good News, & a Light to the Gentiles
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 28:16-20
@@ -13188,7 +13226,7 @@
   title: Tzitzit , Tefillin , & Mezuzot
   manually_review: It is a unique commandment (for Jews mandatory, for Gentiles forbidden)
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 23:5
@@ -13209,7 +13247,7 @@
   title: Tithes, Offerings, & Tz'dakah
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: B5
     title: Setting Aside Part of Our Increase for the Poor
   - id: B4
@@ -13271,7 +13309,7 @@
   title: Withholding Food, Clothing, or Marital Rights from Our Wife
   manually_review: It is unique because it is focused on the specific issue of withholding food, clothing, or marital rights from one's wife, which is a distinct commandment with specific biblical references. It addresses a particular aspect of marital responsibility and care that is not covered by other commandments in the list.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: CB29
     title: Husbands Respecting their Wives
   - id: BB7
@@ -13291,7 +13329,7 @@
   title: Occupying the Land of Israel
   manually_review: It is a unique commandment for Jews only
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Acts 13:18-19
@@ -13331,7 +13369,7 @@
   title: Blessing & Not Cursing the Jewish People
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Romans 1:16
@@ -13359,7 +13397,7 @@
   title: Pursuing Righteousness & Doing What Is Right
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA3
     title: Pursuing Righteousness & Living Righteously
   bible_references:
@@ -13387,7 +13425,7 @@
   title: Telling the Truth
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: AA3
     title: Pursuing Righteousness & Living Righteously
   bible_references:
@@ -13423,7 +13461,7 @@
   title: Pursuing Economic Equity through Our Institutions
   manually_review: It is a unique commandment focused on pursuing economic equity through our institutions, which is distinct from other commandments in the list.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - James 1:27
@@ -13451,7 +13489,7 @@
   title: Kidnapping
   manually_review: It is a unique commandment but not positive.
   unique: false
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Romans 13:9
@@ -13477,7 +13515,7 @@
   title: Cohanim to Bless God's People
   manually_review: It is a unique commandment for Cohanim only.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 16:19
@@ -13492,7 +13530,7 @@
   title: The Priesthood of Believers & Entering God's Most Holy Place
   manually_review: It is a unique commandment for Cohanim only.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 27:46-54
@@ -13511,9 +13549,9 @@
     group: All
 - id: W2
   title: Remembering and Walking in Awareness of God's Word
-  manually_review: It is already covered by the other step and double_ids
+  manually_review: It is already covered by the other step and related_lawofmessiah
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: G2
     title: Acknowledging and not Denying Belief in God and in Yeshua
   - id: E6
@@ -13538,7 +13576,7 @@
   title: Putting Our Cares & Anxieties on God
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references: {}
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
@@ -13547,7 +13585,7 @@
   title: Living Our Lives Worthy of Our Calling in the Lord
   manually_review: It has a unique element in it
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - 1 Thessalonians 2:12
@@ -13560,7 +13598,7 @@
   title: Working as for the Lord
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references: {}
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
@@ -13569,7 +13607,7 @@
   title: Turning Away from Ungodly Speech
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: HB21
     title: Receiving God’s Implanted Word
   bible_references:
@@ -13587,7 +13625,7 @@
   title: Ministering Healing as Led by the Holy Spirit
   manually_review: It is a unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - Luke 10:9-11
@@ -13600,7 +13638,7 @@
   title: Affirming All Who Correctly Minister God’s Word in Yeshua’s Name
   manually_review: It looks like N3 but the key scripture is a different context. Therefore it is unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: N3
     title: Helping Our Neighbor Who Is In Need
   bible_references:
@@ -13613,7 +13651,7 @@
   title: Being Peacemakers
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: NA12
     title: Being Peacemakers
   bible_references:
@@ -13627,7 +13665,7 @@
   title: Teaching and Ministering the Words of God & Yeshua
   manually_review: It is the same as BA10.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   bible_references:
@@ -13669,7 +13707,7 @@
   title: Giving Attention to the Reading of Scripture
   manually_review: It is also stated indirect in 2 Cor 3:14 and in Acts 13:15, so we count this as a new unique commandment.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Timothy 4:13
@@ -13721,9 +13759,9 @@
     group: All
 - id: NA18
   title: Ministering as Ambassadors of Yeshua
-  manually_review: Together with the double_ids this is not unique.
+  manually_review: Together with the related_lawofmessiah this is not unique.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: NA15
     title: Teaching and Ministering the Words of God & Yeshua
   - id: BA10
@@ -13746,7 +13784,7 @@
   title: Ministering to the Poor, the Weak, & the Timid
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: NA3
     title: Ministering First to the Jew and Then to the Gentile
   - id: NA15
@@ -13777,7 +13815,7 @@
   title: Ministering to, Caring for & Protecting Those for Whom Leaders Have Responsibility
   manually_review: It is a unique commandment
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: NA20
     title: Ministering to the Poor, the Weak, & the Timid
   bible_references:
@@ -13793,7 +13831,7 @@
   title: Batei Din Judging Only Believers
   manually_review: N13 already meantions 'thy brothers', so I think this is already implied
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: RA13
     title: Expelling Evil Doers from the Community of Believers
   - id: N13
@@ -13808,7 +13846,7 @@
   title: Abstaining from Fornication and Other Acts of Sexual Immorality
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     nt_scriptures:
     - 1 Corinthians 10:8
@@ -13841,7 +13879,7 @@
   title: Gentiles Undergoing B’rit Milah
   manually_review: It is already covered in E2. See commentary of E2 by Rabbi Rudolph.
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: E2
     title: Performing & Receiving B'rit Milah
   bible_references:
@@ -13855,7 +13893,7 @@
   title: Testing Everything that is Spoken in God's Name
   manually_review: It looks like KA2 but it is more about positive prophets and therefore unique.
   unique: true
-  double_ids:
+  related_lawofmessiah:
   - id: KA2
     title: Being on Our Guard Against False Prophets
   bible_references:
@@ -13877,7 +13915,7 @@
   title: Writing, Teaching & Learning the Song of Moses
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Revelation 15:1-3
@@ -13892,7 +13930,7 @@
   title: Adding to, or Subtracting from, the Written Word of God
   manually_review: It is a unique commandment
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Revelation 22:18-19
@@ -13907,7 +13945,7 @@
   title: Obeying the Mitzvot of Adonai & Yeshua
   manually_review: ''
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   bible_references:
@@ -13924,7 +13962,7 @@
   title: Attending to Both the Lesser & the Weightier Matters of Torah
   manually_review: It has a unique element in it.
   unique: true
-  double_ids: []
+  related_lawofmessiah: []
   bible_references:
     key_nt_scriptures:
     - Matthew 23:23-24
@@ -13942,7 +13980,7 @@
   title: Coming to Yeshua for Spiritual Rest
   manually_review: ''
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA2
     title: Seeking Rest, Refreshment, & Renewal in Yeshua & the Holy Spirit
   bible_references:
@@ -13962,7 +14000,7 @@
   title: Obeying the Commandments & Teachings of Yeshua
   manually_review: ''
   unique: false
-  double_ids:
+  related_lawofmessiah:
   - id: BA10
     title: Obeying the Commandments of God and Yeshua
   - id: BA20

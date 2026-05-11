@@ -251,7 +251,7 @@ The comparison report uses loose title normalization when checking equality so p
    Current behavior:
    - Keeps full commandment rows for each unique ID (all known fields from the source row, not only id/title).
    - Adds a normalized `source` label per row.
-   - Enriches matching IDs from `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` with `unique` and `double_ids`.
+   - Enriches matching IDs from `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` with `unique` and `related_lawofmessiah`.
    - Ignores the `manually_review` note field from the manual review file when writing output.
 
 #### Manually Reviewed File
@@ -259,6 +259,6 @@ The comparison report uses loose title normalization when checking equality so p
 `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` is the working review artifact for unique-positive-commandment reconciliation.
 
 - It is intentionally human-curated and not a pure scrape output.
-- It tracks manual decisions (`manually_review`, `unique`) and linking fields (`double_ids`).
+- It tracks manual decisions (`manually_review`, `unique`) and linking fields (`related_lawofmessiah`).
 - It preserves commandment context fields used during follow-up review/export steps (title, references, and NCLA when available).
 - It should be treated as a review-state file in the pipeline, not as a replacement for `Law_of_Messiah_ot.yaml` or `Law_of_Messiah_nt.yaml`.

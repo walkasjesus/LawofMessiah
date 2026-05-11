@@ -1022,7 +1022,7 @@
     group: All
 - id: DA11
   title: Bearing the Weaknesses of Those Who Are Not Strong
-  commandment_type: Negative
+  commandment_type: Positive
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
@@ -1225,7 +1225,7 @@
     group: All
 - id: DA40
   title: Welcoming & Not Arguing with Persons Who Are Weak in Faith
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   ncla:
   - code: JMm JFm KMm KFm GMm GFm

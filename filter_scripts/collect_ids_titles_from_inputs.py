@@ -261,7 +261,7 @@ def build_manual_review_lookup(path: Path):
 
         lookup[row_id] = {
             "unique": row.get("unique"),
-            "double_ids": row.get("double_ids", []),
+            "related_lawofmessiah": row.get("related_lawofmessiah", []),
         }
 
     return lookup
@@ -373,7 +373,6 @@ def merge_related_lawofmessiah(row):
         "related_lawofmessiah",
         "commandments_related_ot",
         "commandments_related_nt",
-        "double_ids",
     ]:
         values = row.get(field, [])
         if not isinstance(values, list):
@@ -579,7 +578,6 @@ def main():
                 row_out["commandment_subtitles"] = normalized_subtitles
             row_out.pop("commandments_related_ot", None)
             row_out.pop("commandments_related_nt", None)
-            row_out.pop("double_ids", None)
 
             out.append(row_out)
 

@@ -9106,9 +9106,10 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   category: Neighbours & Brothers
-  commandment_type: Negative
+  commandment_type: Positive
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  unique: true
   related_lawofmessiah:
   - id: DA5
     title: Serving One Another
@@ -10878,9 +10879,10 @@
   - code: JMm JFm KMm KFm GMm GFm
     group: All
   category: Neighbours & Brothers
-  commandment_type: Negative
+  commandment_type: Positive & Negative
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3
+  unique: true
   related_lawofmessiah:
   - id: DA42
     title: Not Engaging in Contentious, Fruitless, or Stupid Arguments or Discussions
