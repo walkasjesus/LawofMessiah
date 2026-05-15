@@ -7059,7 +7059,6 @@
     - Matthew 6:25-34
     - Luke 12:22-32
     - 2 Corinthians 9:10-12
-    - Matthew 6:25-34
     - Luke 12:22-32
     - Mark 2:27
     - Hebrews 4:9
@@ -7247,13 +7246,15 @@
     group: All
 - id: G17
   title: Being Continuous, Persistent & Fervent in Prayer
-  manually_review: Although prayer is not unique, it is a unique virtue to be continuous and persistent.
-  unique: true
+  manually_review: It is the same as FA1, together with AA31 and G19 this is not unique.
+  unique: false
   related_lawofmessiah:
   - id: AA31
     title: Being Steadfast in Our Faith and Our Thinking
   - id: G19
     title: Praying in Faith & Having Faith for That Which We Pray
+  - id: FA1
+    title: Being Persistent, Steadfast, & Alert in Our Prayers & Petitions
   bible_references:
     key_nt_scriptures:
     - Romans 12:11-12
@@ -7311,7 +7312,7 @@
     - Hebrews 6:11-12
     - Hebrews 6:15
     - James 5:7-8
-    - Revelations 2:19
+    - Revelation 2:19
     supportive_ot_scriptures:
     - Isaiah 30:18
     - Isaiah 40:31
@@ -13361,7 +13362,6 @@
     - Psalm 122:6-9
     - Numbers 34:1-13
     - Ezekiel 47:13-23
-    - Surah Yunus"Jonah" 10:93
   ncla:
   - code: JMm JFm KMu KFu GMu GFu
     group: All
@@ -13577,7 +13577,16 @@
   manually_review: It is a unique commandment
   unique: true
   related_lawofmessiah: []
-  bible_references: {}
+  bible_references:
+    key_ot_scriptures:
+    - 2 Kings 20:1-11
+    - 2 Kings 19:14-19
+    - Isaiah 38:1-22
+    key_nt_scriptures:
+    - Philippians 4:6-7
+    - 1 Peter 5:7
+    - Matthew 11:28-30
+    - Matthew 6:25-34
   ncla:
   - code: JMm JFm KMm KFm GMm GFm
     group: All
