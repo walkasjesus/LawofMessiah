@@ -309,6 +309,41 @@ def build_existing_related_lookup(path: Path):
     return lookup
 
 
+def build_existing_row_lookup(path: Path):
+    if not path.exists():
+        return {}
+
+    existing_data = load_yaml(path)
+    lookup = {}
+    for row in to_items(existing_data):
+        if not isinstance(row, dict):
+            continue
+
+        row_id = row.get("id")
+        if not isinstance(row_id, str) or not row_id.strip():
+            continue
+
+        lookup[row_id.strip()] = row
+
+    return lookup
+
+
+def apply_existing_key_order(row, existing_row):
+    if not isinstance(row, dict) or not isinstance(existing_row, dict):
+        return row
+
+    ordered = {}
+    for key in existing_row.keys():
+        if key in row:
+            ordered[key] = row[key]
+
+    for key in row.keys():
+        if key not in ordered:
+            ordered[key] = row[key]
+
+    return ordered
+
+
 def build_category_normalization_lookup(path: Path):
     if not path.exists():
         return {}
@@ -539,6 +574,7 @@ def main():
     manual_review_by_id = build_manual_review_lookup(MANUAL_REVIEW_PATH)
     manual_ncla_by_id = build_manual_ncla_lookup(MANUAL_NCLA_ADDITIONS_PATH)
     existing_related_by_id = build_existing_related_lookup(OUTPUT_PATH)
+    existing_row_by_id = build_existing_row_lookup(OUTPUT_PATH)
     category_lookup = build_category_normalization_lookup(CATEGORY_REVIEW_PATH)
 
     for path, source_name in INPUTS:
@@ -568,8 +604,8 @@ def main():
             normalize_row_bible_references(row_out)
 
             row_out["related_lawofmessiah"] = merge_related_lists(
-                merge_related_lawofmessiah(row_out),
                 existing_related_by_id.get(row_id, []),
+                merge_related_lawofmessiah(row_out),
             )
             normalized_subtitles = normalize_commandment_subtitles(
                 row_out.get("commandment_subtitles", [])
@@ -578,6 +614,8 @@ def main():
                 row_out["commandment_subtitles"] = normalized_subtitles
             row_out.pop("commandments_related_ot", None)
             row_out.pop("commandments_related_nt", None)
+
+            row_out = apply_existing_key_order(row_out, existing_row_by_id.get(row_id))
 
             out.append(row_out)
 
@@ -589,14 +627,17 @@ def main():
         normalize_category(manual_row_out, category_lookup)
         normalize_row_bible_references(manual_row_out)
         manual_row_out["related_lawofmessiah"] = merge_related_lists(
-            manual_row_out.get("related_lawofmessiah", []),
             existing_related_by_id.get(row_id, []),
+            manual_row_out.get("related_lawofmessiah", []),
         )
         normalized_subtitles = normalize_commandment_subtitles(
             manual_row_out.get("commandment_subtitles", [])
         )
         if "commandment_subtitles" in manual_row_out or normalized_subtitles:
             manual_row_out["commandment_subtitles"] = normalized_subtitles
+        manual_row_out = apply_existing_key_order(
+            manual_row_out, existing_row_by_id.get(row_id)
+        )
         out.append(manual_row_out)
         seen_ids.add(row_id)
 
