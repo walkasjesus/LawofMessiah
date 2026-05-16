@@ -251,7 +251,7 @@ The comparison report uses loose title normalization when checking equality so p
    Current behavior:
    - Keeps full commandment rows for each unique ID (all known fields from the source row, not only id/title).
    - Adds a normalized `source` label per row.
-   - Enriches matching IDs from `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` with `unique` and `related_lawofmessiah`.
+   - Enriches matching IDs from `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` with `unique`, `related_lawofmessiah` and `bible_references`.
    - Ignores the `manually_review` note field from the manual review file when writing output.
 
 #### Manually Reviewed File

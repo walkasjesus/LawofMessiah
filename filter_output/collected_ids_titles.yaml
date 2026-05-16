@@ -19980,6 +19980,7 @@
     supportive_nt_scriptures:
     - Romans 8:31
     - Romans 11:11-18
+    - Romans 11:28
     - Romans 15:25-27
     supportive_ot_scriptures:
     - Jeremiah 31:30-33(31-34)
@@ -25862,7 +25863,14 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 11:3
+    - 1 Peter 3:1
+    - 1 Peter 3:5
+    - Colossians 3:18
+    - Ephesians 5:22
+    - Ephesians 5:24
+    - Titus 2:3-5
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -27528,8 +27536,14 @@
   commandment_type: Positive
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   bible_references:
-    key_nt_scriptures: []
-    key_ot_scriptures: []
+    key_nt_scriptures:
+    - 1 Peter 3:3-4
+    - 1 Timothy 2:9-10
+    key_ot_scriptures:
+    - 1 Samuel 16:7
+    - Deuteronomy 22:5
+    - Proverbs 11:22
+    - Proverbs 31:30
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
@@ -28045,7 +28059,15 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 11:1-2
+    - 1 Corinthians 4:16-17
+    - 1 John 2:6
+    - 1 Thessalonians 1:6
+    - 2 Thessalonians 3:7-9
+    - Galatians 1:8-9
+    - Philippians 3:17
+    - Philippians 4:9
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -28247,7 +28269,17 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 John 4:6
+    - 1 Timothy 1:3-4
+    - 1 Timothy 6:3-5
+    - 1 Timothy 6:20
+    - 2 John 1:9
+    - 2 Thessalonians 2:15
+    - 2 Thessalonians 3:4
+    - 2 Thessalonians 3:6
+    - 2 Timothy 1:13
+    - Galatians 1:8-9
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -28370,8 +28402,15 @@
   commandment_type: Positive
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   bible_references:
-    key_nt_scriptures: []
-    key_ot_scriptures: []
+    key_nt_scriptures:
+    - Philippians 4:6-7
+    - 1 Peter 5:7
+    - Matthew 11:28-30
+    - Matthew 6:25-34
+    key_ot_scriptures:
+    - 2 Kings 20:1-11
+    - 2 Kings 19:14-19
+    - Isaiah 38:1-22
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
@@ -28441,7 +28480,14 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - Luke 18:15-17
+    - Mark 10:13-16
+    - Mark 9:36-37
+    - Matthew 18:5
+    - Matthew 18:10
+    - Matthew 18:12-14
+    - Matthew 19:13-15
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -28485,7 +28531,13 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 14:40
+    - 2 Corinthians 12:20-21
+    - 2 Corinthians 13:11
+    - Galatians 5:24-25
+    - Luke 21:34
+    - Romans 13:13
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -28622,7 +28674,17 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 16:13-14
+    - 1 Thessalonians 3:6
+    - 1 Thessalonians 5:8
+    - 1 Timothy 6:11
+    - 2 Timothy 1:7
+    - 2 Timothy 1:13
+    - 2 Timothy 2:22
+    - 2 Timothy 3:10
+    - Ephesians 5:1-2
+    - Titus 2:2
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -28648,7 +28710,13 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 2 Corinthians 13:11
+    - Colossians 3:15
+    - Romans 14:16
+    - Romans 14:19
+    - Romans 16:19
+    - Romans 3:17
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -28902,7 +28970,18 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Peter 1:13
+    - 1 Peter 4:7
+    - 2 Peter 1:5
+    - 2 Timothy 1:7
+    - 2 Timothy 3:3
+    - James 1:26
+    - James 3:2
+    - Jude 1:19
+    - Titus 2:2
+    - Titus 2:6-8
+    - Titus 2:12
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -29002,7 +29081,18 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 2 Peter 1:5
+    - 2 Timothy 3:10
+    - Colossians 1:11
+    - Colossians 3:15
+    - James 1:4
+    - James 1:10
+    - Revelation 13:10
+    - Revelation 14:12
+    - Revelation 2:19
+    - Revelation 3:10
+    - Titus 2:2
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -29574,8 +29664,13 @@
   commandment_type: Positive
   copyright: Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   bible_references:
-    key_nt_scriptures: []
-    key_ot_scriptures: []
+    key_nt_scriptures:
+    - 1 Peter 2:12
+    - 1 Peter 4:19
+    - James 3:13
+    key_ot_scriptures:
+    - Proverbs 15:24
+    - Psalms 16:11
     supportive_nt_scriptures: []
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
@@ -32076,7 +32171,12 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - Luke 20:25
+    - Mark 12:17
+    - Matthew 22:18-21
+    - Romans 13:7
+    - Titus 3:1
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -32133,7 +32233,16 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Peter 2:13-14
+    - 1 Peter 5:5-6
+    - 2 Peter 2:9-10
+    - Acts 5:29
+    - Jude 1:8
+    - Matthew 23:1-3
+    - Romans 13:1-2
+    - Romans 13:5-6
+    - Titus 3:1
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -32236,7 +32345,43 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 1:17
+    - 1 Corinthians 1:23
+    - 1 Corinthians 1:31
+    - 1 Corinthians 9:16
+    - 1 Corinthians 9:19
+    - 1 Corinthians 9:24-26
+    - 1 Thessalonians 2:2
+    - 1 Thessalonians 2:8-9
+    - 1 Timothy 6:13-14
+    - 2 Corinthians 5:11
+    - 2 Corinthians 5:18-20
+    - 2 Timothy 1:8
+    - 2 Timothy 4:2
+    - 2 Timothy 4:5
+    - Acts 20:20-21
+    - Acts 20:24-25
+    - Acts 26:17-18
+    - Acts 28:28
+    - Acts 5:18-20
+    - Acts 8:25
+    - Acts 8:40
+    - Colossians 1:28
+    - John 20:21
+    - John 4:35-36
+    - Luke 10:3
+    - Luke 12:8
+    - Luke 9:1
+    - Mark 16:15-16
+    - Matthew 10:7-8
+    - Matthew 10:27
+    - Matthew 28:18-20
+    - Matthew 4:19
+    - Philippians 1:18
+    - Philippians 2:10-11
+    - Romans 10:8-11
+    - Romans 10:15-16
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -33057,7 +33202,12 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Timothy 1:18-19
+    - 1 Timothy 6:12
+    - 2 Timothy 4:7
+    - Philippians 1:27
+    - Philippians 2:1-2
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -33301,7 +33451,36 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 15:1-2
+    - 1 Thessalonians 4:13-17
+    - 1 Thessalonians 5:9-10
+    - Acts 16:29-31
+    - Acts 2:40
+    - Acts 4:12
+    - Colossians 1:14
+    - John 10:9-10
+    - John 10:27-28
+    - John 11:25-26
+    - John 14:6
+    - John 3:14-16
+    - John 3:18
+    - John 4:13-14
+    - John 5:24
+    - John 6:27
+    - John 6:32-33
+    - John 6:35
+    - John 6:40
+    - John 6:47-51
+    - John 6:53-58
+    - John 6:62-63
+    - John 7:37-38
+    - John 8:12
+    - Luke 13:24
+    - Luke 21:34
+    - Mark 16:15-16
+    - Matthew 7:13-14
+    - Romans 10:8-9
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -33353,7 +33532,15 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 15:3-4
+    - 1 Corinthians 15:20
+    - 2 Corinthians 4:14
+    - Acts 17:2-3
+    - Acts 17:31
+    - Acts 26:22-23
+    - Romans 10:8-9
+    - Romans 1:2-4
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -33483,7 +33670,15 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 13:13
+    - 1 Thessalonians 5:9-10
+    - Colossians 1:23
+    - Colossians 1:27
+    - Romans 12:12
+    - Romans 15:4
+    - Romans 15:13
+    - Romans 5:2-4
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -33577,7 +33772,14 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 15:12
+    - 1 Corinthians 15:21-33
+    - 1 Corinthians 15:52
+    - 2 Corinthians 1:9
+    - 2 Corinthians 4:14
+    - 2 Timothy 2:18
+    - Acts 26:22-23
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -33701,7 +33903,12 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 2 Timothy 2:24
+    - Colossians 1:11
+    - James 1:2-3
+    - Matthew 5:12
+    - Romans 5:2-4
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -33751,7 +33958,15 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Thessalonians 3:3-4
+    - 2 Corinthians 12:10
+    - 2 Timothy 1:8
+    - 2 Timothy 2:3
+    - 2 Timothy 2:24
+    - 2 Timothy 3:1
+    - 2 Timothy 4:5
+    - Philippians 1:29
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -33803,7 +34018,12 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 2 Peter 1:5
+    - James 1:4
+    - Revelation 13:10
+    - Revelation 14:12
+    - Revelation 2:3
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: false
@@ -34348,7 +34568,19 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - Acts 26:17-18
+    - Acts 26:22-23
+    - Colossians 3:11
+    - Galatians 3:8-9
+    - Galatians 3:13-14
+    - Galatians 3:28-29
+    - Romans 10:13
+    - Romans 1:16-17
+    - Romans 2:25-27
+    - Romans 3:20-28
+    - Romans 4:9-10
+    - Romans 4:16
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -34418,7 +34650,26 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 10:24
+    - 1 Corinthians 10:33
+    - 1 John 3:16
+    - Acts 21:12-13
+    - Ephesians 5:1-2
+    - Galatians 5:24-25
+    - Hebrews 13:16
+    - Luke 14:26-27
+    - Luke 14:33
+    - Luke 17:33
+    - Luke 9:23-24
+    - Mark 10:21
+    - Mark 8:34-35
+    - Matthew 10:38-40
+    - Matthew 16:24-25
+    - Philippians 2:4
+    - Philippians 3:8-9
+    - Romans 12:1
+    - Romans 15:1-2
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -34528,7 +34779,12 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 12:7-11
+    - 1 Corinthians 12:31
+    - 1 Corinthians 14:23-25
+    - 1 Peter 4:10
+    - Romans 12:6-8
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true
@@ -34818,7 +35074,13 @@
   bible_references:
     key_nt_scriptures: []
     key_ot_scriptures: []
-    supportive_nt_scriptures: []
+    supportive_nt_scriptures:
+    - 1 Corinthians 2:3-5
+    - 2 Timothy 1:7
+    - Acts 1:8
+    - Luke 24:49
+    - Philippians 4:13
+    - Romans 15:13
     supportive_ot_scriptures: []
   source: The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix
   unique: true

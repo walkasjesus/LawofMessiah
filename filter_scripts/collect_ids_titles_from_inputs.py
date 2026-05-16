@@ -231,6 +231,25 @@ def normalize_row_bible_references(row):
     )
 
 
+def merge_bible_references_sectioned(*reference_maps):
+    merged = {
+        "key_nt_scriptures": [],
+        "key_ot_scriptures": [],
+        "supportive_nt_scriptures": [],
+        "supportive_ot_scriptures": [],
+    }
+
+    for reference_map in reference_maps:
+        if not isinstance(reference_map, dict):
+            continue
+        for section in merged.keys():
+            values = reference_map.get(section, [])
+            if isinstance(values, list):
+                merged[section].extend(values)
+
+    return normalize_bible_references_sectioned(merged)
+
+
 def load_yaml(path: Path):
     with open(path, encoding="utf-8") as f:
         return yaml.safe_load(f)
@@ -262,6 +281,7 @@ def build_manual_review_lookup(path: Path):
         lookup[row_id] = {
             "unique": row.get("unique"),
             "related_lawofmessiah": row.get("related_lawofmessiah", []),
+            "bible_references": row.get("bible_references", {}),
         }
 
     return lookup
@@ -594,6 +614,10 @@ def main():
             manual_review = manual_review_by_id.get(row_id)
             if manual_review:
                 row_out.update(manual_review)
+                row_out["bible_references"] = merge_bible_references_sectioned(
+                    row.get("bible_references", {}),
+                    manual_review.get("bible_references", {}),
+                )
 
             manual_ncla_row = manual_ncla_by_id.get(row_id)
             if manual_ncla_row and isinstance(manual_ncla_row.get("ncla"), list):
