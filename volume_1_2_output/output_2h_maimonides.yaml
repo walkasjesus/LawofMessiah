@@ -1498,3 +1498,56 @@
   meir:
   - MP50
   chinuch: []
+- id: W003
+  maimonides:
+  - RN27
+  meir:
+  - MN175
+  chinuch: []
+- id: W004
+  maimonides:
+  - RN28
+  - RN29
+  meir:
+  - MN22
+  chinuch: []
+- id: W005
+  maimonides:
+  - RP18
+  meir:
+  - MP15
+  chinuch: []
+- id: W006
+  maimonides:
+  - RP313
+  - RP314
+  meir:
+  - MP159
+  - MP160
+  chinuch: []
+- id: W007
+  maimonides:
+  - RN47
+  meir:
+  - MN156
+  chinuch: []
+- id: W008
+  maimonides: []
+  meir: []
+  chinuch: []
+- id: W009
+  maimonides: []
+  meir: []
+  chinuch: []
+- id: W010
+  maimonides: []
+  meir: []
+  chinuch: []
+- id: Y008
+  maimonides: []
+  meir: []
+  chinuch: []
+- id: Y009
+  maimonides: []
+  meir: []
+  chinuch: []

@@ -1,6 +1,6 @@
 - id: AA1
   commandment: We are to aspire to godliness and holiness.
-  double_ids:
+  related_lawofmessiah:
   - id: AA51
     commandment: We are to aspire to be blameless.
   - id: A14
@@ -17,19 +17,19 @@
   commandment: We are to keep our minds from causing our bodies to sin.
 - id: AA7
   commandment: We are to seek the Kingdom of God.
-  double_ids:
+  related_lawofmessiah:
   - id: G9
     commandment: We are to cling to God.
 - id: AA8
   commandment: We are to guard ourselves against greed.
-  double_ids:
+  related_lawofmessiah:
   - id: DA55
     commandment: We are to guard against scoffers.
 - id: AA9
   commandment: We are to let God’s light that is in us shine for all to see.
 - id: AA10
   commandment: We are to have godly compassion.
-  double_ids:
+  related_lawofmessiah:
   - id: AA61
     commandment: We are to hate ungodly vices.
 - id: AA11
@@ -52,7 +52,7 @@
   commandment: We are to rid ourselves of unholy characteristics.
 - id: AA24
   commandment: We are to be tenderhearted toward our brother and neighbor.
-  double_ids:
+  related_lawofmessiah:
   - id: DA24
     commandment: We are to love our brother and our neighbor.
   - id: DA68
@@ -71,7 +71,7 @@
   commandment: We are to be faithful, trustworthy, and loyal.
 - id: AA34
   commandment: We are to keep our promises.
-  double_ids:
+  related_lawofmessiah:
   - id: M2
     commandment: We are to keep our promises.
 - id: AA39
@@ -84,7 +84,7 @@
   commandment: We are to be circumcised in our heart.
 - id: AA47
   commandment: We are to seek and grow in godly knowledge.
-  double_ids:
+  related_lawofmessiah:
   - id: BA47
     commandment: We are to acquire and grow in knowledge of God.
 - id: AA53
@@ -109,12 +109,12 @@
   commandment: We are to trust (have faith /believe) in God and Yeshua.
 - id: BA6
   commandment: We are to offer our entire selves to God.
-  double_ids:
+  related_lawofmessiah:
   - id: BA55
     commandment: We are to humble ourselves before God.
 - id: BA7
   commandment: We are to praise God & Yeshua.
-  double_ids:
+  related_lawofmessiah:
   - id: BA8
     commandment: We are to seek to please God and Yeshua.
   - id: BA11
@@ -137,7 +137,7 @@
   commandment: We are to believe in God’s evenhanded justice.
 - id: BA10
   commandment: We are to obey the commandments of God and Yeshua.
-  double_ids:
+  related_lawofmessiah:
   - id: BA13
     commandment: We are to hear the words and voice of God and Yeshua.
   - id: BA16
@@ -162,7 +162,7 @@
   commandment: We are to know that God is one – both singular and composite.
 - id: BA23
   commandment: We are to fear and Revere God and Messiah.
-  double_ids:
+  related_lawofmessiah:
   - id: BA45
     commandment: We are to know Yeshua as Lord and Messiah.
 - id: BA24
@@ -173,7 +173,7 @@
   commandment: We are to receive Yeshua’s love and kindness.
 - id: BA28
   commandment: We are to believe that Yeshua died for our sins.
-  double_ids:
+  related_lawofmessiah:
   - id: BA50
     commandment: We are to believe that Yeshua was sent for all of humanity.
 - id: BA29
@@ -190,12 +190,12 @@
   commandment: in Remembrance of Yeshua.
 - id: BA43
   commandment: We are to know that God is triune.
-  double_ids:
+  related_lawofmessiah:
   - id: G3
     commandment: We are to know that God is echad.
 - id: BA44
   commandment: We are to rely on God.
-  double_ids:
+  related_lawofmessiah:
   - id: BA52
     commandment: We are to set our hope on God.
   - id: BA54
@@ -230,12 +230,12 @@
   commandment: We are to befriend people who are humble.
 - id: DA9
   commandment: We are to give to our neighbor that which is owed him.
-  double_ids:
+  related_lawofmessiah:
   - id: N3
     commandment: We are to help our neighbor who is in need.
 - id: DA10
   commandment: We are to do what we can to live in peace with our neighbors.
-  double_ids:
+  related_lawofmessiah:
   - id: N15
     commandment: We are to pursue peace with our neighbor.
 - id: DA15
@@ -244,7 +244,7 @@
   commandment: Empathizing & Sympathizing with Our Neighbor’s Joys and Sorrows.
 - id: DA36
   commandment: We are to personally forgive all who sin against us, and judicially forgive brothers who sin against us and repent.
-  double_ids:
+  related_lawofmessiah:
   - id: N4
     commandment: We are to unconditionally forgive all who sin against us, and conditionally forgive those who repent.
 - id: DA37
@@ -253,7 +253,7 @@
   commandment: We are to continue in brotherly friendships but be friendly to neighbors and outsiders as well.
 - id: DA46
   commandment: We are to comfort our neighbor.
-  double_ids:
+  related_lawofmessiah:
   - id: N11
     commandment: We are to be hospitable to our neighbor.
 - id: DA52
@@ -312,7 +312,7 @@
   commandment: We are to honor and revere our father and mother.
 - id: F2
   commandment: We are to obey the biblical laws concerning marriage.
-  double_ids:
+  related_lawofmessiah:
   - id: F3
     commandment: We are to obey the biblical law concerning divorce and remarriage.
 - id: F4

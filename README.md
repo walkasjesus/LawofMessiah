@@ -2,7 +2,7 @@
 
 ## Intro
 
-This repository contains the structured content and scripts for processing the commandments (*mitzvot*) derived from the Bible, as presented in the book series *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph and Daniel C. Juster. The goal of this project is to make the commandments more accessible by organizing them into structured formats (e.g., YAML) and providing tools for filtering and, searching, and studying them.
+This repository contains the structured content and scripts for processing the commandments (*mitzvot*) derived from the Bible, as presented in the book series *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph and Daniel C. Juster. The goal of this project is to make the commandments more accessible by organizing them into structured formats (e.g., YAML) and providing tools for filtering, searching, and studying them.
 
 ## Attribution
 
@@ -38,6 +38,10 @@ Table of contents of this GIT Repository:
     Description: "Contains scripts for filtering commandments based on various criteria, such as category, scripture references, or commandment type."
   - Folder name: **filter_output**
     Description: "Stores the output of scripts in the `filter_scripts/` directory. These files contain filtered commandments based on specific criteria."
+   - File name: **filter_output/manually_reviewed_unique_positive_ids_titles.yaml**
+      Description: "Curated manual review file for uniqueness decisions on positive commandments. It stores review flags, double_id mappings, duplicate links, and carried metadata (such as title, bible references, and ncla) used by incremental review workflows."
+   - File name: **filter_output/manually_added_ncla_collected_ids_titles.yaml**
+      Description: "Backup snapshot of the original committed `filter_output/collected_ids_titles.yaml`, used to recover NCLA blocks when they were manually carried over during review iterations."
 
 ## Goal of this GIT project
 
@@ -160,8 +164,14 @@ deactivate
 9. **2h_maimonides.py**  
    Extracts related IDs referencing Maimonides, Meir, and Chinuch and generates a structured YAML file. Output: `volume_1_2_output/output_2h_maimonides.yaml`.
 
-10. **3_merge_and_generate_Law_of_Messiah.py**  
-    Merges all YAML files in `volume_1_2_output` starting with `output_` and generates a combined YAML file. Output: `Law_of_Messiah_ot.yaml`.
+10. **2i_parse_app_j_maimonides.py**  
+   Parses `volume_1_2_scraped_files/App-J.php` and extracts the full Maimonides list (248 positive + 365 negative) into a structured YAML file. Output: `volume_1_2_output/output_maimonides.yaml`.
+
+11. **3_merge_and_generate_large_dict.py**  
+   Merges YAML files in `volume_1_2_output` starting with `output_` into an intermediate dictionary YAML. Output: `volume_1_2_output/output_3_dict.yaml`.
+
+12. **4_convert_dict_to_list.py**  
+   Converts `volume_1_2_output/output_3_dict.yaml` into the final ordered OT list file. Output: `Law_of_Messiah_ot.yaml`.
 
 #### Scripts in `volume_3_scripts`
 
@@ -185,9 +195,70 @@ deactivate
 5. **4_add_commandment_form.py**  
    Uses OpenAI and Bible API to automatically generate the `commandment_form` field for each commandment in the `Law_of_Messiah_ot.yaml`. Reason is that it is missing in the OT volumes (while it is present in the NT volumes). It supports dry-run modes for both Bible lookups and OpenAI calls, logs all actions, and can help align AI-generated labels with the author's original intent. Output: updates the relevant YAML file and writes debug information to `logs/debug_commandment_form.log`.
 
+6. **5_parse_appendix_to_json.py**  
+   Extracts appendix sections directly from the Volume 3 PDF and writes JSON files to `volume_3_output/appendix_output`.
+
+7. **6_parse_appendix_scriptures.py**  
+   Parses the appendix Scripture index JSON files and generates `volume_3_output/appendix_output/Scripture_Index.yaml`.
+
+8. **7_parse_appendix_titles.py**  
+   Parses the appendix mitzvah title list JSON and generates `volume_3_output/appendix_output/Mitzvah_Title_List.yaml`.
+
+9. **8_add_commandment_type.py**  
+   Adds `commandment_type` to entries in `volume_3_output/appendix_output/Mitzvah_Title_List.yaml`.
+
+10. **9_merge_appendix_yaml.py**  
+   Merges appendix title/category/type data with appendix scripture references into one full file: `volume_3_output/appendix_output/Appendix_Full.yaml`.
+
+11. **10_analyze_appendix_vs_law.py**  
+   Compares `volume_3_output/appendix_output/Appendix_Full.yaml` against `Law_of_Messiah_nt.yaml` and `Law_of_Messiah_ot.yaml` on shared fields only, then writes a YAML summary report to `volume_3_output/appendix_output/Appendix_vs_Law_diff_summary.yaml`. The report stores repo-relative input paths, summarizes coverage, lists per-field equality counts, and includes explicit appendix-versus-law values for each difference. Bible-reference differences are currently ignored in the diff count so the report can focus on title, category, and commandment type alignment.
+
+##### Appendix Workflow (Volume 3)
+
+Run these scripts in order to generate appendix artifacts for downstream analysis:
+
+```bash
+python volume_3_scripts/5_parse_appendix_to_json.py
+python volume_3_scripts/7_parse_appendix_titles.py
+python volume_3_scripts/8_add_commandment_type.py
+python volume_3_scripts/6_parse_appendix_scriptures.py
+python volume_3_scripts/9_merge_appendix_yaml.py
+python volume_3_scripts/10_analyze_appendix_vs_law.py
+```
+
+Expected outputs:
+
+- `volume_3_output/appendix_output/Mitzvah_Title_List.json`
+- `volume_3_output/appendix_output/Mitzvah_Title_List.yaml`
+- `volume_3_output/appendix_output/NT_Scripture_Index.json`
+- `volume_3_output/appendix_output/OT_Scripture_Index.json`
+- `volume_3_output/appendix_output/Scripture_Index.yaml`
+- `volume_3_output/appendix_output/Appendix_Full.yaml`
+- `volume_3_output/appendix_output/Appendix_vs_Law_diff_summary.yaml`
+
+The comparison report uses loose title normalization when checking equality so punctuation-only differences and a small set of wording variations such as `&` versus `and` do not create noisy mismatches.
+
 #### Scripts in `filter_scripts`
 
 1. **filter_commandments.py**  
-   Allows filtering commandments based on custom criteria defined by the user. Output: `filter_output/filtererd_commandments.yaml`.
+   Allows filtering commandments based on custom criteria defined by the user. Output: `filter_output/filtered_commandments.yaml`.
 
    > NOTE: When checking `filter_unique` is True, it can take a while. Please be aware that this filter will never be perfect. It can be used as a starting point for further manual review.
+
+2. **collect_ids_titles_from_inputs.py**
+   Builds a consolidated commandment list from `Law_of_Messiah_nt.yaml`, `Law_of_Messiah_ot.yaml`, and `volume_3_output/appendix_output/Appendix_Full.yaml` and writes it to `filter_output/collected_ids_titles.yaml`.
+
+   Current behavior:
+   - Keeps full commandment rows for each unique ID (all known fields from the source row, not only id/title).
+   - Adds a normalized `source` label per row.
+   - Enriches matching IDs from `filter_output/manually_reviewed_unique_positive_ids_titles.yaml` with `unique`, `related_lawofmessiah` and `bible_references`.
+   - Ignores the `manually_review` note field from the manual review file when writing output.
+
+#### Manually Reviewed File
+
+`filter_output/manually_reviewed_unique_positive_ids_titles.yaml` is the working review artifact for unique-positive-commandment reconciliation.
+
+- It is intentionally human-curated and not a pure scrape output.
+- It tracks manual decisions (`manually_review`, `unique`) and linking fields (`related_lawofmessiah`).
+- It preserves commandment context fields used during follow-up review/export steps (title, references, and NCLA when available).
+- It should be treated as a review-state file in the pipeline, not as a replacement for `Law_of_Messiah_ot.yaml` or `Law_of_Messiah_nt.yaml`.

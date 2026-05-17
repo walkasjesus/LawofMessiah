@@ -242,10 +242,21 @@ def determine_commandment_type(commandment_text):
     """
     Determine if a commandment is positive or negative based on keywords.
     """
-    negative_keywords = ["not", "do not", "shall not", "must not", "cannot"]
     commandment_text = commandment_text.lower()  # Convert to lowercase for case-insensitive matching
-    for keyword in negative_keywords:
-        if keyword in commandment_text:
+
+    # Mixed phrasing like "... and not ..." expresses both an affirmative and prohibition.
+    if re.search(r"\band by not\b|\band not\b", commandment_text):
+        return "Positive & Negative"
+
+    negative_patterns = [
+        r"\bdo not\b",
+        r"\bshall not\b",
+        r"\bmust not\b",
+        r"\bcannot\b",
+        r"\bare not to\b",
+    ]
+    for pattern in negative_patterns:
+        if re.search(pattern, commandment_text):
             return "Negative"
     return "Positive"
 

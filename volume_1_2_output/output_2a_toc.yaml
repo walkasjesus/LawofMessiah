@@ -267,42 +267,42 @@
 - id: D005
   id_short: D5
   category: Days & Seasons
-  title: Counting toShavuot& Waving Two Loaves
+  title: Counting to Shavuot & Waving Two Loaves
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D005.php
 - id: D006
   id_short: D6
   category: Days & Seasons
-  title: Keeping Our Home & Domain Free of Leaven &Chametzfrom Passover through the Feast of Unleavened Bread
+  title: Keeping Our Home & Domain Free of Leaven & Chametz from Passover through the Feast of Unleavened Bread
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D006.php
 - id: D007
   id_short: D7
   category: Days & Seasons
-  title: Abstaining from EatingChametz, from Passover through the Feast of Unleavened Bread
+  title: Abstaining from Eating Chametz , from Passover through the Feast of Unleavened Bread
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D007.php
 - id: D008
   id_short: D8
   category: Days & Seasons
-  title: Observing Passover withMatzah& Bitter Herbs
+  title: Observing Passover with Matzah & Bitter Herbs
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D008.php
 - id: D009
   id_short: D9
   category: Days & Seasons
-  title: Observing a Late Passover withMatzah& Bitter Herbs
+  title: Observing a Late Passover with Matzah & Bitter Herbs
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D009.php
 - id: D010
   id_short: D10
   category: Days & Seasons
-  title: Observing the Feast of Unleavened Bread by EatingMatzahon Each of Its Seven Days
+  title: Observing the Feast of Unleavened Bread by Eating Matzah on Each of Its Seven Days
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D010.php
@@ -316,42 +316,42 @@
 - id: D012
   id_short: D12
   category: Days & Seasons
-  title: Blowing theShofaron Special Days & As an Alarm in War
+  title: Blowing the Shofar on Special Days & As an Alarm in War
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D012.php
 - id: D013
   id_short: D13
   category: Days & Seasons
-  title: Afflicting Our Souls & Repenting onYom Kippur
+  title: Afflicting Our Souls & Repenting on Yom Kippur
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D013.php
 - id: D014
   id_short: D14
   category: Days & Seasons
-  title: Rejoicing at the Festivals ofShavuot,Sukkot, & Sh'mini Atzeret
+  title: Rejoicing at the Festivals of Shavuot , Sukkot , & Sh'mini Atzeret
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D014.php
 - id: D015
   id_short: D15
   category: Days & Seasons
-  title: Living in aSukkahduring the Feast ofSukkot
+  title: Living in a Sukkah during the Feast of Sukkot
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D015.php
 - id: D016
   id_short: D16
   category: Days & Seasons
-  title: Taking Up the Four Species onSukkot
+  title: Taking Up the Four Species on Sukkot
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D016.php
 - id: D017
   id_short: D17
   category: Days & Seasons
-  title: Public Reading of the Torah duringSukkotin the Sabbatical Year
+  title: Public Reading of the Torah during Sukkot in the Sabbatical Year
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/D017.php
@@ -386,14 +386,14 @@
 - id: E002
   id_short: E2
   category: Covenant Responsibilities
-  title: Performing & ReceivingB'rit Milah
+  title: Performing & Receiving B'rit Milah
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/E002.php
 - id: E003
   id_short: E3
   category: Covenant Responsibilities
-  title: CommemoratingPidyon HaBen
+  title: Commemorating Pidyon HaBen
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/E003.php
@@ -414,14 +414,14 @@
 - id: E006
   id_short: E6
   category: Covenant Responsibilities
-  title: Tzitzit,Tefillin, &Mezuzot
+  title: Tzitzit , Tefillin , & Mezuzot
   ncla_deviation: true
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/E006.php
 - id: E007
   id_short: E7
   category: Covenant Responsibilities
-  title: Tithes, Offerings, &Tz'dakah
+  title: Tithes, Offerings, & Tz'dakah
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/E007.php
@@ -484,7 +484,7 @@
 - id: G003
   id_short: G3
   category: Relating to God
-  title: Knowing that God isEchad& Triune
+  title: Knowing that God is Echad & Triune
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/G003.php
@@ -757,7 +757,7 @@
 - id: J005
   id_short: J5
   category: Justice
-  title: Appointing Elders to Lead, Pray, Teach, Judge & MakeHalachah
+  title: Appointing Elders to Lead, Pray, Teach, Judge & Make Halachah
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/J005.php
@@ -932,9 +932,7 @@
 - id: N005
   id_short: N5
   category: Neighbours & Brothers
-  title: 'Resolving Disputes, Correcting, Reconciling With & Bringing
-
-    Discipline to Brother Believers'
+  title: Resolving Disputes, Correcting, Reconciling With & Bringing Discipline to Brother Believers
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/N005.php
@@ -1074,7 +1072,7 @@
 - id: P002
   id_short: P2
   category: Priesthood
-  title: Cohanimto Bless God's People
+  title: Cohanim to Bless God's People
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/P002.php
@@ -1207,7 +1205,7 @@
 - id: W001
   id_short: W1
   category: Word of God -Torah
-  title: Studying, Hearing & TeachingTorah&Torah-Obedience
+  title: Studying, Hearing & Teaching Torah & Torah -Obedience
   ncla_deviation: false
   classical_commandment: true
   source: https://tikkunamerica.org/halachah/W001.php
@@ -1256,7 +1254,7 @@
 - id: W008
   id_short: W8
   category: Word of God -Torah
-  title: Obeying theMitzvotofAdonai& Yeshua
+  title: Obeying the Mitzvot of Adonai & Yeshua
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/W008.php
@@ -1270,7 +1268,7 @@
 - id: W010
   id_short: W10
   category: Word of God -Torah
-  title: Attending to Both the Lesser & the Weightier Matters ofTorah
+  title: Attending to Both the Lesser & the Weightier Matters of Torah
   ncla_deviation: false
   classical_commandment: false
   source: https://tikkunamerica.org/halachah/W010.php
