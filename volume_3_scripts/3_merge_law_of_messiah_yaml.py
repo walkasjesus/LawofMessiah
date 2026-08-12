@@ -273,7 +273,7 @@ def add_commandment_type_and_source(commandments_data):
         commandment["commandment_type"] = determine_commandment_type(commandment_text)
 
         # Add 'copyright'
-        commandment["copyright"] = "Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3"
+        commandment["copyright"] = "Copyright © Michael Rudolph with Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3"
 
         # Ensure related commandments and commandment_form are populated
         commandment["commandments_related_ot"] = commandment.get("commandments_related_ot", [])

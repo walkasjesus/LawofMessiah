@@ -2,11 +2,11 @@
 
 ## Intro
 
-This repository contains the structured content and scripts for processing the commandments (*mitzvot*) derived from the Bible, as presented in the book series *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph and Daniel C. Juster. The goal of this project is to make the commandments more accessible by organizing them into structured formats (e.g., YAML) and providing tools for filtering, searching, and studying them.
+This repository contains the structured content and scripts for processing the commandments (*mitzvot*) derived from the Bible, as presented in the book series *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph with Daniel C. Juster. The goal of this project is to make the commandments more accessible by organizing them into structured formats (e.g., YAML) and providing tools for filtering, searching, and studying them.
 
 ## Attribution
 
-This project is based on the book series *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph and Daniel C. Juster. For more information, visit:
+This project is based on the book series *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph with Daniel C. Juster. For more information, visit:
 - [The Law of Messiah - Torah from a New Covenant Perspective - Volume 1 & 2](https://tikkunamerica.org/halachah/toc.php)
 - [The Law of Messiah - Torah from a New Covenant Perspective - Volume 3](https://www.genesisobservatory.us/ohev/Documents/Mitzvot%20in%20the%20New%20Testament/Vol%203.pdf)
 
@@ -63,7 +63,7 @@ You are free to:
 - **Share** — copy and redistribute the material in any medium or format.
 
 Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and refer to the book *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph and Daniel C. Juster. Changes to the original material are not permitted.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and refer to the book *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph with Daniel C. Juster. Changes to the original material are not permitted.
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 ## How it works
