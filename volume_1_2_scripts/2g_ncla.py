@@ -19,7 +19,7 @@ os.makedirs(log_dir, exist_ok=True)
 os.makedirs(output_dir, exist_ok=True)
 
 COPYRIGHT = (
-    "Copyright \u00a9 Michael Rudolph and Daniel C. Juster, "
+    "Copyright \u00a9 Michael Rudolph with Daniel C. Juster, "
     "The Law of Messiah, Torah from a New Covenant Perspective, Volume 1 & 2"
 )
 

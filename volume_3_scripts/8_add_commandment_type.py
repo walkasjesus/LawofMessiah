@@ -42,7 +42,7 @@ def determine_commandment_type(text: str) -> str:
     return "Positive"
 
 # --- ADD ATTRIBUTES ---
-COPYRIGHT = "Copyright © Michael Rudolph and Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix"
+COPYRIGHT = "Copyright © Michael Rudolph with Daniel C. Juster, The Law of Messiah - Torah from a New Covenant Perspective - Volume 3 - Appendix"
 
 for cmd in data:
     cmd_text = cmd.get("commandment") or cmd.get("title") or ""
